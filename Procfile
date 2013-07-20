@@ -1,1 +1,1 @@
-web: jekyll serve $PORT
+web: jekyll serve --port $PORT
