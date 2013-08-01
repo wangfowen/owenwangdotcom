@@ -1,6 +1,8 @@
+require 'date'
 TEMPLATE_FILE = '_template.md'
 
-name = ARGV[0]
+name = ARGV.shift
+date = Date::strptime(ARGV.shift || Time.new.to_s, "%Y-%m-%d")
 
 if (name.nil?)
   puts "need to pass in name as an argument"
@@ -15,5 +17,4 @@ def generate_new_post(name, date)
   File.write(filename, content)
 end
 
-now = Time.new
-generate_new_post(name, now)
+generate_new_post(name, date)
