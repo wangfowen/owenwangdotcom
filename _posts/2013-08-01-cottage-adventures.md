@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cottage 2013"
-date: 2013-08-02 00:00:00
+title: "Cottage Adventures"
+date: 2013-08-01 00:00:00
 ---
 
 I'm going to do a mix of vlogs and written blog posts when I'm in Europe. To test out embedded Youtube videos for that, here's one my friend Xuehai and I made for our cottage trip this past weekend.
