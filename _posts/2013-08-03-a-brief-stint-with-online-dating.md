@@ -2,6 +2,7 @@
 layout: post
 title: "A Brief Stint with Online Dating"
 date: 2013-08-03 00:00:00
+published: true
 ---
 
 Online dating's stigma has diminished significantly over the years. That phrase used to evoke images of pedophiles and creepers prowling the internet, but now it seems all the kids are doing it.
@@ -18,7 +19,7 @@ I showed some friends the messages I had sent and they pointed out that I didn't
 
 Fastforward a month or so, someone agreed to go on a date with me in real life. I did a double take to make sure I didn't misread and jumped out of my seat and did a little dance.
 
-{% image /images/dance.gif "I wish I had moves like that" %}
+{% image /images/okc_dance.gif "I wish I had moves like that" %}
 
 From the overall experience I came to understand that I just had to be myself. I know - such a cliché - but some things people tell you over and over and it still doesn't really click til you figure it out yourself. There's plenty of people out there that will appreciate me for being me. There's really no point in getting hung up on the little things. Non-response didn't necessarily mean I did something wrong. It just meant that not everyone out there is looking for the same thing, it's really not a big deal that I didn't get _"chosen"_ by every person out there. Afterall, you just have to find _one_ that does _choose_ you.
 
