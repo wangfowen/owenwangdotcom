@@ -7,7 +7,7 @@ published: true
 
 _In this [on-going series]({% post_url 2013-10-12-are-you-my-motherland %}) I 
 examine some cities I've visited in the hopes of finding pride in my old homes 
-or finding a new place to call home_
+or finding a new place to call home._
 
 Roma, the city that kicked off our travels. Let us looketh at thy main 
 distinctions.
@@ -29,7 +29,7 @@ just a couple minutes to reach baggage claim, and then you get this wait:
 
 {% image /images/rome_baggage.jpg "It actually took even longer, roughly 50 minutes" %}
 
-Quite an astounding statistics of wait already, even worse when its entirety is 
+Quite an astounding statistic of wait already, even worse when its entirety is 
 unoccupied.
 
 ## Architecture ##
@@ -87,7 +87,7 @@ If you're touring, be sure to get a Roma Pass. It gives you access to museums
 and the Coliseum without having to go through the lines and it gives you free 
 access to the public transportation. We only used the metro once so don't have 
 much to say here. It seemed quite standard. The only thing worth noting is be 
-careful of pick pockets. If a little kid asks you for the time and you clearly 
+careful of pickpockets. If a little kid asks you for the time and you clearly 
 don't have a watch, immediately guard your valuables. His friends are probably 
 surrounding you and stealing your belongings.
 

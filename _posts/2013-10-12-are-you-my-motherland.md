@@ -10,7 +10,7 @@ occasion by choice. Most of the time I got to stick around long enough to make
 friends, but never really long enough to feel allegiance to any particular 
 nation.
 
-Whenever the open-ended question of my origins comes up, I gage which answer 
+Whenever the open-ended question of my origins comes up, I gauge which answer 
 would be most interesting to the asker - China (my birth country), America 
 (where my family resides), or Canada (where I go to school).  Canada generally 
 prevails. I mean let's be honest, no one wants to admit they're from America 
@@ -31,7 +31,7 @@ Some things do seem to be pretty constant no matter where in the world I go:
 doing this...
 - American Billboard Top 40's playing in shops. "We Can't Stop" really doesn't 
 ever stop
-- The abominations known as pigeons festering the streets
+- The abominations known as pigeons polluting the streets
 - McDonald's. Every other chain has a Bermuda Triangle, but not good ol' Mickey 
 D's. The menus do vary from place to place but if it doesn't cost you a kidney 
 in one way, it will another
