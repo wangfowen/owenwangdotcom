@@ -6,8 +6,9 @@ published: true
 ---
 
 _In this [on-going series]({% post_url 2013-10-12-are-you-my-motherland %}) I 
-examine some cities I've visited in the hopes of finding pride in my old homes 
-or finding a new place to call home._
+examine some cities I've visited and what I've experienced to be different about 
+them in the hopes of finding pride in my old homes or discovering a new place to 
+call home._
 
 Roma, the city that kicked off our travels. Let us looketh at thy main 
 distinctions.
@@ -69,13 +70,13 @@ aggressively express your discontent with a smaller tip because there _is_ no
 tipping. That didn't seem to affect the quality of service though, most of the 
 waiters we had were still extremely jolly.
 
-Menus look completely cluttered due to every item being translated into at least 
-2 other languages. If after a couple days you get sick of pizza and pasta, good luck 
-finding other kinds of food. People there seem to only eat Italian food. Even within the 
-category of Italian food the choices are usually quite limited. You won't find deep dish 
-pizzas or cheesy crust pizzas. All the pizzas are thin, (comparatively) healthy, and 
-pretty plain. Maybe I've been brainwashed but I actually prefer the greasy ones you'd find 
-in North America with all the crazy gimmicks like Butter Chicken flavored.
+Menus look completely cluttered due to every item being translated into at least 2 other 
+languages. If after a couple days you get sick of pizza and pasta, good luck finding other 
+kinds of food. People there basically only eat Italian food. Even within the category of 
+Italian food the choices are usually quite limited.  You won't find deep dish pizzas or 
+cheesy crust pizzas. All the pizzas are thin, (comparatively) healthy, and pretty plain.  
+Maybe I've been brainwashed but I actually prefer the greasy ones you'd find in North 
+America with all the crazy gimmicks like Butter Chicken flavored.
 
 If a restaurant has air conditioning and/or free WiFi, they'll be sure to let 
 you know with signs everywhere. Apparently those are huge selling points.
@@ -83,13 +84,12 @@ you know with signs everywhere. Apparently those are huge selling points.
 
 ## Public Transportation ##
 
-If you're touring, be sure to get a Roma Pass. It gives you access to museums 
-and the Coliseum without having to go through the lines and it gives you free 
-access to the public transportation. We only used the metro once so don't have 
-much to say here. It seemed quite standard. The only thing worth noting is be 
-careful of pickpockets. If a little kid asks you for the time and you clearly 
-don't have a watch, immediately guard your valuables. His friends are probably 
-surrounding you and stealing your belongings.
+Tourists, be sure to get a Roma Pass. It gives you access to museums and the 
+Coliseum without having to go through the lines and it gives you free access to the public 
+transportation. We only used the metro once so I don't have much to say here. It's quite 
+standard. The only thing worth noting is be careful of pickpockets. If a little kid asks 
+you for the time and you clearly don't have a watch, immediately guard your valuables. His 
+friends are probably surrounding you and stealing your belongings.
 
 
 ## Entertainment ##

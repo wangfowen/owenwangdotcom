@@ -11,7 +11,7 @@ friends, but never really long enough to feel allegiance to any particular
 nation.
 
 Whenever the open-ended question of my origins comes up, I gauge which answer 
-would be most interesting to the asker - China (my birth country), America 
+would be most interesting to the asker -- China (my birth country), America 
 (where my family resides), or Canada (where I go to school).  Canada generally 
 prevails. I mean let's be honest, no one wants to admit they're from America 
 except to other Americans. When people hear Canada they tend to respond with 
