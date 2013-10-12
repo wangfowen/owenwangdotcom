@@ -55,4 +55,5 @@ DEPENDENCIES
   jekyll!
   jekyll-less
   kramdown
+  liquid
   therubyracer
