@@ -13,7 +13,7 @@ def generate_new_post(name, date)
   content = File.read(TEMPLATE_FILE)
   content = content.gsub("TITLE", "\"#{name}\"").gsub("DATE", date.strftime("%Y-%m-%d %H:%M:%S"))
 
-  filename = "_posts/#{date.strftime("%Y-%m-%d")}-#{name.downcase.gsub(" ", "-")}.md"
+  filename = "_posts/#{date.strftime("%Y-%m-%d")}-#{name.downcase.gsub(" ", "-").gsub("?", "")}.md"
   File.write(filename, content)
 end
 
