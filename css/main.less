@@ -167,7 +167,6 @@ html {
     display: block;
     margin: auto;
     padding-top: 10px;
-    height: 180px;
 
     li:hover, li:active {
       p {
@@ -292,14 +291,20 @@ html {
 
     #categories {
       width: 200px;
+      padding-bottom: 10px;
 
       li {
+        float: none;
         margin: 10px 0;
         padding: 5px;
         background-color: @darker;
         border-radius: 5px;
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
+      }
+
+      #not-done {
+        display: none;
       }
 
       li:hover, li:active {
@@ -323,10 +328,6 @@ html {
 
     p {
       font-size: 1em;
-    }
-
-    #not-done {
-      display: none;
     }
   }
 
