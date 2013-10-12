@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are You My Motherland? - Introduction"
-date: 2013-10-06 00:00:00
+date: 2013-10-12 00:00:00
 published: true
 ---
 
@@ -27,7 +27,8 @@ have I been taking for granted?
 
 Some things do seem to be pretty constant no matter where in the world I go:
 
-- Comic Sans in store signs. PSA: Please for the love of Taylor Swift stop...
+- Comic Sans in store signs. PSA: Please for the love of Taylor Swift cease 
+doing this...
 - American Billboard Top 40's playing in shops. "We Can't Stop" really doesn't 
 ever stop
 - The abominations known as pigeons festering the streets
@@ -50,5 +51,5 @@ what I've experienced to be different about them, mostly looking at culture and
 urban design.  Perhaps doing this will help me find pride in somewhere. Or maybe 
 I will discover a new place to call home!
 
-The first city on the list: [Rome]({% post_url 2013-10-06-are-you-my-motherland-2 %}).
+The first city on the list: [Rome]({% post_url 2013-10-12-are-you-my-motherland-2 %}).
 

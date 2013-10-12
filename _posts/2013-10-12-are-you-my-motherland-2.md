@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Are You My Motherland? - Rome"
-date: 2013-10-06 00:00:00
+date: 2013-10-12 00:00:00
 published: true
 ---
 
-_In this [on-going series]({% post_url 2013-10-06-are-you-my-motherland %}) I 
-examine some cities I've stayed in_
+_In this [on-going series]({% post_url 2013-10-12-are-you-my-motherland %}) I 
+examine some cities I've visited in the hopes of finding pride in my old homes 
+or finding a new place to call home_
 
 Roma, the city that kicked off our travels. Let us looketh at thy main 
 distinctions.
@@ -62,20 +63,19 @@ kind of service is offered at the institution.
 
 ## Restaurants ##
 
-In restaurants you do not get offered free tap water. If you want water you have 
-to pay for bottles. If you find that upsetting, you can't passive aggressively 
-express your discontent with a smaller tip because there _is_ no tipping. That 
-didn't seem to affect the quality of service though, most of the waiters we had 
-were still extremely jolly.
+In restaurants you do not get offered free tap water. The only water you can get 
+is in bottles / costs money. If you find that upsetting, you can't passive 
+aggressively express your discontent with a smaller tip because there _is_ no 
+tipping. That didn't seem to affect the quality of service though, most of the 
+waiters we had were still extremely jolly.
 
-Menus look completely cluttered since each item is translated so multiple times.  
-If after a couple days you get sick of pizza and pasta, good luck finding other 
-kinds of food. Italians seem to only eat Italian food. Even within the category 
-of Italian food the choices are usually quite limited. You won't find deep dish 
-pizzas or cheesy crust pizzas. All the pizzas are thin, (comparatively) healthy, 
-and pretty plain. Maybe I've been brainwashed but I actually prefer the greasy 
-ones you'd find in North America with all the crazy gimmicks like Butter Chicken 
-flavored.
+Menus look completely cluttered due to every item being translated into at least 
+2 other languages. If after a couple days you get sick of pizza and pasta, good luck 
+finding other kinds of food. People there seem to only eat Italian food. Even within the 
+category of Italian food the choices are usually quite limited. You won't find deep dish 
+pizzas or cheesy crust pizzas. All the pizzas are thin, (comparatively) healthy, and 
+pretty plain. Maybe I've been brainwashed but I actually prefer the greasy ones you'd find 
+in North America with all the crazy gimmicks like Butter Chicken flavored.
 
 If a restaurant has air conditioning and/or free WiFi, they'll be sure to let 
 you know with signs everywhere. Apparently those are huge selling points.
@@ -97,4 +97,13 @@ surrounding you and stealing your belongings.
 Aside from the obvious museums and such, we did not find much else in terms of 
 entertainment. Aimlessly wandering the city at night, we managed to find just 
 one bar that was open, and it wasn't even midnight yet. The city seemed to 
-completely die at night.
+completely die at night. Or maybe we just visited on the wrong night / in the 
+wrong areas?
+
+
+# Verdict #
+
+Nope. Absolutely would not live here. Good times were had during my stay, but I 
+would not be able to handle the crowdedness and constant paranoia of being pick 
+pocketed on a daily basis. I'm now also glad Toronto at least has some semblance 
+of a night life and a decent diversity of foods.
