@@ -32,7 +32,7 @@ GEM
     less (2.3.2)
       commonjs (~> 0.2.6)
     libv8 (3.11.8.17)
-    liquid (2.5.2)
+    liquid (2.5.3)
     maruku (0.6.1)
       syntax (>= 1.0.0)
     posix-spawn (0.3.6)
@@ -55,5 +55,5 @@ DEPENDENCIES
   jekyll!
   jekyll-less
   kramdown
-  liquid
+  liquid (~> 2.5.3)
   therubyracer
