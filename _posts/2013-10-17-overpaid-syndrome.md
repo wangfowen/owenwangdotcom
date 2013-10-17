@@ -61,7 +61,7 @@ only need to hoard so much wealth to be secure in ourselves. So if we have
 enough to be secure, why not live a little?
 
 For other people who are in a similar financial situation but don't think they 
-have overpaid syndrome. Maybe you should consider letting it affect you. THIS 
+have overpaid syndrome. Maybe you should consider letting it infect you. THIS 
 SENTENCE SOUNDS STUPID NEED TO REWORD.
 
 I leave you with this quote a friend once shared:
