@@ -16,13 +16,14 @@ opportunities -- not just because it helps me pay my way through college but
 also because of the hands-on experience it grants me. At the same time though, 
 my friends and I have developed what we call overpaid syndrome.
 
-Because our work is relatively low stress physically, we have nearly zero real 
-world responsibilities as students, and we're not too concerned about finances 
-(read: very lucky and spoiled), the weekends when we're not working overtime are 
-completely free time. We can do whatever our hearts desire. If something that 
-sounds exciting gets suggested, we'd have a group of people committed without a 
-second thought. This has resulted in everything from a weekend bungee jumping 
-outing to a week long Hawaii excursion.
+Overpaid syndrome is the embodiment of "yolo". Because our work is relatively 
+low stress physically, we have nearly zero real world responsibilities as 
+students, and we're not too concerned about finances (read: very lucky and 
+spoiled), the weekends when we're not working overtime are completely free time. 
+We can do whatever our hearts desire. If something that sounds exciting gets 
+suggested, we'd have a group of people committed without a second thought. This 
+has resulted in everything from a weekend bungee jumping outing to a week long 
+Hawaii excursion.
 
 When an idea is brought up, this is what goes through my head: I compute the 
 number of hours I'd have to work to make up for the trip. If I deem that the 
