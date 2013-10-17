@@ -5,65 +5,73 @@ date: 2013-10-17 00:00:00
 published: true
 ---
 
-It's no secret that in this current day and age, people in tech make a decent 
-living. What might not be as well known however is that interns are able to make 
-a boat load also. This is at least the case in the Valley, I can't speak for the 
-rest of the world. Depending on the company, some interns can make close to six 
-figures annually.
+It's no secret that in this current day and age, people in tech make a boatload 
+of money. What might not be as well known, however, is that interns also have it 
+quite good. This is at least the case in the Valley; I can't speak for the rest 
+of the world. Depending on the company, some interns can make close to six 
+figures annualized. This is by no means extraordinary, but for the lucky ones 
+without mortgages or dependent family members, it's quite a bit of spending 
+money.
 
-As a young adult in the industry, I am extremely lucky and grateful to have a 
-shot at these kinds of opportunities -- not just because it helps me pay my way 
-through college, but also because of the hands-on experience it grants me. At 
-the same time though, my friends and I have developed what we call overpaid 
-syndrome.
+As a young adult in the industry, I am extremely grateful to have a shot at 
+these kinds of opportunities -- not just because they help me pay my way through 
+college, but also the real world experience gives me early signs to whether I'm 
+on the right track. At the same time though, due to such internships, my friends 
+and I developed what we call overpaid syndrome.
 
-Overpaid syndrome is the embodiment of "yolo". Because our work is relatively 
-low stress physically, we have nearly zero real world responsibilities as 
-students, and we don't have to be too concerned about finances, most weekends 
-are completely free time. We can do whatever our hearts desire. If something 
-exciting gets suggested, we'd have a group of people committed instantly. This 
-has resulted in everything from a weekend bungee jumping outing to a week long 
-Hawaii excursion. Even some of our more frugal friends end up developing _the 
-syndrome_ after interning for a couple months.
+Overpaid syndrome is the embodiment of the "you only live once" attitude. We 
+felt like we could do whatever our hearts desired and we lived life without 
+worries. This was caused by the dramatic change from students living off of 
+ramen to suddenly having abundant spending money. It helped that our work was 
+relatively low stress physically and our weekends not spent doing overtime were 
+completely free time. If something exciting got suggested, we had a group of 
+people committed instantly. This resulted in everything from a weekend bungee 
+jumping outing to a week long Hawaii excursion.  Even some of our more frugal 
+friends ended up developing _the syndrome_ after interning for a couple months.
 
-When an idea is brought up, this is what goes through my head: I compute the 
-number of hours I'd have to work to make up for the trip. If I deem that the 
-adventure justifies the hours, I don't even have to give it a second thought and 
-I'm in. Conversely, if I'm forced to do something I don't enjoy, like shopping, 
-I apply a similar mindset: "I'll avoid this next time by doing it online or 
+When an idea was brought up, this is what went through my head: I computed the 
+number of hours I'd have to work to make up for the trip. If I deemed that the 
+adventure justified the hours, I was in without giving it a second thought. 
+Conversely, if I was forced to do something I didn't enjoy, like shopping, I 
+applied a similar mindset: "I'll avoid this next time by doing it online or 
 something... Sure it'll cost a bit more, but if I spend the hours that would be 
 wasted looking for the best deal doing work instead, it'll make up for it. 3 
 hours working instead of shopping equals a lot of new clothes!"
 
-Nevermind that in the grand scheme I'm bleeding money unnecessarily, and that 
-there's a limit to the amount I can actually work, and that those are imaginary 
-future-hours that may not actually occur depending on the curve balls life 
-throws. The thought process is totally flawless.
+Never mind that there's a limit to the amount I can actually work so those 
+imaginary future-hours may not actually occur. The thought process was totally 
+flawless.
 
-It's terrible because I don't value money the way I was taught to growing up. 
-Whenever I get out of California and return home to my first generation 
-Chinese-American-Canadian household, I am reminded how that $500 ski trip 
-could've bought just about every electronic device in the house, and how my 
+However, when the clock struck midnight and our internships ended, so too did
+the magic. This was especially evident when I returned home to my first 
+generation Chinese-American-Canadian household. I was reminded how that $500 ski 
+trip could've bought just about every electronic device in the house, and how my 
 parents didn't spend even a tenth of that when they were my age. It's sometimes 
-good to put things in perspective. I realize when I've been foolish and too 
-wasteful. Can't let overpaid syndrome justify _all_ my reckless spending.
+good to put things in perspective. I realized sometimes I may have gone too far 
+and was foolishly wasteful. Can't let overpaid syndrome justify _all_ my 
+reckless spending.
 
-If you feel like you also exhibit the symptoms of overpaid syndrome, fear not. I 
-would say it's actually a good thing as long as you don't take it too far. I 
-find I no longer stress as much about the little things and am overall happier. 
-"That thing-I-want wasn't actually on sale?  Whatever, no point arguing with the 
-cashier. The additional cost is just another half hour of work."
+Overpaid syndrome seems to have residual effects though. I'm in school again, 
+but it's not quite back to the ramen life. I find I no longer stress as much 
+about the little things and am overall happier because of it. If I get cheated 
+out of a buck or two, or I don't do quite as well as I hoped on an exam, life 
+still moves on. I can spend my time on better things than freaking out. My 
+friends and I still try to have adventures when we can as well. We call it 
+"bringing back the Cali". I may not have the money to blow on ski trips anymore, 
+but many of the wonders in life are free or cheap. Hiking for example can be 
+done practically anywhere and there's always sights to be seen.
 
-I spend more time on what actually matters to me -- exploring all the wonders 
-the world has to offer and enjoying the companionship of my friends and family. 
 Time is as much of a commodity as everything else. It is just as limited, and we 
 only need to hoard so much wealth to be secure in ourselves. So if we have 
 enough to be secure, why not live a little?
 
-For other people who are in a similar financial situation but don't think they 
-have overpaid syndrome. Would it be so bad if it infected you? THIS SENTENCE 
-SOUNDS STUPID NEED TO REWORD.
-
-I leave you with this quote a friend once shared:
+A friend shared this quote with me:
 
 > Imagine there is a bank account that credits your account each morning with $86,400. It carries over no balance from day to day. Every evening the bank deletes whatever part of the balance you failed to use during the day. What would you do? Draw out every cent, of course? Each of us has such a bank. Its name is time. Every morning, it credits you with 86,400 seconds. Every night it writes off as lost, whatever of this you have failed to invest to a good purpose. It carries over no balance. It allows no over draft. Each day it opens a new account for you. Each night it burns the remains of the day. If you fail to use the day's deposits, the loss is yours. There is no drawing against "tomorrow". You must live in the present on today's deposits. Invest it so as to get from it the utmost in health, happiness and success. The clock is running. Make the most of today.
+
+It took overpaid syndrome to learn how to enjoy more of life but I don't think 
+you have to be overpaid to apply the lessons here. Though of course it's always 
+easier to make such claims when I'm on the other side of the fence.
+
+Next time I'm back for an internship, and the overpaid syndrome returns, I'll 
+know to be more mindful but I won't stop from embracing it.
