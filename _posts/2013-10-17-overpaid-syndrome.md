@@ -31,18 +31,19 @@ forced to do something I don't enjoy like shopping, I apply a similar mindset:
 I'll avoid this next time by doing it online or something. Sure it'll cost a bit 
 more, but if I spend the hours that would be wasted looking for the best deal 
 doing work instead, it'll make up for it. 3 hours working instead of shopping 
-equals a lot of new clothes! Nevermind the fact that in the grand scheme of 
-things I'm bleeding money unnecessarily, and that there's a limit to the amount 
-I can actually work, and that those are imaginary future-hours that may not 
-actually occur depending on the curve balls life throws at me. The thought 
-process is totally flawless.
+equals a lot of new clothes! 
 
-The syndrome is of course a huge generalization and doesn't apply to everyone.  
+Nevermind the fact that in the grand scheme of things I'm bleeding money 
+unnecessarily, and that there's a limit to the amount I can actually work, and 
+that those are imaginary future-hours that may not actually occur depending on 
+the curve balls life throws at me. The thought process is totally flawless.
+
+The syndrome is of course a huge generalization and doesn't apply to everyone. 
 It does seem to be a trend within my tech social network though, and even some 
 of our more frugal friends end up developing it after interning for a couple 
 months.
 
-It's terrible because I don't value money the way I was taught to growing up.  
+It's terrible because I don't value money the way I was taught to growing up. 
 Whenever I get out of California and return home to my first generation 
 Chinese-American-Canadian household, I am reminded how that $500 ski trip 
 could've bought just about every electronic device in the house, and how my 
@@ -51,10 +52,10 @@ good to have things put in perspective. I realize when I've been foolish and
 _too_ wasteful. Can't let overpaid syndrome justify _all_ my reckless spending.
 
 But I wouldn't say overpaid syndrome is all bad. I find I no longer stress as 
-much about the little things. That object I bought wasn't actually on sale?  
-Whatever, no point arguing with the cashier. That's just a couple more minutes 
-of work. I spend more time on what matters to me -- exploring all the wonders 
-the world has to offer and enjoying the companionship of my friends and family.  
-Time is as much of a commodity as everything else. It is just as limited, and we 
-only need to hoard so much wealth to be secure in ourselves. So if we have 
-enough to be secure, why not live a little?
+much about the little things. That object I bought wasn't actually on sale? 
+Whatever, no point arguing with the cashier. That's just another half hour of 
+work.  I spend more time on what actually matters to me -- exploring all the 
+wonders the world has to offer and enjoying the companionship of my friends and 
+family.  Time is as much of a commodity as everything else. It is just as 
+limited, and we only need to hoard so much wealth to be secure in ourselves. So 
+if we have enough to be secure, why not live a little?
