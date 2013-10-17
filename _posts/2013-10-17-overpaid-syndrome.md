@@ -54,8 +54,12 @@ _too_ wasteful. Can't let overpaid syndrome justify _all_ my reckless spending.
 But I wouldn't say overpaid syndrome is all bad. I find I no longer stress as 
 much about the little things. That object I bought wasn't actually on sale? 
 Whatever, no point arguing with the cashier. That's just another half hour of 
-work.  I spend more time on what actually matters to me -- exploring all the 
+work. I spend more time on what actually matters to me -- exploring all the 
 wonders the world has to offer and enjoying the companionship of my friends and 
-family.  Time is as much of a commodity as everything else. It is just as 
+family. Time is as much of a commodity as everything else. It is just as 
 limited, and we only need to hoard so much wealth to be secure in ourselves. So 
 if we have enough to be secure, why not live a little?
+
+I leave you with this quote a friend once shared:
+
+> Imagine there is a bank account that credits your account each morning with $86,400. It carries over no balance from day to day. Every evening the bank deletes whatever part of the balance you failed to use during the day. What would you do? Draw out every cent, of course? Each of us has such a bank. Its name is time. Every morning, it credits you with 86,400 seconds. Every night it writes off as lost, whatever of this you have failed to invest to a good purpose. It carries over no balance. It allows no over draft. Each day it opens a new account for you. Each night it burns the remains of the day. If you fail to use the day's deposits, the loss is yours. There is no drawing against "tomorrow". You must live in the present on today's deposits. Invest it so as to get from it the utmost in health, happiness and success. The clock is running. Make the most of today.
