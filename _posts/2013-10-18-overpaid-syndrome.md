@@ -21,21 +21,22 @@ and I developed what we called overpaid syndrome.
 Overpaid syndrome is the embodiment of the "you only live once" attitude. You 
 feel like you can do whatever your heart desires and live without worries. This 
 results from the dramatic change from living off of ramen to suddenly having 
-abundant spending money. It helped that our work was relatively low stress 
-physically and our weekends not spent doing overtime were completely free time. 
-If something exciting got suggested, we had a group of people committed 
-instantly. This resulted in things like a weekend bungee jumping outing to a 
-week long Hawaii excursion.  Even some of our more frugal friends ended up 
-developing _the syndrome_ after interning for a couple months.
+abundant spending money. If something exciting got suggested, we had a group of 
+people committed instantly. This lead to things like a weekend bungee jumping 
+outing to a week long Hawaii excursion. Even some of our more frugal friends 
+ended up developing _the syndrome_ after interning for a couple months.
 
-When an idea was brought up, this is what went through my head: I computed the 
-number of hours I'd have to work to make up for the trip. If I deemed that the 
-adventure justified the hours, I was in without giving it a second thought. 
-Conversely, if I was forced to do something I didn't enjoy, like shopping, I 
-applied a similar mindset: "Next time I'll minimize this torture by doing it 
-online... Sure it'll cost a bit more, but if I spend the hours that would be 
-wasted looking for the best deal doing work instead, it'll make up for it. 3 
-hours working instead of shopping equals a lot of new clothes!"
+Our work was relatively low stress physically so at this point the primary 
+limiting factor on our fun was time. Work took the energy out of weekdays so 
+adventures were mainly for the weekends not spent doing overtime. When an idea 
+was brought up, what went through my head was "How many hours do I have to work 
+to make up for this trip?" If I deemed that the adventure justified the hours, I 
+was in without giving it a second thought.  Conversely, if I was forced to do 
+something I didn't enjoy, like shopping, I applied a similar mindset: "Next time 
+I'll minimize this torture by doing it online... Sure it'll cost a bit more, but 
+if I spend the hours that would be wasted looking for the best deal doing work 
+  instead, it'll make up for it. 3 hours working instead of shopping equals a 
+  lot of new clothes!"
 
 Basically time became a commodity to me. It is just as limited as everything 
 else, and we only need to hoard so much wealth to be secure in ourselves. I 
