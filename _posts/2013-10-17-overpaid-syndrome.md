@@ -72,6 +72,3 @@ A friend shared this quote with me:
 It took overpaid syndrome to learn how to enjoy more of life but I don't think 
 you have to be overpaid to apply the lessons here. Though of course it's always 
 easier to make such claims when I'm on the other side of the fence.
-
-Next time I'm back for an internship, and the overpaid syndrome returns, I'll 
-know to be more mindful but I won't stop from embracing it.
