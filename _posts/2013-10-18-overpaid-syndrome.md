@@ -40,11 +40,11 @@ hours working instead of shopping equals a lot of new clothes!"
 Basically time became a commodity to me. It is just as limited as everything 
 else, and we only need to hoard so much wealth to be secure in ourselves. I 
   figured if I was lucky enough to be secure, why not live a little?  Never mind 
-  that I can actually only work so much so those future-hours might not even 
+  that I can actually only work so much, so those future-hours might not even 
   occur. The thought process was totally flawless. Life was grand; it felt like 
   we owned the world. It seemed like money really could buy happiness.
 
-Of course all good things must come to an end. The clock struck midnight and our 
+Alas, all good things must come to an end. The clock struck midnight and our 
 internships ended. I returned home to my first generation 
 Chinese-American-Canadian household, where I was reminded how that $500 ski trip 
 could've bought just about every electronic device in the house, and how my 
@@ -53,27 +53,27 @@ good to put things in perspective. I realized sometimes I may have gone too far
 and was foolishly wasteful. Can't let overpaid syndrome justify _all_ my 
 reckless spending.
 
-Even though the cash flow was gone, the overpaid syndrome itself seemed to still 
-have residual effects. I'm in school again, but it's not quite back to the ramen 
+Even though the cash flow was gone, the overpaid syndrome seemed to still have 
+residual effects. I'm in school again, but it's not quite back to the ramen 
 life. Future-hours are now completely imaginary, yet I can still think in that 
 fashion. If I get cheated out of a buck or two, or I don't do quite as well as I 
 hoped on an exam, life moves on. I can spend my time on better things than 
-freaking out and getting upset. I find I no longer stress as much about the 
-little things and am overall happier because of it. My friends and I still try 
-to have adventures when we can as well. We call it "bringing back the Cali". I 
-may not have the money to blow on ski trips anymore, but many of the wonders in 
-life are free or cheap. Hiking, for example, can be done on a budget practically 
-anywhere and there's always sights to be seen.
+freaking out and getting upset. I no longer stress as much about the little 
+things and am overall happier because of it. My friends and I still try to have 
+adventures when we can as well. We call it "bringing back the Cali". I may not 
+have the money to blow on ski trips anymore, but many of the wonders in life are 
+free or cheap. Hiking, for example, can be done on a budget practically anywhere 
+and there's always sights to be seen.
 
-A friend shared this quote with me, which I think rings quite true:
+A friend shared this quote with me, which I find rings quite true:
 
 > Imagine there is a bank account that credits your account each morning with $86,400. It carries over no balance from day to day. Every evening the bank deletes whatever part of the balance you failed to use during the day. What would you do? Draw out every cent, of course? Each of us has such a bank. Its name is time. Every morning, it credits you with 86,400 seconds. Every night it writes off as lost, whatever of this you have failed to invest to a good purpose. It carries over no balance. It allows no over draft. Each day it opens a new account for you. Each night it burns the remains of the day. If you fail to use the day's deposits, the loss is yours. There is no drawing against "tomorrow". You must live in the present on today's deposits. Invest it so as to get from it the utmost in health, happiness and success. The clock is running. Make the most of today.
 
 It took overpaid syndrome to show me how to enjoy more of life, and I came to 
 see it wasn't actually the money that made it better. It was entirely the 
 thought process -- thinking about how time is a valuable commodity in itself, 
-and not letting things you don't like taking it up when possible. I don't think 
-you have to be overpaid to apply it (of course it's always easier to make such 
-claims when I'm on the other side of the fence). Ten years down the line will 
-you actually remember how you got that one percent higher on the calculus exam? 
-Or will you remember the great times you had with your loved ones?
+and wasting it on things you don't like when possible. I don't think you have to 
+be overpaid to apply it (of course it's always easier to make such claims when 
+I'm on the other side of the fence). Ten years down the line will you actually 
+remember how you got that one percent higher on the calculus exam? Or will you 
+remember the great times you had with your loved ones?
