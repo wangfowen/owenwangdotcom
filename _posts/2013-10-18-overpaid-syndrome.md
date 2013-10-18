@@ -72,8 +72,8 @@ A friend shared this quote with me, which I find rings quite true:
 It took overpaid syndrome to show me how to enjoy more of life, and I came to 
 see it wasn't actually the money that made it better. It was entirely the 
 thought process -- thinking about how time is a valuable commodity in itself, 
-and wasting it on things you don't like when possible. I don't think you have to 
-be overpaid to apply it (of course it's always easier to make such claims when 
-I'm on the other side of the fence). Ten years down the line will you actually 
-remember how you got that one percent higher on the calculus exam? Or will you 
-remember the great times you had with your loved ones?
+and not wasting it on things you don't like when possible. I don't think you 
+have to be overpaid to apply it (of course it's always easier to make such 
+claims when I'm on the other side of the fence). Ten years down the line will 
+you actually remember how you got that one percent higher on the calculus exam? 
+Or will you remember the great times you had with your loved ones?
