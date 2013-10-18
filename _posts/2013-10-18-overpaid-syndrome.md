@@ -37,8 +37,8 @@ online... Sure it'll cost a bit more, but if I spend the hours that would be
 wasted looking for the best deal doing work instead, it'll make up for it. 3 
 hours working instead of shopping equals a lot of new clothes!"
 
-Never mind that there's a limit to the amount I can actually work so those 
-future-hours may not actually occur. The thought process was totally flawless. 
+Never mind that there's a limit to how much I can actually work so those 
+future-hours might not even occur. The thought process was totally flawless. 
 Life was grand; it felt like we owned the world. It seemed like money really 
 could buy happiness.
 
@@ -58,7 +58,7 @@ fashion. If I get cheated out of a buck or two, or I don't do quite as well as I
 hoped on an exam, life moves on. I can spend my time on better things than 
 freaking out. I find I no longer stress as much about the little things and am 
 overall happier because of it. My friends and I still try to have adventures 
-when we can as well.  We call it "bringing back the Cali". I may not have the 
+when we can as well. We call it "bringing back the Cali". I may not have the 
 money to blow on ski trips anymore, but many of the wonders in life are free or 
 cheap. Hiking, for example, can be done on a budget practically anywhere and 
 there's always sights to be seen.
@@ -71,10 +71,10 @@ A friend shared this quote with me:
 
 > Imagine there is a bank account that credits your account each morning with $86,400. It carries over no balance from day to day. Every evening the bank deletes whatever part of the balance you failed to use during the day. What would you do? Draw out every cent, of course? Each of us has such a bank. Its name is time. Every morning, it credits you with 86,400 seconds. Every night it writes off as lost, whatever of this you have failed to invest to a good purpose. It carries over no balance. It allows no over draft. Each day it opens a new account for you. Each night it burns the remains of the day. If you fail to use the day's deposits, the loss is yours. There is no drawing against "tomorrow". You must live in the present on today's deposits. Invest it so as to get from it the utmost in health, happiness and success. The clock is running. Make the most of today.
 
-It took overpaid syndrome to show me how to enjoy more of life, but it wasn't 
-actually the money that made it better. It was entirely the thought process, and 
-I don't think you have to be overpaid to apply the lessons here (though of 
-course it's always easier to make such claims when I'm on the other side of the 
-fence).  Ten years down the line will you actually remember how you got that one 
-percent higher on the calculus exam? Or will you remember the great times you 
-had with your loved ones?
+It took overpaid syndrome to show me how to enjoy more of life, and I came to 
+see it wasn't actually the money that made it better. It was entirely the 
+thought process, which I don't think you have to be overpaid to apply (of course 
+it's always easier to make such claims when I'm on the other side of the fence). 
+Ten years down the line will you actually remember how you got that one percent 
+higher on the calculus exam? Or will you remember the great times you had with 
+your loved ones?
