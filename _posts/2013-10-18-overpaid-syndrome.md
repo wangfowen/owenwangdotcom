@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Overpaid Syndrome"
-date: 2013-10-17 00:00:00
+date: 2013-10-18 00:00:00
 published: true
 ---
 
@@ -19,7 +19,7 @@ I'm on the right track. At the same time, due to such internships, my friends
 and I developed what we call overpaid syndrome.
 
 Overpaid syndrome is the embodiment of the "you only live once" attitude. You 
-feel like you can do whatever your heart desires and life without worries. This 
+feel like you can do whatever your heart desires and live without worries. This 
 results from the dramatic change from living off of ramen to suddenly having 
 abundant spending money. It helped that our work was relatively low stress 
 physically and our weekends not spent doing overtime were completely free time. 
@@ -33,9 +33,9 @@ number of hours I'd have to work to make up for the trip. If I deemed that the
 adventure justified the hours, I was in without giving it a second thought. 
 Conversely, if I was forced to do something I didn't enjoy, like shopping, I 
 applied a similar mindset: "Next time I'll minimize this torture by doing it 
-online or something... Sure it'll cost a bit more, but if I spend the hours that 
-would be wasted looking for the best deal doing work instead, it'll make up for 
-it. 3 hours working instead of shopping equals a lot of new clothes!"
+online... Sure it'll cost a bit more, but if I spend the hours that would be 
+wasted looking for the best deal doing work instead, it'll make up for it. 3 
+hours working instead of shopping equals a lot of new clothes!"
 
 Never mind that there's a limit to the amount I can actually work so those 
 future-hours may not actually occur. The thought process was totally flawless.
