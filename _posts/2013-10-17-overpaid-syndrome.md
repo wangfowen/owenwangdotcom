@@ -51,15 +51,15 @@ good to put things in perspective. I realized sometimes I may have gone too far
 and was foolishly wasteful. Can't let overpaid syndrome justify _all_ my 
 reckless spending.
 
-Overpaid syndrome seems to have residual effects though. I'm in school again, 
+Overpaid syndrome seems to have had residual effects. I'm in school again, 
 but it's not quite back to the ramen life. I find I no longer stress as much 
 about the little things and am overall happier because of it. If I get cheated 
 out of a buck or two, or I don't do quite as well as I hoped on an exam, life 
 still moves on. I can spend my time on better things than freaking out. My 
 friends and I still try to have adventures when we can as well. We call it 
 "bringing back the Cali". I may not have the money to blow on ski trips anymore, 
-but many of the wonders in life are free or cheap. Hiking for example can be 
-done practically anywhere and there's always sights to be seen.
+but many of the wonders in life are free or cheap. Hiking, for example, can be 
+done on a budget practically anywhere and there's always sights to be seen.
 
 Time is as much of a commodity as everything else. It is just as limited, and we 
 only need to hoard so much wealth to be secure in ourselves. So if we have 
