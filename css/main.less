@@ -6,7 +6,8 @@
 @darkest: #102632;
 @lighteneddarkest: #24546F;
 @dark: #4196CC;
-@posttext: #232323;
+@posttext: #444;
+@darkertext: #111;
 @offwhite: #FCFDFE;
 
 * {
@@ -31,7 +32,7 @@ html {
   color: @posttext;
   margin: 20px auto 0;
   width: 800px;
-  padding: 20px;
+  padding: 70px;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -75,16 +76,26 @@ html {
       margin: .7em 0;
     }
 
-    span {
+    .date {
       float: right;
+    }
+
+    .title {
+      max-width: 70%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: inline-block;
     }
   }
 
   .post {
     font-size: 18px;
-    line-height: 1.5em;
+    line-height: 1.7em;
     margin-bottom: 60px;
     color: @posttext;
+    max-width: 650px;
+    margin: auto;
 
     h1, h2, h3 {
       margin-top: 35px;
@@ -107,7 +118,7 @@ html {
     }
 
     strong {
-      color: @darker;
+      color: @darkertext;
     }
 
     img, iframe {
@@ -273,7 +284,12 @@ html {
 }
 
 @media only screen and (max-width: 799px) {
-  #wrapper, .blog {
+  #wrapper {
+    width: 100%;
+  }
+
+  .blog {
+    padding: 20px;
     width: 100%;
   }
 }
