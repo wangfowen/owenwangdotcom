@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are You My Motherland? - Introduction"
+title: "Preface - Are You My Motherland?"
 date: 2013-10-12 00:00:00
 published: true
 ---
@@ -27,8 +27,8 @@ have I been taking for granted?
 
 Some things do seem to be pretty constant no matter where in the world I go:
 
-- Comic Sans in store signs. PSA: Please for the love of Taylor Swift cease 
-doing this...
+- Comic Sans in store signs. PSA: Please for the love of \<insert religious 
+figure\> cease doing this...
 - American Billboard Top 40's playing in shops. "We Can't Stop" really doesn't 
 ever stop
 - The abominations known as pigeons polluting the streets
@@ -37,19 +37,36 @@ D's. The menus do vary from place to place but if it doesn't cost you a kidney
 in one way, it will another
 
 And some things appear to be universal in most of Europe, but for whatever 
-stupid reason is not in North America:
+reason is not in North America:
 
 - Including tax in prices - Things actually cost what they're advertised to be! 
 What a revolutionary idea
+- Tipping is not mandatory. It's a thing you do to reward servers for actual 
+good service, not because they won't make minimum wage otherwise. Being expected 
+to tip at least 10% is absolutely ridiculous
 - Allowing people to drink in public - Some days you just want to kick back at 
 the park with a nice cold one. Why is that a problem? The people who would be 
 obnoxiously drunk on the streets are there regardless
-- And of course, using the metric system!! Come on 'Murica
+- Pharmacies are actually just pharmacies. What do you mean I can't get my 
+shampoo and cookies when I pick up my prescription drugs?
+- Building heights are zero-indexed. The floor when you enter a building is the 
+ground (0) floor. The one above it is the first floor
+- Using the metric system!! Come on 'Murica
+- Phone plans work across the entire country. I'm looking at you for this one 
+Canada. Now you look even more silly for charging long distance for being a city 
+away
 
 In this on-going series I will examine some of the cities I've stayed in and 
-what I've experienced to be different about them, mostly looking at culture and 
-urban design.  Perhaps doing this will help me find pride in somewhere. Or maybe 
-I will discover a new place to call home!
+what I've noticed to be different about them, mostly looking at culture and 
+urban design. We were told during our exchange orientation that we should not 
+scrutinize every little change we experience while abroad, since it'll make us 
+just glorify our homelands. I guess I'm doing exactly that, but I'll try to do 
+it while keeping an open mind about why the differences exist, and enjoy them 
+for what they are. Perhaps doing this will help me find pride in somewhere. Or 
+  maybe I will discover a new place to call home!
 
-The first city on the list: [Rome]({% post_url 2013-10-12-are-you-my-motherland-2 %}).
+Below are cities I've written on:
+
+- [Rome]({% post_url 2013-10-12-are-you-my-motherland-2 %})
+<!-- [Copenhagen]({% post_url 2013-11-17-are-you-my-motherland-3 %}) -->
 
