@@ -66,20 +66,21 @@ obvious what kind of service is offered at the institution.
 
 In restaurants you do not get offered free tap water. The only water you can get 
 is in bottles / costs money. It's not a huge expense, but it certainly felt
-strange after growing up in places where free water is so commonplace.
+strange after growing up in places where free water is commonplace.
 
 Menus overwhelmed with the walls of text due to every item being translated into 
-at least 2 other languages. Design is a huge priority for them.
+at least 2 other languages for the convenience of travelers. I'm sure most other 
+people care more about understanding the words on the menu than the layout and 
+design of it.
 
-If after a couple days you want something aside from pizza and pasta, good luck 
-finding it. People there basically only eat Italian food, and in the purest 
-sense of the word at that. It's great that they really pride in and love their 
-cuisine, but I like having some variety after a while. There's really no other 
-culture's foods, and you won't find Chicago-style deep dish pizzas or cheesy 
-crust. Blasphemy right? All the pizzas are thin, comparatively healthy, with 
-minimalistic ingredients. Maybe I've been brainwashed but I actually prefer the 
-greasy ones you'd find in North America with all the crazy gimmicks like Butter 
-Chicken flavor.
+If after a couple days you want something aside from pizza and pasta, tough 
+luck. People there basically only eat Italian food, and in the purest sense of 
+the word at that. It's great that they really pride in and love their cuisine, 
+but I like having some variety after a while. There's really no other culture's 
+foods, and you won't find deep dish pizzas or cheesy crust. Blasphemy right? All 
+the pizzas are thin, comparatively healthy, with minimalistic ingredients. Maybe 
+I've been brainwashed but I actually prefer the greasy ones you'd find in North 
+America with all the crazy gimmicks like Butter Chicken flavor.
 
 If a restaurant has air conditioning and/or free WiFi, they'll be sure to let 
 you know with signs everywhere. Apparently those are huge selling points.
@@ -96,15 +97,16 @@ are probably surrounding you and stealing your belongings.
 
 ## Entertainment ##
 
-Aside from the obvious museums and such, we did not find much else in terms of 
-entertainment. Aimlessly wandering the city at night, we managed to find just 
-one bar that was open, and it wasn't even midnight yet. The city seemed to 
-completely die at night. Or maybe we just visited on the wrong night / in the 
-wrong areas?
+As I'm sure you know there are enough sightseeing spots to keep you busy for 
+days here. Aside from the obvious museums and such, we did not find much else in 
+terms of entertainment though. Aimlessly wandering the city at night, we managed 
+to find just one bar that was open, and it wasn't even midnight yet. The city 
+seemed to completely die at night. Or maybe we just visited on the wrong night / 
+in the wrong areas?
 
 ## Verdict ##
 
 Nope. Would not live here. We met great people and had a lot of fun during our 
 stay, but I would not be able to handle the crowdedness and constant paranoia of 
-being pick pocketed on a daily basis. I'm now also glad Toronto at least has 
-some semblance of a night life and a decent diversity of foods.
+being pick pocketed on a daily basis. I'm now also glad Toronto has some 
+semblance of a night life and a decent diversity of foods.
