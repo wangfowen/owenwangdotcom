@@ -34,14 +34,15 @@ is that they have a teleportation device in the back, there's no other way.
 Copenhagen used to be a Viking village. That's why there's epic castle-esque 
 buildings, beautiful canals running through the city, and people wearing horned 
 helmets roaming the streets. Okay, the last one's a lie and the other two's 
-existence might not have any relation to Vikings. I would like to think it was 
-all somehow connected to pillaging.
+existence might not have any relation to Vikings. I would still like to think 
+it's all somehow connected to pillaging.
 
 At the same time the city does not lack in modern structures. Supposedly large 
-parts of the city have been burned down from arson and reconstructed several 
-times, so it must have been easy to make way for the new. Germans may be the 
-most well known for design, but the Danish can't be far behind in ranks. Some of 
-the sleek architecture... especially placed next to the castles... Oof.
+parts of the city have been burned down and reconstructed (the city hall has 
+burned down twice), so it must have been easy to make way for the new. Germans 
+may be the most well known for design, but the Danish can't be far behind in 
+ranks. Some of the sleek architecture...  especially placed next to the 
+castles... Oof.
 
 ## Signs ##
 
@@ -52,8 +53,8 @@ could be convenient. Just mapping the street name without a number gets you
 close enough to your destinations.
 
 Almost everything else about signs aligned with those of North America. Though 
-here's a strange pedestrian cross light I saw. I'm not sure why they separated 
-it like that, and did not see any others in the city like it.
+here's a strange pedestrian cross light I saw. I'm not sure what the separation 
+means, and did not see any others in the city like it.
 
 {% image /images/cph_light.jpg "" %}
 
