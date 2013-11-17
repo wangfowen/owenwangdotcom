@@ -9,7 +9,11 @@ Online dating's stigma has diminished significantly over the years. That phrase 
 
 I myself decided to give it a try when one of my best friends told me that he found his current girlfriend through it. He's quite the ladies man so he clearly didn't _need_ online dating. From what I've heard the girl sounds like an awesome person, not at all a cat lady or whomever you'd expect to find on the sites. I didn't have anything going on so I figured might as well give it a shot.
 
-There's many options when it comes to what site to use (Ashley Madison anyone?). I went with OKCupid as I recalled their [blog](http://blog.okcupid.com/) popping up on Hacker News a while back. They publish all sorts of hilarious metrics based on data they've gathered from users. I didn't mind becoming another one of their guinea pigs.
+There's many options when it comes to what site to use (Ashley Madison anyone?). 
+I went with OKCupid as I recalled their 
+[blog](http://blog.okcupid.com/){:target="_blank"} popping up on Hacker News a 
+while back. They publish all sorts of hilarious metrics based on data they've 
+  gathered from users. I didn't mind becoming another one of their guinea pigs.
 
 OKCupid has done a great job with first-time user experience. It was extremely intuitive to set up a profile, and just as simple to start finding matches. They even help break the ice by telling the other person when you view their profile, essentially provoking you to take action.
 

@@ -41,16 +41,16 @@ reason is not in North America:
 
 - Including tax in prices - Things actually cost what they're advertised to be! 
 What a revolutionary idea
-- Tipping is not mandatory. It's a thing you do to reward servers for actual 
-good service, not because they won't make minimum wage otherwise. Being expected 
-to tip at least 10% is absolutely ridiculous
+- Tipping is not mandatory. You do it to reward servers for actual good service, 
+not because they won't make minimum wage otherwise. Being expected to tip at 
+least 10% is absolutely ridiculous
 - Allowing people to drink in public - Some days you just want to kick back at 
 the park with a nice cold one. Why is that a problem? The people who would be 
 obnoxiously drunk on the streets are there regardless
-- Pharmacies are actually just pharmacies. What do you mean I can't get my 
-shampoo and cookies when I pick up my prescription drugs?
+- Pharmacies are actually just pharmacies. What do you mean I can't also pick up 
+shampoo and cookies when I get my prescription drugs!?
 - Building heights are zero-indexed. The floor when you enter a building is the 
-ground (0) floor. The one above it is the first floor
+ground (0th) floor. The one above it is the first floor
 - Using the metric system!! Come on 'Murica
 - Phone plans work across the entire country. I'm looking at you for this one 
 Canada. Now you look even more silly for charging long distance for being a city 
@@ -68,5 +68,5 @@ for what they are. Perhaps doing this will help me find pride in somewhere. Or
 Below are cities I've written on:
 
 - [Rome]({% post_url 2013-10-12-are-you-my-motherland-2 %})
-<!-- [Copenhagen]({% post_url 2013-11-17-are-you-my-motherland-3 %}) -->
+- [Copenhagen]({% post_url 2013-11-17-are-you-my-motherland-3 %})
 
