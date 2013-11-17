@@ -31,25 +31,25 @@ is that they have a teleportation device in the back, there's no other way.
 
 ## Architecture ##
 
-Copenhagen used to be a Viking village. This means there's a fair share of 
-castle-esque buildings, canals running through the city, and people wearing 
-horned helmets roaming the streets. Okay, the last one is a lie and the other 
-two's existence might not have any relation to Vikings. I would like to think it 
-was all somehow related to pillaging.
+Copenhagen used to be a Viking village. That's why there's epic castle-esque 
+buildings, beautiful canals running through the city, and people wearing horned 
+helmets roaming the streets. Okay, the last one's a lie and the other two's 
+existence might not have any relation to Vikings. I would like to think it was 
+all somehow connected to pillaging.
 
 At the same time the city does not lack in modern structures. Supposedly large 
-parts of the city have been burned down and reconstructed several times, so it 
-must have been easy to make way for the new. Germans may be the most well known 
-for design, but the Danish can't be far behind in ranks. Some of the sleek 
-  architecture...  especially placed next to the castles... Oof.
+parts of the city have been burned down from arson and reconstructed several 
+times, so it must have been easy to make way for the new. Germans may be the 
+most well known for design, but the Danish can't be far behind in ranks. Some of 
+the sleek architecture... especially placed next to the castles... Oof.
 
 ## Signs ##
 
-I don't know what the exact system is for naming roads, but it seemed like even 
-if you were walking on the same street, the name sometimes changed every couple 
-  blocks. For the smart phone-wielding non-Amish people, this is actually 
-  convenient. Just mapping the street name without a number gets you close 
-  enough to your destinations.
+I don't know what the exact system is for road nomenclature, but it seemed like 
+even if you were walking straight on the same street, the name sometimes changed 
+on you every couple blocks. For the smart phone-wielding non-Amish people, this 
+could be convenient. Just mapping the street name without a number gets you 
+close enough to your destinations.
 
 Almost everything else about signs aligned with those of North America. Though 
 here's a strange pedestrian cross light I saw. I'm not sure why they separated 
@@ -66,14 +66,14 @@ not sure if you actually tip or not at restaurants, or if you get served free
 tap water.
 
 I also never found out what exactly Danish food is. I would have thought 
-chocolate danishes were it, but that's not at all a local delight. We ate almost 
-exclusively fast food or street food and they all happened to be from other 
-countries. The diversity of offerings is great -- we got some sort of Czech 
-potato snack, Italian-style pizza, and Thai takeaway. At first I felt a hint of 
-guilt for eating Asian food in Europe. All that went out the window as soon as 
-the pad thai collided with my tongue. The surge of pleasure from the greasy, 
-delicious noodles satisfied needs I didn't even know I had. It seems if I want 
-to live in a city, there needs to be good Asian food.
+chocolate danishes were it, but locals had no idea what I was asking for. We ate 
+almost exclusively fast food and street food, and they all happened to be from 
+other countries. The diversity of offerings is great -- we got some sort of 
+Czech potato snack, non-Italian-style pizza, and Thai takeaway.  At first I felt 
+a hint of guilt for eating Asian food in Europe. All that went out the window as 
+soon as the pad thai collided with my tongue. The surge of pleasure from the 
+greasy, delicious noodles satisfied needs I didn't even know I had. It seems if 
+I want to live in a city, there needs to be good Asian food.
 
 {% image /images/cph_food.jpg "Still the best Thai I've had in Europe so far" %}
 
@@ -89,21 +89,21 @@ adoption of such. The bike lanes are either raised up, or separated by medians
 or parked cars, allowing bikers to feel extremely secure. Even my friend who 
 hates biking was willing to give it a shot because of how safe it looked.
 
-Below is an example of the separated bike lanes, as well as what I mentioned 
-before about the juxtaposition in the architecture.
+Because of all the bikes, the city had an air of calm and quiet, yet busyness at 
+the same time. Below is an example of the separated bike lanes, as well as what 
+I mentioned before about the juxtaposition in the architecture.
 
 {% image /images/cph_mix.jpg "Also, pretty colors in the sky!" %}
 
-Because of all the bikes, the city had an air of calm and quiet, yet busyness at 
-the same time. On top of all that, the metro gave estimates for arrival times 
-with 30 second precision.
+On top of all that, the metro gave estimates for arrival times with 30 second 
+accuracy.
 
 ## Entertainment ##
 
 There is no shortage of entertainment in Copenhagen. We didn't go, but Tivoli, 
 the second oldest amusement park in the world, is located right downtown. It's 
 also a pleasure garden according to wikipedia. That did not at all mean what I 
-hoped it would. Christiania, the green light district, is just one canal south.  
+hoped it would. Christiania, the green light district, is just one canal south. 
 That meant exactly what I thought.
 
 There's also several cool museums and gardens, and just in general biking around 
@@ -111,10 +111,10 @@ the city is great fun. If you want to take it easy, even lounging around is
 awesome because of how fast wifi is practically everywhere.
 
 And don't even get me started about the night life. Plenty of bars and clubs in 
-the city and they're all open til very late. Food is open too so if you crave 
-some food after some hard raging, not a problem.
+the city and they're all open til very late. Food is open too so if you need 
+some munchies after raging hard, not a problem.
 
-{% image /images/cph_hours.jpg "??-o'clock is my favorite time of day" %}
+{% image /images/cph_hours.jpg "??-o'clock is my favorite time of the day" %}
 
 ## People ##
 
@@ -144,16 +144,16 @@ If you couldn't tell already from my fan girl tone, my verdict is very much yes.
 If I could make enough of a living there and my friends came with, I would move 
 in a heartbeat. We ended up extending our "quick stay" we loved it so much.
 
-Since we stayed longer in Copenhagen, we weren't in Amsterdam long enough that I 
-could justify writing a post about it. I feel like a minimum of three days is 
-necessary to "properly" judge a city. My bearings are usually calibrated by day 
-three and I can find my way around without a map then. Clearly two just doesn't 
-work, the third makes all the difference.
+Since we stayed longer in Copenhagen, we weren't in Amsterdam long enough to 
+ justify writing a post about it. I feel like a minimum of three days is 
+ necessary to "properly" judge a city. My bearings are usually calibrated by day 
+ three and I can find my way around without a map then. Clearly two just doesn't 
+ work, the third makes all the difference.
 
 To summarize Amsterdam, it felt like Copenhagen's inbred cousin. It had similar 
-appealing characteristics, but obnoxiously loud mopeds dashed through the bike 
-lanes, removing the sense of calm and safety. The only real difference is 
-Amsterdam has prostitutes. I did not pursue that adventure so I can't comment.  
-Don't get me wrong, I could see myself living there too. But why would you when 
+appealing characteristics, but obnoxiously loud mopeds zipped through the bike 
+lanes, removing the sense of calm and safety. The main upper-hand Amsterdam has 
+is prostitutes. I did not pursue that adventure so I can't comment. Don't get me 
+wrong, I could see myself living in Amsterdam too. But why would I when 
 Copenhagen is so close by!
 
