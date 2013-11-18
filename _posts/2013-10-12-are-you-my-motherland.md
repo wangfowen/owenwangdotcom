@@ -47,8 +47,8 @@ least 10% is absolutely ridiculous
 - Allowing people to drink in public - Some days you just want to kick back at 
 the park with a nice cold one. Why is that a problem? The people who would be 
 obnoxiously drunk on the streets are there regardless
-- Pharmacies are actually just pharmacies. What do you mean I can't also pick up 
-shampoo and cookies when I get my prescription drugs!?
+- Pharmacies are just pharmacies. What do you mean I can't also pick up shampoo 
+and cookies when I get my prescription drugs!?
 - Building heights are zero-indexed. The floor when you enter a building is the 
 ground (0th) floor. The one above it is the first floor
 - Using the metric system!! Come on 'Murica

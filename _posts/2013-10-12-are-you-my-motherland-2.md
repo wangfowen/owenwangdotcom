@@ -69,9 +69,9 @@ is in bottles / costs money. It's not a huge expense, but it certainly felt
 strange after growing up in places where free water is commonplace.
 
 Menus overwhelmed with the walls of text due to every item being translated into 
-at least 2 other languages for the convenience of travelers. I'm sure most other 
-people care more about understanding the words on the menu than the layout and 
-design of it.
+at least 2 other languages for the convenience of travelers. I guess most people 
+aren't like me and care more about understanding the words on the menu than the 
+layout and design of it.
 
 If after a couple days you want something aside from pizza and pasta, tough 
 luck. People there basically only eat Italian food, and in the purest sense of 
@@ -82,9 +82,12 @@ Blasphemy right? All the pizzas are thin, comparatively healthy, with
 minimalistic ingredients. You feel better about yourself eating them and you can 
 really taste all the ingredients, yet I still prefer the greasy ones you'd find 
 in North America. Maybe I've been brainwashed. I love the crazy gimmicks like 
-Butter Chicken flavor. I have come to quite enjoy pizzas with an egg cooked in 
-the middle of it though. That was new to me and it's apparently an Australian 
-fan-favorite.
+Butter Chicken flavor.
+
+I have come to quite enjoy pizzas with an egg cooked in the middle of it though. 
+That was new to me and it's apparently an Australian favorite.
+
+{% image /images/rome_pizza.jpg "The place we ate at called it a Rustica" %}
 
 If a restaurant has air conditioning and/or free WiFi, they'll be sure to let 
 you know with signs everywhere. Apparently those are huge selling points.
@@ -92,27 +95,35 @@ you know with signs everywhere. Apparently those are huge selling points.
 ## Public Transportation ##
 
 Tourists, be sure to get a Roma Pass. It gives you access to museums and the 
-Coliseum without having to go through the lines and it gives you free access to 
+Colosseum without having to go through the lines and it gives you free access to 
 the public transportation. We only used the metro once so I don't have much to 
-say here. It's rather standard. It is noteworthy to be careful of pickpockets. 
-If a little kid corners you on the metro and asks for the time when you clearly 
-don't have a watch, immediately guard your valuables. His friends are probably 
-surrounding you and stealing your belongings.
+say here. It's rather standard.
+
+It is noteworthy to be careful of pickpockets.  If a little kid corners you on 
+the metro and asks for the time when you clearly don't have a watch, immediately 
+guard your valuables. His friends are probably surrounding you and stealing your 
+belongings.
 
 ## Entertainment ##
 
 As I'm sure you know there are enough sightseeing spots to keep you busy for 
-days here. Aside from the obvious museums and such, we did not find much else in 
-terms of entertainment. Aimlessly wandering the city at night, we managed to 
-find just one bar that was open, and it wasn't even midnight yet. The city 
-seemed to completely die at night. Makes sense since people need their energy to 
-hit up all the monuments during the day. Or maybe we just visited on the wrong 
-night / in the wrong areas? Rome being our first city, we still didn't really 
-know how to do the traveling thing properly.
+days here -- the Vatican Museum, St. Peter's Basilica, the Colosseum, the 
+Pantheon, etc. Aside from the obvious museums and monuments, we did not find 
+much else in terms of entertainment. Aimlessly wandering the city at night, we 
+managed to find just one bar that was open, and it wasn't even midnight yet. The 
+city seemed to completely die at night. Makes sense since people need their 
+energy to hit up all the sights during the day. Or maybe we just visited on the 
+wrong night / in the wrong areas? Rome being our first city, we still didn't 
+really know how to do the traveling thing properly.
 
 ## Verdict ##
 
-Nah, would not live here. We met great people and had a lot of fun during our 
-stay, but I would not be able to handle the crowdedness and constant paranoia of 
-being pick pocketed on a daily basis. I'm now also glad Toronto has some 
-semblance of a night life and a decent diversity of foods.
+Nah, would not live here. I wouldn't be able to handle the crowdedness and 
+constant paranoia of being pick pocketed on a daily basis. I'm now also glad 
+Toronto has some semblance of a night life and a decent diversity of foods.
+
+I do recommend visiting though. There's probably a law out there that says you 
+can't visit Europe without visiting Rome. We met great people and had a lot of 
+fun during our stay. After our first night we were discussing how incredible it 
+already was, and how we may have peaked in our potential fun levels for the 
+trip. That did not turn out to be the case, but that's a story for another time.

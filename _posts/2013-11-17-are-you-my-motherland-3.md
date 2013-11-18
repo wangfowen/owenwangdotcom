@@ -77,7 +77,7 @@ soon as the pad thai collided with my tongue. The surge of pleasure from the
 greasy, delicious noodles satisfied needs I didn't even know I had. It seems if 
 I want to live in a city, there needs to be good Asian food.
 
-{% image /images/cph_food.jpg "Still the best Thai I've had in Europe so far" %}
+{% image /images/cph_food.jpg "Not exactly pad thai, but still the best Asian food I've had in Europe so far" %}
 
 ## Public Transportation ##
 
@@ -130,9 +130,10 @@ The people-density was just the right amount as well. Tourist destinations
 weren't crowded the way they were in Rome. I can deal with crowdedness in 
 streets -- I've been to China -- but if I'm at a place trying to enjoy the 
 sights, people being in my space doesn't really work for me. Basically the fun I 
-experience is inversely proportional to the amount of people there are, like so:
+experience is inversely proportional to the amount of people there are, depicted 
+here in a mathematically accurate graph:
 
-{% image /images/cph_graph.png "Graph made to be mathematically accurate" %}
+{% image /images/cph_graph.png "'dates' could also be on this graph as a sine curve" %}
 
 ## Verdict ##
 
