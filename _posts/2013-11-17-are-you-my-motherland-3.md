@@ -122,9 +122,9 @@ some munchies after raging hard, not a problem.
 
 Everyone spoke near-flawless English. We didn't meet a single person that 
 didn't, yet people constantly apologized for how "bad" their English was (yes 
-they were also all super nice, rivaling Canadians). I don't even speak Dutch and 
-I'm in your country.  And my proficiency in the closest European language I know 
-is nowhere near your level of English. Come on now.
+they were also all super nice, rivaling Canadians). I don't even speak Danish 
+and I'm in your country.  And my proficiency in the closest European language I 
+know is nowhere near your level of English. Come on now.
 
 The people-density was just the right amount as well. Tourist destinations 
 weren't crowded the way they were in Rome. I can deal with crowdedness in 
