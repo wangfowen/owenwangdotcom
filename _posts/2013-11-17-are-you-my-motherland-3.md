@@ -13,8 +13,9 @@ call home._
 Copenhagen. Our next stop after Italy. I only wanted to check it out because my 
 friend Anna was studying abroad here. I knew next to nothing about Copenhagen 
 and hadn't heard any talk of it, so I figured we'd just do a brief stop on the 
-way to the ultimate travel destination: Amsterdam. Only prior to departure did 
-we google to find out they have an entirely different currency and language...
+way to the ultimate travel destination: Amsterdam. Only just prior to departure 
+did we google to find out they have an entirely different currency and 
+language...
 
 ## Airport ##
 
@@ -26,22 +27,22 @@ even be able to tell it's an airport.
 
 Baggage claim was perfectly timed so that our bags arrived the same time as us. 
 We even walked at a brisk pace -- no mercy shown.  The only possible explanation 
-is that they have a teleportation device in the back, there's no other way.
+is that they have a teleportation device in the back. There's no other way.
 
 
 ## Architecture ##
 
-Copenhagen used to be a Viking village. That's why there's epic castle-esque 
+Copenhagen used to be a Viking village. That's why there are epic castle-esque 
 buildings, beautiful canals running through the city, and people wearing horned 
 helmets roaming the streets. Okay, the last one's a lie and the other two's 
 existence might not have any relation to Vikings. I would still like to think 
 it's all somehow connected to pillaging.
 
-At the same time the city does not lack in modern structures. Supposedly large 
+At the same time the city has no lack of modern structures. Supposedly large 
 parts of the city have been burned down and reconstructed (the city hall has 
 burned down twice), so it must have been easy to make way for the new. Germans 
 may be the most well known for design, but the Danish can't be far behind in 
-ranks. Some of the sleek architecture...  especially placed next to the 
+ranks.  Some of the sleek architecture...  especially placed next to the 
 castles... Oof.
 
 ## Signs ##
@@ -81,8 +82,8 @@ I want to live in a city, there needs to be good Asian food.
 ## Public Transportation ##
 
 Accessibility and the environment are key concepts incorporated in the public 
-transportation. There's electric car charging stations all around, talking signs 
-to help the blind throughout the metro, and other such nifty resources.
+transportation. There are electric car charging stations all around, talking 
+signs to help the blind throughout the metro, and other such nifty resources.
 
 Even better for the environment, over 50% of people commute by bike. This may be 
 a personal choice of the people, but the urban planners certainly aided in the 
@@ -143,7 +144,7 @@ in Europe. Guess I'm not alone in appreciating it.
 
 If you couldn't tell already from my fan girl tone, my verdict is very much yes. 
 If I could make enough of a living there and my friends came with, I would move 
-in a heartbeat. We ended up extending our "quick stay" we loved it so much.
+in a heartbeat. We loved it so much that we ended up extending our "quick stay".
 
 Since we stayed longer in Copenhagen, we weren't in Amsterdam long enough to 
  justify writing a post about it. I feel like a minimum of three days is 
