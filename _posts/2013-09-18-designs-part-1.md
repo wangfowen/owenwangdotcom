@@ -22,6 +22,11 @@ INSA is technically in Villeurbanne though, so I will leave that for a different
 post (spoiler: it's practically a European Detroit). Let's take a look at just 
 Lyon itself.
 
+Infuriating how relaxed everyone is. Disorganization, things not starting on 
+time, people not lining up. But halfway through my friend Sam helped me change 
+my mindset. I was looking at it all completely wrong. Why do I have to be in a 
+rush all the time?  Maybe the French are onto something.
+
 People walking with baguettes: 4 (counted over the course of an hour)
 
 
