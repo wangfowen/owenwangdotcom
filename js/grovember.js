@@ -4,35 +4,51 @@ var margin = {top: 40, right: 30, bottom: 20, left: 40},
     height = 300 - margin.top - margin.bottom,
     duration = 750,
     color = d3.scale.category20(),
-
     textOffset = 14,
-    innerRadius = 40,
-    radius = 70,
 
-    wasteShow = 2,
-    internetShow = 4,
+    innerRadius,
+    radius,
+    wasteShow,
+    internetShow,
+    sleepShow;
+
+var makeGraphs = function() {
+  //for non-mobile browsers
+  if (window.innerWidth > 500) {
+    innerRadius = 70;
+    radius = 120;
+
+    wasteShow = 1;
+    internetShow = 2;
+    sleepShow = 7;
+  } else {
+    innerRadius = 40;
+    radius = 70;
+
+    wasteShow = 2;
+    internetShow = 4;
     sleepShow = 15;
+  }
 
-//for non-mobile browsers
-if (window.innerWidth > 600) {
-  innerRadius = 70;
-  radius = 120;
+  new PieGraph(timeCategoryData, "category-pie", "time", "category", 20);
+  new LineGraph(wasteWeekData, "waste-line", ["time"], "week", wasteShow, "Goal-less hours");
+  new BarGraph(internetUsageData, "internet-bar", "time", "site", "Hours on site");
 
-  wasteShow = 1;
-  internetShow = 2;
-  sleepShow = 7;
-}
+  new DiffGraph(sleepFactorData, "sleep-diff", "effect", "factor", "Effect on sleep");
+  new LineGraph(sleepDayData, "sleep-line", ["sleep", "quality", "social", "nogoal"], "date", sleepShow, ["Sleep (hours)", "Sleep quality (/10)", "Socialization (hours)", "No goal (hours)"]);
+  new PieGraph(peopleTimeData, "people-pie", "time", "name", 35);
+};
 
-function listenForAnimate(self, animateFunc) {
-  if (!self.loaded && window.pageYOffset > document.getElementById(self.el).offsetTop - window.innerHeight) {
+function listenForAnimate(self, loaded, animateFunc) {
+  if (!loaded && window.pageYOffset > document.getElementById(self.el).offsetTop - window.innerHeight) {
     animateFunc();
-    self.loaded = true;
+    loaded = true;
   }
 
   window.addEventListener("scroll", function(e) {
-    if (!self.loaded && window.pageYOffset > document.getElementById(self.el).offsetTop - window.innerHeight + 300) {
+    if (!loaded && window.pageYOffset > document.getElementById(self.el).offsetTop - window.innerHeight + 300) {
       animateFunc();
-      self.loaded = true;
+      loaded = true;
     }
   });
 }
@@ -115,7 +131,7 @@ function PieGraph(data, el, arcValuesKey, labelKey, labelThreshold) {
           .attr("dy", 20)
           .attr("text-anchor", "middle");
 
-  listenForAnimate(self, function() {
+  listenForAnimate(self, self.loaded, function() {
       piePiece.attr("d", arc)
           .each(function() { this._current = { startAngle: 0, endAngle: 0}; })
           .attr("fill", function(d, i) { return color(i); })
@@ -220,7 +236,7 @@ function drawXAxis(graph, xAxis) {
 }
 
 function drawYAxis(graph, yAxis, yAxisLabel) {
-  graph.append("g")
+  var drawn = graph.append("g")
       .attr("class", "y axis")
       .call(yAxis)
     .append("text")
@@ -228,9 +244,10 @@ function drawYAxis(graph, yAxis, yAxisLabel) {
       .attr("y", -38)
       .attr("x", -10)
       .attr("dy", ".71em")
-      .style("text-anchor", "end")
-    .text(yAxisLabel)
-      .attr("class", "axis-label");
+      .style("text-anchor", "end");
+
+  if (typeof yAxisLabel === "string")
+    drawn.text(yAxisLabel).attr("class", "axis-label");
 }
 
 function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) {
@@ -241,17 +258,21 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   self.label = xLabelKey;
   self.values = yValueKeys;
   self.numLabels = everyNumLabels;
-  self.yAxisLabel = yAxisLabel || "";
-
-  self.loaded = false;
+  self.yAxisLabel = yAxisLabel;
 
   var x = d3.scale.ordinal()
-          .domain(self.data.map(function(d) { return d[self.label]; }))
-          .rangeRoundBands([0, width], .1),
-    //TODO: fix this to work for multiple lines
-      y = d3.scale.linear()
-          .domain([0, d3.max(self.data, function(d) { return d[self.values[0]]; })])
-          .range([height, 0]);
+            .domain(self.data.map(function(d) { return d[self.label]; }))
+            .rangeRoundBands([0, width]),
+      y = d3.scale.linear().range([height, 0])
+            .domain([0, d3.max(self.data, function(d) {
+                var max = 0;
+
+                for (var i = 0; i < self.values.length; i++) {
+                  if (d[self.values[i]] && d[self.values[i]] > max)
+                    max = d[self.values[i]];
+                }
+                return max;
+              })]);
 
   var xAxis = makeXAxis(x)
           .tickFormat(function (d, i) { return i % self.numLabels === 0 ? d : ''         }),
@@ -262,7 +283,74 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
 
   drawXAxis(graph, xAxis);
   drawYAxis(graph, yAxis, self.yAxisLabel);
-  drawGrid(graph, x, y);
+  //drawGrid(graph, x, y);
+
+  var startingPoint = (width / self.data.length) / 2;
+  var line = d3.svg.line()
+          .interpolate("linear")
+          .x(function(d) { return x(d[self.label]) + startingPoint });
+
+  var path = [],
+      loaded = [];
+
+  for (var i = 0; i < self.values.length; i++) {
+    var prev = 0;
+
+    (function(i) {
+      line.y(function(d) {
+          if (d[self.values[i]]) {
+            prev = y(d[self.values[i]]);
+          }
+          return prev;
+        });
+
+      path.push(
+          graph.append("path")
+            .datum(self.data)
+            .attr("class", "line")
+            .attr("d", line)
+            .attr("stroke", color(i * 2))
+        );
+      loaded.push(false);
+
+      var totalLength = path[i].node().getTotalLength();
+
+      path[i]
+        .attr("stroke-dasharray", totalLength + " " + totalLength)
+        .attr("stroke-dashoffset", totalLength);
+
+      listenForAnimate(self, loaded[i], function() {
+        path[i]
+          .transition()
+            .delay(duration * i)
+            .duration(duration)
+            .ease("linear")
+            .attr("stroke-dashoffset", 0);
+      });
+    })(i);
+  }
+
+  //label should be a legend if multiple lines
+  if (self.values.length > 1) {
+    var legend = graph.selectAll(".legend")
+          .data(self.yAxisLabel)
+        .enter().append("g")
+          .attr("class", "legend")
+          .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+    legend.append("rect")
+        .attr("x", width - 18)
+        .attr("height", 18)
+        .attr("width", 18)
+        .attr("fill", function(d,i) { return color(i * 2); });
+
+    legend.append("text")
+        .attr("x", width - 24)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(function(d) { return d; });
+  }
 
   return self;
 }
@@ -308,7 +396,7 @@ function BarGraph(data, el, yValuesKey, xLabelsKey, yAxisLabel) {
           //fill with a color
           .attr("style", function(d, i) { return "fill: " + color(i * 2); });
 
-  listenForAnimate(self, function() {
+  listenForAnimate(self, self.loaded, function() {
       bar.transition()
           .duration(duration)
           .delay(function(d, i) { return i * 10; })
@@ -367,7 +455,7 @@ function DiffGraph(data, el, yValuesKey, xLabelsKey, yAxisLabel) {
       .attr("width", x.rangeBand())
       .attr("height", 0);
 
-  listenForAnimate(self, function() {
+  listenForAnimate(self, self.loaded, function() {
     bar.transition()
           .duration(duration)
           .delay(function(d, i) { return i * 10; })
@@ -377,10 +465,23 @@ function DiffGraph(data, el, yValuesKey, xLabelsKey, yAxisLabel) {
   return self;
 }
 
-var categoryPie = new PieGraph(timeCategoryData, "category-pie", "time", "category", 20);
-var wasteLine = new LineGraph(wasteWeekData, "waste-line", ["time"], "week", wasteShow, "Goal-less hours");
-var internetBar = new BarGraph(internetUsageData, "internet-bar", "time", "site", "Hours on site");
+makeGraphs();
 
-var sleepDiff = new DiffGraph(sleepFactorData, "sleep-diff", "effect", "factor", "Effect on sleep");
-var sleepLine = new LineGraph(sleepDayData, "sleep-line", ["sleep", "quality", "social", "nogoal"], "date", sleepShow);
-var peoplePie = new PieGraph(peopleTimeData, "people-pie", "time", "name", 35);
+var timeOut = null;
+var remakeGraphs = function() {
+  width = document.getElementsByClassName('post')[0].offsetWidth 
+      - margin.left - margin.right;
+
+  var svg = document.getElementsByTagName("svg"),
+      last;
+
+  for (var i = 0; i < svg.length; i++) {
+    while (last = svg[i].lastChild) svg[i].removeChild(last);
+  }
+  makeGraphs();
+};
+
+window.onresize = function(){
+   if(timeOut != null) clearTimeout(timeOut);
+   timeOut = setTimeout(remakeGraphs, 100);
+}
