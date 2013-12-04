@@ -24,20 +24,51 @@
     shape-rendering: crispEdges;
   }
 
+  .grid .tick {
+    stroke: lightgrey;
+    opacity: 0.7;
+    stroke-dasharray: 2,2;
+  }
+
+  .grid path {
+    stroke-width: 0;
+  }
+
   .bar {
-    opacity: 1;
+    opacity: .8;
+
+    &.positive {
+      fill: #1f77b4;
+    }
+
+    &.negative {
+      fill: #d62728;
+    }
   }
 
   .bar:hover {
-    opacity: .9;
+    opacity: 1;
   }
 
-  .bar.positive {
-    fill: #1f77b4;
-  }
+  .pie {
+    .center {
+      fill: @offwhite;
+    }
 
-  .bar.negative {
-    fill: #d62728;
+    .center-label {
+      font-size: 16px;
+    }
+
+    .center-value {
+      font-size: 20px;
+    }
+
+    .label {
+      stroke: @posttext;
+    }
+
+    .arc:hover {
+      opacity: .8;
+    }
   }
 }
-
