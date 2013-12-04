@@ -72,8 +72,36 @@
     }
   }
 
-  .line {
-    fill: none;
-    stroke-width: 1.5px;
+  .details {
+    .details-text {
+      font-size: 16px;
+    }
+  }
+
+  .line-graph {
+    .line {
+      fill: none;
+      stroke-width: 1.5px;
+    }
+
+    .legend {
+      rect {
+        stroke-width: 2;
+        stroke: @posttext;
+      }
+    }
+
+    .marker {
+      stroke: @offwhite;
+      stroke-width: 2;
+
+      &.siesta {
+        stroke: @posttext;
+      }
+    }
+
+    .hidden {
+      display: none;
+    }
   }
 }

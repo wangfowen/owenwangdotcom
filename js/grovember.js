@@ -5,6 +5,9 @@ var margin = {top: 40, right: 30, bottom: 20, left: 40},
     duration = 750,
     color = d3.scale.category20(),
     textOffset = 14,
+    detailWidth = 100,
+    detailHeight = 50,
+    detailMargin = 10,
 
     innerRadius,
     radius,
@@ -279,24 +282,111 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
       yAxis = makeYAxis(y)
           .ticks(8);
 
-  var graph = makeEmptyGraph(el);
+  var graph = makeEmptyGraph(el)
+        .attr("class", "line-graph");
 
   drawXAxis(graph, xAxis);
   drawYAxis(graph, yAxis, self.yAxisLabel);
   //drawGrid(graph, x, y);
 
-  var startingPoint = (width / self.data.length) / 2;
+  var lineMargin = (width / self.data.length) / 2;
   var line = d3.svg.line()
           .interpolate("linear")
-          .x(function(d) { return x(d[self.label]) + startingPoint });
+          .x(function(d) { return x(d[self.label]) + lineMargin });
 
-  var path = [],
-      loaded = [];
+  var paths = [],
+      markersContainer;
 
   for (var i = 0; i < self.values.length; i++) {
     var prev = 0;
 
     (function(i) {
+      function drawMarkers(data) {
+        markersContainer = graph.append("g")
+          .attr("class", "markers-" + i);
+
+        data.forEach(function(d,index) {
+          if (d[self.values[i]] !== undefined)
+            drawMarker(d,index);
+        });
+      }
+
+      function hideMarkerDetails() {
+        d3.select("#" + self.el).selectAll(".details").remove();
+      }
+
+      function showMarkerDetail(data) {
+        var details = d3.select("#" + self.el).append("g")
+              .attr("class", "details")
+              .attr("transform", "translate(" + width / 2 + ",20)");
+
+        var count = 1;
+
+        details.append("text")
+            .attr("text-anchor", "middle")
+            .attr("class", "details-text")
+            .text(data[self.label]);
+
+        if (self.values.length > 1) {
+          for (var i = 0; i < self.values.length; i++) {
+            if (data[self.values[i]]) {
+              details.append("text")
+                .attr("text-anchor", "middle")
+                .attr("class", "details-text")
+                .attr("y", count * 20)
+                .text(self.yAxisLabel[i] + " : " + data[self.values[i]]);
+              count++;
+            }
+          }
+        } else {
+            details.append("text")
+              .attr("text-anchor", "middle")
+              .attr("y", count * 20)
+              .attr("class", "details-text")
+              .text(self.yAxisLabel + " : " + data[self.values[0]]);
+        }
+
+      };
+
+      function drawMarker(datum, index) {
+        markersContainer.datum(datum)
+          .append("circle")
+          //super hack specific to the one graph
+            .attr("class", function(d) { return d.siesta ? "marker siesta" : "marker"; })
+            .attr("r", 0)
+            .attr("fill", color(i * 4))
+            .attr("cx", function(d) { return x(d[self.label]) + lineMargin; })
+            .attr("cy", function(d) { return y(d[self.values[i]]); })
+            .on("mouseenter", function(d) {
+                d3.select(this)
+                  .attr("r", 5);
+
+                d.active = true;
+                showMarkerDetail(d);
+              })
+            .on("mouseout", function(d) {
+                d3.select(this)
+                  .attr("class", function(d) { return d.siesta ? "marker siesta" : "marker"; })
+                  .attr("r", 4);
+
+                if (d.active) {
+                  hideMarkerDetails();
+
+                  d.active = false;
+                }
+              })
+            .on("click touch", function(d) {
+                if (d.active) {
+                  showMarkerDetail(d);
+                } else {
+                  hideMarkerDetails();
+                }
+              })
+            .transition()
+              .delay(duration / 20 * index)
+              .attr("r", 4);
+      };
+
       line.y(function(d) {
           if (d[self.values[i]]) {
             prev = y(d[self.values[i]]);
@@ -304,28 +394,34 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
           return prev;
         });
 
-      path.push(
-          graph.append("path")
+      var path = graph.append("path")
             .datum(self.data)
             .attr("class", "line")
             .attr("d", line)
-            .attr("stroke", color(i * 2))
+            .attr("stroke", color(i * 4));
+
+      paths.push(
+          {
+            path: path,
+            loaded: false,
+            hidden: false,
+            totalLength: path.node().getTotalLength()
+          }
         );
-      loaded.push(false);
 
-      var totalLength = path[i].node().getTotalLength();
+      paths[i].path
+        .attr("stroke-dasharray", paths[i].totalLength + " " + paths[i].totalLength)
+        .attr("stroke-dashoffset", paths[i].totalLength);
 
-      path[i]
-        .attr("stroke-dasharray", totalLength + " " + totalLength)
-        .attr("stroke-dashoffset", totalLength);
-
-      listenForAnimate(self, loaded[i], function() {
-        path[i]
+      listenForAnimate(self, paths[i].loaded, function() {
+        paths[i].path
           .transition()
-            .delay(duration * i)
-            .duration(duration)
-            .ease("linear")
-            .attr("stroke-dashoffset", 0);
+          .duration(duration)
+          .ease("linear")
+          .attr("stroke-dashoffset", 0)
+          .each("end", function() {
+            drawMarkers(self.data);
+          });
       });
     })(i);
   }
@@ -336,13 +432,45 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
           .data(self.yAxisLabel)
         .enter().append("g")
           .attr("class", "legend")
-          .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+          .attr("transform", function(d, i) { return "translate(0," + i * 23 + ")"; });
 
     legend.append("rect")
         .attr("x", width - 18)
         .attr("height", 18)
         .attr("width", 18)
-        .attr("fill", function(d,i) { return color(i * 2); });
+        .attr("fill", function(d,i) { return color(i * 4); })
+        .on("click", function(d,i) {
+          if (paths[i].hidden) {
+            paths[i].hidden = false;
+
+            //show rectangle's color again
+            d3.select(this)
+              .attr("fill", color(i * 4));
+
+            //show line
+            paths[i].path.transition()
+              .duration(duration)
+              .ease("linear")
+              .attr("stroke-dashoffset", 0);
+
+            //show markers
+            d3.select(".markers-" + i)
+              .attr("class", "markers-" + i);
+          } else {
+            paths[i].hidden = true;
+
+            d3.select(this)
+              .attr("fill", "white");
+
+            paths[i].path.transition()
+              .duration(duration)
+              .ease("linear")
+              .attr("stroke-dashoffset", paths[i].totalLength);
+
+            graph.select(".markers-" + i)
+              .attr("class", "hidden markers-" + i);
+          }
+        });
 
     legend.append("text")
         .attr("x", width - 24)
