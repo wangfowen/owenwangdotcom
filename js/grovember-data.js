@@ -96,11 +96,11 @@ var timeCategoryData = [
         time : 5.7
       },
       {
-        site:"Word Reference",
+        site:"Chuck-Streaming.fr",
         time : 3.8
       },
       {
-        site:"Chuck-Streaming.fr",
+        site:"Word Reference",
         time : 3.8
       },
       {
