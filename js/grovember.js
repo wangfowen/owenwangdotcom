@@ -1,19 +1,18 @@
-var margin = {top: 40, right: 30, bottom: 20, left: 40},
+var margin = {top: 40, right: 30, bottom: 40, left: 40},
     width = document.getElementsByClassName('post')[0].offsetWidth 
       - margin.left - margin.right,
-    height = 300 - margin.top - margin.bottom,
+    height = 320 - margin.top - margin.bottom,
     duration = 750,
     color = d3.scale.category20(),
     textOffset = 14,
-    detailWidth = 100,
-    detailHeight = 50,
-    detailMargin = 10,
 
     innerRadius,
     radius,
     wasteShow,
     internetShow,
-    sleepShow;
+    sleepShow,
+    detailsWidth,
+    detailsFontSize;
 
 var makeGraphs = function() {
   //for non-mobile browsers
@@ -24,6 +23,9 @@ var makeGraphs = function() {
     wasteShow = 1;
     internetShow = 2;
     sleepShow = 7;
+
+    detailsWidth = 250;
+    detailsFontSize = 16;
   } else {
     innerRadius = 40;
     radius = 70;
@@ -31,6 +33,9 @@ var makeGraphs = function() {
     wasteShow = 2;
     internetShow = 4;
     sleepShow = 15;
+
+    detailsWidth = 150;
+    detailsFontSize = 12;
   }
 
   new PieGraph(timeCategoryData, "category-pie", "time", "category", 20);
@@ -57,13 +62,78 @@ function listenForAnimate(self, loaded, animateFunc) {
 }
 
 function makeEmptyGraph(el) {
-  return d3.select("#" + el)
+  return d3.select("#" + el).append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
     .append("g")
       .attr("transform", "translate(" + margin.left + ","
           + margin.top + ")");
 
+}
+
+function hideDetails(el) {
+  d3.select("#" + el + " svg").selectAll(".details").remove();
+}
+
+function showDetails(x, self, data, extraX, extraY, extraMargin, extraNegMargin) {
+  var length = typeof self.value === "string" ? 1 : self.value.length,
+      eMargin = detailsWidth/2;
+
+  //right side of graph
+  if (width/2 < x(data[self.label])) {
+    if (extraNegMargin)
+      eMargin = (eMargin + extraNegMargin) * -1;
+    else
+      eMargin = (eMargin + extraMargin) * -1;
+  } else {
+    eMargin = eMargin + extraMargin;
+  }
+
+  var details = d3.select("#" + self.el + " svg").append("g")
+        .attr("class", "details")
+        .attr("transform", "translate(" + (x(data[self.label]) + margin.left + extraX + eMargin) + "," + (margin.top + extraY) + ")");
+
+  details.append("rect")
+      .attr("width", detailsWidth)
+      .attr("height", (detailsFontSize + 7) * (1 + length))
+      .attr("class", "details-background")
+      .attr("x", -(detailsWidth/2));
+
+  details.append("text")
+      .attr("text-anchor", "middle")
+      .attr("class", "details-text")
+      .attr("y", detailsFontSize + 4)
+      .style("font-size", detailsFontSize + "px")
+      .text(data[self.label]);
+
+  if (typeof self.value !== "string") {
+    for (var i = 0; i < length; i++) {
+        var text = details.append("text")
+          .attr("text-anchor", "middle")
+          .attr("class", "details-text")
+          .style("font-size", detailsFontSize + "px")
+          .attr("y", (i + 2) * (detailsFontSize + 4));
+
+      if (data[self.value[i]] !== undefined) {
+        //bad hacks
+        if (typeof self.yAxisLabel === "string")
+          text.text(self.yAxisLabel + " : " + data[self.value[i]]);
+        else
+          text.text(self.yAxisLabel[i] + " : " + data[self.value[i]]);
+      } else {
+          text.text(self.yAxisLabel[i] + " : N/A");
+      }
+    }
+  } else {
+      details.append("text")
+        .attr("text-anchor", "middle")
+        .attr("y", (detailsFontSize + 4) * 2)
+        .attr("class", "details-text")
+        .style("font-size", detailsFontSize + "px")
+        .text(self.yAxisLabel + " : " + data[self.value]);
+  }
+
+  return details;
 }
 
 function PieGraph(data, el, arcValuesKey, labelKey, labelThreshold) {
@@ -125,13 +195,13 @@ function PieGraph(data, el, arcValuesKey, labelKey, labelThreshold) {
           .attr("r", 0);
 
   var centerLabel = centerContainer.append("text")
-          .attr("class", "center-label")
           .attr("dy", -10)
+          .style("font-size", detailsFontSize + "px")
           .attr("text-anchor", "middle");
 
   var centerValue = centerContainer.append("text")
-          .attr("class", "center-value")
           .attr("dy", 20)
+          .style("font-size", (detailsFontSize + 2) + "px")
           .attr("text-anchor", "middle");
 
   listenForAnimate(self, self.loaded, function() {
@@ -259,7 +329,7 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   self.data = data;
   self.el = el;
   self.label = xLabelKey;
-  self.values = yValueKeys;
+  self.value = yValueKeys;
   self.numLabels = everyNumLabels;
   self.yAxisLabel = yAxisLabel;
 
@@ -270,9 +340,9 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
             .domain([0, d3.max(self.data, function(d) {
                 var max = 0;
 
-                for (var i = 0; i < self.values.length; i++) {
-                  if (d[self.values[i]] && d[self.values[i]] > max)
-                    max = d[self.values[i]];
+                for (var i = 0; i < self.value.length; i++) {
+                  if (d[self.value[i]] && d[self.value[i]] > max)
+                    max = d[self.value[i]];
                 }
                 return max;
               })]);
@@ -284,6 +354,8 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
 
   var graph = makeEmptyGraph(el)
         .attr("class", "line-graph");
+
+  var highlightContainer = graph.append("g");
 
   drawXAxis(graph, xAxis);
   drawYAxis(graph, yAxis, self.yAxisLabel);
@@ -297,7 +369,27 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   var paths = [],
       markersContainer;
 
-  for (var i = 0; i < self.values.length; i++) {
+  function hideMarkerDetails() {
+    hideDetails(self.el);
+    highlightContainer.selectAll(".day-marker").remove();
+  }
+
+  function showMarkerDetail(data) {
+    highlightContainer.append("rect")
+      //hacky code for the one use case
+      .attr("class", function(d) { return data.siesta ? "day-marker siesta" : "day-marker"; })
+      .attr("width", 10)
+      .attr("height", height)
+      .attr("x", (x(data[self.label])) + lineMargin - 5);
+
+    showDetails(x, self, data, lineMargin, 0, 10);
+  }
+
+  d3.select("#" + self.el).on("click", function() {
+    hideMarkerDetails();
+  });
+
+  for (var i = 0; i < self.value.length; i++) {
     var prev = 0;
 
     (function(i) {
@@ -306,68 +398,30 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
           .attr("class", "markers-" + i);
 
         data.forEach(function(d,index) {
-          if (d[self.values[i]] !== undefined)
+          if (d[self.value[i]] !== undefined)
             drawMarker(d,index);
         });
       }
-
-      function hideMarkerDetails() {
-        d3.select("#" + self.el).selectAll(".details").remove();
-      }
-
-      function showMarkerDetail(data) {
-        var details = d3.select("#" + self.el).append("g")
-              .attr("class", "details")
-              .attr("transform", "translate(" + width / 2 + ",20)");
-
-        var count = 1;
-
-        details.append("text")
-            .attr("text-anchor", "middle")
-            .attr("class", "details-text")
-            .text(data[self.label]);
-
-        if (self.values.length > 1) {
-          for (var i = 0; i < self.values.length; i++) {
-            if (data[self.values[i]]) {
-              details.append("text")
-                .attr("text-anchor", "middle")
-                .attr("class", "details-text")
-                .attr("y", count * 20)
-                .text(self.yAxisLabel[i] + " : " + data[self.values[i]]);
-              count++;
-            }
-          }
-        } else {
-            details.append("text")
-              .attr("text-anchor", "middle")
-              .attr("y", count * 20)
-              .attr("class", "details-text")
-              .text(self.yAxisLabel + " : " + data[self.values[0]]);
-        }
-
-      };
 
       function drawMarker(datum, index) {
         markersContainer.datum(datum)
           .append("circle")
           //super hack specific to the one graph
-            .attr("class", function(d) { return d.siesta ? "marker siesta" : "marker"; })
+            .attr("class", "marker")
             .attr("r", 0)
             .attr("fill", color(i * 4))
             .attr("cx", function(d) { return x(d[self.label]) + lineMargin; })
-            .attr("cy", function(d) { return y(d[self.values[i]]); })
-            .on("mouseenter", function(d) {
+            .attr("cy", function(d) { return y(d[self.value[i]]); })
+            .on("mouseover", function(d) {
                 d3.select(this)
-                  .attr("r", 5);
+                  .attr("r", 6);
 
                 d.active = true;
                 showMarkerDetail(d);
               })
             .on("mouseout", function(d) {
                 d3.select(this)
-                  .attr("class", function(d) { return d.siesta ? "marker siesta" : "marker"; })
-                  .attr("r", 4);
+                  .attr("r", 5);
 
                 if (d.active) {
                   hideMarkerDetails();
@@ -384,12 +438,12 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
               })
             .transition()
               .delay(duration / 20 * index)
-              .attr("r", 4);
+              .attr("r", 5);
       };
 
       line.y(function(d) {
-          if (d[self.values[i]]) {
-            prev = y(d[self.values[i]]);
+          if (d[self.value[i]] !== undefined) {
+            prev = y(d[self.value[i]]);
           }
           return prev;
         });
@@ -427,7 +481,7 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   }
 
   //label should be a legend if multiple lines
-  if (self.values.length > 1) {
+  if (self.value.length > 1) {
     var legend = graph.selectAll(".legend")
           .data(self.yAxisLabel)
         .enter().append("g")
@@ -524,6 +578,29 @@ function BarGraph(data, el, yValuesKey, xLabelsKey, yAxisLabel) {
           //fill with a color
           .attr("style", function(d, i) { return "fill: " + color(i * 2); });
 
+  bar.on("mouseover", function(d) {
+      d.active = true;
+      showDetails(x, self, d, x.rangeBand(), y(d[self.value]), 10, x.rangeBand() + 10);
+    })
+  .on("mouseout", function(d) {
+      if (d.active) {
+        hideDetails(self.el);
+
+        d.active = false;
+      }
+    })
+  .on("click touch", function(d) {
+      if (d.active) {
+        showDetails(x, self, d, x.rangeBand(), y(d[self.value]), 10, x.rangeBand() + 10);
+      } else {
+        hideDetails(self.el);
+      }
+    });
+
+  d3.select("#" + self.el).on("click", function() {
+    hideDetails(self.el);
+  });
+
   listenForAnimate(self, self.loaded, function() {
       bar.transition()
           .duration(duration)
@@ -583,6 +660,29 @@ function DiffGraph(data, el, yValuesKey, xLabelsKey, yAxisLabel) {
       .attr("width", x.rangeBand())
       .attr("height", 0);
 
+  barBox.on("mouseover", function(d) {
+      d.active = true;
+      showDetails(x, self, d, x.rangeBand(), y(d[self.value]) - 10, 10, x.rangeBand() + 10);
+    })
+  .on("mouseout", function(d) {
+      if (d.active) {
+        hideDetails(self.el);
+
+        d.active = false;
+      }
+    })
+  .on("click touch", function(d) {
+      if (d.active) {
+        showDetails(x, self, d, x.rangeBand(), y(d[self.value]) - 10, 10, x.rangeBand() + 10);
+      } else {
+        hideDetails(self.el);
+      }
+    });
+
+  d3.select("#" + self.el).on("click", function() {
+    hideDetails(self.el);
+  });
+
   listenForAnimate(self, self.loaded, function() {
     bar.transition()
           .duration(duration)
@@ -600,7 +700,7 @@ var remakeGraphs = function() {
   width = document.getElementsByClassName('post')[0].offsetWidth 
       - margin.left - margin.right;
 
-  var svg = document.getElementsByTagName("svg"),
+  var svg = document.getElementsByClassName("graph"),
       last;
 
   for (var i = 0; i < svg.length; i++) {

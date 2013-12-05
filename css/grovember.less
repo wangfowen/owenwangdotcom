@@ -4,7 +4,7 @@
 
 
 .graph {
-  height: 300px;
+  height: 320px;
 
   text {
     fill: @posttext;
@@ -55,14 +55,6 @@
       fill: @offwhite;
     }
 
-    .center-label {
-      font-size: 16px;
-    }
-
-    .center-value {
-      font-size: 20px;
-    }
-
     .label {
       stroke: @posttext;
     }
@@ -73,6 +65,12 @@
   }
 
   .details {
+    .details-background {
+      fill: @offwhite;
+      stroke: @posttext;
+      stroke-width: 1px;
+    }
+
     .details-text {
       font-size: 16px;
     }
@@ -94,9 +92,14 @@
     .marker {
       stroke: @offwhite;
       stroke-width: 2;
+    }
+
+    .day-marker {
+      fill: #E6E1DD;
+      opacity: .5;
 
       &.siesta {
-        stroke: @posttext;
+        fill: #FEF087;
       }
     }
 

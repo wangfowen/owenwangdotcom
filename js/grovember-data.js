@@ -278,6 +278,14 @@ var timeCategoryData = [
         time : 7.0
       },
       {
+        name: "Alex A",
+        time : 7.0
+      },
+      {
+        name: "Ashlee W",
+        time : 7.0
+      },
+      {
         name: "Bonnie H",
         time : 7.0
       },
@@ -524,6 +532,10 @@ var timeCategoryData = [
         social : 10.0,
         siesta : true,
         date: "2013-11-10"
+      },
+      {
+        sleep : 0,
+        date: "2013-11-11"
       },
       {
         sleep : 14.8,
