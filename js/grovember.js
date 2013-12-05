@@ -77,7 +77,8 @@ function hideDetails(el) {
 
 function showDetails(x, self, data, extraX, extraY, extraMargin, extraNegMargin) {
   var length = typeof self.value === "string" ? 1 : self.value.length,
-      eMargin = detailsWidth/2;
+      eMargin = detailsWidth/2,
+      badSiestaHack = data.siesta ? true : false;
 
   //right side of graph
   if (width/2 < x(data[self.label])) {
@@ -95,7 +96,7 @@ function showDetails(x, self, data, extraX, extraY, extraMargin, extraNegMargin)
 
   details.append("rect")
       .attr("width", detailsWidth)
-      .attr("height", (detailsFontSize + 7) * (1 + length))
+      .attr("height", (detailsFontSize + 7) * (1 + length + (badSiestaHack ? 1 : 0)))
       .attr("class", "details-background")
       .attr("x", -(detailsWidth/2));
 
@@ -124,6 +125,16 @@ function showDetails(x, self, data, extraX, extraY, extraMargin, extraNegMargin)
           text.text(self.yAxisLabel[i] + " : N/A");
       }
     }
+
+    if (badSiestaHack) {
+      details.append("text")
+        .attr("text-anchor", "middle")
+        .attr("class", "details-text")
+        .style("font-size", detailsFontSize + "px")
+        .attr("y", (length + 2) * (detailsFontSize + 4))
+        .text("Took naps");
+    }
+
   } else {
       details.append("text")
         .attr("text-anchor", "middle")
@@ -355,8 +366,6 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   var graph = makeEmptyGraph(el)
         .attr("class", "line-graph");
 
-  var highlightContainer = graph.append("g");
-
   drawXAxis(graph, xAxis);
   drawYAxis(graph, yAxis, self.yAxisLabel);
   //drawGrid(graph, x, y);
@@ -369,24 +378,12 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
   var paths = [],
       markersContainer;
 
-  function hideMarkerDetails() {
-    hideDetails(self.el);
-    highlightContainer.selectAll(".day-marker").remove();
-  }
-
-  function showMarkerDetail(data) {
-    highlightContainer.append("rect")
-      //hacky code for the one use case
-      .attr("class", function(d) { return data.siesta ? "day-marker siesta" : "day-marker"; })
-      .attr("width", 10)
-      .attr("height", height)
-      .attr("x", (x(data[self.label])) + lineMargin - 5);
-
-    showDetails(x, self, data, lineMargin, 0, 10);
-  }
+  var highlightContainer = graph.append("g");
 
   d3.select("#" + self.el).on("click", function() {
-    hideMarkerDetails();
+      hideDetails(self.el);
+      highlightContainer.selectAll(".day-marker")
+        .attr("class", "day-marker");
   });
 
   for (var i = 0; i < self.value.length; i++) {
@@ -404,6 +401,43 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
       }
 
       function drawMarker(datum, index) {
+        var highlight = highlightContainer.datum(datum)
+          .append("rect")
+            .attr("width", 10)
+            .attr("height", height)
+            .attr("class", "day-marker")
+            .attr("x", (x(datum[self.label])) + lineMargin - 5)
+            .on("mouseover", function(d) {
+                d.active = true;
+                showDetails(x, self, datum, lineMargin, 0, 10);
+
+                d3.select(this)
+                  .attr("class", "day-marker selected");
+              })
+            .on("mouseout", function(d) {
+                if (d.active) {
+                  hideDetails(self.el);
+
+                  d3.select(this)
+                    .attr("class", "day-marker");
+
+                  d.active = false;
+                }
+              })
+            .on("click touch", function(d) {
+                if (d.active) {
+                  showDetails(x, self, datum, lineMargin, 0, 10);
+
+                  d3.select(this)
+                    .attr("class", "day-marker selected");
+                } else {
+                  hideDetails(self.el);
+
+                  d3.select(this)
+                    .attr("class", "day-marker");
+                }
+            });
+
         markersContainer.datum(datum)
           .append("circle")
           //super hack specific to the one graph
@@ -417,23 +451,28 @@ function LineGraph(data, el, yValueKeys, xLabelKey, everyNumLabels, yAxisLabel) 
                   .attr("r", 6);
 
                 d.active = true;
-                showMarkerDetail(d);
+                showDetails(x, self, datum, lineMargin, 0, 10);
+                highlight.attr("class", "day-marker selected");
               })
             .on("mouseout", function(d) {
                 d3.select(this)
                   .attr("r", 5);
 
                 if (d.active) {
-                  hideMarkerDetails();
+                  hideDetails(self.el);
+
+                  highlight.attr("class", "day-marker");
 
                   d.active = false;
                 }
               })
             .on("click touch", function(d) {
                 if (d.active) {
-                  showMarkerDetail(d);
+                  showDetails(x, self, datum, lineMargin, 0, 10);
+                  highlight.attr("class", "day-marker selected");
                 } else {
-                  hideMarkerDetails();
+                  hideDetails(self.el);
+                  highlight.attr("class", "day-marker");
                 }
               })
             .transition()
