@@ -132,7 +132,7 @@ function showDetails(x, self, data, extraX, extraY, extraMargin, extraNegMargin)
         .attr("class", "details-text")
         .style("font-size", detailsFontSize + "px")
         .attr("y", (length + 2) * (detailsFontSize + 4))
-        .text("Took naps");
+        .text("Polyphasic");
     }
 
   } else {
