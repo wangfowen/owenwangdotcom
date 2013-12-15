@@ -77,7 +77,7 @@ var imgs = [
         src: "heavenly.jpg",
         month: "feb",
         big: true,
-        desc: "First snowboarding trip. Car riddles. Hotel hot tub. Heavenly. Scramble to find hotel. Chinese food Happy Family. Four Lokos. Kirkwood. First black."
+        desc: "First Tahoe weekend. Car riddles. Hotel hot tub. Heavenly. Scramble to find hotel. Chinese food Happy Family. Four Lokos. Kirkwood. First black."
 
       },
       {
@@ -141,8 +141,8 @@ var imgs = [
 
       },
       {
-        width: 291,
-        height: 466,
+        width: 286,
+        height: 407,
         src: "tennis.jpg",
         month: "mar",
         desc: "GoPro Tennis. Lessons. $15 gym pact. Good job Naveen."
@@ -204,7 +204,7 @@ var imgs = [
         src: "snowboard.jpg",
         month: "mar",
         big: true,
-        desc: "Second snowboard trip. Zipcar. Taylor Swift entire ride. Kirkwood. Sandy learns unreasonably fast. Capisce Italian food. Beer hunt. Fizz Buzz. Heavenly. Nope moguls. Off the Hook Sushi. Mark mainstream music."
+        desc: "Second Tahoe weekend. Zipcar. Taylor Swift entire ride. Kirkwood. Sandy learns unreasonably fast. Capisce Italian food. Beer hunt. Fizz Buzz. Heavenly. Nope moguls. Off the Hook Sushi. Mark mainstream music."
 
       },
       {
@@ -476,8 +476,8 @@ var imgs = [
 
       },
       {
-        width: 441,
-        height: 588,
+        width: 439,
+        height: 505,
         src: "unc.jpg",
         month: "aug",
         desc: "Day at UNC. Panera catchup. Where is Davie Poplar? Settlers at Brian's. SVSM BBQ. Sakura. Avengers. Harris Teeter. Geocache. Elmo's."
@@ -492,8 +492,8 @@ var imgs = [
 
       },
       {
-        width: 504,
-        height: 672,
+        width: 401,
+        height: 472,
         src: "florence.jpg",
         month: "aug",
         desc: "Florence. Plus. City jog. 66cl for 90 cents. EuroTrip. Gypsy market. Piazza Michelangelo. Hole in wall restaurants."
@@ -696,6 +696,20 @@ var imgs = [
         height: 538,
         src: "christmas_market.jpg",
         month: "dec",
-        desc: "Fetes des Lumieres. Worst ferris wheel ever. Operation Sunglasses."
+        desc: "Fetes des Lumieres. Worst ferris wheel ever. Operation Sunglasses. All the vin chaud"
+      },
+      {
+        width: 691,
+        height: 518,
+        src: "arcs.jpg",
+        month: "dec",
+        desc: "Les Arcs daytrip. Nathan ski slayer. Must touch the clouds."
+      },
+      {
+        width: 404,
+        height: 451,
+        src: "secret_santa.jpg",
+        month: "dec",
+        desc: "Secret Santa. Tree decorating. Playboy. Feet massage. Beer sampler. Giant chocolate."
       }
     ];

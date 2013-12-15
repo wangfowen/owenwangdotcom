@@ -51,13 +51,8 @@ $(function() {
   });
 
   var setGalleryHeight = function() {
-    if (window.innerWidth <= 599) {
-      $gallery.height("100%");
-      return;
-    }
-
     var galHeight = 0,
-        padding = 40;
+        padding = window.innerWidth > 599 ? 40 : 20;
 
     $('.gal-el').each(function() {
       var $this = $(this);
@@ -241,6 +236,11 @@ $(function() {
             var height = imgs[i].height / imgs[i].width * imgWidth;
             $(img).height(height);
           });
+
+          if (window.innerWidth > 599)
+            $overlay.css("top", scrollY + "px");
+          else
+            $overlay.css("top", "0px");
 
           setGalleryHeight();
        }, 100);
