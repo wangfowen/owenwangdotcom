@@ -1,5 +1,10 @@
 @dark: #222;
 @offwhite: #FCFDFE;
+ * {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+ }
 
 .noscroll {
   overflow: hidden;
@@ -9,9 +14,6 @@
   margin: auto;
 
   .item {
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
 
     width: 30%;
     margin-bottom: 12px;
@@ -27,9 +29,6 @@
     }
 
     .desc {
-      box-sizing: border-box;
-      -moz-box-sizing: border-box;
-      -webkit-box-sizing: border-box;
       position: absolute;
       bottom: 0;
 
@@ -57,73 +56,16 @@
 }
 
 #overlay {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  overflow-y: scroll;
-
-  display: none;
-  background-color: rgba(0,0,0, .7);
-
-  #gallery {
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-
-    margin: auto;
-    padding: 40px 40px 0;
-
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-
-    display: block;
-    background: @offwhite;
-    width: 75%;
-    overflow: auto;
-
+  #content {
     img, .video {
       margin: 0px auto 20px;
       display: block;
+      max-width: 100%;
     }
 
     p {
       margin: auto;
     }
-  }
-
-  #close {
-    top:0;
-    right:0;
-    font-size: 50px;
-  }
-
-  #close, .arrow {
-    position: fixed;
-    cursor: pointer;
-    opacity: .4;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    user-select: none;
-  }
-
-  .arrow {
-    font-size: 100px;
-    top: 50%;
-    margin-top: -50px;
-
-    &#right {
-      right: 0;
-    }
-  }
-
-  #close:hover, .arrow:hover {
-    color: @offwhite;
   }
 }
 
@@ -132,24 +74,15 @@
     width: 47% !important;
   }
 
-  .arrow {
-    display: none;
-  }
-
-  #close {
-    font-size: 20px;
-    color: @offwhite;
-  }
-
-  #gallery {
-    padding: 20px 20px 0 !important;
-
-    img, .video {
-      margin: 0px auto 10px !important;
-    }
+  .noscroll {
+    position: fixed;
   }
 
   #overlay {
-    padding-bottom: 69px;
+    #content {
+      img, .video {
+        margin: 0px auto 10px !important;
+      }
+    }
   }
 }

@@ -1,7 +1,7 @@
 $(function() {
   var $container = $("#collage-container"),
       $overlay = $('#overlay'),
-      $gallery = $('#gallery'),
+      $gallery = $('#content'),
       $leftNav = $('#left'),
       $rightNav = $('#right'),
       $body = $('body'),
@@ -51,8 +51,13 @@ $(function() {
   });
 
   var setGalleryHeight = function() {
+    if (window.innerWidth <= 599) {
+      $gallery.height("100%");
+      return;
+    }
+
     var galHeight = 0,
-        padding = window.innerWidth > 599 ? 20 : 10;
+        padding = 40;
 
     $('.gal-el').each(function() {
       var $this = $(this);
@@ -66,13 +71,13 @@ $(function() {
       galHeight += padding;
     });
 
-    $gallery.height(galHeight);
-
     if (galHeight > $overlay.height()) {
       $gallery.css("margin", "0 auto");
     } else {
       $gallery.css("margin", "auto");
     }
+
+    $gallery.height(galHeight);
   };
 
   var loadPic = function(count) {
@@ -129,6 +134,7 @@ $(function() {
     open = count;
   };
 
+  //TODO: add animation when navigate
   var navPic = function(num) {
     var newCount = open + num;
     if (newCount < 0)
@@ -142,36 +148,22 @@ $(function() {
   var closeOverlay = function() {
     $overlay.css("display", "none");
     $body.removeClass('noscroll');
-
-    //remove scrollprevention
-    $body.off('touchmove');
   };
 
   $container.click(function(e) {
    var id = e.target.getAttribute('data-id');
 
-    $overlay.css("display", "block")
-            .css("top", scrollY + "px");
+    $overlay.css("display", "block");
+
+      if (window.innerWidth > 599)
+        $overlay.css("top", scrollY + "px");
+      else
+        $overlay.css("top", "0px");
+
+
     $body.addClass('noscroll');
 
     loadPic(parseInt(id, 10));
-
-    //prevent stupid scrolling on iphone
-    if (window.innerWidth <= 599) {
-      $body.on('touchmove', function(e) {
-        var touches = e.originalEvent.touches,
-            $el = $(e.target);
-
-        if (touches && touches.length) {
-          end = {x: touches[0].pageX, y: touches[0].pageY};
-        }
-
-        //TODO: replace true with detection for when it scrolls to bottom of div
-        if (($el.attr("id") !== "gallery" && $el.parents("#gallery").length === 0) || true) {
-          e.preventDefault();
-        }
-      });
-    }
   });
 
   $body.on('touchstart', function(e) {
@@ -181,8 +173,17 @@ $(function() {
     }
   });
 
+  $body.on('touchmove', function(e) {
+    var touches = e.originalEvent.touches,
+        $el = $(e.target);
+
+    if (touches && touches.length) {
+      end = {x: touches[0].pageX, y: touches[0].pageY};
+    }
+  });
+
   $body.on('touchend', function(e) {
-    if (end.x) {
+    if (end.x !== -1) {
       var deltaX = end.x - start.x;
 
       if (Math.abs(deltaX) > 50) {
@@ -230,6 +231,18 @@ $(function() {
       }
   };
 
-  //TODO: add animation when navigate
-  //TODO: fix resizing
+  var timeOut = null;
+  $(window).resize(function() {
+       if(timeOut != null) clearTimeout(timeOut);
+       timeOut = setTimeout(function() {
+          imgWidth = $container.width() * (window.innerWidth > 599 ? .30 : .47);
+
+          $('.img').each(function(i, img) {
+            var height = imgs[i].height / imgs[i].width * imgWidth;
+            $(img).height(height);
+          });
+
+          setGalleryHeight();
+       }, 100);
+    });
 });
