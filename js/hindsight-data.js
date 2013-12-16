@@ -25,7 +25,7 @@ var imgs = [
         height: 486,
         src: "j_bday.jpg",
         month: "jan",
-        desc: "SF Crew Dinners (this one's Jennelle's birthday at Z&Y). Lori's Diner. Denny's. Coco Bang. Cafe Chaat. Osha Thai. Mehfil."
+        desc: "SF Crew Dinners (Jennelle's birthday at Z&Y). Lori's Diner. Denny's. Coco Bang. Cafe Chaat. Osha Thai. Mehfil."
       },
       {
         width: 503,
@@ -325,6 +325,13 @@ var imgs = [
         video: "aS6x-nRLZEw",
         month: "jun",
         desc: "Electric Forest. Peace, love, respect, unity. Meijers run. Campsite setup. Yoga. Hemp bracelets. Forest lights. Sam Klass, Above and Beyond, String Cheese Incident, Pretty Lights. Countless other fantastic bands."
+      },
+      {
+        width: 662,
+        height: 318,
+        src: "toronto.jpg",
+        month: "jul",
+        desc: "Kimmy visit. This American Life. Loblaw exotic fruit buffet. Kimmy Timmy trial. UofT tour. Forbidden Island. Kensington. Despicable Me 2. ChaTime. Japanese Bar. Don't kill me Mr. Yao. Driving back is stupidest plan."
       },
       {
         width: 816,
