@@ -165,6 +165,9 @@ $(function() {
   $container.click(function(e) {
    var id = e.target.getAttribute('data-id');
 
+   if (!id)
+      return;
+
     $overlay.css("display", "block");
 
       if (window.innerWidth > 599)
