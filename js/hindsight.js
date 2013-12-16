@@ -168,7 +168,7 @@ $(function() {
     $overlay.css("display", "block");
 
       if (window.innerWidth > 599)
-        $overlay.css("top", scrollY + "px");
+        $overlay.css("top", (window.scrollY || window.pageYOffset) + "px");
       else
         $overlay.css("top", "0px");
 
