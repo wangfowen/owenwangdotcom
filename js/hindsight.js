@@ -10,6 +10,20 @@ $(function() {
       imgWidth = $container.width() * (window.innerWidth > 599 ? .30 : .47),
       start = {x: -1, y: -1},
       end = {x: -1, y: -1};
+  var month = {
+    "jan" : "January",
+    "feb" : "February",
+    "mar" : "March",
+    "apr" : "April",
+    "may" : "May",
+    "jun" : "June",
+    "jul" : "July",
+    "aug" : "August",
+    "sep" : "September",
+    "oct" : "October",
+    "nov" : "November",
+    "dec" : "December"
+  };
 
   var createEl = function(count) {
     var $el = $('<div></div>'),
@@ -52,7 +66,7 @@ $(function() {
 
   var setGalleryHeight = function() {
     var galHeight = 0,
-        padding = window.innerWidth > 599 ? 40 : 20;
+        padding = window.innerWidth > 599 ? 25 : 12;
 
     $('.gal-el').each(function() {
       var $this = $(this);
@@ -82,9 +96,12 @@ $(function() {
     $gallery.empty();
 
     var appendRest = function() {
-      $gallery.append($p = $('<p></p>')
-         .addClass('gal-el')
-         .attr("data-id", count)
+      $gallery.append($('<p></p>')
+           .addClass("month gal-el")
+           .text(month[img.month])
+        ).append($p = $('<p></p>')
+           .addClass('gal-el')
+           .attr("data-id", count)
        );
 
       if (img.link) {
