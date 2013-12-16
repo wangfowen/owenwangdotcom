@@ -69,7 +69,7 @@ var imgs = [
         src: "heavenly.jpg",
         month: "feb",
         big: true,
-        desc: "First Tahoe weekend. Car riddles. Hotel hot tub. Heavenly. Hotel search scramble. Chinese restaurant Happy Family. Four Lokos. Jack's pong persistence. Kirkwood. Bad Apple maps return navigation."
+        desc: "First Tahoe weekend. Car riddles. Hot tub. Heavenly. Hotel search scramble. Chinese restaurant Happy Family. Four Lokos. Jack's pong persistence. Kirkwood. Bad Apple maps return navigation."
       },
       {
         width: 648,
@@ -144,7 +144,7 @@ var imgs = [
         src: "crepes.jpg",
         video: "AhT9iF0tBjw",
         month: "mar",
-        desc: "Crepe party at Romain's. Die Young guitar duet. Khallil best rapper. Pho + editing day. Cord knockout harddrive death."
+        desc: "Crepe party at Romain's. Die Young guitar duet. Khallil best rapper. Pho + editing day. Power cord knockout harddrive death."
       },
       {
         width: 598,
@@ -210,14 +210,14 @@ var imgs = [
         height: 246,
         src: "alcatraz.jpg",
         month: "apr",
-        desc: "Overally great term at AppDynamics (Alcatraz for Intern Appreciation trip). <3 interns and food. Daryl honorary intern. Xbox, foosball, ping pong, all nighters. Lol Nicole + Naveen got 2.0-ed."
+        desc: "Overall great term at AppDynamics (Alcatraz for Intern Appreciation trip). <3 interns and food. Daryl honorary intern. Xbox, foosball, ping pong, all nighters. Lol Nicole + Naveen got 2.0-ed."
       },
       {
         width: 860,
         height: 645,
         src: "yosemite.jpg",
         month: "apr",
-        desc: "Yosemite. Chaos rendez-vous in Curry Village magically works out. Campground flooded, Mafia, car caravan to other site. Hilarious cop encounter. BBQ better than expected. Bridge stargazing, eyes in the forest. Umbrella game. Patrick the drunk caretaker. Upper Yosemite Falls hike."
+        desc: "Yosemite. Chaos rendez-vous in Curry Village magically works out. Campground flooded, Mafia, car caravan to other site. Yet another cop encounter. BBQ better than expected. Bridge stargazing, eyes in the forest. Umbrella game. Patrick the caretaker. Upper Yosemite Falls hike."
       },
       {
         width: 573,
@@ -256,7 +256,7 @@ var imgs = [
         src: "hawaii1.jpg",
         month: "apr",
         big: true,
-        desc: "Hawaii day 1. Free Mai Tais on flight. Khallil's baller crib. Cheeseburger in Paradise. Goal to eat a pineapple a day. Volleyball on beach. Crabs in rocks. Shore bird cook your own steak, awful karaoke. Stroll through the city, warm enough to sleep on the beach."
+        desc: "Hawaii day 1. Free Mai Tais on flight. Khallil's baller crib. Cheeseburger in Paradise. Goal to eat a pineapple a day. Volleyball on beach. Crabs in rocks. Shorebird, cook your own steak, awful karaoke. Stroll through the city, warm enough to sleep on the beach."
       },
       {
         width: 964,
@@ -278,7 +278,7 @@ var imgs = [
         src: "hawaii4.jpg",
         video: "66-ZREMJUc4",
         month: "may",
-        desc: "Hawaii day 4-5. Polynesian Cultural Center. Fishing ducks, poi, Kam spear toss, fireknife, fire show. Kahe Point Beach Park. Snorkeling, turtles, massive waves. Waterfall hike, nibbling fish. Yardhouse. Late night hotel wine chat. Limo. Forgetting Sarah Marshall. Airplane magazine drawings."
+        desc: "Hawaii day 4-5. Polynesian Cultural Center. Fishing ducks, poi, Kam spear toss, fireknife, fire show. Kahe Point Beach Park. Snorkeling, turtles, massive waves. Waterfall jump, nibbling fish. Yardhouse. Late night hotel wine. Limo. Forgetting Sarah Marshall. Airplane magazine drawings."
       },
       {
         width: 702,
@@ -324,14 +324,14 @@ var imgs = [
         big: true,
         video: "aS6x-nRLZEw",
         month: "jun",
-        desc: "Electric Forest. Peace, love, respect, unity. Meijers run. Campsite setup. Yoga. Hemp bracelets. Forest lights. Sam Klass, Above and Beyond, String Cheese Incident, Pretty Lights. Countless other fantastic bands."
+        desc: "Electric Forest. Peace, love, respect, unity. Meijers run. Campsite setup. Yoga. Hemp bracelets. Indescribably magical forest lights and displays. Sam Klass, Above and Beyond, String Cheese Incident, Pretty Lights. Countless other fantastic bands."
       },
       {
         width: 662,
         height: 318,
         src: "toronto.jpg",
         month: "jul",
-        desc: "Kimmy visit. This American Life. Loblaw exotic fruit buffet. Kimmy Timmy trial. UofT tour. Forbidden Island. Kensington. Despicable Me 2. ChaTime. Japanese Bar. Don't kill me Mr. Yao. Driving back is stupidest plan."
+        desc: "Kimmy visit. This American Life. Loblaw exotic fruit buffet. Kimmy Timmy trial. UofT tour. Forbidden Island. Kensington. Despicable Me 2. ChaTime. Japanese Bar. Don't kill me Mr. Yao. Driving back such a reckless plan."
       },
       {
         width: 816,
@@ -398,14 +398,14 @@ var imgs = [
         height: 645,
         src: "roomies.jpg",
         month: "aug",
-        desc: "An overall great term living with these lovely people. Roommate bonding time. Space race. Jason's microwave fire. The thermos-denting coconut."
+        desc: "A great term living with these lovely people. Roommate bonding time. Space race. Jason's microwave fire. The thermos-denting coconut."
       },
       {
         width: 360,
         height: 480,
         src: "last_toronto.jpg",
         month: "aug",
-        desc: "Last night in Canada. Molly Bloom post-last exam. Final goodbyes. Unfortunate Toronto directions. Dr. Horrible's Sing Along Roadtrip. Too many rounds, everyone at the bar hates us. Roof shenanigans."
+        desc: "Last night in Canada. Molly Bloom post-exam. Final goodbyes. Unfortunate Toronto directions. Dr. Horrible's Sing Along Roadtrip. Too many rounds, everyone at the bar hates us. Roof shenanigans."
       },
       {
         width: 500,
@@ -455,7 +455,7 @@ var imgs = [
         src: "rome.jpg",
         month: "aug",
         big: true,
-        desc: "Rome. Wolf head geocache. MARIO. Troll waiter. What are the odds? Fountain prom. Gelato bar. Bachelor Roberto. Free shot confusion. Alaskans hate Sarah Palin. Le bible, the whole year? Coliseum. Statue series. Pickpockets. Sistine Chapel. St Peter's Bascilia."
+        desc: "Rome. Wolf head geocache. MARIO. Troll waiter. What are the odds? Fountain prom. Gelato bar. Bachelor Roberto. Free shot confusion. Alaskans hate Sarah Palin. Le bible, the whole year? Coliseum. Statue series. Pickpockets. Sistine Chapel. St Peter's Basilica."
       },
       {
         width: 401,
@@ -505,7 +505,7 @@ var imgs = [
         src: "stopmotion.jpg",
         video: "zpHDinCA_oA",
         month: "sep",
-        desc: "How is this a ferry. Stop motion."
+        desc: "How is this a ferry."
       },
       {
         width: 487,
@@ -519,7 +519,7 @@ var imgs = [
         height: 512,
         src: "versaille.jpg",
         month: "sep",
-        desc: "Paris. Notre Dame. Obelisk. Cracked out hobo in sea of black. Tricky street signatures. Champs Elysse. McDonalds macaroons. Arc d'triomphe. Eiffel Tower. Rose bazooka. Chinese-Arabic restaurant. Opera House. Versailles. Chateau. Dance series."
+        desc: "Paris. Notre Dame. Obelisk. Cracked out hobo. Tricky street signatures. Champs Elysse. McDonalds macaroons. Arc d'triomphe. Eiffel Tower. Rose bazooka. Chinese-Arabic restaurant. Opera House. Versailles. Chateau. Dance series."
       },
       {
         width: 960,
@@ -599,7 +599,7 @@ var imgs = [
         height: 607,
         src: "madrid_park.jpg",
         month: "oct",
-        desc: "Park with Guillermo. Churro con chocolate, Forbidden garden fruit. No one wants to give us bikes. Almendro 13 rascos."
+        desc: "Park with Guillermo. Churro con chocolate. Forbidden garden fruit. No one wants to give us bikes. Almendro 13 rascos."
       },
       {
         width: 960,
