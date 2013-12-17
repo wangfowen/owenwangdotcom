@@ -338,7 +338,6 @@ a:hover, a:active {
     box-shadow: 0 0 16px rgba(0,0,0,0.75);
     -webkit-box-shadow: 0 0 16px rgba(0,0,0,0.75);
     -moz-box-shadow: 0 0 16px rgba(0,0,0,0.75);
-    -o-box-shadow: 0 0 16px rgba(0,0,0,0.75);
     transition: .3s transform;
     -webkit-transition: .3s -webkit-transform;
     -moz-transition: .3s -moz-transform;
@@ -409,31 +408,34 @@ a:hover, a:active {
       padding-bottom: 10px;
 
       li {
-        float: none;
-        margin: 10px 0;
+        margin: 10px;
         padding: 5px;
-        background-color: @darker;
+        background-color: @darkest;
         border-radius: 5px;
         -webkit-border-radius: 5px;
         -moz-border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.75);
+        -moz-box-shadow: 0 0 10px rgba(0,0,0,0.75);
+        width: 70px;
+      }
+
+      li, li:hover, li:active {
+        p {
+          display: none;
+        }
+
+        img {
+          opacity: 1;
+        }
+
+        span {
+          display: none;
+        }
       }
 
       #not-done {
         display: none;
-      }
-
-      li:hover, li:active {
-        p {
-          background-color: @darker;
-        }
-
-        img {
-          opacity: 0.6;
-        }
-
-        span {
-          color: @lighteneddarkest;
-        }
       }
     }
 
