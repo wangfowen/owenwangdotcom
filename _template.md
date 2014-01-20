@@ -1,8 +1,10 @@
 ---
 layout: post
 title: TITLE
+tagline: ""
 date: DATE
 published: false
+
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build 

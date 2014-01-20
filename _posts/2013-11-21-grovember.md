@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Grovember - Part 1"
+tagline: "A month of data collection on my life"
 date: 2013-11-21 00:00:00
 published: true
+
 ---
 
 It's that time of the year again. The month where men around the world cease 

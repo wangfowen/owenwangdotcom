@@ -1,0 +1,46 @@
+@font-face { font-family: Asap-Regular; src: url("/assets/Asap-Regular.otf"); } 
+
+@darker: #367CA9;
+@lightest: #9ED9FF;
+@light: #52BCFF;
+@darkest: #102632;
+@lighteneddarkest: #24546F;
+@dark: #4196CC;
+@posttext: #444;
+@darkertext: #222;
+@offwhite: #FCFDFE;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+html, body {
+  //background: url('/assets/bg_blue.png');
+  color: @posttext;
+  background-color: @dark;
+  font-weight: 300;
+  font-family: 'Asap-Regular', Verdana, sans-serif;
+  opacity: .99;
+  height: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: @darker;
+}
+
+a:hover, a:active {
+  color: @darkest;
+}
+
+#wrapper {
+  padding-top: 30px;
+}

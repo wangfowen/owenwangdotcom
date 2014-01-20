@@ -3,6 +3,7 @@ layout: post
 title: "A Brief Stint with Online Dating"
 date: 2013-08-03 00:00:00
 published: true
+
 ---
 
 Online dating's stigma has diminished significantly over the years. That phrase used to evoke images of pedophiles and creepers prowling the internet, but now it seems all the kids are doing it.

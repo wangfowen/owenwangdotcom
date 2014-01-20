@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Preface - Are You My Motherland?"
+tagline: "A series where I evaluate places I go"
 date: 2013-10-12 00:00:00
 published: true
+
 ---
 
 I have a history of uprooting and moving. Usually it's due to circumstance, on 

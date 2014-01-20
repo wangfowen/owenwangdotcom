@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Cottage Adventures"
+tagline: "A weekend to remember"
 date: 2013-08-01 00:00:00
 published: true
+
 ---
 
 I'm going to do a mix of vlogs and written blog posts when I'm in Europe. To test out embedded Youtube videos for that, here's one my friend Xuehai and I made for our cottage trip this past weekend.
