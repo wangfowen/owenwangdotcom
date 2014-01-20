@@ -9,9 +9,9 @@ published: true
 
 A soft tap on my shoulder awakens me from my nap. I groggily rise from the fetal 
 position I had assumed in the corner of the overcrowded train. Overlooking me is 
-a daunting bearded fellow. He stood at 6'6" at least; my Sherlock senses took 
-that to mean German descent. And based on the black brimmed cap plus navy blue 
-uniform, he must be the ticket collector.
+a daunting bearded fellow wearing a black brimmed cap and navy blue uniform. The 
+Sherlock in me concludes he must be the ticket collector. Standing at 6'6" at 
+least, probably German descent.
 
 I dig through my bag for my Eurail pass, a bit nervous as this is my first time 
 using it. When I give him the evidently unopened booklet, the towering man flips 
@@ -74,7 +74,7 @@ The following morning I return bright and early. This time I'm greeted by a
 fuller lady with dark brown hair. Like the other woman she betrays no emotions 
 in her face.
 
-I smugly demand, "Hi, I'd like to validate my pass."  
+I smugly request, "Hi, I'd like to validate my pass."  
 She glances at it and tersely declares, "The end date is written over. No one 
 will validate this."
 
@@ -86,11 +86,10 @@ many more trains I still have to take. Determined to not let this ruin my
 holiday, I remind myself that the worst case scenario is I just have to pay more 
 each trip, and push it out of my mind.
 
-My mood picks up through the day. Walking along a lake with a mountain range in 
-the backdrop is quite uplifting. There's a serene silence, the only sound being 
-the rhythmic crash of waves which filters out of mind. At sunset the colorful 
-sky blends with the shades of the rocks and water, meshing to make one 
-spectacular rainbow.
+My mood picks up through the day. Walking along a lake with mountains in the 
+backdrop is surprisingly uplifting. There's a serene silence, the only sound 
+being the rhythmic crash of waves. At sunset the colorful sky blends with the 
+shades of the rocks and water, meshing to make one spectacular rainbow.
 
 When I make my way back to my hostel that night, I stop by the train station 
 again. With a better state of mind and the worst case scenario narrowed to a 
@@ -107,7 +106,7 @@ is unchanged. I just have to make sure I don't write in the wrong usage days.
 I beam as he stamps his approval and let out a sigh of relief.
 
 I'm sure there's a moral here about having a positive attitude, perseverance, or 
-paying better attention, but I think the real lessons here is that good customer 
+paying better attention, but I think the real lesson here is that good customer 
 service reps are unsung heroes. People all have horror stories about customer 
 service, yet the ones that are greatly helpful are often taken for granted. The 
 power that man granted with a single stamp saved me from days of headache.
