@@ -41,20 +41,19 @@ roughly like this:
 
 <iframe class="iframe" id="inventory" src="/travel/inventory.html"></iframe>
 
-Be sure to keep the most important things you can't fit on yourself in your 
-inner-most bag pockets, and don't put valuables in your pants' butt pockets. 
-Pickpockets love it when you do.
+Be sure to keep valuables deep in your bag, and don't put anything of importance 
+in your pants' butt pockets. Pickpockets love it when you do.
 
 Clothes will be the biggest space hoarder. In order to minimize the quantity yet 
 still be ready for all weather conditions, consider bringing one of every type 
 of clothing and just layering up. The lightness makes up for being unfashionable 
 (this is probably why I'm still single).
 
-__Consider all possibilities when booking transportation.__ I try to avoid 
-flying whenever possible. They always try to get you with checking bags or other 
-fees and travel times are never nearly as short as advertised. You have to deal 
-with security, customs, and getting to the airport (which is always a ways out 
-of the city).
+__Consider all modes when booking transportation.__ I avoid flying whenever 
+possible.  They always try to get you with checking bags or other fees and 
+travel times are never nearly as short as advertised. You have to deal with 
+security, customs, and getting to the airport (which is always a ways out of the 
+city).
 
 Trains on the other hand are usually in the center of the city and you can just 
 hop on minutes before departure. If you're worried about the time loss, try 
