@@ -1,0 +1,14 @@
+---
+layout: default
+---
+    <meta name="description" content="Checklist for traveling">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/checklist.css">
+
+</head>
+<body onload="parent.resizeIframe(document.getElementById('checklist').scrollHeight, '{{page.id}}')">
+<form id="checklist">
+  {{ content }}
+</form>
+

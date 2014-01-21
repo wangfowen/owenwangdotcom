@@ -1,0 +1,30 @@
+@import "basic.less";
+
+body {
+  background: @offwhite;
+}
+
+.label {
+  display: block;
+  cursor: pointer;
+  line-height: 1.5em;
+
+  .checkbox {
+    height: 15px;
+    width: 15px;
+  }
+
+  .checkbox:checked {
+    background: none;
+  }
+
+  span {
+    margin-left: 6px;
+    color: #d62728;
+  }
+}
+
+.checkbox:checked  + span {
+  color: #23A127;
+  text-decoration: line-through;
+}

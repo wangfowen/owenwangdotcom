@@ -3,109 +3,117 @@ layout: post
 title: "Lean Traveling"
 tagline: "Guide to traveling with minimum stress"
 date: 2014-01-21 00:00:00
-published: false
+published: true
 
 ---
 
-If an interview ever asked me my biggest weakness, I'd probably walk out on the 
-spot. I could rant for days about how awful and pointless that question is for 
-judging candidates.
-
-But if I ever really had to give an answer, it'd be that I sometimes suck when 
-it comes to paying attention. My most recent trip alone I'd say cost myself an 
-extra $100 at least in lost belongings and misread / unread directions (link to 
-story). (Please still hire me employers, I'm very tedious when it comes to code 
-I promise).
+If an interview ever asked me my biggest weakness, I'd probably walk out on the spot. I could rant for days about how awful and pointless that question is for judging candidates. But if I ever really had to give an answer, it'd be that I sometimes suck at paying attention. This manifests in the form of occasional lost belongings and misread / [unread directions]({% post_url 2014-01-20-eurail-episode %}). (Please still hire me employers, I'm very tedious when it comes to code I promise).
 
 In order to make up for my carelessness, I try to keep myself organized with 
-lists and guides so there's less room for screwing up. Since traveling has been 
-a huge part of my life recently, I've made many lists for it. Here I've 
-aggregated them and I share my guidelines for traveling with minimum stress and 
-maximal fun. Most are probably obvious for seasoned travelers.
+lists and guides so there's less room for screw-ups. Since traveling has been a 
+major part of my life recently, I've made many lists for it. Here I've 
+aggregated ones that may be useful to others and I share my guidelines for 
+traveling with minimum stress and maximal fun.
 
-__Keep your plans as barebone as possible (Minimum viable plan) then iterate on 
-them.__
-The extent of my concrete plans are usually when will I get to a place, where 
-will I stay, and when will I leave. Though sometimes not even these. It may just 
-be the overpaid syndrome (link) talking but I find reservations get in the way. 
-I'm not saying to not plan. I tripadvisor places before I go and I ask friends 
-for recommendations. From those I make a list of everything that interests me, 
-  and estimate how many I can squeeze in a day, but I avoid reservations unless 
-  it's absolutely necessary.  You'll always hear about awesome things to do, new 
-  places to go, and even just meet new people who you may unexpectedly spend 
-  hours talking to when you're on the road so it's better to leave room for 
-  spontaneity. Some of my most enjoyable days were the ones where we met locals 
-  and they showed us around.  If you hear or see something interesting, do it 
-  and adjust your plan accordingly after. Many times I hear about something and 
-  plan to do it later, and over half the time it ends up not happening.  If you 
-  do make a list, don't expect to do everything on it and don't be disappointed 
-    when you don't.  This might just be a tip for myself. As people I went to 
-    Hawaii with can attest, I was big on check lists and doing everything on it. 
-    I've gotten a bit better at just relaxing and enjoying whatever is happening 
-    as it happens now. If you're on vacation, why bog myself down with negative 
-    emotions. And it comes down to would I really have traded any of the time I 
-    spent for something else that I don't actually know if I'd have enjoyed? The 
-    answer has always been no. 
+__Keep your plans as barebone as possible (minimum viable plan), then iterate on 
+them.__ The extent of my concrete plans are usually when will I get to a place, 
+where will I stay, and when will I leave. Sometimes not even these. It may just 
+be the [overpaid syndrome]({% post_url 2013-10-18-overpaid-syndrome %}) giving 
+me this mindset, but I find reservations get in the way.
 
-__Don't have any single points of failure.__ I use tripit to aggregate all my 
-hostel and transportation info but I also have a written copy of my itinerary 
-and key contacts for each. Keep photocopies of your passport and other important 
-documents in your bag and keep a small stash of emergency money just in case you 
-get robbed (knock on wood). 
+I'm not saying to not plan things to do. I Tripadvisor places before I go and 
+ask friends for recommendations. One or the other will usually inform me if I 
+absolutely need a reservation. From the suggestions I make a list ordered by my 
+interest, then try to do as many as I can. Along the way you'll hear about great 
+new things to do, places to go, or sometimes you'll just meet new people you 
+unexpectedly spend hours talking to. If you don't have a strict timetable to 
+follow, you have the room to be spontaneous. And as long as I followed my list, 
+I know I did the things that interested me most with the time I had so there's 
+no regrets.
 
-__Minimize belongings.__ There are very few things you actually _need_. 
-Everything I consider vital for my travels I carry on my person - passport, 
-phone, wallet. Whenever I go anywhere I just do a pat down and I know I'm good 
-to go. If I lose anything else the trip can still go on. Other important things 
-you can't fit on your person keep in the inner most pockets of your bags and 
-don't keep anything important in your back pockets. Pick pockets love it when 
-you do.  Clothes will be the biggest space hoarder. In order to minimize clothes 
-yet still be ready for all weathers, consider bringing one of every type of 
-clothing and just layer up. This is probably why I'm single, but when I'm 
-traveling, looking good is not my primary concern.
-Checklist of things to not forget before you leave
-- make list an I frame that can be shared separately. checkbox red when not 
-  done. Green when done. Strike through when done. 
+__Don't have any single points of failure.__ I use Tripit to aggregate all my 
+hostel and transportation info, but I also have a written copy of my itinerary 
+and key contacts for each in case I lose my phone or run out of battery. Keep 
+photocopies of your passport and other important documents in your bag and 
+maintain a small stash of emergency money just in case you get robbed (knock on 
+wood).
 
-__Consider all possibilities when booking transportation.__
-Flying may seem to be the fastest method, but airports are completely broken. 
-Security, customs, and the fact that airports are always out of the city make 
-times not nearly as short as advertised. Trains on the other hand are usually in 
-the center of the city and you can just hop on minutes before departure. If 
-you're worried about the time loss, try overnight ones, so you don't lose travel 
-time and even save on costs for a night of stay.  Advice for trains in Europe: 
-Eurail is great when you use it properly. You can essentially hop on any train, 
-show the pass, and be good to go. You have to pay extra for reservations, so 
-it's as if they're encouraging you to be more spontaneous with plans! Overnight 
-trains often require a reservation though, and ones in France aren't worth 
-getting reservations as they cost almost as much as the full price. You might as 
-well buy the tickets from scnf if you really want things pre-booked.
-Buses don't have beds but often are the cheapest. If you pass out cold no matter 
-the sleeping position, this is a good one also.  Shorter distances there's 
-blablacar as well. Link to Jamie's article
+As a sidenote, I mentioned a couple of apps above that I use to make traveling 
+easier. My friend Jamie actually wrote an article highlighting some good ones.  
+If you're interested check it out 
+[here](http://jamie-wong.com/2013/11/28/technological-guide-to-eurotripping/){:target="_blank"}.
 
-Checklist of things to double check when buying tickets:
-Make sure booked for right day right am/pm right date in the right system
-Make sure booked in right direction
-Make sure booked for right place and not similarly named place
-Check different sources. Eurail is awful for France
+__Minimize belongings.__ There are very few things you actually _need_. All that 
+I consider vital I carry on my person -- passport, phone, wallet. That way 
+whenever I worry if I lost something, I just do a TSA pat down of myself and I 
+know I'm good to go. If I lost anything else, the trip can still go on at least.
+
+Whenever I check out of a hostel, I do a more thorough screening with a list 
+roughly like this:
+
+<iframe class="iframe" id="inventory" src="/travel/inventory.html"></iframe>
+
+Be sure to keep the most important things you can't fit on yourself in your 
+inner-most bag pockets, and don't put valuables in your pants' butt pockets. 
+Pickpockets love it when you do.
+
+Clothes will be the biggest space hoarder. In order to minimize the quantity yet 
+still be ready for all weather conditions, consider bringing one of every type 
+of clothing and just layering up. The lightness makes up for being unfashionable 
+(this is probably why I'm still single).
+
+__Consider all possibilities when booking transportation.__ I try to avoid 
+flying whenever possible. They always try to get you with checking bags or other 
+fees and travel times are never nearly as short as advertised. You have to deal 
+with security, customs, and getting to the airport (which is always a ways out 
+of the city).
+
+Trains on the other hand are usually in the center of the city and you can just 
+hop on minutes before departure. If you're worried about the time loss, try 
+overnight ones. Those also save you a night of stay.
+
+If you're looking for something even cheaper and you can pass out cold no matter 
+the sleeping position, buses are the way to go. Another cheap one is 
+ridesharing, though I don't have experience with it.
+
+When booking tickets for transportation, make sure you've got all the 
+information right. Being stuck somewhere because of a silly mistake is no fun. 
+Here's a checklist to make sure you don't mess up. I (or other friends) have had 
+the unfortunate pleasure of getting these things wrong:
+
+<iframe class="iframe" id="tickets" src="/travel/tickets.html"></iframe>
 
 __Give yourself wiggle room.__ If you minimized the amount of plans set in 
-stone, you also have less deadlines. But things like flights can't be avoided. 
-My general rule of thumb is be at a train station 30 min prior to departure if 
-not retrieving ticket (sometimes they do crazy things like not show your stop if 
-it's not the final destination or have a different train number if the train 
-splits into parts transformers-style halfway through), 1 hour when retrieving, 1 
-hour for flights within the EU or within a nation. International flights 2 hours 
-prior. It may seem like wasted sight seeing time but I can't imagine a bigger 
-waste of time and money than missing your ride. And there are plenty of ways you 
-can entertain yourself while waiting. Like write guides.
+stone, you also have less deadlines. Inevitably you will still have some, like 
+flights. Make sure you have room for error when trying to catch them. My general 
+rule of thumb is to be early by:
 
-__Venture farther out for food__. Not only do you get more authentic food, also 
-better for your wallet. Graph of  distance vs old ness and how that affects 
-quality/cheapness of food 
+- 30 minutes for trains where you're not retrieving tickets at the station. 
+Sometimes they do crazy things like not show your destination on the signs if 
+it's not the final stop, or have a different number listed if the train splits 
+Transformers-style off to different routes
+- 1 hour when retrieving tickets at the station
+- 1 hour for flights within the EU or within a nation
+- 2 hours for international flights
 
-__Lastly, enjoy yourself!__ after you travel for extended periods, bad things 
-may happen. Stuff gets stolen, people are racist. Try to stay positive and not 
-let them get you down. You're seeing a new place! It's amazing! As said before, 
-as long as you still have your wallet and passport, everything is manageable. 
+It may seem like wasted sight seeing time but I can't imagine a bigger waste of 
+time and money than missing your ride. And there are plenty of ways you can 
+entertain yourself while waiting. Like write guides.
+
+__Venture farther out for food__. Not only do you get more authentic food when 
+you do this, you also get cheaper food. Touristy spots don't just trap people, 
+they also trap wallets. You can think of it as a linear plot -- the greater your 
+distance from the city center, the cheaper and more local of cuisine you'll 
+find.
+
+__Lastly, enjoy yourself!__ The longer you travel, the more likely it is that 
+bad things may happen. Stuff get stolen, people act racist or sexist. Try to 
+stay positive and not let them get you down. You're somewhere new! It's exciting 
+and amazing! No point filling it with bad memories. Remember, as long as you 
+still have your wallet and passport, everything is manageable.
+
+<script>
+  function resizeIframe(height, id) {
+    document.getElementById(id).style.height = parseInt(height, 10) + "px";
+  }
+</script>
