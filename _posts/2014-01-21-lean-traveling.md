@@ -9,11 +9,11 @@ published: true
 
 If an interview ever asked me my biggest weakness, I'd probably walk out on the spot. I could rant for days about how awful and pointless that question is for judging candidates. But if I ever really had to give an answer, it'd be that I sometimes suck at paying attention. This manifests in the form of occasional lost belongings and misread / [unread directions]({% post_url 2014-01-20-eurail-episode %}). (Please still hire me employers, I'm very tedious when it comes to code I promise).
 
-In order to make up for my carelessness, I try to keep myself organized with 
-lists and guides so there's less room for screw-ups. Since traveling has been a 
-major part of my life recently, I've made many lists for it. Here I've 
-aggregated ones that may be useful to others and I share my guidelines for 
-traveling with minimum stress and maximal fun.
+In order to make up for my carelessness, I try to stay organized with lists and 
+guides, leave less room for screwing up. Since traveling has been a major part 
+of my life recently, I've made many lists for it. Here I've collected ones that 
+may be useful to others as well as my guidelines in general for traveling with 
+minimum stress and maximal fun.
 
 __Keep your plans as barebone as possible (minimum viable plan), then iterate on 
 them.__ The extent of my concrete plans are usually when will I get to a place, 
@@ -23,13 +23,13 @@ me this mindset, but I find reservations get in the way.
 
 I'm not saying to not plan things to do. I Tripadvisor places before I go and 
 ask friends for recommendations. One or the other will usually inform me if I 
-absolutely need a reservation. From the suggestions I make a list ordered by my 
-interest, then try to do as many as I can. Along the way you'll hear about great 
-new things to do, places to go, or sometimes you'll just meet new people you 
-unexpectedly spend hours talking to. If you don't have a strict timetable to 
-follow, you have the room to be spontaneous. And as long as I followed my list, 
-I know I did the things that interested me most with the time I had so there's 
-no regrets.
+absolutely need a reservation. From the suggestions I create a list ordered by 
+my interest, then make my way through it. Along the way when I hear about great 
+new things to do or places to go, I can put the list on pause. If you don't have 
+a strict timetable to follow, you have the room to be spontaneous. Sometimes you 
+may even spend hours just talking to some new people you met; some of my best 
+memories consist simply of that. And as long as I followed my list, I know I did 
+the things that interested me most with the time I had so there's no regrets.
 
 __Minimize belongings.__ There are very few things you actually _need_. All that 
 I consider vital I carry on my person -- passport, phone, wallet. That way 
@@ -85,8 +85,8 @@ If you're interested check it out
 
 __Give yourself wiggle room.__ If you minimized the amount of plans set in 
 stone, you also have less deadlines. Inevitably you will still have some, like 
-flights. Make sure you have room for error when trying to catch them. My general 
-rule of thumb is to be early by:
+flights. Make sure you have room for error when trying to catch them. My rule of 
+thumb is to be early by:
 
 - 30 minutes for trains where you're not retrieving tickets at the station. 
 Sometimes they do crazy things like not show your destination on the signs if 
