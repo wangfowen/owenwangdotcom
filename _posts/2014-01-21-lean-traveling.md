@@ -31,18 +31,6 @@ follow, you have the room to be spontaneous. And as long as I followed my list,
 I know I did the things that interested me most with the time I had so there's 
 no regrets.
 
-__Don't have any single points of failure.__ I use Tripit to aggregate all my 
-hostel and transportation info, but I also have a written copy of my itinerary 
-and key contacts for each in case I lose my phone or run out of battery. Keep 
-photocopies of your passport and other important documents in your bag and 
-maintain a small stash of emergency money just in case you get robbed (knock on 
-wood).
-
-As a sidenote, I mentioned a couple of apps above that I use to make traveling 
-easier. My friend Jamie actually wrote an article highlighting some good ones.  
-If you're interested check it out 
-[here](http://jamie-wong.com/2013/11/28/technological-guide-to-eurotripping/){:target="_blank"}.
-
 __Minimize belongings.__ There are very few things you actually _need_. All that 
 I consider vital I carry on my person -- passport, phone, wallet. That way 
 whenever I worry if I lost something, I just do a TSA pat down of myself and I 
@@ -82,6 +70,18 @@ Here's a checklist to make sure you don't mess up. I (or other friends) have had
 the unfortunate pleasure of getting these things wrong:
 
 <iframe class="iframe" id="tickets" src="/travel/tickets.html"></iframe>
+
+__Don't have any single points of failure.__ I use Tripit to aggregate all my 
+hostel and transportation info, but I also have a written copy of my itinerary 
+and key contacts for each in case I lose my phone or run out of battery. Keep 
+photocopies of your passport and other important documents in your bag and 
+maintain a small stash of emergency money just in case you get robbed (knock on 
+wood).
+
+As a sidenote, I mentioned a couple of apps above that I use to make traveling 
+easier. My friend Jamie actually wrote an article highlighting some good ones.  
+If you're interested check it out 
+[here](http://jamie-wong.com/2013/11/28/technological-guide-to-eurotripping/){:target="_blank"}.
 
 __Give yourself wiggle room.__ If you minimized the amount of plans set in 
 stone, you also have less deadlines. Inevitably you will still have some, like 
