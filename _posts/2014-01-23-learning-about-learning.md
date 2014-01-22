@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning About Learning"
-date: 2014-01-24 00:00:00
+date: 2014-01-23 00:00:00
 published: false
 
 ---
