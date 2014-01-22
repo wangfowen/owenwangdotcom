@@ -18,9 +18,9 @@ I'd still at least be available on one chat program or another. I realized from
 [Grovember]({% post_url 2013-12-05-grovember-2 %}) that this was part of why I 
 wasted so much time -- I was always online because I _needed_ companionship.
 
-When I first began my solo travels, my survival instincts made me join strangers 
-(the opposite of what normal people do I assume). As an ambivert, even though I 
-desired company, I was still painfully shy, making talking to strangers 
+When I first began my solo voyages, my survival instincts pushed me to join 
+strangers (the opposite of what normal people do I assume). As an ambivert, even 
+though I desired company, I was still painfully shy, making talking to strangers 
 difficult.
 
 A friend and I did an experiment a couple years back where we tried to talk to 
@@ -50,12 +50,11 @@ about their passions. The less I have in common with someone, the more I can
 learn from them!
 
 So it seemed I was coping fine with traveling alone by still never really being 
-on my own. This changed during my Christmas trip however. It seemed all factors 
-were against me. Being the holiday season, the walking tour and pub crawls 
-weren't running, and everyone in my room were couples. All my avenues for 
-meeting people had vanished. What was I to do? I was forced to be alone for 
-once.  And not the kind one does for a couple hours in an afternoon. Actually 
-alone.
+on my own. This changed during my Christmas trip however. All factors were 
+against me. Being the holiday season, the walking tour and pub crawls weren't 
+running, and everyone in my room were couples. All my avenues for meeting people 
+had vanished. What was I to do? I was forced to be alone for once.  And not the 
+kind one does for a couple hours in an afternoon. Actually alone.
 
 At first there was slight panic as I tried to keep myself occupied and to not 
 think about it. But then I realized the feeling wasn't so bad. I didn't actually 
