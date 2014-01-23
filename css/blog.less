@@ -116,10 +116,12 @@
   }
 
   .posts {
+    width: inherit;
+    margin-left: -70px;
+
     li {
-      margin-left: -70px;
-      margin-right: -70px;
       padding: 20px 70px;
+      width: 100%;
 
       a p {
         display: block;
@@ -225,6 +227,14 @@
   .blog {
     padding: 20px;
     width: 100%;
+
+    .posts {
+      margin-left: 0;
+
+      li {
+        padding: 20px;
+      }
+    }
   }
 }
 
