@@ -106,11 +106,11 @@ I dove into the deep end and just did them. I told myself I had to start
 somewhere and it's normal to suck at first. You have to suck before you can get 
 good. Otherwise we'd all be masters at everything.  One of the skills on my list 
 was oral French. I joined a club where you speak with fluent francophones and I 
-purchased a couple French movies. And sure enough I sucked. Even after weeks I 
-still couldn't hold real conversations. There were gradual improvements, but it 
-took huge tolls on my ego and confidence. I constantly felt frustrated with my 
-failures and wanted to quit. I switched to speaking more English and considered 
-leaving the club. Why did I do these things anyways?
+purchased a couple of French movies. And sure enough I sucked. Even after weeks 
+I still couldn't hold real conversations. There were gradual improvements, but 
+it took huge tolls on my ego and confidence. I constantly felt frustrated with 
+my failures and wanted to quit. I switched to speaking more English and 
+considered leaving the club. Why did I do these things anyways?
 
 I eventually arrived at the conclusion that it was because they interested me, 
 and this got me thinking that perhaps there's an overlap between learning skills 
@@ -141,8 +141,9 @@ thought to how to make them better. This time I focused on knife skills,
 plating, getting meat to the perfect tenderness, and expanding my repertoire of 
 sauces. To practice knife skills on its own, I read up on professionals'
 techniques and bought weeks worth of spring onions at once and chopped them to 
-oblivion.  My confidence rose and learning became fun. It seems there's a pretty 
-thin line between learning being fun and it being frustrating.
+oblivion, stopping after every batch to dissect my technique. My confidence rose 
+and learning became fun. It seems there's a pretty thin line between learning 
+being fun and it being frustrating.
 
 Since the methodology got revised, I applied it back to academics. That is, 
 instead of cramming, doing a bit every day and analyzing where I have to 
