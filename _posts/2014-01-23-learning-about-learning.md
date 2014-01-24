@@ -141,8 +141,8 @@ __Now, learning is doing things habitually in manageable steps and
 reflecting on how to improve along the way. I do it for the sake of learning.__
 
 I'm sure not everyone had to go through the steps that I did to reach this final 
-conclusion, but it makes me wonder if there a way to teach people -- like me 
+conclusion, but it makes me wonder if there's a way to teach people -- like me 
 back in the day -- who don't want to learn. Is there a way to help them reach 
-the mindset to want to learn? Looking back it's a shame that I wasted all those 
+the mindset to want to learn? Looking back, it's a shame that I wasted all those 
 years. There's so much I want to know that I'm sure got taught to me back in 
 high school, but that I've since forgotten.
