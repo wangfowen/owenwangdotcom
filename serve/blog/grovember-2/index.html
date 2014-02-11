@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Grovember - Part 2</title>
+        <meta name="robots" content="index, follow">
+        <meta name="keywords" content="owen wang developer full stack student waterloo">
+        <meta name="author" content="Owen Wang 2013">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+        <link rel="Shortcut Icon" href="/assets/icon.ico" />
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+        <![endif]-->
+
+      
+  <meta name="description" content="Graphs and stats from the data collection">
+
+  <!-- syntax highlighting CSS -->
+  <link rel="stylesheet" href="/css/syntax.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/blog.css">
+</head>
+<body>
+<div id="wrapper">
+  <div class="blog">
+    <a class="head-links" href="/">home</a>
+    <a class="head-links" href="/blog">blog</a>
+    <div class="header">
+      <h2>Grovember - Part 2</h2>
+      <p class="meta">04 Dec 2013</p>
+    </div>
+
+    <div class="post">
+    <link rel="stylesheet" href="/css/grovember.css" />
+
+<p><em>This article is best viewed on a modern browser or in landscape mode on a 
+mobile device. Sorry, no love here for IE6.</em></p>
+
+<p>Grovember has officially come to an end. With over a month’s worth of data 
+collected, perhaps now I can gain some insights on my life. And of course, what 
+fun would those be if they didn’t come with some foxy graphs!</p>
+
+<h2 id="where-is-my-time-going">Where is my time going?</h2>
+
+<div class="graph" id="category-pie"></div>
+
+<p>As you may recall from <a href="#">Part 1</a>, my primary 
+goals were programming, practicing French, and traveling. It appears I’m doing 
+alright with that last one (<strong>traveling takes up about 15% of my time</strong>), and 
+not so hot with the rest. Sleep is inevitable, but I can work on cutting out “no 
+goal”. In fact, I have a sneaking suspicion that as this experiment progressed 
+and I became more and more aware of where my time went, my wasted time 
+decreased.  Let’s see if the data agrees.</p>
+
+<div class="graph" id="waste-line"></div>
+
+<p>The first week was our half-term break, so all the serious business traveling 
+left no time to be wasted. After that, “no goal” spiked and indeed gradually 
+came back down week by week.</p>
+
+<p>“No goal” as the name implies means anything that doesn’t achieve a goal of 
+mine. This includes the range from grocery shopping to stalking people on 
+Facebook, so not all of it can be completely removed – Facebook is vital for 
+survival. If I want to make room for more goal-oriented work, for sure the first 
+place to look for change is within my internet browsing habits. Here’s a graph 
+of how that breaks down:</p>
+
+<div class="graph" id="internet-bar"></div>
+
+<p>My Facebook usage is frankly atrocious. I don’t even know what I do on there all 
+day. Facebook has been called <a href="http://oznathan.quora.com/Facebook-is-the-21st-century-tech-equivalent-of-cigarettes-And-now-I-can-finally-prove-it" target="\_blank">the tech equivalent of 
+cigarettes</a>, 
+which just goes to show that if I ever got into smoking, I’d be a hopeless 
+addict.</p>
+
+<h2 id="digging-deeper-to-deeper-sleep">Digging Deeper to Deeper Sleep</h2>
+
+<p>My most time-consuming category is sleep by a long shot. <strong>Sleep accounts for 
+34% of my time.</strong> As far as I can tell sleeping for a third of our lives is 
+normal, so I don’t want to jeopardize my health by doing less of it. But maybe I 
+could do “better” at it.</p>
+
+<p>With <a href="http://www.sleepcycle.com/" target="\_blank">Sleep Cycle</a> I track my 
+quality of sleep. I haven’t felt a noticeable difference on the days I 
+supposedly had higher quality sleep, but it probably wouldn’t hurt to figure out 
+how I can optimize for it.</p>
+
+<p>In this month I <strong>slept both the most and the best on Tuesdays</strong>. I <strong>slept the 
+worst on Saturday and the least on Sunday</strong>. On average I <strong>slept 7.6 hours per 
+day</strong>.</p>
+
+<p>In the usual case, more sleep equals higher quality sleep. Therefore 
+observations based on the quality alone aren’t particularly useful. Any trends 
+may just be due to me sleeping more – it makes more sense to use the ratio of 
+amount of sleep to quality of sleep and see what factors affect that. I found 
+the following factors to be correlated with a change in the ratio:</p>
+
+<div class="graph" id="sleep-diff"></div>
+
+<p>I expected all of those except for drinking coffee. I was convinced caffeine 
+would negatively affect sleep. Well, coffee-drinkers rejoice! Yet another reason 
+to brew that morning roast.</p>
+
+<p>We see now what affects sleep, but what does sleep affect? If I’m going to be 
+spending so much time on it, it better be doing something for me. I want my 
+money’s worth.</p>
+
+<p>I wondered if I lazed around and wasted more time when I wasn’t well rested, and 
+if I was more social when I was well rested. I plotted my sleep along with the 
+  amount of goal-less hours and time I spent with other people. I considered 
+  adding the sleep-quality ratio, but I didn’t know how to normalize the data in 
+  a way that wouldn’t cause statisticians to commit genocide.</p>
+
+<p><em>If the graph is too cluttered to read, you can click on the legend to hide some 
+of the lines.</em></p>
+
+<div class="graph" id="sleep-line"></div>
+
+<p>You may have noticed some days labeled as polyphasic. That means I either 
+embraced the European culture of siestas or I took naps to compensate for a long 
+night, so the hours of sleep listed are a sum of several smaller sessions. They 
+are more likely to be outliers.</p>
+
+<p>Looking at the graph, it seems the no goal curve roughly follows the sleep 
+curve, and the socialization curve is the inverse of it. Not what I expected at 
+all. It might just mean that more sleep time is less social time, as opposed to 
+a direct effect. And it is worth keeping in mind that hours surrounded by people 
+don’t necessarily equate to sociability. The no goal part of that, I have no 
+explanation.</p>
+
+<p>As for sleep quality, no goal follows its curve at first, then becomes the 
+inverse near the end of the month. I’m going to rule that as a no relation and I 
+just surged with productivity near the end of the month or something.</p>
+
+<p>So the conclusion seems to be sleep has no impact on neither my hours of 
+socialization nor hours wasted. I suspect it affects more so moods during those, 
+which I unfortunately don’t have any metrics to back up.</p>
+
+<h2 id="my-social-network">My Social Network</h2>
+
+<p>The second major activity on my charts is socializing. This includes everything 
+from <a href="http://xkcd.com/920/" target="\_blank">YouTube parties</a> to grabbing a 
+pint at a bar.</p>
+
+<p>There’s not much to analyze here, but the numbers interest me. <strong>54% of my 
+waking hours I spent with other people</strong>. Here’s who I spent those hours with:</p>
+
+<div class="graph" id="people-pie"></div>
+
+<p>As mentioned in Part 1, most are likely to be overestimates. I still don’t have 
+a simple yet accurate way of recording my time with people.</p>
+
+<p><strong>47% of days that involved socializing also involved drinking</strong>. I <strong>socialized 
+the most on Fridays and the least on Tuesdays</strong>. I <strong>drank most often on 
+Thursday and Friday</strong>.</p>
+
+<h2 id="part-3">Part 3?</h2>
+
+<p>I didn’t get conclusive answers on some of the deeper questions. One month’s 
+stats weren’t enough to yield patterns. Therefore I’m going to keep up the data 
+collection for another while longer and analyze again in a month or two. If I 
+get some fascinating new findings I’ll make another post, but most likely it 
+won’t be worth sharing. Who knows. With the insights from this, I may experience 
+drastic changes.</p>
+
+<p>I’m considering adding more daily measurements as well – my mood, my focus, 
+etc. But those are very subjective, and can vary too much throughout the day, so 
+it’d be hard to get an accurate depiction. I’ve seen <a href="http://tagti.me">TagTime</a> 
+and <a href="http://www.reporter-app.com/">Reporter</a> but I don’t think those are the 
+solutions for me. I’d rather not be attached at the hips to my phone, and they 
+seem like massive focus-breaking context switchers. If anyone knows of other 
+solutions, I’d be happy to hear about them. I can be reached <a href="https://twitter.com/wangfowen">via 
+Twitter</a>.</p>
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/js/grovember-data.js"></script>
+
+<script type="text/javascript" src="/js/grovember.js"></script>
+
+
+    </div>
+    <hr>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'owenwang'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+  </div>
+</div>
+<div id="overlay">
+  <div id="content"></div>
+
+  <div id="close">×</div>
+  <div class="arrow" id="left"><</div>
+  <div class="arrow" id="right">></div>
+</div>
+
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-21006888-1']);
+      _gaq.push(['_setDomainName', '.owenwang.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    </body>
+</html>

@@ -19,11 +19,11 @@ Security was non-existent. As in there literally was not a customs officer in
 the booth and I just walked straight through. I may have become an illegal 
 alien? Oops.
 
-There's [a 
-study](http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?pagewanted=all){:target="_blank"} 
-that says:
+There's [a study](http://www.nytimes.com/2012/08/19/opinion/sunday/why-waiting-in-line-is-torture.html?pagewanted=all){:target="_blank"} that says:
 
-> Often the psychology of queuing is more important than the statistics of the wait itself... Occupied time (walking to baggage claim) feels shorter than unoccupied time (standing at the carousel)
+> Often the psychology of queuing is more important than the statistics of the 
+wait itself... Occupied time (walking to baggage claim) feels shorter than 
+unoccupied time (standing at the carousel)
 
 Romans don't seem to care about the psychological welfare of visitors. It takes 
 just a couple minutes to reach baggage claim, and then you get this wait:
@@ -45,11 +45,7 @@ ago, I don't know what is.
 
 ## Signs ##
 
-I found my way around quite easily with my handy [maps 
-app](http://mapswith.me/en/home). I don't know how I'd have managed without it, 
-since each street corner has at most one sign designating the intersecting road 
-and often none for the one you're on.  Why don't they budget for more street 
-signs you ask? Probably because they all look like this:
+I found my way around quite easily with my handy [maps app](http://mapswith.me/en/home). I don't know how I'd have managed without it, since each street corner has at most one sign designating the intersecting road and often none for the one you're on.  Why don't they budget for more street signs you ask? Probably because they all look like this:
 
 {% image /images/rome_sign.jpg "Carved in stone, mounted on the side of buildings" %}
 
@@ -77,14 +73,14 @@ If after a couple days you want something aside from pizza and pasta, tough
 luck. People there basically only eat Italian food, and in the purest sense of 
 the word at that. It's great that they really pride in and love their cuisine, 
 but I personally like having some variety after a while. There's hardly any 
-other culture's foods, and you won't find deep dish pizzas or cheesy crust. 
+other culture's foods, and you won't find deep dish pizzas or cheesy crust.  
 Blasphemy right? All the pizzas are thin, comparatively healthy, with 
 minimalistic ingredients. You feel better about yourself eating them and you can 
 really taste all the ingredients, yet I still prefer the greasy ones you'd find 
 in North America. Maybe I've been brainwashed. I love the crazy gimmicks like 
 Butter Chicken flavor.
 
-I have come to quite enjoy pizzas with an egg cooked in the middle of it though. 
+I have come to quite enjoy pizzas with an egg cooked in the middle of it though.  
 That was new to me and it's apparently an Australian favorite.
 
 {% image /images/rome_pizza.jpg "The place we ate at called it a Rustica" %}

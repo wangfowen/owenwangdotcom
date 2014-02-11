@@ -32,7 +32,7 @@ we're in their country and they're speaking our language. Had I tried talking to
 them in their native language, the exchange would solely consist of greetings.
 
 Even in French, the language I've had 12 years of schooling for, I would not be 
-able to keep up a conversation the way these people with "poor English" did. 
+able to keep up a conversation the way these people with "poor English" did.  
 People have to speak slower for me to understand and I'm sure to them my French 
 sounds just as grammatically broken if not worse. Mostly I blame my lack of 
 effort and motivation, but I also see fault in the North American education 

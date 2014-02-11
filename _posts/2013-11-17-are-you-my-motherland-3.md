@@ -43,7 +43,7 @@ At the same time the city has no lack of modern structures. Supposedly large
 parts of the city have been burned down and reconstructed (the city hall has 
 burned down twice), so it must have been easy to make way for the new. Germans 
 may be the most well known for design, but the Danish can't be far behind in 
-ranks.  Some of the sleek architecture...  especially placed next to the 
+ranks.  Some of the sleek architecture... especially placed next to the 
 castles... Oof.
 
 ## Signs ##
@@ -138,11 +138,7 @@ here in a mathematically accurate graph:
 
 ## Verdict ##
 
-I learned after my visit that Denmark is considered the [happiest 
-country](http://www.huffingtonpost.com/2013/10/22/denmark-happiest-country_n_4070761.html){:target="_blank"} 
-on Earth and Copenhagen the [most underrated 
-city](http://www.escapehere.com/destination/10-most-beautiful-and-underrated-cities-in-europe/10/){:target="blank"} 
-in Europe. Guess I'm not alone in appreciating it.
+I learned after my visit that Denmark is considered the [happiest country](http://www.huffingtonpost.com/2013/10/22/denmark-happiest-country_n_4070761.html){:target="_blank"} on Earth and Copenhagen the [most underrated city](http://www.escapehere.com/destination/10-most-beautiful-and-underrated-cities-in-europe/10/){:target="blank"} in Europe. Guess I'm not alone in appreciating it.
 
 If you couldn't tell already from my fan girl tone, my verdict is very much yes. 
 If I could make enough of a living there and my friends came with, I would move 
