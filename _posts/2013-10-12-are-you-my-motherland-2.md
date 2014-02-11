@@ -5,10 +5,9 @@ date: 2013-10-12 00:00:00
 published: true
 ---
 
-_In this [on-going series]({% post_url 2013-10-12-are-you-my-motherland %}) I 
-examine some cities I've visited and what I've experienced to be different about 
-them in the hopes of finding pride in my old homes or discovering a new place to 
-call home._
+_In this [on-going series](/blog/are-you-my-motherland) I examine some cities 
+I've visited and what I've experienced to be different about them in the hopes 
+of finding pride in my old homes or discovering a new place to call home._
 
 Roma, the city that kicked off our travels. Let us looketh at thy main 
 distinctions.

@@ -57,9 +57,9 @@ the end I have enough landscapes for a photographer to climax.
 
 Looking at that, I just toured the cities. I didn't actually travel or live 
 them. The extent of what I did to stray off the typical tourist track is [seek 
-out hole-in-wall restaurants]({% post_url 2014-01-21-lean-traveling %}), avoid 
-touristy museums, and go out of my way to talk to other travelers / locals. That 
-makes me more of a hipster tourist than a traveler.
+out hole-in-wall restaurants](/blog/lean-traveling), avoid touristy museums, and 
+go out of my way to talk to other travelers / locals. That makes me more of a 
+hipster tourist than a traveler.
 
 So really I just caressed the faces of the cities. I can't righteously declare a 
 place livable after 3 days. Just like how I wouldn't marry a girl after just 3 

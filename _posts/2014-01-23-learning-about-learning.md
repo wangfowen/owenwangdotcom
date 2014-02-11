@@ -6,7 +6,7 @@ published: true
 
 ---
 
-People joke that studying abroad is just [time spent dicking around](http://www.theonion.com/articles/report-more-colleges-offering-dickaround-abroad-pr,18092/){:target="_blank"}.  This is not an entirely false portrayal as [my data]({% post_url 2013-12-05-grovember-2 %}) has demonstrated. Traveling, socializing, and wasting time far overshadowed studying. But that doesn't mean nothing was learned this term. Far from it actually; this has been one of my most educational semesters.  Not only did I learn a surprising amount of technical concepts given how little time I spent in class, I also gained many real world skills and values.
+People joke that studying abroad is just [time spent dicking around](http://www.theonion.com/articles/report-more-colleges-offering-dickaround-abroad-pr,18092/){:target="_blank"}.  This is not an entirely false portrayal as [my data](/blog/grovember-2) has demonstrated. Traveling, socializing, and wasting time far overshadowed studying. But that doesn't mean nothing was learned this term. Far from it actually; this has been one of my most educational semesters.  Not only did I learn a surprising amount of technical concepts given how little time I spent in class, I also gained many real world skills and values.
 
 Arguably the most important of the skills I've picked up is how to learn. 
 Learning is something we're always (or should always be) doing, and one can 

@@ -15,8 +15,8 @@ and being lonely were one and the same. My best studying was done in groups. I
 didn't have to actually be studying together with the others; people merely had 
 to be present. From the days of AIM and MSN and on, if I was holed up in my room 
 I'd still at least be available on one chat program or another. I realized from 
-[Grovember]({% post_url 2013-12-05-grovember-2 %}) that this was part of why I 
-wasted so much time -- I was always online because I _needed_ companionship.
+[Grovember](/blog/grovember-2) that this was part of why I wasted so much time 
+-- I was always online because I _needed_ companionship.
 
 When I first began my solo voyages, my survival instincts pushed me to join 
 strangers (the opposite of what normal people do I assume). As an ambivert, even 

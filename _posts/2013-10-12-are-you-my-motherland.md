@@ -69,6 +69,6 @@ for what they are. Perhaps doing this will help me find pride in somewhere. Or
 
 Below are cities I've written on:
 
-- [Rome]({% post_url 2013-10-12-are-you-my-motherland-2 %})
-- [Copenhagen]({% post_url 2013-11-17-are-you-my-motherland-3 %})
+- [Rome](/blog/are-you-my-motherland-2)
+- [Copenhagen](/blog/are-you-my-motherland-3)
 
