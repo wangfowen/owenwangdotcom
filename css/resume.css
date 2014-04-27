@@ -39,6 +39,10 @@ a:hover, a:active {
   color: #4D4B45;
 }
 
+.find {
+	font-weight: bold;
+}
+
 .info:hover {
   color: #000;
 }
@@ -215,6 +219,10 @@ article ul {
     color: #272822;
   }
 
+	strong, .find {
+		color: #000;
+	}
+
   a {
     color: #272822 !important;
     border-bottom: none !important;
@@ -223,6 +231,12 @@ article ul {
   #sidebar a {
     display: none;
   }
+
+	h1 .print:after {
+		display: block;	
+		font-size: 50%;
+		margin-top: 12px;
+	}
 
   .print:after {
     content: " (" attr(href) ")";
