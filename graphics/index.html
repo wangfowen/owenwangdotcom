@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Graphics Final Project</title>
+  <script src=
+    "https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+  </script>
+  <link rel="stylesheet" href="/css/basic.css">
+</head>
+<body>
+
+<h1>Bob-omb Raytracing</h1>
+
+<h2>Objective 1-3</h2>
+
+<img src="model.png"/>
+
+<p>I added the cylinder and torus primitives, implemented constructive solid geometry, and modeled the bob-ombs using the combination of those.</p>
+
+<p>The eyes are toruses intersected with the main body.</p>
+
+<p>The fuse is a torus with cubes differenced to cut off parts of it.</p>
+
+<p>The grey blasting cap is a cylinder intersected with a cone differenced with another cylinder at the top of the cone.</p>
+
+<p>The wind up key is two cylinders unioned with a cube, with two smaller cylinders differenced inside.</p>
+
+<p>Below is a better demonstration of the constructive solid geometry on its own:</p>
+
+<img src="csg.png" />
+
+<h2>Objective 4 and 7</h2>
+
+<img src="texture-back.png" />
+<img src="texture-reflect.png" />
+
+<h2>Objective 5</h2>
+
+<img src="nonhier-before.png" />
+<img src="nonhier-aa.png" />
+
+<h2>Objective 7</h2>
+
+<img src="nonhier-before.png" />
+<img src="nonhier-reflect.png" />
+
+<h2>Objective 10</h2>
+
+<img src="final-scene.jpg" />
+
+
+<h2>Extra Objective</h2>
+
+<p>Since I wasn't able to implement grid partitioning, I instead implemented multithreading to accelerate my raytracing. Below is the time it took to render macho-cows with 3x3 supersampling turned on for differing numbers of threads.</p>
+
+<div id="graph"></div>
+
+<script src="highcharts.js"></script>
+<script type="text/javascript">
+$(function () {
+  $('#graph').highcharts({
+      title: {
+          text: 'Render Time vs Number of Threads',
+          x: -20 //center
+      },
+      xAxis: {
+          title: {
+              text: 'Threads (#)'
+          }
+      },
+      yAxis: {
+          title: {
+              text: 'Render Time (s)'
+          },
+          min: 0
+      },
+      tooltip: {
+          headerFormat: "",
+          pointFormat: "{point.x} threads: {point.y} s"
+      },
+      series: [{
+          name: 'Render Time',
+          data: [[1, 978], [2, 518], [3, 600], [4, 508], [5, 373], [6, 414], [7, 398], [8, 346]]
+      }]
+  });
+});
+</script>
+
+</body>
+</html>
