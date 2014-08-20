@@ -6,14 +6,14 @@ date: 2014-08-20 00:00:00
 published: true
 ---
 
-I'm a sucker for catchy mottoes: _"Work Hard, Play Hard"_, _"Go Big or Go 
-Home"_, _"YOLO"_. If you're going to have a guiding life principle, why not let 
+I'm a sucker for catchy mottoes: "Work Hard, Play Hard", "Go Big or Go 
+Home", "YOLO". If you're going to have a guiding life principle, why not let 
 it roll off the tongue?
 
-Along the same lines, I've begun to live by a mantra of my own: _"Path of Least 
-Regret"_. I know, it doesn't quite have the same ring to it, but what it means 
-is this: when you're at a crossroad debating which choice to make, choose the 
-one future-you will regret the least, even if it goes bad. The one that would 
+Along the same lines, I've begun to live by a mantra of my own: "Path of Least 
+Regret". I know, it doesn't quite have the same ring to it, but what it means 
+is this: when you're at a crossroad debating which choice to make, __choose the 
+one future-you will regret the least, even if it goes bad__. The one that would 
 result in fewer "what if"s and "if only"s. Where when you look back, you'll 
 think yes, I'm glad I chose that.
 
