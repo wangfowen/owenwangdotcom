@@ -6,16 +6,16 @@ date: 2014-08-20 00:00:00
 published: true
 ---
 
-I'm a sucker for catchy mottoes: "Work Hard, Play Hard", "Go Big or Go Home", 
-"YOLO". If you're going to have a guiding life principle, why not let it roll 
-off the tongue?
+I'm a sucker for catchy mottoes: "_Work Hard, Play Hard_", "_Go Big or Go 
+Home_", "_YOLO_". If you're going to have a guiding life principle, why not let 
+it roll off the tongue?
 
-Along the same lines, I've begun to live by a mantra of my own: "Path of Least 
-Regret". I know, it doesn't quite have the same ring to it, but what it means is 
-this: when you're at a crossroad debating which choice to make, choose the one 
-future-you will regret the least, even if it goes bad. The one that would result 
-in fewer "what if"s and "if only"s. Where when you look back, you'll think yes, 
-I'm glad I chose that.
+Along the same lines, I've begun to live by a mantra of my own: "_Path of Least 
+Regret_". I know, it doesn't quite have the same ring to it, but what it means 
+is this: when you're at a crossroad debating which choice to make, choose the 
+one future-you will regret the least, even if it goes bad. The one that would 
+result in fewer "what if"s and "if only"s. Where when you look back, you'll 
+think yes, I'm glad I chose that.
 
 Thinking under that mindset has not only helped me make some hard decisions, but 
 it has also allowed me to experience things I wouldn't have otherwise.
@@ -45,12 +45,12 @@ will certainly be uneasiness to start as we suck and struggle through the
 learning curve and the unknown. Sucking as the name implies sucks.
 
 In contrast, we could just settle into a routine and not break the mold. Avoid 
-all the pain. But if you think about what future-you would want, wouldn't he or 
-she have wanted to have learned that new skill? To have tried that thing they 
-hadn't before? Would future-you have thought "if only I didn't try that", or is 
-it more likely they'd think "if only I did".
+all the pain. But if you think about future-you's desires, wouldn't he or she 
+have wanted to have learned that new skill? To have tried that thing they hadn't 
+before? Would future-you have thought "if only I didn't try that", or is it more 
+likely they'd think "if only I did".
 
-Unfortunately, wanting something enough doesn't make it happen. Present-you has 
-to take action towards making it happen, even if it's unpleasant at the 
-beginning. So next time you ponder about a decision, I say screw the path of 
-least resistance. Take the path of least regret.
+Unfortunately, _wanting_ something enough doesn't make it happen. Present-you 
+has to _take action_ towards that, even if it's unpleasant at the beginning. So 
+next time you're considering your options, I say screw the path of least 
+resistance. __Take the path of least regret.__
