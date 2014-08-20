@@ -13,8 +13,9 @@ off the tongue?
 Along the same lines, I've begun to live by a mantra of my own: "Path of Least 
 Regret". I know, it doesn't quite have the same ring to it, but what it means is 
 this: when you're at a crossroad debating which choice to make, choose the one 
-future-you will regret less. The one that would result in fewer "what if"s and 
-"if only"s. Where when you look back, you'll think yes, I'm glad I chose that.
+future-you will regret least, even if it goes bad. The one that would result in 
+fewer "what if"s and "if only"s. Where when you look back, you'll think yes, I'm 
+glad I chose that.
 
 Thinking under that mindset has not only helped me make some hard decisions, but 
 it has also allowed me to experience things I wouldn't have otherwise.
@@ -48,5 +49,5 @@ Unfortunately wanting something enough doesn't make it happen, which is why
 present-you has to take action towards making it happen. Even if it's unpleasant 
 at the beginning.
 
-So next time you ponder about a decision, think to yourself: POLR! ...Okay, 
-maybe not. But do consider, which option would be the path of least regret.
+So next time you ponder about a decision, I say screw the path of least 
+resistance. Take the path of least regret.
