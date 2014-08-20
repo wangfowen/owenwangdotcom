@@ -13,9 +13,9 @@ off the tongue?
 Along the same lines, I've begun to live by a mantra of my own: "Path of Least 
 Regret". I know, it doesn't quite have the same ring to it, but what it means is 
 this: when you're at a crossroad debating which choice to make, choose the one 
-future-you will regret least, even if it goes bad. The one that would result in 
-fewer "what if"s and "if only"s. Where when you look back, you'll think yes, I'm 
-glad I chose that.
+future-you will regret the least, even if it goes bad. The one that would result 
+in fewer "what if"s and "if only"s. Where when you look back, you'll think yes, 
+I'm glad I chose that.
 
 Thinking under that mindset has not only helped me make some hard decisions, but 
 it has also allowed me to experience things I wouldn't have otherwise.
@@ -45,7 +45,7 @@ something different, there will certainly be uneasiness to start as we suck and
 struggle through the learning curve. Sucking as the name implies sucks. But if 
 you think about what future-you would want, wouldn't he or she have wanted to 
 have learned that new skill? To have tried that thing they hadn't before? 
-Unfortunately wanting something enough doesn't make it happen, which is why 
+Unfortunately, wanting something enough doesn't make it happen, which is why 
 present-you has to take action towards making it happen. Even if it's unpleasant 
 at the beginning.
 
