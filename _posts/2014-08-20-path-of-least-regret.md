@@ -39,8 +39,8 @@ it. I kept going with the class and as I got better, the contempt my partners
 held for me dissipated. My ego recovered and I had learned the basics of 
 something I'd wanted. Everyone lived happily ever after.
 
-Often we forgo experiences because of the initial discomfort — that bashing our 
-confidence takes from not knowing what we're doing. There will certainly be 
+Often we forgo experiences because of the initial discomfort — that bashing of 
+our confidence from not knowing what we're doing. There will certainly be 
 uneasiness to start as we struggle through the unknown. Sucking, as the name 
 implies, sucks.
 
