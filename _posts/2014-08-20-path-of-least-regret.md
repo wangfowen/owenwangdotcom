@@ -13,9 +13,9 @@ it roll off the tongue?
 Along the same lines, I've begun to live by a mantra of my own: "Path of Least 
 Regret". I know, it doesn't quite have the same ring to it, but what it means 
 is this: when you're at a crossroad debating which choice to make, __choose the 
-one future-you will regret the least, even if it goes bad__. The one that would 
-result in fewer "what if"s and "if only"s. Where when you look back, you'll 
-think yes, I'm glad I chose that.
+one you'll regret the least in the future, even if it goes bad__.  The one that 
+would result in fewer "what if"s and "if only"s.  Where when you look back, 
+you'll think yes, I'm glad I chose that.
 
 Thinking under that mindset has not only helped me make some hard decisions, but 
 it has also allowed me to experience things I wouldn't have otherwise.
@@ -39,18 +39,18 @@ it. I kept going with the class and as I got better, the contempt my partners
 held for me dissipated. My ego recovered and I had learned the basics of 
 something I'd wanted. Everyone lived happily ever after.
 
-Often we forgo experiences because of the initial discomfort, like what I felt 
-in salsa. That bashing our ego feels from not knowing what we're doing. There 
-will certainly be uneasiness to start as we suck and struggle through the 
-learning curve and the unknown. Sucking as the name implies sucks.
+Often we forgo experiences because of the initial discomfort — that bashing our 
+confidence takes from not knowing what we're doing. There will certainly be 
+uneasiness to start as we struggle through the unknown. Sucking, as the name 
+implies, sucks.
 
-In contrast, we could just settle into a routine and not break the mold. Avoid 
-all the pain. But if you think about future-you's desires, wouldn't he or she 
-have wanted to have learned that new skill? To have tried that thing they hadn't 
-before? Would future-you have thought "if only I didn't try that", or is it more 
-likely they'd think "if only I did".
+In contrast, we could just continue old habits and not break the mold. Avoid all 
+the pain by doing what's easier and familiar. But if you think about 
+future-you's desires, wouldn't he or she want to have learned that new skill? To 
+have tried that thing they hadn't before? Would future-you think "if only I 
+didn't try that", or is it more likely they'd think "if only I did".
 
-Unfortunately, _wanting_ something enough doesn't make it happen. Present-you 
-has to _take action_ towards that, even if it's unpleasant at the beginning. So 
-next time you're considering your options, I say screw the path of least 
-resistance. __Take the path of least regret.__
+Unfortunately, just _wanting_ something enough doesn't make it happen. 
+Present-you has to _take action_ towards that, even if it's unpleasant at the 
+beginning. So next time you're considering your options, I say screw the path of 
+least resistance. __Take the path of least regret.__
