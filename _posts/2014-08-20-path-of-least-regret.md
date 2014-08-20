@@ -39,15 +39,18 @@ it. I kept going with the class and as I got better, the contempt my partners
 held for me dissipated. My ego recovered and I had learned the basics of 
 something I'd wanted. Everyone lived happily ever after.
 
-Often we forgo experiences because of the initial discomfort. It feels nice to 
-settle into a routine. Why break the mold? Especially when it comes to trying 
-something different, there will certainly be uneasiness to start as we suck and 
-struggle through the learning curve. Sucking as the name implies sucks. But if 
-you think about what future-you would want, wouldn't he or she have wanted to 
-have learned that new skill? To have tried that thing they hadn't before? 
-Unfortunately, wanting something enough doesn't make it happen, which is why 
-present-you has to take action towards making it happen. Even if it's unpleasant 
-at the beginning.
+Often we forgo experiences because of the initial discomfort, like what I felt 
+in salsa. That bashing our ego feels from not knowing what we're doing. There 
+will certainly be uneasiness to start as we suck and struggle through the 
+learning curve and the unknown. Sucking as the name implies sucks.
 
-So next time you ponder about a decision, I say screw the path of least 
-resistance. Take the path of least regret.
+In contrast, we could just settle into a routine and not break the mold. Avoid 
+all the pain. But if you think about what future-you would want, wouldn't he or 
+she have wanted to have learned that new skill? To have tried that thing they 
+hadn't before? Would future-you have thought "if only I didn't try that", or is 
+it more likely they'd think "if only I did".
+
+Unfortunately, wanting something enough doesn't make it happen. Present-you has 
+to take action towards making it happen, even if it's unpleasant at the 
+beginning. So next time you ponder about a decision, I say screw the path of 
+least resistance. Take the path of least regret.
