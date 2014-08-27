@@ -40,7 +40,7 @@ a:hover, a:active {
 }
 
 .find {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .info:hover {
@@ -107,6 +107,10 @@ article ul {
   display: block;
   width: 940px;
   margin-left: 15px;
+}
+
+#technical ul {
+  padding-right: 10px;
 }
 
 #contact {
@@ -219,9 +223,9 @@ article ul {
     color: #272822;
   }
 
-	strong, .find {
-		color: #000;
-	}
+  strong, .find {
+    color: #000;
+  }
 
   a {
     color: #272822 !important;
@@ -232,11 +236,11 @@ article ul {
     display: none;
   }
 
-	h1 .print:after {
-		display: block;	
-		font-size: 50%;
-		margin-top: 12px;
-	}
+  h1 .print:after {
+    display: block; 
+    font-size: 50%;
+    margin-top: 12px;
+  }
 
   .print:after {
     content: " (" attr(href) ")";
@@ -245,5 +249,9 @@ article ul {
 
   .selected {
     background-color: #fff;
+  }
+
+  #work {
+    page-break-after: always;
   }
 }
