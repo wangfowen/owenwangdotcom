@@ -151,6 +151,12 @@ article ul {
   text-align: center;
 }
 
+.no-link, .no-link:hover {
+  font-weight: normal;
+  color: #4D4B45;
+  cursor: text;
+}
+
 @media only screen and (max-width:1200px) {
   #container {
     width: 800px;
