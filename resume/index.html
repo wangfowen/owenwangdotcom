@@ -54,7 +54,7 @@
                 class="find">Rails</a>), Javascript (<a href="#backbone"
                 class="find">Backbone</a>, <a href="#meteor"
                 class="find">Meteor</a>, <a href="#node" class="find">Node</a>),
-                and <a href="#csharp" class="find">C#</a>. Past employers have
+                <a href="#csharp" class="find">C#</a>, and <a href="#cplusplus" class="find">C++</a>. Past employers have
                   described me as a <strong>eager and quick learner</strong>,
                     <strong>friendly</strong>, a <strong>strong
           communicator</strong>, and <strong>hard working</strong>.
@@ -86,7 +86,7 @@
           <li><strong>Software Engineer</strong>, <a href="http://appdynamics.com" class="info" target="_blank">AppDynamics</a>, San Francisco, CA, Jan. 2013 &ndash; Apr. 2013
             <ul>
               <li class="targets" id="testing">Pioneered testing automation for the .NET Agent Team. Wrote a suite of apps using a combination of C# and Java to perform an end-to-end functional test of the product across multiple platforms. Reduced number of man hours needed for testing from 26 work weeks to less than a day.</li>
-              <li>Full code ownership along with one other intern of an application generator used in testing and debugging. Made all architectural and product decisions.</li>
+              <li class="targets" id="csharp">Full code ownership along with one other intern of an application generator used in testing and debugging. Made all architectural and product decisions.</li>
             </ul>
           </li>
           <li><strong>Software Engineer</strong>, <a href="http://www.involver.com/" class="info" target="_blank">Involver</a>, San Francisco, CA, May. 2012 &ndash; Aug. 2012
@@ -114,7 +114,7 @@
         <ul class="noBullets" id="education">
           <li><strong>University of Waterloo</strong>, B.A.Sc., Honors Co-op Computer Engineering, Waterloo, ON, 2010 &ndash; Present
             <ul>
-              <li class="targets" id="csharp">Notable course projects include programming a <a href="http://owenwang.com/graphics" class="print" target="_blank">raytracer</a> (C++), a virtual reality game with haptic feedback (C#), and an adaptive simulated annealing algorithm for tuning voice activity detection (Matlab) which won Best Project in the class</li>
+              <li class="targets" id="cplusplus">Notable course projects include programming a <a href="http://owenwang.com/graphics" class="print" target="_blank">raytracer</a> (C++), a virtual reality game with haptic feedback (C#), and an adaptive simulated annealing algorithm for tuning voice activity detection (Matlab) which won Best Project in the class</li>
               <li class="targets" id="c">Learned C through writing multiprocessing and multithreading performance comparisons in Operating Systems and a music player in Embedded Microprocessor Systems. Learned Coldfire assembly language through building a calculator in Digital Computers</li>
             </ul>
           </li>
@@ -207,7 +207,10 @@
       var $targets = $('.targets'),
         $body = $('body, html'),
         $sidebar = $('#sidebar a'),
-        History = window.History;
+        History = window.History
+        linked = false;
+
+      //TODO: if linked, set link to true and scroll down to link
 
       if ( !History.enabled ) {
         return false;
@@ -215,8 +218,11 @@
 
       $('.find').click(function(e) {
         e.preventDefault();
-        $targets.removeClass("selected");
+
         History.pushState(null, null, e.target.href);
+        linked = true;
+
+        $targets.removeClass("selected");
 
         var $target = $(location.hash);
         $target.addClass("selected");
@@ -226,7 +232,12 @@
 
       $sidebar.click(function(e) {
         e.preventDefault();
-        History.pushState(null, null, null);
+
+        if (linked) {
+          History.back();
+          linked = false;
+        }
+
         $targets.removeClass("selected");
 
         $body.animate({scrollTop: 0}, 400);
@@ -239,6 +250,13 @@
         if ($sidebar.css("opacity") === '0' && window.scrollY > threshold.top && window.innerWidth > 500) {
           $sidebar.css("opacity", 1);
         } else if ($sidebar.css("opacity") === '1' && (window.scrollY < threshold.top || window.innerWidth < 500)) {
+          if (linked) {
+            History.back();
+            linked = false;
+          }
+
+          $targets.removeClass("selected");
+
           $sidebar.css("opacity", 0);
         }
       });
