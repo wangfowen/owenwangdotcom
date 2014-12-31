@@ -1,3 +1,5 @@
+var dir = "/images/2013/";
+
 var imgs = [
       {
         width: 819,

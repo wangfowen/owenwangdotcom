@@ -5,7 +5,6 @@ $(function() {
       $leftNav = $('#left'),
       $rightNav = $('#right'),
       $body = $('body'),
-      dir = "/images/collage/",
       open = -1,
       imgWidth = $container.width() * (window.innerWidth > 599 ? .30 : .47),
       start = {x: -1, y: -1},
