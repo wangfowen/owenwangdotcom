@@ -1,4 +1,6 @@
 $(function() {
+  var MOBILE_WIDTH = 599;
+
   var $container = $("#collage-container"),
       $overlay = $('#overlay'),
       $gallery = $('#content'),
@@ -6,7 +8,7 @@ $(function() {
       $rightNav = $('#right'),
       $body = $('body'),
       open = -1,
-      imgWidth = $container.width() * (window.innerWidth > 599 ? .30 : .47),
+      imgWidth = $container.width() * (window.innerWidth > MOBILE_WIDTH ? .30 : .47),
       start = {x: -1, y: -1},
       end = {x: -1, y: -1};
   var month = {
@@ -60,29 +62,34 @@ $(function() {
 
   $container.masonry({
     itemSelector: ".item",
-    gutter: 12
+    gutter: 5
   });
 
   var setGalleryHeight = function() {
-    var galHeight = 0,
-        padding = window.innerWidth > 599 ? 25 : 12;
+    var galHeight = 0;
 
-    $('.gal-el').each(function() {
-      var $this = $(this);
+    if (window.innerWidth > MOBILE_WIDTH) {
+      var padding = 25;
 
-      //bad iframe hack
-      if ($this.children('iframe').length > 0)
-        galHeight += $this.children('iframe').height();
-      else
-        galHeight += $this.height();
+      $('.gal-el').each(function() {
+        var $this = $(this);
 
-      galHeight += padding;
-    });
+        //bad iframe hack
+        if ($this.children('iframe').length > 0)
+          galHeight += $this.children('iframe').height();
+        else
+          galHeight += $this.height();
 
-    if (galHeight > $overlay.height()) {
-      $gallery.css("margin", "0 auto");
+        galHeight += padding;
+      });
+
+      if (galHeight > $overlay.height()) {
+        $gallery.css("margin", "0 auto");
+      } else {
+        $gallery.css("margin", "auto");
+      }
     } else {
-      $gallery.css("margin", "auto");
+      galHeight = "100%";
     }
 
     $gallery.height(galHeight);
@@ -169,7 +176,7 @@ $(function() {
 
     $overlay.css("display", "block");
 
-      if (window.innerWidth > 599)
+      if (window.innerWidth > MOBILE_WIDTH)
         $overlay.css("top", (window.scrollY || window.pageYOffset) + "px");
       else
         $overlay.css("top", "0px");
@@ -249,14 +256,14 @@ $(function() {
   $(window).resize(function() {
        if(timeOut != null) clearTimeout(timeOut);
        timeOut = setTimeout(function() {
-          imgWidth = $container.width() * (window.innerWidth > 599 ? .30 : .47);
+          imgWidth = $container.width() * (window.innerWidth > MOBILE_WIDTH ? .30 : .47);
 
           $('.img').each(function(i, img) {
             var height = imgs[i].height / imgs[i].width * imgWidth;
             $(img).height(height);
           });
 
-          if (window.innerWidth > 599)
+          if (window.innerWidth > MOBILE_WIDTH)
             $overlay.css("top", scrollY + "px");
           else
             $overlay.css("top", "0px");
