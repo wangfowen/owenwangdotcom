@@ -24,7 +24,7 @@ Overpaid syndrome is the embodiment of the "you only live once" attitude. You
 feel like you can do whatever your heart desires and live without worries. This 
 results from the dramatic change from living off of ramen to suddenly having 
 abundant spending money. If something exciting got suggested, we had a group of 
-people committed instantly. This lead to things like a weekend bungee jumping 
+people committed instantly. This led to things like a weekend bungee jumping 
 outing to a week long Hawaii excursion. Even some of our more frugal friends 
 ended up developing _the syndrome_ after interning for a couple months.
 

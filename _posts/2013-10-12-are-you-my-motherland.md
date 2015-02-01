@@ -29,8 +29,7 @@ have I been taking for granted?
 
 Some things do seem to be pretty constant no matter where in the world I go:
 
-- Comic Sans in store signs. PSA: Please for the love of \<insert religious 
-figure\> cease doing this...
+- (to my dismay) Comic Sans in store signs
 - American Billboard Top 40's playing in shops. "We Can't Stop" really doesn't 
 ever stop
 - The abominations known as pigeons polluting the streets

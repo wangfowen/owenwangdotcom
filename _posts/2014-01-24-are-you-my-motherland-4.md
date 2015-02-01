@@ -62,20 +62,16 @@ Looking at that, I just _toured_ the cities. I didn't actually _travel_ or
 _live_ them. The extent of what I did to stray off the typical tourist track was 
 [seek out hole-in-wall restaurants](/blog/lean-traveling), avoid touristy 
 museums, and go out of my way to talk to other travelers / locals. That makes me 
-more of a hipster tourist than a traveler.
-
-So really, I just caressed the faces of the cities. I can't righteously declare 
-a place livable after 3 days. Just like how I wouldn't marry a girl after just 3 
-dates. Sorry Britney Spears.
+more of a hipster tourist than a traveler. I can't righteously declare a place 
+livable after 3 days. Just like how I wouldn't marry a girl after just 3 dates. 
+Sorry Britney Spears.
 
 I've been in Lyon for over 4 months and only recently did I begin to truly 
 notice and appreciate the more subtle cultural differences that made it unique. 
-I may do a post on Lyon since that's actually justified. The short answer is 
-probably no, but at least I know that for the city itself, and not for the 
-tourist facade of it.
+I may do a post on Lyon since that's actually justified. The short answer is no, 
+I probably wouldn't live there, but at least I know that for the city itself, 
+and not for the tourist facade of it.
 
 So goodbye "Are You My Motherland". It's been a fun series to write and I will 
-still be on the lookout for the small quirky differences when I'm in a city, but 
-I no longer dare judge them by their first chapter (although if we are going to 
-use the book analogy, I can't think of any I've enjoyed if I didn't like the 
-beginning...).
+still be on the lookout for the quirks when I'm in a city, but I no longer dare 
+claim to know a city after so short a time.

@@ -28,21 +28,24 @@ on BuzzFeed, would it?
 ##Motivation##
 
 Before we get into it, why am I writing about this? As my college days comes to 
-an end, I'm preparing myself to make new friends. Only this time, I won't have 
-the ease of proximity school afforded me, and without the common talking point 
-of complaining about school work.
+an end, and as I enter the adult world, I'll have to make new friends again. 
+Only this time, I won't have the ease of meeting people that the magnetic pull 
+of school afforded me. So the prepare myself, I'm writing down my thoughts into 
+a simplified easy-to-follow format.
 
 Making friends can be hard. I'm sure Nav is not alone in wanting to be able to 
 get closer to people. Close connections help soften bad situations, and they 
 make good situations better. <citation>
 
 And even when we've already established a close friend group, I think we can 
-always go deeper! And it's still good to try to make new, meaningful friends. If 
-we hang out with the same people for too long, we converge on thought patterns, 
-and though that lubricates social situations, it means we also become more 
-stagnant.  New friends can provide different perspectives and challenge 
+always go deeper! At the same time, it's still good to try to make new, 
+meaningful friends. If we hang out with the same people for too long, we 
+converge on thought patterns, and though that means there's less friction in the 
+social group, it means we also become more stagnant. New friends can provide 
+different perspectives and challenge.
 
-So without further ado, here's my guide to friendshipping:
+Making friends is a life long process and we can always get better at it. So 
+without further ado, here's my guide to friendshipping:
 
 ##1. Enter the mindset to make friends##
 
@@ -83,9 +86,14 @@ mutual interest.
 
 ##3. Open up##
 
-Others are more likely to open up to you if you do it first. This might not 
-always be the case, but what do you have to lose?
+As I originally hypothesized, I still think this is the most important step.  
+Once you get to a point where you have rapport, try to let your guard down 
+sometimes. Sharing your feelings is not a sign of weakness. I'd even dare say 
+it's a sign of strength. It means you're not afraid of putting yourself out 
+there. Even though there's always the chance that you could get hurt, you're 
+willing to take that risk to connect emotionally with others.
 
-Sometimes if you open up to the wrong people, that’ll come back to bite you, but 
-I try to use my judge of character liberally.
+Yes, sometimes if you open up to the wrong people, it'll come back to bite you, 
+but if you've managed to build rapport and they don't seem to be of shady 
+character, then more often than not, trusting is not a bad thing.
 
