@@ -3,14 +3,18 @@ layout: post
 title: "Discontinued - Are You My Motherland?"
 tagline: "Final remarks on an abandoned series"
 date: 2014-01-24 00:00:00
-published: false
+published: true
 
 ---
 
-The title should sufficiently explain it, but I'll elaborate for those who want 
-more than a tweet. I had a post on Barcelona and half-written ones on Berlin and 
-Budapest done when I lost the desire to continue the series. I'll summarize the 
-three below:
+_In this [series](/blog/are-you-my-motherland) I examine some cities I've 
+visited and what I've experienced to be different about them in the hopes of 
+finding pride in my old homes or discovering a new place to call home._
+
+Discontinued is unfortunately not the name of some obscure city. It's exactly 
+what you'd think it means; I'm abandoning this series. To elaborate, I had a 
+post on Barcelona and half-written ones on Berlin and Budapest done when I lost 
+the desire to continue. I'll summarize the three below:
 
 ##Barcelona##
 
@@ -27,14 +31,12 @@ having both in one city until Barcelona
 regular day was the Eiffel Tower on New Year's Eve. Lots of love going around in 
 Spain
 - Flies everywhere. Only place so far in Europe where bugs got annoying
-- I heard great things about Barcelona from everyone before going so I tried my 
-best to critique and hate it, but it really is fantastic
 
 ##Berlin##
 
-- Food is absolutely fantastic, both the local cuisine and international. 
-Particularly the doners and the beer
-- German efficiency is no joke
+- Food is absolutely fantastic, both the local cuisine and international.  
+Particularly the doner kebabs and the beer
+- German efficiency is no joke. _Everything_ ran exactly on time
 - The history is incredibly rich. Even someone like me with little interest in 
 history can learn about it for weeks here
 - One of the best club scenes I've experienced
@@ -46,23 +48,24 @@ history can learn about it for weeks here
 1290ft (about $5)
 - The architecture was almost Rome-caliber yet also very colorful
 - Much less crowded than other tourist destinations. You actually have room to 
-breathe
+breathe!
 
-The reason I lost heart is because I came to see how baseless the idea behind 
-the series is. Each city I've visited for roughly three days. In that time span 
-usually one day is spent doing tours to learn about the city (tip-based walking 
-tours are the best quality), one day is spent on whatever else tourist 
-attractions there are, and one day is spent walking around taking pictures. By 
-the end I have enough landscapes for a photographer to climax.
+The reason I lost heart was because I came to see how baseless the idea behind 
+the series was. Each city that I reviewed, I visited for roughly three days. In 
+that time span, usually one day was spent doing tours to learn about the city 
+(tip-based walking tours are the best quality), one day was spent on whatever 
+else tourist attractions there were, and one day was spent strolling through the 
+  city, taking pictures. By the end I had enough landscapes for any photographer 
+  to climax.
 
-Looking at that, I just toured the cities. I didn't actually travel or live 
-them. The extent of what I did to stray off the typical tourist track is [seek 
-out hole-in-wall restaurants](/blog/lean-traveling), avoid touristy museums, and 
-go out of my way to talk to other travelers / locals. That makes me more of a 
-hipster tourist than a traveler.
+Looking at that, I just _toured_ the cities. I didn't actually _travel_ or 
+_live_ them. The extent of what I did to stray off the typical tourist track was 
+[seek out hole-in-wall restaurants](/blog/lean-traveling), avoid touristy 
+museums, and go out of my way to talk to other travelers / locals. That makes me 
+more of a hipster tourist than a traveler.
 
-So really I just caressed the faces of the cities. I can't righteously declare a 
-place livable after 3 days. Just like how I wouldn't marry a girl after just 3 
+So really, I just caressed the faces of the cities. I can't righteously declare 
+a place livable after 3 days. Just like how I wouldn't marry a girl after just 3 
 dates. Sorry Britney Spears.
 
 I've been in Lyon for over 4 months and only recently did I begin to truly 
@@ -75,4 +78,4 @@ So goodbye "Are You My Motherland". It's been a fun series to write and I will
 still be on the lookout for the small quirky differences when I'm in a city, but 
 I no longer dare judge them by their first chapter (although if we are going to 
 use the book analogy, I can't think of any I've enjoyed if I didn't like the 
-beginning...)
+beginning...).
