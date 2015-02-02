@@ -113,5 +113,5 @@ character, then more often than not, trusting is not a bad thing.
 
 If you've followed the 3 steps, you should have now made a new best friend. 
 Congratulations! Joking aside, I do hope these steps help you to build more 
-meaningful friendships. Let me know if the steps work or don't work for you, as 
-well as if you think I'm missing something crucial in the process.
+meaningful friendships. Let me know if the steps work for you, or if you think 
+there's more to the process than just this!
