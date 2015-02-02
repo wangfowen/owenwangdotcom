@@ -66,8 +66,8 @@ myself to try to meet people.
 
 If positivity is not your thing, at the bare minimum it's necessary to get in a 
 mood to talk. A core component in meeting someone is the conversation you share. 
-It's a two way street to go from the conversation to a friendship, so be mindful 
-to put in effort to hold your end in conversation.
+That conversation could potentially lead into a friendship, so be mindful to 
+actively partake.
 
 This step is where Nav and I went wrong. We met at a networking event where I 
 had already been drained from all the socializing, so when we spoke, I was not 
@@ -83,7 +83,8 @@ the "small talk and how is your weekend crap" occurs.
 One way to solve this is to find common interests we can both talk about and 
 care about. But if we can't find one, another way is to try to care about their 
 interests. If I don't know anything about the subject, it's a good chance to 
-learn something new about it!
+learn something new about it! Making an effort to listen and learn goes a long 
+way.
 
 If you can't find a common interest, and even when you try to probe and learn 
 more about theirs you find it's not working out, then maybe it just doesn't work 
