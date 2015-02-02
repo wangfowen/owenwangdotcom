@@ -54,16 +54,18 @@ get closer to, you may be at step 2 or 3.
 
 Some days you might not like yourself. Some days you can't deal with other 
 people. That's all okay, it happens to the best of us. But on those days it's 
-probably not ideal for you to be making friends.
+probably not ideal for you to be making friends. Ideal conditions would be when 
+you're feeling positive and talkative.
 
-In my experience, people like positive energy. Friends may put up with 
-negativity, but why would someone you just met want to deal with that? Maybe you 
-can make it work regardless, but I find it easier to talk to people when I'm in 
-a positive mood.
+Generally, people like positive energy. It's infectious and it makes them feel 
+better. Friends may put up with negativity, but why would someone you just met 
+want to deal with that if they don't have to? Maybe you can make it work 
+regardless, but I find that when I'm feeling positive, it's even easier on 
+myself to try to meet people.
 
 If positivity is not your thing, at the bare minimum it's necessary to get in a 
-mood to talk. If you want to make friends, you have to be ready to put in effort 
-to keep up a conversation.
+mood to talk. Establishing a friendship is a two way street, so you should put 
+in the effort to hold your end of the conversation.
 
 This step is where Nav and I went wrong. We met at a networking event where I 
 had already been drained from all the socializing, so when we spoke, I was not 
@@ -78,14 +80,15 @@ Conversation doesn't work out when one person talks about something of interest
 to them, but the other person doesn't care. When there's no common interests, 
 that's where the "small talk and how is your weekend crap" occurs.
 
-Sometimes I'm unable to find common ground with the other person.  This is where 
+Sometimes I'm unable to find common ground with the other person. This is where 
 I try to take an interest in something they enjoy. You never know what you may 
 learn about a subject you didn't previously think you cared about.
 
-And if that still doesn't work, then it just doesn't work. Sometimes you just 
-can't seem to find that mutual attraction. Maybe they didn't achieve step 1, or 
-they're just not interested in you. That happens. It sucks, but don't let it 
-stop you from trying again with someone else. 
+And if that still doesn't work, then maybe it just doesn't work. Sometimes you 
+can't seem to find that mutual attraction no matter what. Maybe that means the 
+other party didn't achieve step 1, or they're just not interested in you. That 
+happens. It sucks, but don't let it stop you from trying to connect with other 
+people!
 
 If you find it often not working out, and you want to change that, try 
 developing more hobbies or traveling more. Not only do they open your mind, they 
