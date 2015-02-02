@@ -19,10 +19,10 @@ In response I essentially advised that if you open yourself up to others, close
 friendships will naturally form. Ironically, I later met Nav in real life, and I 
 did not follow my own advice.
 
-In thinking more about why that happened, I've decided it's not as simple as the 
-one step of just opening up... it's actually 3 steps! (I'm sure in reality 
-there's much more involved, but then it wouldn't be able to go viral on 
-BuzzFeed, would it?) Nav and I had failed at an earlier step and that's why 
+In thinking more about why that happened, I've decided becoming friends is not 
+as simple as the one step of just opening up... it's actually 3 steps! (I'm sure 
+in reality there's much more involved, but then it wouldn't be able to go viral 
+on BuzzFeed, would it?) Nav and I had failed at an earlier step and that's why 
 we're not currently best friends forever.
 
 Before I get into these steps that will change your life, you might ask what 
@@ -35,8 +35,9 @@ unrelated to gaming or school, I'd feel uncomfortable asking them for advice.
 
 With my current friends, I can talk to them about anything and everything, 
 whether it be sexual, financial, or philosophical. I'd say that's the difference 
-that closeness brings. A close friend you can turn to for help without feeling 
-discomfort, and they'd be there for you. They've got your back.
+that closeness brings. A close friend you can trust with personal matters. You 
+can turn to them for help without feeling discomfort, and they'd be there for 
+you. They've got your back.
 
 Meaningful friendships not only [ameliorate bad 
 situations](http://www.centreforconfidence.co.uk/flourishing-lives.php?p=cGlkPTIwMSZpZD03ODg=){:target="_blank"}, 
@@ -52,8 +53,6 @@ can provide different perspectives and challenge our beliefs.
 
 Developing and deepening friendships is a life long process and we can always 
 get better at it. So without further ado, here's my guide to friendshipping. 
-When you're in a situation to make a new friend, start at step 1. With old 
-friends you want to get closer to, you may be at step 2 or 3.
 
 ##1. Get in the right mindset##
 
@@ -99,15 +98,21 @@ to connect with other people!
 
 ##3. Open up##
 
-As I originally hypothesized, I still think this is the most important step. 
-Common interests create conversation, but trust is what creates meaningful 
-friendships. Building trust involves sharing things about yourself beyond just 
-your interests - your feelings, personal matters in your life, etc.
+As I originally hypothesized, I still think this is the most important step. But 
+you can only get to here once you've done the other two and you've already 
+established a friendship. If you open up to someone you just met, they may use 
+what they learn against you, or they might just think you're crazy.
 
-Sharing your feelings is not a sign of weakness. I'd even dare say it's a sign 
-of strength. It means you're not afraid of putting yourself out there. Even 
-though there's always the chance that you could get hurt, you're willing to take 
-that risk to connect emotionally with others.
+Common interests fuel conversation, which is what creates friendships, but trust 
+is what creates meaningful friendships. Building trust involves sharing things 
+about yourself beyond just your interests - your feelings, personal matters in 
+your life, your insecurities, etc. And you may find that when you open up, the 
+other person does too!
+
+Sharing your feelings is not a sign of weakness. I'd even daresay it's a sign of 
+strength. It means you're not afraid of putting yourself out there. Even though 
+there's always the chance that you could get hurt, you're willing to take that 
+risk to connect emotionally with others.
 
 Yes, sometimes if you open up to the wrong people, it'll come back to bite you, 
 but if you've managed to build rapport and they don't seem to be of shady 
