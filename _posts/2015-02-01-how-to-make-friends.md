@@ -98,15 +98,15 @@ potentially develop that mutual interest.
 ##3. Open up##
 
 As I originally hypothesized, I still think this is the most important step. 
-Common interests sustain conversation, but trust is what sustains meaningful 
+Common interests create conversation, but trust is what creates meaningful 
 friendships. Building trust involves sharing things about yourself beyond just 
-your interests - your feelings, personal matters, etc. Sharing your feelings is 
-not a sign of weakness. I'd even dare say it's a sign of strength. It means 
-you're not afraid of putting yourself out there. Even though there's always the 
-chance that you could get hurt, you're willing to take that risk to connect 
-emotionally with others.
+your interests - your feelings, personal matters in your life, etc.
+
+Sharing your feelings is not a sign of weakness. I'd even dare say it's a sign 
+of strength. It means you're not afraid of putting yourself out there. Even 
+though there's always the chance that you could get hurt, you're willing to take 
+that risk to connect emotionally with others.
 
 Yes, sometimes if you open up to the wrong people, it'll come back to bite you, 
 but if you've managed to build rapport and they don't seem to be of shady 
 character, then more often than not, trusting is not a bad thing.
-
