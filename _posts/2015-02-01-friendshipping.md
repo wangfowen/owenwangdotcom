@@ -128,8 +128,8 @@ topic! That isn't to say all feeling-sharing is about bad things. Talking about
 your aspirations and dreams is also great. And you may find that when you open 
 up, the other person does too!
 
-When I spoke to my friend [David](http://david-hu.com/) about this, he provided 
-some great insight:
+When I spoke to my friend [David](http://david-hu.com/){:target="_blank"} about 
+this, he provided some wise insights:
 
 > Although it may be a little uncomfortable initially to touch on these things — there’s sort of an activation energy — there’s a lot of therapeutic value from just confiding in someone/people in general. And in return, you get lots of interesting insight and perspectives from your friends. You feel closer to someone because you feel like they’re a part of you now — they carry some of your stories. They’re also more inclined to share some of their lives, and you realize that, well, everyone makes mistakes and everyone goes through some of the things/insecurities that you do.
 
