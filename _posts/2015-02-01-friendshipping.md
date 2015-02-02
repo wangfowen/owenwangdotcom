@@ -99,11 +99,16 @@ doesn't work out when one person talks about something of interest to them, but
 the other person doesn't care. When one or both sides don't care, that's where 
 the "small talk and how is your weekend" occurs.
 
-One way to solve this is to find common interests we can both talk about and 
-care about. __Ask open ended questions to discover more about the person__. 
-Every new piece of information could potentially be a branch for another 
-discussion.  But try not to rapid-fire too many questions. Then it might seem 
-like an interrogation.
+That isn't to say that "small talk and how is your weekend" is indicative of 
+lack of caring. Oftentimes they're starting points for segueing into other 
+subjects.
+
+One way for both parties to care is to find common interests to talk about. 
+__Ask open ended questions to discover more about the person__. Or if you're 
+being asked questions, try to respond with more than just one word answers. 
+Every new piece of information given could potentially be a branch for another 
+discussion. But try not to rapid-fire too many questions in a row; then it might 
+seem like an interrogation.
 
 If we can't find common ground, another way is to __try to take an interest in 
 their interests__. If I don't know anything about the subject, it's a good 
