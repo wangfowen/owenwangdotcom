@@ -27,11 +27,11 @@ much more involved, but then it wouldn't be able to go viral on BuzzFeed, would
 it?)
 
 Before we get into the three steps that will change your life, why am I writing 
-about this? As my college days comes to an end, and as I enter the adult world, 
-I'll have to make new friends again. What a bummer. To make things worse, this 
-time I won't have the magnetic pull of school to bring people into my proximity. 
-So to prepare myself, I'm writing down my thoughts into an easy-to-follow 
-format.
+about this? Well, as my college days comes to an end, and as I enter the adult 
+world, I'll have to make new friends again. What a bummer. To make things worse, 
+this time I won't have the magnetic pull of school to bring people into my 
+proximity. Perhaps consolidating my thoughts here will help me prepare for the 
+days to come, and perhaps it'll help others do the same.
 
 Making friends can be hard. I'm sure Nav is not alone in wanting to be able to 
 get closer to people. Friends [ameliorate bad 
@@ -39,11 +39,12 @@ situations](http://www.centreforconfidence.co.uk/flourishing-lives.php?p=cGlkPTI
 and they [make good situations even 
 better](http://www.scientificamerican.com/article/without-friends-or-family-even-extraordinary-experiences-are-disappointing/){:target="_blank"}.
 
-If we already have a close social group, we could always get closer! At the same 
-time, it's still good to make new friends. If we hang out solely with one group 
-of people, over time groupthink develops and thought patterns converge.  This is 
-good in reducing social friction, but it means we become stagnant. New friends 
-can provide different perspectives and challenge our beliefs.
+If you already have a close social group, you may think this won't be of any 
+use, but maybe this can help you get even closer! At the same time, it's still 
+good to make new friends. If we hang out solely with one group of people, over 
+time groupthink develops and thought patterns converge. This is good in reducing 
+social friction, but it means we become stagnant. New friends can provide 
+different perspectives and challenge our beliefs.
 
 Developing and deepening friendships is a life long process and we can always 
 get better at it. So without further ado, here's my guide to friendshipping. 
@@ -54,7 +55,7 @@ get closer to, you may be at step 2 or 3.
 
 Some days you might not like yourself. Some days you can't deal with other 
 people. That's all okay, it happens to the best of us. But on those days it's 
-probably not ideal for you to be making friends. Ideal conditions would be when 
+probably not ideal for you to be making friends. Ideal conditions are when 
 you're feeling positive and talkative.
 
 Generally, people like positive energy. It's infectious and it makes them feel 
@@ -64,8 +65,9 @@ regardless, but I find that when I'm feeling positive, it's even easier on
 myself to try to meet people.
 
 If positivity is not your thing, at the bare minimum it's necessary to get in a 
-mood to talk. Establishing a friendship is a two way street, so you should put 
-in the effort to hold your end of the conversation.
+mood to talk. A core component in meeting someone is the conversation you share. 
+It's a two way street to go from the conversation to a friendship, so be mindful 
+to put in effort to hold your end in conversation.
 
 This step is where Nav and I went wrong. We met at a networking event where I 
 had already been drained from all the socializing, so when we spoke, I was not 
@@ -73,27 +75,22 @@ in the proper state and it was hard for us to hit it off.
 
 ##2. Build rapport##
 
-Surprisingly, not everyone shares the exact same interests as me. Therefore, 
-when I talk to someone, we're trying to find our common interests to talk about.
+Surprisingly, not everyone shares the exact same interests as me. Conversation 
+doesn't work out when one person talks about something of interest to them, but 
+the other person doesn't care. When there's no reciprocated caring, that's where 
+the "small talk and how is your weekend crap" occurs.
 
-Conversation doesn't work out when one person talks about something of interest 
-to them, but the other person doesn't care. When there's no common interests, 
-that's where the "small talk and how is your weekend crap" occurs.
+One way to solve this is to find common interests we can both talk about and 
+care about. But if we can't find one, another way is to try to care about their 
+interests. If I don't know anything about the subject, it's a good chance to 
+learn something new about it!
 
-Sometimes I'm unable to find common ground with the other person. This is where 
-I try to take an interest in something they enjoy. You never know what you may 
-learn about a subject you didn't previously think you cared about.
-
-And if that still doesn't work, then maybe it just doesn't work. Sometimes you 
-can't seem to find that mutual attraction no matter what. Maybe that means the 
-other party didn't achieve step 1, or they're just not interested in you. That 
-happens. It sucks, but don't let it stop you from trying to connect with other 
-people!
-
-If you find it often not working out, and you want to change that, try 
-developing more hobbies or traveling more. Not only do they open your mind, they 
-also allow you to have more interesting talking points wherein you could 
-potentially develop that mutual interest.
+If you can't find a common interest, and even when you try to probe and learn 
+more about theirs you find it's not working out, then maybe it just doesn't work 
+out. Sometimes you can't seem to find that mutual attraction no matter what. 
+Maybe that means the other party didn't achieve step 1, or they're just not 
+interested in you. That happens. It sucks, but don't let it stop you from trying 
+to connect with other people!
 
 ##3. Open up##
 
@@ -110,3 +107,10 @@ that risk to connect emotionally with others.
 Yes, sometimes if you open up to the wrong people, it'll come back to bite you, 
 but if you've managed to build rapport and they don't seem to be of shady 
 character, then more often than not, trusting is not a bad thing.
+
+##4. Profit!##
+
+If you've followed the 3 steps, you should have now made a new best friend. 
+Congratulations! Joking aside, I do hope these steps help you to build more 
+meaningful friendships. Let me know if the steps work or don't work for you, as 
+well as if you think I'm missing something crucial in the process.
