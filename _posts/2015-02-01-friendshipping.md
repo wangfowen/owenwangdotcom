@@ -20,9 +20,9 @@ friendships will naturally form. Ironically, I later met Nav in real life, and I
 did not follow my own advice.
 
 In thinking more about why that happened, I've decided becoming friends is not 
-as simple as the one step of just opening up... it's actually 3 steps! (I'm sure 
+as simple as the one step of just opening up... it's actually 3 steps! I'm sure 
 in reality there's much more involved, but then it wouldn't be able to go viral 
-on BuzzFeed, would it?) Nav and I had failed at an earlier step and that's why 
+on BuzzFeed, would it? Nav and I had failed at an earlier step and that's why 
 we're not currently best friends forever.
 
 Before I get into these steps that will change your life, you might ask what 
@@ -33,16 +33,14 @@ of proximity. We'd talk about schoolwork or play games together, and that was
 the extent of our friendship. With those friends, if I ever had an issue 
 unrelated to gaming or school, I'd feel uncomfortable asking them for advice.
 
-With my current friends, I can talk to them about anything and everything, 
-whether it be sexual, financial, or philosophical. I'd say that's the difference 
-that closeness brings. A close friend you can trust with personal matters. You 
-can turn to them for help without feeling discomfort, and they'd be there for 
-you. They've got your back.
-
-Meaningful friendships not only [ameliorate bad 
-situations](http://www.centreforconfidence.co.uk/flourishing-lives.php?p=cGlkPTIwMSZpZD03ODg=){:target="_blank"}, 
-they also [make good situations even 
-better](http://www.scientificamerican.com/article/without-friends-or-family-even-extraordinary-experiences-are-disappointing/){:target="_blank"}.
+With my current friends, I can talk to them about anything and everything, even 
+things like sex and finance. I'd say that's the difference that closeness 
+brings. A close friend you can trust with personal matters. You can turn to them 
+for help without feeling discomfort, and they'd be there for you. Meaningful 
+  friendships not only [ameliorate bad 
+  situations](http://www.centreforconfidence.co.uk/flourishing-lives.php?p=cGlkPTIwMSZpZD03ODg=){:target="_blank"}, 
+  they also [make good situations even 
+  better](http://www.scientificamerican.com/article/without-friends-or-family-even-extraordinary-experiences-are-disappointing/){:target="_blank"}.
 
 If you already have a close social group, you may think this guide won't be of 
 any use to you, but maybe this can help you get even closer! At the same time, 
