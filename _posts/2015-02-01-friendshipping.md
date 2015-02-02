@@ -58,9 +58,9 @@ closer to an old friend, you may be at step 2 or 3.
 ##1. Get in the right mindset to converse##
 
 Some days you might not like yourself. Some days you can't deal with other 
-people. That's all okay, it happens to the best of us. But on those days it's 
+people. That's all okay, it happens to the best of us. But in those times it's 
 probably not ideal for you to be making friends. Ideal conditions are when 
-you're feeling positive and talkative.
+you're feeling positive and are ready to talk.
 
 Generally, people like positive energy. It's infectious and it makes them feel 
 better. Friends may put up with negativity, but why would someone you just met 
