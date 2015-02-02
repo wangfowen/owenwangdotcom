@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Make Friends in 3 Easy Steps!"
+title: "Friendshipping in 3 Easy Steps!"
 tagline: "A guide to building (meaningful) relationships"
 date: 2015-02-01 00:00:00
 published: true
@@ -15,41 +15,45 @@ named Nav:
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/wikichen">@wikichen</a> Dude, how do you make CLOSE friends with people? Beyond the small-talk and how is your weekend crap? Been bothering me for time.</p>&mdash; Nav Dhillon (@Navjotd) <a href="https://twitter.com/Navjotd/status/445673386547503104">March 17, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I of course nosily inserted myself into the conversation. Not knowing how to 
-properly use Twitter, my responses aren't coherent enough to paste here. I 
-essentially advised that if you open yourself up to others, close friendships 
-will naturally form. Ironically, I later met Nav in real life, and I did not 
-follow my own advice.
+In response I essentially advised that if you open yourself up to others, close 
+friendships will naturally form. Ironically, I later met Nav in real life, and I 
+did not follow my own advice.
 
-In thinking more about the subject, I've decided it's not as simple as the one 
-step of just opening up... it's actually 3 steps! (I'm sure in reality there's 
-much more involved, but then it wouldn't be able to go viral on BuzzFeed, would 
-it?)
+In thinking more about why that happened, I've decided it's not as simple as the 
+one step of just opening up... it's actually 3 steps! (I'm sure in reality 
+there's much more involved, but then it wouldn't be able to go viral on 
+BuzzFeed, would it?) Nav and I had failed at an earlier step and that's why 
+we're not currently best friends forever.
 
-Before we get into the three steps that will change your life, why am I writing 
-about this? Well, as my college days comes to an end, and as I enter the adult 
-world, I'll have to make new friends again. What a bummer. To make things worse, 
-this time I won't have the magnetic pull of school to bring people into my 
-proximity. Perhaps consolidating my thoughts here will help me prepare for the 
-days to come, and perhaps it'll help others do the same.
+Before I get into these steps that will change your life, you might ask what 
+does it even mean to have close friends?
 
-Making friends can be hard. I'm sure Nav is not alone in wanting to be able to 
-get closer to people. Friends [ameliorate bad 
+In my childhood, I had some friends whom I hung out with due to the convenience 
+of proximity. We'd talk about schoolwork or play games together, and that was 
+the extent of our friendship. With those friends, if I ever had an issue 
+unrelated to gaming or school, I'd feel uncomfortable asking them for advice.
+
+With my current friends, I can talk to them about anything and everything, 
+whether it be sexual, financial, or philosophical. I'd say that's the difference 
+that closeness brings. A close friend you can turn to for help without feeling 
+discomfort, and they'd be there for you. They've got your back.
+
+Meaningful friendships not only [ameliorate bad 
 situations](http://www.centreforconfidence.co.uk/flourishing-lives.php?p=cGlkPTIwMSZpZD03ODg=){:target="_blank"}, 
-and they [make good situations even 
+they also [make good situations even 
 better](http://www.scientificamerican.com/article/without-friends-or-family-even-extraordinary-experiences-are-disappointing/){:target="_blank"}.
 
-If you already have a close social group, you may think this won't be of any 
-use, but maybe this can help you get even closer! At the same time, it's still 
-good to make new friends. If we hang out solely with one group of people, over 
-time groupthink develops and thought patterns converge. This is good in reducing 
-social friction, but it means we become stagnant. New friends can provide 
-different perspectives and challenge our beliefs.
+If you already have a close social group, you may think this guide won't be of 
+any use to you, but maybe this can help you get even closer! At the same time, 
+it's still good to make new friends. If we hang out solely with one group of 
+people, over time groupthink develops and thought patterns converge. This is 
+good in reducing social friction, but it means we become stagnant. New friends 
+can provide different perspectives and challenge our beliefs.
 
 Developing and deepening friendships is a life long process and we can always 
 get better at it. So without further ado, here's my guide to friendshipping. 
-When trying to make new friends, start at step 1. With old friends you want to 
-get closer to, you may be at step 2 or 3.
+When you're in a situation to make a new friend, start at step 1. With old 
+friends you want to get closer to, you may be at step 2 or 3.
 
 ##1. Get in the right mindset##
 
@@ -83,8 +87,8 @@ the "small talk and how is your weekend crap" occurs.
 One way to solve this is to find common interests we can both talk about and 
 care about. But if we can't find one, another way is to try to care about their 
 interests. If I don't know anything about the subject, it's a good chance to 
-learn something new about it! Making an effort to listen and learn goes a long 
-way.
+learn something new about it! Making an effort to listen and actually care
+goes a long way.
 
 If you can't find a common interest, and even when you try to probe and learn 
 more about theirs you find it's not working out, then maybe it just doesn't work 
