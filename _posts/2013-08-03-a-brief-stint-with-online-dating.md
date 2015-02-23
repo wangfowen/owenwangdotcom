@@ -31,14 +31,15 @@ essentially provoking you to take action.
 The online dating ride was quite a rollercoaster for me (and none of that weak 
 Canada's Wonderland business. Serious stuff like Cedar Point). The first time 
 someone messaged me of their own accord, I went berserk with happiness. I didn't 
-understand why someone would do such a thing. The first time I messaged someone 
-and they didn't respond, the first time someone stopped responding after a bit 
-of interaction, and all the other situations that ended in dead ends upwelled 
-all my insecurities. Am I not good enough? What am I doing wrong?
+understand why someone would do such a thing. __The first time I messaged 
+someone and they didn't respond, the first time someone stopped responding after 
+a bit of interaction, and all the other situations that ended in dead ends 
+upwelled all my insecurities__. Am I not good enough? What am I doing wrong?
 
 I showed some friends the messages I had sent and they pointed out that I didn't 
 at all sound natural. What I had written sounded nothing like what I'd say in 
-real life.
+real life. I was trying way too hard to be what the other person was looking 
+for.
 
 Fastforward a month or so, someone agreed to go on a date with me in real life. 
 I did a double take to make sure I didn't misread and jumped out of my seat and 
@@ -50,10 +51,11 @@ From the overall experience I came to understand that I just had to be myself. I
 know - such a cliché - but some things people tell you over and over and it 
 still doesn't really click til you figure it out yourself. There's plenty of 
 people out there that will appreciate me for being me. There's really no point 
-in getting hung up on the little things. Non-response didn't necessarily mean I 
-did something wrong. It just meant that not everyone out there is looking for 
-the same thing, it's really not a big deal that I didn't get _"chosen"_ by every 
-person out there. Afterall, you just have to find _one_ that does _choose_ you.
+in getting hung up on the little things. __Non-response didn't necessarily mean 
+I did something wrong. It just meant that not everyone out there is looking for 
+the same thing.__ It's really not a big deal that I didn't get _"chosen"_ by 
+every person out there. After all, I just have to find _one_ that _does_ choose 
+me.
 
 I'm sure most of the lessons I learned others have learned through regular 
 relationships. I'd like to blame my not having done so on going to an 
@@ -62,12 +64,12 @@ put myself out there more now, joining clubs on campus and actually talking to
 people in them. There are girls! They do exist, I promise.
 
 I've since deleted my OKCupid account. I figure I'm doing alright meeting people 
-from clubs in the meantime; it's better to not rely on the bootstrapping. Online 
-dating certainly helped boost my confidence, grow socially, and get a foot out 
-the door in meeting new people. It was an interesting experience and I would 
-recommend it to anyone with an open mind. There really is no shame in trying. In 
-the end, does it really matter how you met your significant other? It just 
-matters that you met them.
+from school in the meantime; it's better to not rely on the bootstrapping. 
+Online dating certainly helped boost my confidence, grow socially, and get a 
+foot out the door in meeting new people. It was an interesting experience and I 
+would recommend it to anyone with an open mind. There really is no shame in 
+trying. __In the end, does it really matter how you met your significant other? 
+It just matters that you met them.__
 
 An unexpected side effect: you list your body type on the site and I felt guilty 
 for listing myself as "average", as I felt quite out of shape. I wanted to make 
