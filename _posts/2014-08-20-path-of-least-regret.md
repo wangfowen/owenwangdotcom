@@ -53,5 +53,5 @@ didn't try that", or is it more likely they'd think "if only I did".
 
 Unfortunately, just _wanting_ something enough doesn't make it happen. 
 Present-you has to _take action_ towards that, even if it's unpleasant at the 
-beginning. So next time you're considering your options, I say screw the path of 
-least resistance. __Take the path of least regret.__
+beginning. So next time you're considering your options, I say __screw the path 
+of least resistance. Take the path of least regret.__

@@ -17,7 +17,7 @@ awesome person, not at all a cat lady or whomever you'd expect to find on the
 sites. I didn't have anything going on so I figured might as well give it a 
 shot.
 
-There's many options when it comes to what site to use (Ashley Madison anyone?).  
+There's many options when it comes to what site to use (Ashley Madison anyone?). 
 I went with OKCupid as I recalled their 
 [blog](http://blog.okcupid.com/){:target="_blank"} popping up on Hacker News a 
 while back. They publish all sorts of hilarious metrics based on data they've 
