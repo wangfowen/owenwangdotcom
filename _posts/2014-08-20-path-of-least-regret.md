@@ -22,17 +22,18 @@ it has also allowed me to experience things I wouldn't have otherwise.
 
 A silly example is when I tried salsa classes while studying abroad. Right away 
 the language barrier and my poor coordination got the best of me. I stumbled in 
-leading and getting the steps right. Every time we rotated partners, I could see 
-my new one masking a look of annoyance at having to dance with me again.
+leading and getting the steps right. Every time we rotated, I could see my new 
+partner masking a look of annoyance at having to dance with me.
 
 The class severely bruised my ego. It took everything within me to not quit. 
 What got me through it was remembering why I took it in the first place. I've 
 wanted to learn salsa for the longest time. In part, to impress ladies back 
-home. Why did it matter that currently people were annoyed with me? I wasn't 
-doing it for them, I was doing it to invest in my future self. Besides, I 
-wouldn't see these people again after a couple short months. If I didn't learn 
-salsa just because it was hard, wouldn't future-me be mad at present-me? The 
-opportunity to learn from authentic Spanish dancers doesn't come every day.
+home. Sure, currently people were annoyed with me, but I wasn't doing it for 
+them. I was doing it to invest in my future self. _If I didn't learn salsa now 
+just because it was hard, wouldn't future-me be mad at present-me?_ Wouldn't I 
+regret that decision? The opportunity to learn from authentic Spanish dancers 
+doesn't come every day. Besides, I wouldn't see these people again after a 
+couple short months.
 
 With that mentality, I stopped myself from quitting every time I thought about 
 it. I kept going with the class and as I got better, the contempt my partners 
