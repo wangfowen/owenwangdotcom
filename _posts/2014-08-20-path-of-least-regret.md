@@ -29,11 +29,11 @@ The class severely bruised my ego. It took everything within me to not quit.
 What got me through it was remembering why I took it in the first place. I've 
 wanted to learn salsa for the longest time. In part, to impress ladies back 
 home. Sure, currently people were annoyed with me, but I wasn't doing it for 
-them. I was doing it to invest in my future self. _If I didn't learn salsa now 
-just because it was hard, wouldn't future-me be mad at present-me?_ Wouldn't I 
-regret that decision? The opportunity to learn from authentic Spanish dancers 
+them. I was doing it to invest in my future self. If I didn't learn salsa now 
+just because it was hard, wouldn't future-me be mad at present-me? _Wouldn't I 
+regret that decision?_ The opportunity to learn from authentic Spanish dancers 
 doesn't come every day. Besides, I wouldn't see these people again after a 
-couple short months.
+couple short months, so did it even actually matter if they despised my dancing?
 
 With that mentality, I stopped myself from quitting every time I thought about 
 it. I kept going with the class and as I got better, the contempt my partners 
