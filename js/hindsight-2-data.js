@@ -2,11 +2,60 @@ var dir = "/images/2014/";
 
 var imgs = [
       {
+        width: 800,
+        height: 533,
+        src: "germany.jpg",
+        month: "jan",
+        desc: "Munich. Eurail Episode. Christmas markets. Beer gardens. Deutsch Museum. BMW World. Olympia Park. River surfing."
+      },
+      {
+        width: 800,
+        height: 505,
+        src: "lindau.jpg",
+        month: "jan",
+        desc: "Lindau. Walk to Austria. Rainbow sunset."
+      },
+      {
+        width: 800,
+        height: 411,
+        src: "budapest.jpg",
+        month: "jan",
+        desc: "Budapest. Attic hostel. Vietnamese food. Ruin bar. Thermal baths. Communism tour."
+      },
+      {
+        width: 800,
+        height: 533,
+        src: "prague.jpg",
+        month: "jan",
+        desc: "Prague. Couchsurfing. Castles. Beer cheaper than water. Brazilians and Californians. Kutna Hora. Ice bar. Gastronomy museum."
+      },
+      {
+        width: 500,
+        height: 617,
+        src: "paris.jpg",
+        month: "jan",
+        desc: "Sean's visit. Chipotle. DDR. Korean hostel. No fireworks at New Years. Notre Dame. Mozart concert in Cathedral. Final night. Hostel girls, 6am walk."
+      },
+      {
+        width: 496,
+        height: 573,
+        src: "lesarcs.jpg",
+        month: "jan",
+        desc: "Week of Alps. Catching the train with hangover. Les Arcs. Off piste. Raclette. 5m visibility in snowstorm."
+      },
+      {
+        width: 497,
+        height: 599,
+        src: "belgium.jpg",
+        month: "jan",
+        desc: "Brussels. Magic the Gathering. So much waffles and fries. Best beer in the world. Natural Science Museum. Death bar. No Pants Subway Ride. Avoid the peeing boy!"
+      },
+      {
         width: 515,
         height: 520,
         src: "switzerland.jpg",
         month: "jan",
-        desc: "Lausanne. EPFL. UNIL. Swiss cheese by the lake"
+        desc: "Switzerland adventure. Lausanne. EPFL. UNIL. Swiss cheese by the lake. Randomly Milan."
       },
       {
         width: 599,

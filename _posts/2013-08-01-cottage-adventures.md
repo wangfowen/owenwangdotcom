@@ -26,7 +26,7 @@ turning my life into a musical... (startup idea?)
 We had some good old fashioned University of Toronto vs University of Waterloo 
 rivalry. In the end Waterloo reigned supreme, winning 5 arbitrary points to 3 
 through a series of perilous events like dumpling making (yes, we successfully 
-brought the Asian to the pinnacle White outing) and flip cup.
+brought the Asian to the pinnacle Western outing) and flip cup.
 
 The weekend was filled with much laughter and good vibes. A++ would definitely 
 do again!
