@@ -20,13 +20,13 @@ college, but also the real world experience helps me identify early on whether
 I'm on the right track. At the same time, due to such internships, my friends 
 and I developed what we called overpaid syndrome.
 
-Overpaid syndrome is the embodiment of the "you only live once" attitude. You 
-feel like you can do whatever your heart desires and live without worries. This 
-results from the dramatic change from living off of ramen to suddenly having 
-abundant spending money. If something exciting got suggested, we had a group of 
-people committed instantly. This led to things like a weekend bungee jumping 
-outing to a week long Hawaii excursion. Even some of our more frugal friends 
-ended up developing _the syndrome_ after interning for a couple months.
+__Overpaid syndrome is the embodiment of the "you only live once" attitude. You 
+feel like you can do whatever your heart desires and live without worries.__ 
+This results from the dramatic change from living off of ramen to suddenly 
+having abundant spending money. If something exciting got suggested, we had a 
+group of people committed instantly. This led to things like a weekend bungee 
+jumping outing to a week long Hawaii excursion. Even some of our more frugal 
+friends ended up developing _the syndrome_ after interning for a couple months.
 
 Our work was relatively low stress physically, thus the primary limiting factor 
 on our fun was time. Work took the energy out of weekdays. Adventures were 
@@ -40,12 +40,13 @@ hours that would be wasted looking for the best deal doing work instead, it'll
 make up for it. 3 hours working instead of shopping equals a lot of new 
 clothes!"
 
-Basically time became a commodity to me. It is just as limited as everything 
-else, and we only need to hoard so much wealth to be secure in ourselves. I 
-  figured if I was lucky enough to be secure, why not live a little?  Never mind 
-  that I can actually only work so much, so those future-hours might not even 
-  occur. The thought process was totally flawless. Life was grand; it felt like 
-  we owned the world. It seemed like money really could buy happiness.
+__Essentially, overpaid syndrome turned time into a commodity to me.__ It is 
+just as limited as everything else, and we only need to hoard so much wealth to 
+be secure in ourselves. I figured if I was lucky enough to be secure, why not 
+live a little?  Never mind that I can actually only work so much, so those 
+future-hours might not even occur. The thought process was totally flawless. 
+Life was grand; it felt like we owned the world. It seemed like money really 
+could buy happiness.
 
 Alas, all good things must come to an end. The clock struck midnight and our 
 internships ended. I returned home to my first generation 
@@ -60,9 +61,9 @@ Even though the cash flow was gone, the overpaid syndrome seemed to still have
 residual effects. I'm in school again, but it's not quite back to the ramen 
 life. Future-hours are now completely imaginary, yet I can still think in that 
 fashion. If I get cheated out of a buck or two, or I don't do quite as well as I 
-hoped on an exam, life moves on. I can spend my time on better things than 
-freaking out and getting upset. I no longer stress as much about the little 
-things and am overall happier because of it. My friends and I still try to have 
+hoped on an exam, life moves on. __I can spend my time on better things than 
+freaking out and getting upset over the little things. I no longer stress as 
+much and am overall happier because of it.__ My friends and I still try to have 
 adventures when we can as well. We call it "bringing back the Cali". I may not 
 have the money to blow on ski trips anymore, but many of the wonders in life are 
 free or cheap. Hiking, for example, can be done on a budget practically anywhere 
@@ -72,11 +73,11 @@ A friend shared this quote with me, which I find rings quite true:
 
 > Imagine there is a bank account that credits your account each morning with $86,400. It carries over no balance from day to day. Every evening the bank deletes whatever part of the balance you failed to use during the day. What would you do? Draw out every cent, of course? Each of us has such a bank. Its name is time. Every morning, it credits you with 86,400 seconds. Every night it writes off as lost, whatever of this you have failed to invest to a good purpose. It carries over no balance. It allows no over draft. Each day it opens a new account for you. Each night it burns the remains of the day. If you fail to use the day's deposits, the loss is yours. There is no drawing against "tomorrow". You must live in the present on today's deposits. Invest it so as to get from it the utmost in health, happiness and success. The clock is running. Make the most of today.
 
-It took overpaid syndrome to show me how to enjoy more of life, and I came to 
+__It took overpaid syndrome to show me how to enjoy more of life, and I came to 
 see it wasn't actually the money that made it better. It was entirely the 
 thought process -- thinking about how time is a valuable commodity in itself, 
-and not wasting it on things you don't like when possible. I don't think you 
-have to be overpaid to apply it (of course it's always easier to make such 
-claims when I'm on the other side of the fence). Ten years down the line will 
-you actually remember how you got that one percent higher on the calculus exam? 
-Or will you remember the great times you had with your loved ones?
+and minimizing the amount that I wasted when possible.__ I don't think you have 
+to be overpaid to apply it (of course it's always easier to make such claims 
+when I'm on the other side of the fence). Ten years down the line will you 
+actually remember how you got that one percent higher on the calculus exam? Or 
+will you remember the great times you had with your loved ones?
