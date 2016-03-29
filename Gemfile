@@ -7,3 +7,4 @@ gem "liquid", "~> 2.5.3"
 
 gem "therubyracer"
 gem "jekyll-less"
+gem 'libv8'
