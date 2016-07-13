@@ -14,8 +14,8 @@ other aspects of life through a similar lens.
 {% image /images/funnel.png "Not the liquid or cake kind" %}
 
 I've been working full time as an engineer for almost a year now, and it's 
-gotten me wondering how that has shaped my views. What are the funnels of _my_ 
-world?
+gotten me wondering how that has shaped my own views. What are the funnels of 
+_my_ world?
 
 I've narrowed it down to three major concepts: optimization trade-offs, failure 
 modes, and methodical searching. In this post I'll just talk about the first 
@@ -43,7 +43,7 @@ different.
 Applying that to the real world, time management is a huge one for me. I don't 
 have enough waking hours for everything I want to do, so I have to evaluate what 
 I'm optimizing for. If I want to meet more new people, then I have less time to 
-spend with my current friends. Or if I spend large portions of time on both, 
+spend with my existing friends. Or if I spend large portions of time on both, 
 then I have less time for self improvement.
 
 There are some micro-optimizations I could do, like doing self improvement 
@@ -55,33 +55,32 @@ there's no perfect solution, often helps me come to terms with decisions I make.
 
 ###Failure Modes###
 
-Whenever we're designing a system, we have to consider what could be potential 
-bottlenecks and points of failure. And if a failure does occur, how would the 
+Whenever we're designing a system, we have to consider what could be bottlenecks 
+and points of failure down the line. And if a failure does occur, how would the 
 system react?
 
 If a social media site indexed the content it served by each post's id, what 
 would happen when a post goes viral and many users are interacting with the 
-single post? What if they indexed by user instead?  How could things go wrong 
-then?
+single post? What if they indexed by user instead?  What could fail then, and 
+when?
 
-It's crucial to poke holes at the system and preemptively think about how things 
-could go wrong and how to handle that, so that terrible things don't happen when 
-something does go awry.
+It's crucial to poke holes at the system and preemptively think about potential 
+failures and how to handle them, so that when something does go awry, the 
+consequences aren't terrible.
 
-Looking at life like this, realistically what could go wrong in any given 
-situation? Thinking in this way has actually helped me rationalize and overcome 
-many of my fears.
+Looking at life like this, I often think to myself: realistically what are all 
+the ways this could go wrong? Thinking in this way has actually helped me 
+rationalize and overcome many of my fears.
 
-When I was at a stage in my life where I'd have anxiety in talking to new 
-people, part of what helped me overcome it was thinking about all the ways it 
-could go wrong and realizing how trivial the consequences were those situations. 
-Often we over hype what might happen, but really, how bad could it be? The other 
+When I was at a stage in my life where I had anxiety in talking to new people, 
+part of what helped me overcome it was thinking about the failure cases and 
+realizing how trivial the consequences were in those situations. The other 
 person isn't interested in talking, so they decline to partake. They don't give 
 you another thought and both your lives move on. They say something mean, or 
 they flat out ignore you? You feel briefly humiliated, but again, within moments 
 neither of you will think about each other again and your lives move on. It's 
 really not so bad.
 
-This kind of thinking also helped me justify certain risks I'd taken, and 
+This kind of thinking has also helped me justify certain risks I've taken, and 
 convinced me to not take certain other ones.
 
