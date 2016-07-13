@@ -35,23 +35,22 @@ just those, while neglecting (or less optimally solving) the others.
 It's impossible to optimize for everything. If you want your algorithm to run 
 faster, usually you'll need to use more memory. Your database can't be 
 consistent, available, _AND_ partition tolerant, so you have to decide which are 
-the most crucial in your use case.
-
-Every problem is different, and therefore every solution's optimizations are 
-different.
+the most crucial in your use case. Every use case is different, and therefore 
+every solution's optimizations are different.
 
 Applying that to the real world, time management is a huge one for me. I don't 
 have enough waking hours for everything I want to do, so I have to evaluate what 
-I'm optimizing for. If I want to meet more new people, then I have less time to 
-spend with my existing friends. Or if I spend large portions of time on both, 
-then I have less time for self improvement.
+I want most. If I want to meet more new people, then I have less time to spend 
+with my existing friends. Or if I spend large portions of time on both, then I 
+have less time for self improvement.
 
 There are some micro-optimizations I could do, like doing self improvement 
-activities with friends. But in the end, it's still not possible to achieve it 
-all. So which of these desires do I actually care the most about?
+activities with existing friends. But in the end, it's still not possible to 
+achieve it all. So which of these desires do I actually care the most about?
 
-Weighing the options and thinking about what I'm giving up to gain, knowing 
-there's no perfect solution, often helps me come to terms with decisions I make.
+Weighing the options and thinking about what I'm giving up to gain - knowing 
+there's no perfect solution - often helps me come to terms with the decisions I 
+make.
 
 ###Failure Modes###
 
@@ -61,11 +60,11 @@ system react?
 
 If a social media site indexed the content it served by each post's id, what 
 would happen when a post goes viral and many users are interacting with the 
-single post? What if they indexed by user instead?  What could fail then, and 
+single post? What if they indexed by users instead? What could fail then, and 
 when?
 
 It's crucial to poke holes at the system and preemptively think about potential 
-failures and how to handle them, so that when something does go awry, the 
+problems and how to handle them, so that when something does go awry, the 
 consequences aren't terrible.
 
 Looking at life like this, I often think to myself: realistically what are all 
