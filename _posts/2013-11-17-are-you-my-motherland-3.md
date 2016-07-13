@@ -2,7 +2,7 @@
 layout: post
 title: "Copenhagen - Are You My Motherland?"
 date: 2013-11-17 00:00:00
-published: true
+publish: true
 
 ---
 

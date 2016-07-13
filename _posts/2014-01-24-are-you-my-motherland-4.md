@@ -3,7 +3,7 @@ layout: post
 title: "Discontinued - Are You My Motherland?"
 tagline: "Final remarks on an abandoned series"
 date: 2014-01-24 00:00:00
-published: true
+publish: true
 
 ---
 

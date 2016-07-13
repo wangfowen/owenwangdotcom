@@ -2,7 +2,7 @@
 layout: post
 title: "Lost In Translation"
 date: 2015-09-07 00:00:00
-published: false
+publish: false
 
 ---
 

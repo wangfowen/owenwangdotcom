@@ -3,7 +3,7 @@ layout: post
 title: "The Eurail Episode"
 tagline: "A story of fixing careless mistakes"
 date: 2014-01-20 00:00:00
-published: true
+publish: true
 
 ---
 

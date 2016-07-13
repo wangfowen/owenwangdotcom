@@ -18,13 +18,15 @@ title: Not A Blog
     </div>
     <ul class="posts">
       {% for post in site.posts %}
-      <a href="{{ post.url }}">
-        <li>
-          <p class="title">{{ post.title }}</p>
-          <p class="tagline">{{ post.tagline }}</p>
-          <p class="date">{{ post.date | date_to_string }}</p>
-        </li>
-      </a>
+        {% if post.publish %}
+          <a href="{{ post.url }}">
+            <li>
+              <p class="title">{{ post.title }}</p>
+              <p class="tagline">{{ post.tagline }}</p>
+              <p class="date">{{ post.date | date_to_string }}</p>
+            </li>
+          </a>
+        {% endif %}
       {% endfor %}
     </ul>
   </div>

@@ -3,7 +3,7 @@ layout: post
 title: "Lean Traveling"
 tagline: "Guide to traveling with minimum stress"
 date: 2014-01-21 00:00:00
-published: true
+publish: true
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Striding Solo"
 tagline: "Self discovery from traveling alone"
 date: 2014-01-22 00:00:00
-published: true
+publish: true
 
 ---
 

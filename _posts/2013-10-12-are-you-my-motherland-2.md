@@ -2,7 +2,7 @@
 layout: post
 title: "Rome - Are You My Motherland?"
 date: 2013-10-12 00:00:00
-published: true
+publish: true
 ---
 
 _In this [on-going series](/blog/are-you-my-motherland) I examine some cities 

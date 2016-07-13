@@ -3,7 +3,7 @@ layout: post
 title: "Friendshipping in 3 Easy Steps!"
 tagline: "A guide to building (meaningful) relationships"
 date: 2015-02-01 00:00:00
-published: true
+publish: true
 
 ---
 
