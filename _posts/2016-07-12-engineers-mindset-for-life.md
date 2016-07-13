@@ -14,17 +14,11 @@ other aspects of life through a similar lens.
 {% image /images/funnel.png "Not the liquid or cake kind" %}
 
 I've been working full time as an engineer for almost a year now, and it's 
-gotten me wondering how that has shaped my own views. What are the funnels of 
-_my_ world?
+gotten me wondering how that's shaped my own views.
 
 I've narrowed it down to three major concepts: optimization trade-offs, failure 
 modes, and methodical searching. In this post I'll just talk about the first 
 two, as the third is a whole beast of its own.
-
-But before I get into those, I have a question for you: how do you think _your_ 
-discipline has changed how _you_ think? I'd love to hear your responses! I 
-suspect that many careers likely mold us in similar ways, even if the vocabulary 
-is different. I'm very intrigued to find out what differences there may be.
 
 ###Optimization Trade-offs###
 
@@ -33,16 +27,17 @@ have to choose which problems are the most pressing and optimize for solving
 just those, while neglecting (or less optimally solving) the others.
 
 It's impossible to optimize for everything. If you want your algorithm to run 
-faster, usually you'll need to use more memory. Your database can't be 
-consistent, available, _AND_ partition tolerant, so you have to decide which are 
-the most crucial in your use case. Every use case is different, and therefore 
-every solution's optimizations are different.
+faster, usually you'll need to use more memory. Does your company implement 
+processes that give upper management visibility into what engineers 
 
 Applying that to the real world, time management is a huge one for me. I don't 
 have enough waking hours for everything I want to do, so I have to evaluate what 
 I want most. If I want to meet more new people, then I have less time to spend 
 with my existing friends. Or if I spend large portions of time on both, then I 
 have less time for self improvement.
+
+ELABORATE MORE ON WHY THIS IS DIFFERENT FROM WHAT NORMAL PEOPLE DO - THINK ABOUT 
+ACTUAL METRICS FOR EVALUATING.
 
 There are some micro-optimizations I could do, like doing self improvement 
 activities with existing friends. But in the end, it's still not possible to 
@@ -80,6 +75,22 @@ they flat out ignore you? You feel briefly humiliated, but again, within moments
 neither of you will think about each other again and your lives move on. It's 
 really not so bad.
 
+ELABORATE ON HOW THIS IS KIND OF DIFFERENT FROM WHAT NORMAL PEOPLE DO - I PLAY 
+DEVIL'S ADVOCATE AND MAY APPEAR UNSUPPORTIVE AND PESSIMISTIC, BUT IT ALLOWS ME 
+TO ADDRESS ISSUES BEFORE THEY OCCUR BY THINKING ABOUT ALL THE POSSIBLE CASES.
+
 This kind of thinking has also helped me justify certain risks I've taken, and 
 convinced me to not take certain other ones.
+
+###What About You?#
+
+How do you think _your_ discipline has changed how _you_ think? I'd love to hear 
+your responses! I suspect that many careers likely mold us in similar ways, even 
+if the vocabulary is different.
+
+TALK ABOUT HOW ENGINEERING DIDN'T NECESSARILY MAKE ME THINK DIFFERENTLY FROM 
+OTHER PEOPLE, BUT IT'S INTERESTING TO SEE THE MAPPING FROM ENGINEERING 
+VOCABULARY TO HOW I THINK ABOUT THINGS
+
+I'm very intrigued to find out what differences there may be.
 
