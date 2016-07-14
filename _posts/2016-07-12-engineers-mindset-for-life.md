@@ -16,19 +16,21 @@ other aspects of life through a similar lens.
 I've been working full time as an engineer for almost a year now, and it's 
 gotten me wondering how that's shaped my own views.
 
-I've narrowed it down to three major concepts: optimization trade-offs, failure 
-modes, and methodical searching. In this post I'll just talk about the first 
-two, as the third is a whole beast of its own.
+I've narrowed it down to three major concepts: optimization, failure modes, and 
+methodical searching. In this post I'll just talk about the first two, as the 
+third is a whole beast of its own.
 
-###Optimization Trade-offs###
+###Optimization###
 
 There is never a silver bullet that solves every possible problem. Instead you 
 have to choose which problems are the most pressing and optimize for solving 
 just those, while neglecting (or less optimally solving) the others.
 
-It's impossible to optimize for everything. If you want your algorithm to run 
-faster, usually you'll need to use more memory. Does your company implement 
-processes that give upper management visibility into what engineers 
+If you want your algorithm to run faster, usually you'll need to use more 
+memory. If you want to decrease your servers' downtime, you'll need to increase 
+the complexity of your deployment process, which generally increases developer 
+time costs. The important thing to know is that it's impossible to optimize for 
+everything.
 
 Applying that to the real world, time management is a huge one for me. I don't 
 have enough waking hours for everything I want to do, so I have to evaluate what 
@@ -36,16 +38,13 @@ I want most. If I want to meet more new people, then I have less time to spend
 with my existing friends. Or if I spend large portions of time on both, then I 
 have less time for self improvement.
 
-ELABORATE MORE ON WHY THIS IS DIFFERENT FROM WHAT NORMAL PEOPLE DO - THINK ABOUT 
-ACTUAL METRICS FOR EVALUATING.
-
 There are some micro-optimizations I could do, like doing self improvement 
 activities with existing friends. But in the end, it's still not possible to 
 achieve it all. So which of these desires do I actually care the most about?
 
-Weighing the options and thinking about what I'm giving up to gain - knowing 
-there's no perfect solution - often helps me come to terms with the decisions I 
-make.
+I try to quantify as best as I can what exactly I'd be giving up, and what I'd 
+be gaining. I weigh the options and I remind myself that there's not a perfect 
+solution, and that often helps me come to terms with the decisions that I make.
 
 ###Failure Modes###
 
@@ -53,9 +52,9 @@ Whenever we're designing a system, we have to consider what could be bottlenecks
 and points of failure down the line. And if a failure does occur, how would the 
 system react?
 
-If a social media site indexed the content it served by each post's id, what 
-would happen when a post goes viral and many users are interacting with the 
-single post? What if they indexed by users instead? What could fail then, and 
+If a social media site stored its posts in different databases sorted by the 
+posts' identifiers, then a database might go down if a post goes viral. What if 
+they were sorted by the user's identifiers instead? What could fail then, and 
 when?
 
 It's crucial to poke holes at the system and preemptively think about potential 
@@ -63,8 +62,8 @@ problems and how to handle them, so that when something does go awry, the
 consequences aren't terrible.
 
 Looking at life like this, I often think to myself: realistically what are all 
-the ways this could go wrong? Thinking in this way has actually helped me 
-rationalize and overcome many of my fears.
+the ways this could go wrong? Thinking in this way allows me to address issues 
+before they occur, and has helped me rationalize and overcome many of my fears.
 
 When I was at a stage in my life where I had anxiety in talking to new people, 
 part of what helped me overcome it was thinking about the failure cases and 
@@ -75,22 +74,20 @@ they flat out ignore you? You feel briefly humiliated, but again, within moments
 neither of you will think about each other again and your lives move on. It's 
 really not so bad.
 
-ELABORATE ON HOW THIS IS KIND OF DIFFERENT FROM WHAT NORMAL PEOPLE DO - I PLAY 
-DEVIL'S ADVOCATE AND MAY APPEAR UNSUPPORTIVE AND PESSIMISTIC, BUT IT ALLOWS ME 
-TO ADDRESS ISSUES BEFORE THEY OCCUR BY THINKING ABOUT ALL THE POSSIBLE CASES.
-
-This kind of thinking has also helped me justify certain risks I've taken, and 
-convinced me to not take certain other ones.
+Overall, this mindset has helped me justify certain risks, and convinced me to 
+not take certain other ones. But sometimes, thinking about failure modes gets in 
+the way. If a friend tells me about their upcoming plans, sometimes I can't help 
+but play devil's advocate and I may appear unsupportive and pessimistic.
 
 ###What About You?#
 
-How do you think _your_ discipline has changed how _you_ think? I'd love to hear 
-your responses! I suspect that many careers likely mold us in similar ways, even 
-if the vocabulary is different.
+None of what I mentioned above is unique to engineering, I'm sure people of 
+other disciplines think in similar manners. I suspect other careers would mold 
+us in similar ways, but through different vocabulary.
 
-TALK ABOUT HOW ENGINEERING DIDN'T NECESSARILY MAKE ME THINK DIFFERENTLY FROM 
-OTHER PEOPLE, BUT IT'S INTERESTING TO SEE THE MAPPING FROM ENGINEERING 
-VOCABULARY TO HOW I THINK ABOUT THINGS
+I'm very intrigued to find out what commonalities there are among different 
+disciplines' ways of thinking, and I'm especially curious about what differences 
+there may be.
 
-I'm very intrigued to find out what differences there may be.
-
+So how do you think _your_ discipline has changed how _you_ think? I'd love to 
+hear your responses!
