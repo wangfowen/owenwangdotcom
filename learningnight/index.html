@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Learning Night Post Generator</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link rel="stylesheet" href="bootstrap-datepicker.min.css" />
+    <link rel="stylesheet" href="main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Learning Night Post Generator</h1>
+
+      <h3>Event Info</h3>
+      <div class="form-group">
+      <div class="row">
+        <div class="col-lg-2">
+          <label for="datepicker-input">Date</label>
+          <div class="input-group date" id="datepicker">
+            <input type="text" class="form-control" id="datepicker-input"><span class="input-group-addon"><i class="glyphicon glyphicon-th"></i></span>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <label for="location">Location</label>
+          <input type="text" class="form-control" id="location">
+        </div>
+      </div>
+
+
+      <h3>Talk Info</h3>
+      <div class="row talk-info">
+        <div class="col-lg-4">
+          <label for="author">Author</label>
+          <input type="text" class="form-control" id="author">
+        </div>
+
+        <div class="col-lg-4">
+          <label for="title">Title</label>
+          <input type="text" class="form-control" id="title">
+        </div>
+
+        <div class="col-lg-10">
+          <label for="description">Description</label>
+          <textarea class="form-control" id="description"></textarea>
+        </div>
+
+        <div class="col-lg-4">
+          <label for="slides">Slide Link (optional)</label>
+          <input type="text" class="form-control" id="slides">
+        </div>
+
+        <div class="col-lg-4">
+          <label for="video">Video Link (optional)</label>
+          <input type="text" class="form-control" id="video">
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-8">
+          <button id="add-talk">Add another talk</button>
+        </div>
+
+        <div class="col-lg-8">
+          <button id="download">Create file</button>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-12">
+          <div id="generated" style="display:none">
+            <a href="#" class="link" id="download-link">Download XML</a>
+            <a href="https://learningnight.wordpress.com/wp-admin/admin.php?import=wordpress" class="link" target="_blank">Import to Wordpress</a>
+            <textarea id="result-xml" style="width: 100%; height: 30em" readonly="readonly"></textarea>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/processing.js/1.4.1/processing-api.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.1/js/bootstrap-datepicker.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
