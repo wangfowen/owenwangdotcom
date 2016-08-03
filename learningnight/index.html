@@ -13,8 +13,7 @@
       <h1>Learning Night Post Generator</h1>
 
       <h3>Event Info</h3>
-      <div class="form-group">
-      <div class="row">
+      <div class="row event-info">
         <div class="col-lg-2">
           <label for="datepicker-input">Date</label>
           <div class="input-group date" id="datepicker">
@@ -24,46 +23,53 @@
 
         <div class="col-lg-4">
           <label for="location">Location</label>
-          <input type="text" class="form-control" id="location">
+          <input type="text" class="form-control" id="location" placeholder="Far Haus, MTV">
         </div>
       </div>
 
 
       <h3>Talk Info</h3>
-      <div class="row talk-info">
-        <div class="col-lg-4">
-          <label for="author">Author</label>
-          <input type="text" class="form-control" id="author">
-        </div>
+      <div class="talks">
+        <div class="row talk-info">
+          <div class="col-lg-4">
+            <label for="author">Author</label>
+            <input type="text" class="form-control" id="author" placeholder="John Doe">
+          </div>
 
-        <div class="col-lg-4">
-          <label for="title">Title</label>
-          <input type="text" class="form-control" id="title">
-        </div>
+          <div class="col-lg-4">
+            <label for="title">Title</label>
+            <input type="text" class="form-control" id="title" placeholder="Underwater Basket Weaving">
+          </div>
 
-        <div class="col-lg-10">
-          <label for="description">Description</label>
-          <textarea class="form-control" id="description"></textarea>
-        </div>
+          <div class="col-lg-10">
+            <label for="description">Description</label>
+            <textarea class="form-control" id="description" placeholder="A how-to guide on the most exotic activity, and the history of how it came to be!"></textarea>
+          </div>
 
-        <div class="col-lg-4">
-          <label for="slides">Slide Link (optional)</label>
-          <input type="text" class="form-control" id="slides">
-        </div>
+          <div class="col-lg-4">
+            <label for="slides">Slide Link (optional)</label>
+            <input type="text" class="form-control" id="slides" placeholder="https://docs.google.com/presentation/d/blah">
+          </div>
 
-        <div class="col-lg-4">
-          <label for="video">Video Link (optional)</label>
-          <input type="text" class="form-control" id="video">
+          <div class="col-lg-4">
+            <label for="slideshare">Slideshare Embed (optional)</label>
+            <input type="text" class="form-control" id="slideshare" placeholder="[slideshare id=123&amp;doc=blah]">
+          </div>
+
+          <div class="col-lg-4">
+            <label for="video">Video Link (optional)</label>
+            <input type="text" class="form-control" id="video" placeholder="https://www.youtube.com/watch?v=blah">
+          </div>
         </div>
       </div>
 
       <div class="row">
         <div class="col-lg-8">
-          <button id="add-talk">Add another talk</button>
+          <button class="btn" id="add-talk">Add another talk</button>
         </div>
 
         <div class="col-lg-8">
-          <button id="download">Create file</button>
+          <button class="btn" id="download">Create file</button>
         </div>
       </div>
 

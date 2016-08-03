@@ -1,6 +1,12 @@
 $(function () {
+  var $talks = $('.talks');
+  var $talkInfo = $('.talk-info').clone();
+
   $('#download').click(update);
-  $('#add-talk').click(addTalk);
+  $('#add-talk').click(function() {
+    $talks.append($talkInfo.clone());
+  });
+  $('#datepicker').datepicker({ autoclose: true});
 });
 
 var header = [
@@ -13,20 +19,20 @@ var header = [
   '<wp:base_site_url>http://wordpress.com/</wp:base_site_url>',
   '<wp:base_blog_url>http://learningnight.com</wp:base_blog_url>',
   '<generator>http://wordpress.com/</generator>'
-].join('\r\n');
+];
 
 var footer = [
   '  </channel>',
   '</rss>'
-].join('\r\n');
+];
 
-var talk = [
+var talkTemplate = [
   '<item>',
-  '  <title>TEST TALK TITLE</title>',
+  '  <title><?TalkTitle?></title>',
   '  <dc:creator>learningnight</dc:creator>',
   '  <description/>',
-  '  <content:encoded><![CDATA[<p class="meta"><span class="author">by TEST AUTHOR</span> <span class="location">at TEST LOCATION</span></p>',
-  '    <p class="description">TEST DESCRIPTION</p>',
+  '  <content:encoded><![CDATA[<p class="meta"><span class="author">by <?TalkAuthor?></span> <span class="location">at <?EventLocation?></span></p>',
+  '    <p class="description"><?TalkDescription?></p>',
   '    <p class="description"><a href="TEST LINK">Slides Link</a></p>]]></content:encoded>',
   '  <excerpt:encoded><![CDATA[]]></excerpt:encoded>',
   '  <wp:post_date>2016-08-01 00:00:00</wp:post_date>',
@@ -41,32 +47,44 @@ var talk = [
   '  <wp:is_sticky>0</wp:is_sticky>',
   '  <category domain="post_tag" nicename="has-slides"><![CDATA[Has Slides]]></category>',
   '  <category domain="post_tag" nicename="has-video"><![CDATA[Has Video]]></category>',
-  '  <category domain="category" nicename="presentation"><![CDATA[Presentation]]></category>',
   '</item>'
 ].join('\r\n');
 
-var template = talk;
-
-var date = new Date();
-$('#datepicker').datepicker({ autoclose: true});
-
-function addTalk() {
-  //TODO: add another talk form
-
+function getVal($el, id) {
+  return $($el.find(id)[0]).val();
 }
 
-//TODO: populate the xml with data
-//TODO: concat the various xml things together
-function update() {
+function populateTemplate($talkInfo, date, location) {
   var variables = {
-    'SkipProductKey': $('#SkipProductKey').val(),
-    'SkipAutoActivation': $('#SkipAutoActivation').val()
+    'TalkTitle': getVal($talkInfo, '#title'),
+    'TalkAuthor': getVal($talkInfo, '#author'),
+    'EventLocation': location,
+    'TalkDescription': getVal($talkInfo, '#description')
   };
 
-  var newXml = template.replace(/<\?(\w+)\?>/g,
-    function(match, name) {
-      return variables[name];
-    });
+  //TODO: add has-slides and has-video when appropriate
+  //TODO: make post-name
+  //TODO: add links when appropriate
+
+  return talkTemplate.replace(/<\?(\w+)\?>/g, function(match, name) {
+    return variables[name];
+  });
+}
+
+function update() {
+  var newXml = header;
+
+  var $eventInfo = $('.event-info');
+  var date = getVal($eventInfo, '#datepicker-input');
+  var location = getVal($eventInfo, '#location');
+
+  $('.talk-info').each(function() {
+    var $talkInfo = $(this);
+    var talk = populateTemplate($talkInfo, date, location);
+    newXml = newXml.concat(talk);
+  });
+
+  newXml = newXml.concat(footer).join('\r\n');
 
   $('#result-xml').val(newXml);
   $('#download-link')
