@@ -32,41 +32,91 @@ var talkTemplate = [
   '  <dc:creator>learningnight</dc:creator>',
   '  <description/>',
   '  <content:encoded><![CDATA[<p class="meta"><span class="author">by <?TalkAuthor?></span> <span class="location">at <?EventLocation?></span></p>',
-  '    <p class="description"><?TalkDescription?></p>',
-  '    <p class="description"><a href="TEST LINK">Slides Link</a></p>]]></content:encoded>',
+  '    <?TalkDescription?>]]></content:encoded>',
   '  <excerpt:encoded><![CDATA[]]></excerpt:encoded>',
-  '  <wp:post_date>2016-08-01 00:00:00</wp:post_date>',
+  '  <wp:post_date><?EventDate?></wp:post_date>',
   '  <wp:comment_status>closed</wp:comment_status>',
   '  <wp:ping_status>closed</wp:ping_status>',
-  '  <wp:post_name>test-talk</wp:post_name>',
+  '  <wp:post_name><?PostName?></wp:post_name>',
   '  <wp:status>publish</wp:status>',
   '  <wp:post_parent>0</wp:post_parent>',
   '  <wp:menu_order>0</wp:menu_order>',
   '  <wp:post_type>post</wp:post_type>',
   '  <wp:post_password/>',
-  '  <wp:is_sticky>0</wp:is_sticky>',
-  '  <category domain="post_tag" nicename="has-slides"><![CDATA[Has Slides]]></category>',
-  '  <category domain="post_tag" nicename="has-video"><![CDATA[Has Video]]></category>',
-  '</item>'
-].join('\r\n');
+  '  <wp:is_sticky>0</wp:is_sticky>'
+];
+
+var talkTemplateFooter = '</item>';
+
+var slidesLinkHtml = '<p class="description"><a href="<?SlidesLink?>">Slides Link</a></p>';
+var slideshareHtml = '<p class="description"><?Slideshare?></p>';
+var hasSlidesXml = '  <category domain="post_tag" nicename="has-slides"><![CDATA[Has Slides]]></category>';
+
+var videoLinkHtml = '<p class="description"><a href="<?VideoLink?>">Video Link</a></p>';
+var hasVideoXml = '  <category domain="post_tag" nicename="has-video"><![CDATA[Has Video]]></category>';
 
 function getVal($el, id) {
   return $($el.find(id)[0]).val();
 }
 
 function populateTemplate($talkInfo, date, location) {
+  var dateObj = new Date(date);
+  //2016-08-01 00:00:00
+  var formattedDate = dateObj.getFullYear() + '-' + (dateObj.getMonth() + 1) + '-'
+    + dateObj.getDate() + ' 00:00:00';
+
+  var talkTitle = getVal($talkInfo, '#title');
+  var postName = talkTitle.replace(/[^A-Z0-9]+/ig, "-").toLowerCase();
+
   var variables = {
-    'TalkTitle': getVal($talkInfo, '#title'),
+    'TalkTitle': talkTitle,
     'TalkAuthor': getVal($talkInfo, '#author'),
     'EventLocation': location,
-    'TalkDescription': getVal($talkInfo, '#description')
+    'EventDate': formattedDate,
+    'PostName': postName
   };
 
-  //TODO: add has-slides and has-video when appropriate
-  //TODO: make post-name
-  //TODO: add links when appropriate
+  var slideLink = getVal($talkInfo, '#slides');
+  var videoLink = getVal($talkInfo, '#video');
+  var slideshare = getVal($talkInfo, '#slideshare');
 
-  return talkTemplate.replace(/<\?(\w+)\?>/g, function(match, name) {
+  var hasSlideLink = slideLink !== "";
+  var hasVideo = videoLink !== "";
+  var hasSlideshare = slideshare !== "";
+
+  var descriptionHtml = '<p class="description">' + getVal($talkInfo, '#description') + '</p>';
+  var currTalkTemplate = talkTemplate;
+  var descriptionVars = {};
+
+  if (hasSlideLink || hasSlideshare) {
+    if (hasSlideLink) {
+      descriptionHtml = descriptionHtml.concat(slidesLinkHtml);
+      descriptionVars.SlidesLink = slideLink;
+    }
+
+    if (hasSlideshare) {
+      descriptionHtml = descriptionHtml.concat(slideshareHtml);
+      descriptionVars.Slideshare = slideshare;
+    }
+
+    currTalkTemplate = currTalkTemplate.concat(hasSlidesXml);
+  }
+
+  if (hasVideo) {
+    descriptionHtml = descriptionHtml.concat(videoLinkHtml);
+    currTalkTemplate = currTalkTemplate.concat(hasVideoXml);
+    descriptionVars.VideoLink = videoLink;
+  }
+
+  var description = descriptionHtml.replace(/<\?(\w+)\?>/g, function(match, name) {
+    return descriptionVars[name];
+  });
+
+  variables.TalkDescription = description;
+
+  currTalkTemplate = currTalkTemplate.concat(talkTemplateFooter).join('\r\n');
+
+  return currTalkTemplate.replace(/<\?(\w+)\?>/g, function(match, name) {
     return variables[name];
   });
 }

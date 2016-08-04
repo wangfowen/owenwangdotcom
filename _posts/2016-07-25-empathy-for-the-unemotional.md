@@ -44,7 +44,8 @@ the other side. This is what happens when there isn't empathy - you're just
 talking at each other. If you can empathize and fully understand their point of
 view, and express to them you've understood their point of view, then they're
 more receptive to coming to a solution.  This is important in both work place
-problem solving, as well as personal problem solving.
+problem solving, as well as personal problem solving, and even in the political 
+arena.
 
 ##How to empathy
 
