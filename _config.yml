@@ -2,3 +2,4 @@ exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "ch
 name: Ohithere (it's Owen)
 markdown: kramdown
 permalink: /blog/:title
+url: http://owenwang.com
