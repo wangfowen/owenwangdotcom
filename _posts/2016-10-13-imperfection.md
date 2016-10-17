@@ -32,10 +32,11 @@ other people would love to have this kind of life. How could I justify not being
 perfectly happy with how things are?
 
 As I talked to more and more people about their own life experiences, it became 
-evident to me that there isn't really perfection. Everything has a trade-off, 
-sometimes it's just hard to see when we're blinded by our pursuits. A lifestyle 
-where you travel all the time can result in loneliness and instability. Having 
-it easy on Tinder devalues love, making it harder to try at relationships.
+evident to me that there isn't really perfection, no matter how perfect what 
+other people did looked on Facebook. Everything has a trade-off, sometimes it's 
+just hard to see when we're on the other side. A lifestyle where you travel all 
+the time can result in loneliness and instability. Having it easy on Tinder 
+devalues love, making it harder to try at relationships.
 
 And everyone has problems, regardless of their status and achievements. 
 All-stars that break world records still fight with [identity 
@@ -83,21 +84,20 @@ What am I choosing to do in my own situation right now? I guess I'm doing a mix
 of both. I'm accepting what I've got, both the good and bad. [The best parts of 
 a culture are also its 
 worst](https://markmanson.net/prove-yourself){:target="_blank"}, so as flawed as 
-the Bay Area is, there are many perks that come with it. And traveling the way 
-I've always done it may be getting old for me, but there are other ways I can 
-still experience other places, like living there for longer periods of time to 
-interact more with locals.
+the Bay Area is, there are many perks that come with it, and I'm now noticing 
+more of the good. And traveling the way I've always done it may be getting old 
+for me, but there are other ways I can still experience other places, like 
+  living there for longer periods of time to interact more with locals.
 
 I'm still planning to make a change in my life, but it's not because I need it 
 now, but because I'd like to try a change before I have real responsibilities 
 and it becomes impossible to do so. A chance to explore what else is out there, 
-to gain more empathy for others outside of our tech bubble. It may seem like I'm 
-making life worse unnecessarily, but I wouldn't know unless I tried.
+to gain more empathy for others outside of our tech bubble.
 
 Is this the right choice? I don't actually know. But you know what? That's okay! 
 That's part of the beauty of living life. If we made perfect decisions and had 
 perfect lives, life would be damn boring.
 
-Life is like sailing a boat, you set a direction to go and try to steer as close 
-to it as possible, but sometimes winds will push you off course, and all we can 
-do is adjust and adapt.
+It's like sailing a boat, you set a direction to go and try to steer as close to 
+it as possible, but sometimes winds will push you off course, and all you can do 
+is adjust and adapt.
