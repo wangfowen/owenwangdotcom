@@ -7,28 +7,96 @@ publish: false
 
 ---
 
-Image of perfect life
+Growing up, I always had a vision of "the perfect life". The description of it 
+changed as I did, but there was always something to continue to strive for that 
+was out of reach.
 
-Seemed to reach my perfect life, and yet I was still not content. How could this be? This is the life people had been telling me to achieve. How could I justify not being perfectly content with my life?
+That is, until it wasn't.
 
-Everyone has a vision of a perfect life, and usually that perfect life is different than their own. But as it turns out, no one's life is actually perfect.
+I was living in beautiful California with my closest friends, making decent 
+money, had reasonable work hours at a fulfilling job, and flexibility to travel. 
+It was everything I was going for in my latest iteration of my life concept. I 
+had nothing further that I cared to attain.
 
-Even all stars (Michael phelps) struggle with problems. People with all the money struggle with problems. Sure, from the outside, you could argue those are not real problems or they're nice problems to have, but from that person's problems, their inner demons are just as torturous as anyone else's. 
+Yet I was not content.
 
-Looking closer to home, friends who I thought had picture perfect lives on facebook or fairytale-like relationships on paper all had struggles of their own. Being single is liberating, but hard times can be tough to deal with. Being in a relationship is magical, but it takes a lot of work and compromise. Friends who had it easy with dating found that actually devalued love for them - it was hard to put in the effort in a relationship when an adequate replacement was a swipe away. 
+I began to find issue with the tech scene. The monoculture, the gentrification. 
+I also saw problems with my work, and I even became jaded with traveling, seeing 
+it as diminishing returns, talking to the same kinds of people no matter where I 
+went.
 
-As it turns out, everything has a downside. A lifestyle where you travel all the time can result in loneliness and instability. Having tons of money leads to all sorts of guilt and questioning of people's motives for being around you. 
+How could this be? This is what I had worked so hard to get to. So many other 
+people would love to have this kind of life. How could I justify not being 
+perfectly happy with how things are?
 
-Maybe in the end that's ultimately what's common about being human. Dissatisfaction with the status quo. As it turns out there's a term in social psychology for this. Hedonic adaption. When something great happens too frequently, we adjust our baseline happiness to it, and it no longer is something great.
+As it turns out, there really isn't perfection. Everything has a trade-off, 
+sometimes it's just hard to see when we're blinded by our pursuits. A lifestyle 
+where you travel all the time can result in loneliness and instability. Having 
+it easy on Tinder devalues love, making it harder to try at relationships.
 
-To escape this dissatisfaction we have two choices - accept that everything has a downside and take it for what it is - being appreciative and grateful, or make a life change. How do you decide when to do what? The grass is always greener, but we still should have standards. So where do we draw the line?
+And everyone has problems, regardless of where they are in life. All stars that 
+break world records still fight with [identity 
+crises](http://www.espn.com/espn/feature/story/_/id/16425548/michael-phelps-prepares-life-2016-rio-olympics). 
+People with more money than they know what to do with struggle with [living up 
+to 
+expectations](http://www.bloomberg.com/news/features/2015-10-01/children-of-the-yuan-percent-everyone-hates-china-s-rich-kids).
 
-Unfortunately that's still something I'm struggling with finding a heuristic for. The usual approach is to weigh the pros and cons and if the pros outweigh the cons, accept it as it is. But often when we're chasing a perfect life, we don't see the cons of that perfect life, so we blindly make changes towards it. And conversely, once we're in the "perfect life", it's hard to see what else is out there. We don't see
-the pros of making a change because of the inertia and initial discomfort that comes from getting out of our comfort zone, so we think accepting is the only way to be happy.
+You could argue that these are nice problems to have, and I do agree there are 
+much worse problems to be had, but from the point of view of the person 
+experiencing the problems, I'd say they're just as tumultuous to face as any 
+other. Other people's inner demons may look different from ours, but I'm sure 
+they feel equally terrible to combat.
 
-But I think by recognizing that at any given point we have the two choices means I have more tools in my toolbelt for any occasion.
+Maybe in the end that's ultimately what's common about being human, regardless 
+of where you are in life. Dissatisfaction with our status quo. There's even a 
+term in social psychology for this. Hedonic adaptation. When something great 
+happens too frequently, we adjust our baseline happiness to it, and it no longer 
+feels great.
 
-So where am I with my "perfect life"? I've been told to accept it, be grateful for what I've got, others are trying to get to where I am. But being here, and seeing the cons, I've personally decided to make a change. In the short term it may seem like I'm subjecting myself to unnecesary pain, and that might seem to not make any sense given the hard work it took to get where I am, but I need to explore the other possibilities. And I'm luckily privileged enough to be in a job market where even if
-things go awry, I can likely return back to my comfort zone. 
+So how can we escape this dissatisfaction? Will we never be happy with what 
+we've got? I think by recognizing that there are trade-offs and therefore never 
+perfection, we can adjust our expectations accordingly and get out of the 
+vicious cycle. The unhappy feelings may still come, but we can accept them for 
+what they are. It's actually part of the beauty of being human, that we feel 
+this range of emotions regardless of where we are. It's a reminder that we're 
+alive.
 
-Is this the right choice? I don't actually know. But you know what? That's okay! That's part of the beauty of living life. If we made perfect decisions all the time, life would be damn boring. If life is like sailing a boat, there will be winds that push us off course, and all we can do is steer our boat and try to head in the direction we choose.
+That isn't to say that we shouldn't seek more. But to recognize that we have two 
+choices at any given point. We can choose to accept, or we can choose to make a 
+change. By seeing that we actually have two choices, we can selectively pursue 
+more when appropriate, and see that sometimes things are okay as is.
+
+So how do you decide when to do which? The grass is always greener, but we still 
+should have standards and aspirations. Where do we draw the line?
+
+Unfortunately that's still something I'm struggling with finding a heuristic 
+for. The usual approach is to weigh the pros and cons and if the pros outweigh 
+  the cons, accept it as it is. But often when we're chasing a dream, we don't 
+  see the cons of that lifestyle, so of course it seems perfect and we make 
+  changes towards it. And conversely, once we're in the "perfect life", it can 
+  be easy to default to acceptance. We now see the cons, but it may seem like 
+  accepting it is the only viable solution, since we don't see the pros of 
+  making a change. It takes inertia and initial discomfort to get out of our 
+  comfort zone.
+
+What am I choosing to do in my own situation right now? I guess I'm doing a mix 
+of both. I'm accepting what I've got, both the good and bad. The best parts of a 
+culture are also its worst, so as flawed as the Bay Area is, there are many 
+perks that come with it. And traveling the way I've always done it may be 
+getting old for me, but there are other ways I can still experience other 
+places, like living there for longer periods of time to interact more with 
+locals.
+
+I'm still planning to make a change in my life, but it's not because I need it, 
+but because I'd like to try a change before I have real responsibilities and it 
+becomes impossible to do so. A chance to explore what else is out there, to gain 
+more empathy for others outside of our tech bubble. It may seem like I'm making 
+life worse unnecessarily, but I wouldn't know unless I tried.
+
+Is this the right choice? I don't actually know. But you know what? That's okay! 
+That's part of the beauty of living life. If we made perfect decisions and had 
+perfect lives, life would be damn boring.
+
+Life is like sailing a boat, you set a direction to go and try to steer as close 
+to it as possible, but sometimes winds will push you off course, and all we can 
+do is adjust and adapt.

@@ -47,6 +47,11 @@ more receptive to coming to a solution.  This is important in both work place
 problem solving, as well as personal problem solving, and even in the political 
 arena.
 
+In light of recent politics, where it seems people are becoming more and more 
+polarized, I find it more and more important for people to empathize with 
+others. For us to see each other as complex humans, and to try and actually 
+understand where they're coming from instead of jumping to conclusions.
+
 ##How to empathy
 
 Think of yourself in the other person's shoes. Don't just think of their point
