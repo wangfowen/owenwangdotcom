@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Imperfection"
-tagline: ""
+tagline: "Reflections from my quarter life crisis"
 date: 2016-10-13 00:00:00
-publish: false
+publish: true
 
 ---
 
@@ -13,11 +13,11 @@ was out of reach.
 
 That is, until it wasn't.
 
-Now that I've graduated for over a year, this is pretty much the life I'll be 
-living. I'm in beautiful California with my closest friends, making decent 
-money. I have reasonable work hours at a fulfilling job, and flexibility to 
-travel. It's everything I was going for in my latest iteration of my life 
-concept. I have nothing further that I care to attain.
+Now that I've graduated for over a year, I told myself that this is pretty much 
+the life that I'll be living. I'm in beautiful California with my closest 
+friends, making decent money. I have reasonable work hours at a fulfilling job, 
+and flexibility to travel. It's everything I was going for in my latest 
+iteration of my life concept. I had nothing further that I cared to attain.
 
 Yet I was not content.
 
@@ -75,9 +75,9 @@ for. The usual approach is to weigh the pros and cons and if the pros outweigh
   see the cons of that lifestyle, so of course it seems perfect and we make 
   changes towards it. And conversely, once we're in the "perfect life", it can 
   be easy to default to acceptance. We now see the cons, but it may seem like 
-  accepting it is the only viable solution, since we don't see the pros of 
-  making a change. It takes inertia and initial discomfort to get out of our 
-  comfort zone.
+  accepting is the only viable solution. Since we don't know where and what to 
+  change, it's not clear what the pros would be. It also takes inertia and 
+  initial discomfort to get out of our comfort zone.
 
 What am I choosing to do in my own situation right now? I guess I'm doing a mix 
 of both. I'm accepting what I've got, both the good and bad. [The best parts of 
