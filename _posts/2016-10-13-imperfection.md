@@ -48,7 +48,7 @@ other. Other people's inner demons may look different from ours, but I'm sure
 they feel equally terrible to combat.
 
 Maybe in the end that's ultimately what's common about being human, regardless 
-of where you are in life. Dissatisfaction with our status quo. There's even a 
+of where we are in life. Dissatisfaction with our status quo. There's even a 
 term in social psychology for this. Hedonic adaptation. When something great 
 happens too frequently, we adjust our baseline happiness to it, and it no longer 
 feels great.
@@ -57,9 +57,8 @@ So how can we escape this dissatisfaction? Will we never be happy with what
 we've got? I think by recognizing that there are trade-offs and therefore never 
 perfection, we can adjust our expectations accordingly and get out of the 
 vicious cycle. The unhappy feelings may still come, but we can accept them for 
-what they are. It's actually part of the beauty of being human, that we feel 
-this range of emotions regardless of where we are. It's a reminder that we're 
-alive.
+what they are. It's simply part of being human, to feel such a range of 
+emotions.
 
 That isn't to say that we shouldn't seek more. But to recognize that we have two 
 choices at any given point. We can choose to accept, or we can choose to make a 
