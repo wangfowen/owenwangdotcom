@@ -1,5 +1,9 @@
---- layout: post title: "Imperfection" tagline: "Reflections from my quarter
-life crisis" date: 2016-10-13 00:00:00 publish: true
+---
+layout: post
+title: "Imperfection"
+tagline: "Reflections from my quarter life crisis"
+date: 2016-10-13 00:00:00
+publish: true
 
 ---
 
