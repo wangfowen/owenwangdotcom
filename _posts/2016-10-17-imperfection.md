@@ -35,10 +35,10 @@ or my profession. I didn't know what, but this couldn't be it, right?
 ##Discontentment links us all
 
 I talked to and read about other people who seemed to have "made it", and the 
-more people I heard from, the more evident it became that everyone had problems, 
-regardless of their status or achievements. Sometimes we get painted an 
-unrealistic image from social media and it's hard to imagine others' 
-complexities.
+more people I heard from, the more evident it became that there isn't really 
+such a thing as a perfect life. Everyone had problems, regardless of their 
+status or achievements. Sometimes we get painted an unrealistic image from 
+social media and it's hard to imagine others' complexities.
 
 Travel bloggers get to experience the world but they have unstable schedules and 
 deal with long bouts of loneliness. All-stars that shatter world records still 
@@ -81,7 +81,7 @@ isn't always the best solution, how do we decide which to go with? How do we
 balance ambition and affirmation?
 
 Unfortunately I still don't have a good heuristic for that. It really varies 
-case by case, but I think just seeing that we have both options puts us in a 
+case by case, but I think just seeing that we have two options puts us in a 
 better place than thinking we're confined to one.
 
 #My aftermath
@@ -91,17 +91,17 @@ accepting that I have it quite good, and it's okay that sometimes it still feels
 bad. I'm accepting the Bay area for what it is. [The best parts of
 a culture are also its
 worst](https://markmanson.net/prove-yourself){:target="_blank"}, so as flawed as
-the the tech scene seems, there are many perks that come with it, and I'm 
-actually appreciating those perks more now. And traveling the way I did before 
-may feel like diminishing returns, but there are other ways I can still 
-experience other places, like living there for longer periods of time to 
-interact more with locals.
+the tech scene seems, there are many perks that come with it, and I'm actually 
+appreciating those more now. And traveling the way I did before may feel like 
+diminishing returns, but there are other ways I can still experience other 
+places, like living there for longer periods of time to interact more with 
+locals.
 
-I'm still planning to make a drastic change in my life, but it's not because I 
-need it now, but because I'd like to try it before I have real duties to deal 
-with, when it'd be irresponsible for me to do so. A chance to explore what else 
-is out there, to gain a better understanding of others outside of our bubble.
+I'm still planning to make a drastic change in my life, but it's not that I need 
+it now, but because I'd like to try it before I have real duties to deal with, 
+when it'd be irresponsible for me to do so. A chance to explore what else is out 
+there, to gain a better understanding of others outside of our bubble.
 
 Is this the right choice? I don't actually know. But that's okay! That's part of 
-the beauty of living life. If we made perfect decisions and had perfect lives, 
+the beauty of living life: If we made perfect decisions and had perfect lives, 
 life would be damn boring.
