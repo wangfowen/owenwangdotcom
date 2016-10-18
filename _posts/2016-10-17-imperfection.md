@@ -85,7 +85,7 @@ Unfortunately I still don't have a good heuristic for that. It really varies
 case by case, but I think just seeing that we have two options puts us in a 
 better place than thinking we're confined to one.
 
-#My aftermath
+##My aftermath
 
 What have I chosen to do in my situation? I guess I'm doing a mix of both. I'm 
 accepting that I have it quite good, and it's okay that sometimes it still feels 
