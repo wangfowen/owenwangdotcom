@@ -53,11 +53,12 @@ try when another opportunity is just a swipe away?
 What people faced had varying degrees of consequence to the outside world, but 
 for each the inner turmoil seemed equally difficult to combat.
 
-Maybe ultimately that's what's we all have in common. No matter what stage of 
-life we're in, we'll still find problems. We'll still experience dissatisfaction 
-with our status quo. There's even a term in social psychology for this &mdash; 
-hedonic adaptation. When something great happens too frequently, we adjust our 
-baseline happiness to it, and it no longer feels great.
+Maybe ultimately that's what we all have in common. No matter what stage of life 
+we're in, we'll still find problems with our existence. We'll still experience 
+dissatisfaction with our status quo. There's even a term in social psychology 
+for this &mdash; hedonic adaptation. When something great happens too 
+  frequently, we adjust our baseline happiness to it, and it no longer feels 
+  great.
 
 ##Two options to contentment
 
@@ -91,17 +92,18 @@ accepting that I have it quite good, and it's okay that sometimes it still feels
 bad. I'm accepting the Bay area for what it is. [The best parts of
 a culture are also its
 worst](https://markmanson.net/prove-yourself){:target="_blank"}, so as flawed as
-the tech scene seems, there are many perks that come with it, and I'm actually 
+the tech scene seems, there are many perks that come with it, and I'm 
 appreciating those more now. And traveling the way I did before may feel like 
-diminishing returns, but there are other ways I can still experience other 
-places, like living there for longer periods of time to interact more with 
-locals.
+diminishing returns, but there are other ways I can experience other places, 
+like living there for longer periods of time to interact more with locals.
 
-I'm still planning to make a drastic change in my life, but it's not that I need 
-it now, but because I'd like to try it before I have real duties to deal with, 
-when it'd be irresponsible for me to do so. A chance to explore what else is out 
-there, to gain a better understanding of others outside of our bubble.
+At the same time I'm making micro-adjustments to test what can further be 
+improved. And I'm still planning to make a drastic change at some point. But now 
+it's not that I need that change, but because I'd like to try it before I have 
+real duties to deal with, when it'd be irresponsible for me to do so. A chance 
+to explore what else is out there, to gain a better understanding of others 
+outside of our bubble.
 
-Is this the right choice? I don't actually know. But that's okay! That's part of 
-the beauty of living life: If we made perfect decisions and had perfect lives, 
-life would be damn boring.
+Is this the right choice? I don't really know. But that's okay! It's part of the 
+beauty of living. If we made perfect decisions and had perfect lives, it'd 
+actually be damn boring.
