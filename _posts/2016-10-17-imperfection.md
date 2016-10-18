@@ -8,17 +8,16 @@ publish: true
 ---
 
 Growing up, I had a vision of "the perfect life". The description of it changed 
-as I did, but there was always something to continue to strive for that was out 
-of reach.
+as I did, but there was always something to continue to strive for, just that 
+was out of reach.
 
 That is, until there wasn't.
 
-Now that I've graduated for over a year, this could very much be the life that
-I'll be living for the next long while. I'm in beautiful California with my
-closest friends, making decent money. I have reasonable work hours at a
-fulfilling job, and some flexibility to travel. On paper, life is everything 
-that I was going for in my latest vision. I had nothing further that I cared to 
-attain.
+Once I had been graduated for over a year, I realized this could very much be my 
+life for the indefinite future. I was in beautiful California with my
+closest friends, making decent money. I had reasonable work hours at a
+fulfilling job, and some flexibility to travel. On paper, life was everything 
+that I envisioned it to be. I had nothing further that I cared to attain.
 
 Yet I was not content.
 
@@ -27,16 +26,16 @@ I saw problems with my work, and I even became jaded with traveling, seeing it
 as diminishing returns, talking to the same kinds of people no matter where I
 went.
 
-I couldn't justify the discontentment. How could I feel like this? This is what 
-I had worked so hard to get to. So many other people would love to have this 
-kind of life. I felt like I need to change something somehow. Maybe my location 
-or my profession. I didn't know what, but this couldn't be it, right?
+I couldn't justify the discontentment. How could I feel this way? This is what I 
+had worked so hard to get to. So many other people would have loved to have this 
+kind of life. I felt like I needed to change something somehow. Maybe my 
+location or my profession. I didn't know what, but this couldn't be it, right?
 
 ##Discontentment links us all
 
 I talked to and read about other people who seemed to have "made it", and the 
-more people I heard from, the more evident it became that there isn't really 
-such a thing as a perfect life. Everyone had problems, regardless of their 
+more people I heard from, the more evident it became that there wasn't really 
+such a thing as a perfect life. Everyone has problems, regardless of their 
 status or achievements. Sometimes we get painted an unrealistic image from 
 social media and it's hard to imagine others' complexities.
 
@@ -47,7 +46,7 @@ crises](http://www.espn.com/espn/feature/story/_/id/16425548/michael-phelps-prep
 People with more money than they know what to do with struggle with [living up
 to
 expectations](http://www.bloomberg.com/news/features/2015-10-01/children-of-the-yuan-percent-everyone-hates-china-s-rich-kids){:target="_blank"}.
-Friends who had it easy on Tinder found it devalued love for them &mdash; why 
+Friends who have it easy on Tinder find it devalues love for them &mdash; why 
 try when another opportunity is just a swipe away?
 
 What people faced had varying degrees of consequence to the outside world, but 
@@ -64,11 +63,11 @@ for this &mdash; hedonic adaptation. When something great happens too
 
 So what can we do about this? The obvious solution is to make a change. If we 
 know what we're unhappy about, adjust what we can until we're happy. That's 
-often the default solution when we're chasing a dream, when we're blinded to 
-what could be wrong on the other side.
+often the default solution when we're chasing a dream, when we're blind to what 
+could be wrong on the other side.
 
 But what if we can't make a change? What if we're not privileged enough to have 
-options, or we're so privileged as I was that there's nothing further to change?
+options, or we're so privileged as I am that there's nothing further to change?
 
 The other solution is acceptance. Recognizing that different isn't always better 
 and knowing that there'll always be some bad bits. We can be mindful and find 
@@ -77,12 +76,13 @@ simultaneously, adjust our expectations for the bad and be okay with its
 existence. The unhappiness may still come, but that's simply part of being 
 human. It's kind of amazing actually that we feel such a range of emotions.
 
-So sometimes we may seem stuck with one, but when we're not, and if changing 
-isn't always the best solution, how do we decide which to go with? How do we 
-balance ambition and affirmation?
+So sometimes we may seem stuck with just one option to contentment, but when 
+we're not, how do we decide which to go with? How do we ensure we're not trapped 
+always chasing change, yet also not just settling? How do we balance ambition 
+and affirmation?
 
 Unfortunately I still don't have a good heuristic for that. It really varies 
-case by case, but I think just seeing that we have two options puts us in a 
+case by case, but I think even just seeing that we have two options puts us in a 
 better place than thinking we're confined to one.
 
 ##My aftermath
