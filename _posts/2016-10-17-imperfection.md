@@ -8,8 +8,8 @@ publish: true
 ---
 
 Growing up, I had a vision of "the perfect life". The description of it changed 
-as I did, but there was always something to continue to strive for, just that 
-was out of reach.
+as I did, but there was always something to continue to strive for, just out of 
+reach.
 
 That is, until there wasn't.
 
@@ -17,7 +17,7 @@ Once I had been graduated for over a year, I realized this could very much be my
 life for the indefinite future. I was in beautiful California with my
 closest friends, making decent money. I had reasonable work hours at a
 fulfilling job, and some flexibility to travel. On paper, life was everything 
-that I envisioned it to be. I had nothing further that I cared to attain.
+that I had envisioned it to be. I had nothing further that I cared to attain.
 
 Yet I was not content.
 
