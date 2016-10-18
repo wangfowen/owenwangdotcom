@@ -76,8 +76,9 @@ simultaneously, adjust our expectations for the bad and be okay with its
 existence. The unhappiness may still come, but that's simply part of being 
 human. It's kind of amazing actually that we feel such a range of emotions.
 
-So sometimes we may seem stuck with one, but when we're not, how do we decide 
-which to go with? How do we balance ambition and acceptance?
+So sometimes we may seem stuck with one, but when we're not, and if changing 
+isn't always the best solution, how do we decide which to go with? How do we 
+balance ambition and affirmation?
 
 Unfortunately I still don't have a good heuristic for that. It really varies 
 case by case, but I think just seeing that we have both options puts us in a 
