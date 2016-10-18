@@ -53,12 +53,11 @@ try when another opportunity is just a swipe away?
 What people faced had varying degrees of consequence to the outside world, but 
 for each the inner turmoil seemed equally difficult to combat.
 
-Maybe ultimately that's what's in common about being human. No matter what stage 
-of life we're in, we'll still find problems. We'll still experience 
-dissatisfaction with our status quo. There's even a term in social psychology 
-for this &mdash; hedonic adaptation. When something great happens too 
-  frequently, we adjust our baseline happiness to it, and it no longer feels 
-  great.
+Maybe ultimately that's what's we all have in common. No matter what stage of 
+life we're in, we'll still find problems. We'll still experience dissatisfaction 
+with our status quo. There's even a term in social psychology for this &mdash; 
+hedonic adaptation. When something great happens too frequently, we adjust our 
+baseline happiness to it, and it no longer feels great.
 
 ##Two options to contentment
 
@@ -75,7 +74,7 @@ and knowing that there'll always be some bad bits. We can be mindful and find
 gratitude for what we have, getting more out of the good times, and 
 simultaneously, adjust our expectations for the bad and be okay with its 
 existence. The unhappiness may still come, but that's simply part of being 
-human. It's kind of amazing that we feel such a range of emotions.
+human. It's kind of amazing actually that we feel such a range of emotions.
 
 So sometimes we may seem stuck with one, but when we're not, how do we decide 
 which to go with? How do we balance ambition and acceptance?
