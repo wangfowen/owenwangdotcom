@@ -8,32 +8,44 @@ publish: false
 ---
 
 I previously talked about [how engineering shaped the way I 
-thought](/blog/engineers-mindset-for-life). I left one out for later &mdash; 
-methodical searching &mdash; and that later is now
+thought](/blog/engineers-mindset-for-life). I left one concept for later &mdash; 
+methodical searching &mdash; and that later is now.
 
-Search is a whole subsector of computer science. It's at the base of many of the 
-tools we use - Google to find the information you care about through all of the 
-internet, Amazon to find the thing you want to buy within their massive 
-warehouses, Tinder to find a soul mate in the vast expanse of the dating space 
-near you. Depending on the problem space, you'll want to search differently, but 
-however it's done, it's done according to an algorithm, according to a 
-structured methodology.
+Search is a whole sub realm of computer science. It's a core piece of most 
+technology, even when we don't know it. The obvious would be search engines, 
+locating information you want across the entire internet. Online dating apps, 
+matching your soul mate from within the vast expanse of the dating pool. But 
+even self driving cars partially are relying on search. In deciding how to get 
+somewhere and avoid crashing into obstacles (people), they're finding the most 
+efficient and safest path to take.
 
-Squiggly path of unstructured searching. Structured searching gives me a way of 
-thinking about approaching any sort of task. When I do something mundane, I'm 
-thinking about how can I improve the process to get to a better state, 
-methodically eliminating options that don't make sense.  But I think the biggest 
-way that searching has affected how I think about things is the way it's got me 
-thinking about what I do in life overall.  In searching, you have one parameter 
-to optimize. In real life you're optimizing several different things.  Improving 
-one may decrease another. Maybe to become happier you have to change jobs which 
-decreases finances. Becomes a complex problem to balance all the different 
-things you want.  For the sake of simplicity I'll just talk about one facet. For 
-me that happens to be satisfaction.
+<gif of self driving car>
 
-This could be the subject of a whole other post, but for background, I define 
-life satisfaction as a mix of happiness and 
-[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/). 
+Depending on the problem space, you'll want to search differently, but however 
+it's done, it's done according to an algorithm, some structured methodology.
+
+Many of our daily life struggles can also be seen as search problems. Deciding 
+where to eat for dinner. Trying different techniques to reduce the mundanity of 
+a task we're forced to do. All of these have potential to be done better with 
+some structure in our searching.
+
+But the one I want to focus on is the big granddaddy of them all: finding 
+satisfaction within our lives.
+
+Generally, when we look at search problems, we have one parameter to optimize, 
+to find the "best" for. In life, we optimize for many things. Money, fame, 
+happiness, etc. It's impossible to have it all: when we increase one, often it 
+comes at the cost of decreasing another. Maybe to become happier you have to 
+change jobs which decreases finances.
+
+For the sake of simplicity, I'm just going to talk about optimizing one aspect 
+of life, but in reality we'd be thinking like this for several facets at once, 
+making trade-offs between which we want more of at any given moment.
+
+The area I currently care most about for my own life is satisfaction. This could 
+be the subject of a whole other post, but I define life satisfaction as a mix of 
+happiness and 
+[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/).  
 Happiness is transient and fluctuating, but satisfaction is the enduring 
 baseline. This is clearly not a rigorous definition, nor do I scientifically 
 quantify it. It's a hand wavy measurement based on how I feel relative to prior 
