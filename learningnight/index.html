@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Learning Night Post Generator</title>
+    <title>Learning Night Posts Generator</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
     <link rel="stylesheet" href="bootstrap-datepicker.min.css" />
     <link rel="stylesheet" href="main.css" />
@@ -10,9 +10,9 @@
 
   <body>
     <div class="container">
-      <h1>Learning Night Post Generator</h1>
+      <h1>Learning Night Posts Generator</h1>
 
-      <h2>Step 1: Add talk info</h2>
+      <h2>Step 1: Fill out info on the talks you're adding</h2>
 
       <h3>Event Info</h3>
       <div class="row event-info">
@@ -27,11 +27,11 @@
           <label for="location">Location</label>
           <input type="text" class="form-control" id="location" placeholder="Far Haus, MTV">
         </div>
-<!--
         <div class="col-lg-2">
           <label for="loc-tag-input">Location Tag</label>
           <div class="input-group">
             <select class="form-control" id="loc-tag-input">
+              <option disabled selected value>-- select an option --</option>
               <option>South Bay</option>
               <option>San Francisco</option>
               <option>Waterloo</option>
@@ -40,7 +40,6 @@
             </select>
           </div>
         </div>
--->
       </div>
 
 
@@ -56,6 +55,10 @@
             <label for="title">Title</label>
             <input type="text" class="form-control" id="title" placeholder="Underwater Basket Weaving">
           </div>
+
+          <div class="col-lg-2">
+            <label for="private">Private</label>
+            <input type="checkbox" id="private"></div>
 
           <div class="col-lg-10">
             <label for="description">Description</label>
@@ -81,7 +84,7 @@
 
       <div class="row buttons">
         <div class="col-lg-8">
-          <button class="btn" id="add-talk">Add another talk</button>
+          <button class="btn" id="add-talk">Add talk info for another from this event</button>
         </div>
 
         <div class="col-lg-8">
@@ -93,9 +96,10 @@
       <div class="row">
         <div class="col-lg-12">
           <div id="generated" style="display:none">
-            <p>Step 2.1: Verify the XML below seems okay</p>
+            <p>Step 2.1: Spot check the XML below seems okay</p>
             <p>Step 2.2: <a href="#" class="link" id="download-link">Download the XML</a></p>
-            <p>Step 2.3: <a href="https://learningnight.wordpress.com/wp-admin/admin.php?import=wordpress" class="link" target="_blank">Import the downloaded XML to Wordpress</a></p>
+            <p>Step 2.3: <a href="https://learningnight.wordpress.com/wp-admin/admin.php?import=wordpress" class="link" target="_blank">Upload the XML to Wordpress</a></p>
+            <p>Step 2.4: Wait for Wordpress to finish processing - takes up to 30 minutes :(</p>
             <textarea id="result-xml" style="width: 100%; height: 30em" readonly="readonly"></textarea>
           </div>
         </div>

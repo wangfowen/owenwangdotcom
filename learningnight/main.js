@@ -38,7 +38,7 @@ var talkTemplate = [
   '  <wp:comment_status>closed</wp:comment_status>',
   '  <wp:ping_status>closed</wp:ping_status>',
   '  <wp:post_name><?PostName?></wp:post_name>',
-  '  <wp:status>publish</wp:status>',
+  '  <wp:status><?Status?></wp:status>',
   '  <wp:post_parent>0</wp:post_parent>',
   '  <wp:menu_order>0</wp:menu_order>',
   '  <wp:post_type>post</wp:post_type>',
@@ -59,7 +59,7 @@ function getVal($el, id) {
   return $($el.find(id)[0]).val();
 }
 
-function populateTemplate($talkInfo, date, location) {
+function populateTemplate($talkInfo, date, location, locTag) {
   var dateObj = new Date(date);
   //2016-08-01 00:00:00
   var formattedDate = dateObj.getFullYear() + '-' + (dateObj.getMonth() + 1) + '-'
@@ -67,13 +67,19 @@ function populateTemplate($talkInfo, date, location) {
 
   var talkTitle = getVal($talkInfo, '#title');
   var postName = talkTitle.replace(/[^A-Z0-9]+/ig, "-").toLowerCase();
+  var statChecked = $talkInfo.find('#private')[0].checked;
+  var stat = "publish";
+  if (statChecked) {
+    stat = "private";
+  }
 
   var variables = {
     'TalkTitle': talkTitle,
     'TalkAuthor': getVal($talkInfo, '#author'),
     'EventLocation': location,
     'EventDate': formattedDate,
-    'PostName': postName
+    'PostName': postName,
+    'Status': stat
   };
 
   var slideLink = getVal($talkInfo, '#slides');
@@ -108,6 +114,30 @@ function populateTemplate($talkInfo, date, location) {
     descriptionVars.VideoLink = videoLink;
   }
 
+  if (locTag) {
+    var locTagXml = "";
+
+    switch (locTag) {
+      case "South Bay":
+        locTagXml = '  <category domain="post_tag" nicename="south-bay"><![CDATA[South Bay]]></category>';
+        break;
+      case "San Francisco":
+        locTagXml = '  <category domain="post_tag" nicename="san-francisco"><![CDATA[San Francisco]]></category>';
+        break;
+      case "Waterloo":
+        locTagXml = '  <category domain="post_tag" nicename="waterloo"><![CDATA[Waterloo]]></category>';
+        break;
+      case "Downtown Toronto":
+        locTagXml = '  <category domain="post_tag" nicename="downtown-toronto"><![CDATA[Downtown Toronto]]></category>';
+        break;
+      case "Uptown Toronto":
+        locTagXml = '  <category domain="post_tag" nicename="uptown-toronto"><![CDATA[Uptown Toronto]]></category>';
+        break;
+    }
+
+    currTalkTemplate = currTalkTemplate.concat(locTagXml);
+  }
+
   var description = descriptionHtml.replace(/<\?(\w+)\?>/g, function(match, name) {
     return descriptionVars[name];
   });
@@ -128,9 +158,11 @@ function update() {
   var date = getVal($eventInfo, '#datepicker-input');
   var location = getVal($eventInfo, '#location');
 
+  var locTag = getVal($eventInfo, '#loc-tag-input');
+
   $('.talk-info').each(function() {
     var $talkInfo = $(this);
-    var talk = populateTemplate($talkInfo, date, location);
+    var talk = populateTemplate($talkInfo, date, location, locTag);
     newXml = newXml.concat(talk);
   });
 
