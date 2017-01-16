@@ -12,6 +12,8 @@
     <div class="container">
       <h1>Learning Night Post Generator</h1>
 
+      <h2>Step 1: Add talk info</h2>
+
       <h3>Event Info</h3>
       <div class="row event-info">
         <div class="col-lg-2">
@@ -25,6 +27,20 @@
           <label for="location">Location</label>
           <input type="text" class="form-control" id="location" placeholder="Far Haus, MTV">
         </div>
+<!--
+        <div class="col-lg-2">
+          <label for="loc-tag-input">Location Tag</label>
+          <div class="input-group">
+            <select class="form-control" id="loc-tag-input">
+              <option>South Bay</option>
+              <option>San Francisco</option>
+              <option>Waterloo</option>
+              <option>Downtown Toronto</option>
+              <option>Uptown Toronto</option>
+            </select>
+          </div>
+        </div>
+-->
       </div>
 
 
@@ -63,12 +79,13 @@
         </div>
       </div>
 
-      <div class="row">
+      <div class="row buttons">
         <div class="col-lg-8">
           <button class="btn" id="add-talk">Add another talk</button>
         </div>
 
         <div class="col-lg-8">
+          <h2>Step 2: Generate file</h2>
           <button class="btn" id="download">Create file</button>
         </div>
       </div>
@@ -76,8 +93,9 @@
       <div class="row">
         <div class="col-lg-12">
           <div id="generated" style="display:none">
-            <a href="#" class="link" id="download-link">Download XML</a>
-            <a href="https://learningnight.wordpress.com/wp-admin/admin.php?import=wordpress" class="link" target="_blank">Import to Wordpress</a>
+            <p>Step 2.1: Verify the XML below seems okay</p>
+            <p>Step 2.2: <a href="#" class="link" id="download-link">Download the XML</a></p>
+            <p>Step 2.3: <a href="https://learningnight.wordpress.com/wp-admin/admin.php?import=wordpress" class="link" target="_blank">Import the downloaded XML to Wordpress</a></p>
             <textarea id="result-xml" style="width: 100%; height: 30em" readonly="readonly"></textarea>
           </div>
         </div>
