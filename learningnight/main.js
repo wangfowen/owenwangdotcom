@@ -170,7 +170,7 @@ function update() {
 
   $('#result-xml').val(newXml);
   $('#download-link')
-    .attr('href', 'data:text/xml;base64,' + btoa(newXml))
+    .attr('href', 'data:text/xml;base64,' + btoa(unescape(encodeURIComponent(newXml))))
     .attr('download', 'learningnight' + date + '.xml');
   $('#generated').show();
 }
