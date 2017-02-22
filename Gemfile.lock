@@ -67,5 +67,8 @@ DEPENDENCIES
   liquid (~> 2.5.3)
   therubyracer
 
+RUBY VERSION
+   ruby 2.1.8p440
+
 BUNDLED WITH
-   1.10.5
+   1.14.5
