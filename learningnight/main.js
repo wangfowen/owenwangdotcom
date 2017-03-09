@@ -31,7 +31,7 @@ var talkTemplate = [
   '  <title><?TalkTitle?></title>',
   '  <dc:creator>learningnight</dc:creator>',
   '  <description/>',
-  '  <content:encoded><![CDATA[<p class="meta"><span class="author">by <?TalkAuthor?></span> <span class="location">at <?EventLocation?></span></p>',
+  '  <content:encoded><![CDATA[<p class="meta"><span class="author"><?TalkAuthor?></span> <span class="location"><?EventLocation?></span></p>',
   '    <?TalkDescription?>]]></content:encoded>',
   '  <excerpt:encoded><![CDATA[]]></excerpt:encoded>',
   '  <wp:post_date><?EventDate?></wp:post_date>',
@@ -75,8 +75,8 @@ function populateTemplate($talkInfo, date, location, locTag) {
 
   var variables = {
     'TalkTitle': talkTitle,
-    'TalkAuthor': getVal($talkInfo, '#author'),
-    'EventLocation': location,
+    'TalkAuthor': "by " + getVal($talkInfo, '#author'),
+    'EventLocation': "at " + location,
     'EventDate': formattedDate,
     'PostName': postName,
     'Status': stat
