@@ -73,10 +73,11 @@ function populateTemplate($talkInfo, date, location, locTag) {
     stat = "private";
   }
 
+  var author = getVal($talkInfo, '#author');
   var variables = {
     'TalkTitle': talkTitle,
-    'TalkAuthor': "by " + getVal($talkInfo, '#author'),
-    'EventLocation': "at " + location,
+    'TalkAuthor': author === "" ? "" : "by " + author,
+    'EventLocation': location === "" ? "" : "at " + location,
     'EventDate': formattedDate,
     'PostName': postName,
     'Status': stat
