@@ -135,6 +135,12 @@ function populateTemplate($talkInfo, date, location, locTag) {
         locTagXml = '  <category domain="post_tag" nicename="uptown-toronto"><![CDATA[Uptown Toronto]]></category>';
       case "Tokyo":
         locTagXml = '  <category domain="post_tag" nicename="tokyo"><![CDATA[Tokyo]]></category>';
+      case "Singapore":
+        locTagXml = '  <category domain="post_tag" nicename="singapore"><![CDATA[Singapore]]></category>';
+      case "Panama":
+        locTagXml = '  <category domain="post_tag" nicename="panama"><![CDATA[Panama]]></category>';
+      case "Taiwan":
+        locTagXml = '  <category domain="post_tag" nicename="taiwan"><![CDATA[Taiwan]]></category>';
         break;
     }
 
