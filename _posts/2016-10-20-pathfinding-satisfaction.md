@@ -9,26 +9,13 @@ publish: true
 
 I previously talked about [how engineering shaped the way I 
 thought](/blog/engineers-mindset-for-life). I left one concept out for another 
-post, and a year later, I'm finally getting around to writing about it.
-
-Algorithmic searching is one of the first concepts learned in computer science, 
-and it's widely applied everywhere. Obvious examples are search engines, 
-locating the information you want out of the entire internet. Online dating 
-apps, matching you to your soul mate from the expansive dating pool. But even 
-things you might not expect like self driving cars are partially relying on 
-search. In deciding how to get somewhere and avoid crashing into obstacles 
-(people), they're looking at all possible paths ahead of them and finding the 
-most efficient and safest path forward.
-
-{% image /images/pathfinding/self-driving.gif "" %}
-
-Depending on the problem space, you'll want to search differently, but however 
-it's done, it's done according to an algorithm, some structured methodology.
+post &mdash; methodical searching, and a year later, I'm finally getting around 
+to writing about it.
 
 Many of our daily life struggles can also be seen as search problems. Deciding 
 where to eat for dinner. Trying different ways to reduce the mundanity of a task 
-we do regularly. All of these have potential to be done better with some 
-structure in our approach.
+we do regularly. All of these could benefit from some structure in our approach 
+to them.
 
 But the problem I want to focus on is one I thought a lot about over the last 
 year: figuring out what to do with my life.
@@ -39,13 +26,9 @@ when things get bad, it has helped me to ameliorate the situation.
 
 Generally when we look at search problems, we have one criteria to find the 
 "best" for. In life, we care about many things: money, fame, love, happiness, 
-etc. It's impossible to have it all: sometimes the increase of one comes at the 
-cost of another. Perhaps to become happier I have to switch to a job that pays 
-less.
-
-For the sake of simplicity, I'm just going to talk about searching along one 
-spectrum of my desires. In reality I'm thinking like this for several facets at 
-once, making trade-offs between which I want more at any given moment.
+etc. For the sake of simplicity, I'm just going to talk about searching along 
+one spectrum of my desires. In reality I'm thinking like this for several facets 
+at once, making trade-offs between which I want more at any given moment.
 
 The area I currently care most about is satisfaction. This could be the subject 
 of a whole other post, but I define it as a combination of happiness and 
@@ -58,14 +41,11 @@ graph it simplistically on an axis of high to low over time.
 {% image /images/pathfinding/satisfaction.png "" %}
 
 For this to make sense as a search problem, we have to look at a third axis that 
-we actually make decisions on: choice. We consider all the ways we could think 
-and do things differently with our lives to try and increase our satisfaction.
-
-{% image /images/pathfinding/3d-satisfaction.png "" %}
-
-But this graph is too complicated to read, and I'm too lazy to make more like 
-it, so we'll just look at it in 2D, with choice affecting satisfaction. Every 
-moment in time there exists another one of these graphs.
+we actually make decisions on: choice (unless you're a time lord). We consider 
+all the ways we could think and do things differently with our lives to try and 
+increase our satisfaction. The 3D graph is too confusing to read however, so 
+we'll just look at it in 2D, with choice affecting satisfaction. Every moment in 
+time there exists another one of such graphs.
 
 {% image /images/pathfinding/choice.png "" %}
 
