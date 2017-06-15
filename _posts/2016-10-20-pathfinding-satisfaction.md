@@ -131,21 +131,30 @@ result.
 
 But this doesn't only apply when the times are good. Sometimes life throws 
 curveballs at us, and a change happens that's out of our control. Perhaps a 
-death, a loss of job, or a breakup.  Sheryl Sandberg in her book Option B talks 
+death, a loss of job, or an illness.  Sheryl Sandberg in her book Option B talks 
 about how [three 
 P's](http://www.businessinsider.com/sheryl-sandberg-martin-seligmans-3-ps-helped-me-cope-with-my-husbands-death-2016-5){:target="_blank"} 
 determine our ability to deal with setbacks: personalization, pervasiveness, 
 permanence.
 
-I found in states of adversity, when nothing I did seemed to reduce the sadness, 
+I found in states of adversity, when nothing I did seemed to rid the sadness, 
 what prevented me from completely losing hope and reduced the permanence was 
-thinking about drastic changes I could attempt. Even if they didn't change my 
-state of being, harnessing the feelings was at least an opportunity to fix 
-things about myself I normally wouldn't make an effort to. In some such moments, 
-indeed changes resulted in me not only getting out of the despair but to an even 
-better place than I started.
+thinking about changes I could attempt. Even if they didn't change my state of 
+being, harnessing the feelings was at least an opportunity to fix things about 
+myself I normally wouldn't make an effort to.
 
 {% image /images/pathfinding/big-jump.png "" %}
+
+In some such moments, indeed changes resulted in me not only getting out of the 
+despair but to an even better place than I started. After one bad breakup, I 
+trained for my first ever triathlon, [goal 
+factored](http://sachachua.com/blog/2014/03/reflecting-goals-time/){:target="_blank"} 
+and as a result deleted Facebook from my phone, began reading more [long 
+form](http://longform.org/){:target="_blank"} articles, and began my binge of 
+[trying to 
+communicate](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034){:target="_blank"} 
+[feelings 
+better](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/building-interpersonal-skills-an-experiential-workshop/20164_COM-19){:target="_blank"}.
 
 By thinking in terms of methodical searching like this, I find myself pushed to 
 try new things, while also maintaining acceptance of what's good in my life. And 
