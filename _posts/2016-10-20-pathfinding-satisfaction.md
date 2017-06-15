@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pathfinding Satisfaction"
-tagline: ""
+tagline: "Using my degree to brood"
 date: 2017-06-15 00:00:00
 publish: true
 
@@ -30,8 +30,8 @@ where to eat for dinner. Trying different ways to reduce the mundanity of a task
 we do regularly. All of these have potential to be done better with some 
 structure in our approach.
 
-But the problem I want to focus on is the big granddaddy of them all: figuring 
-out what to do with my life.
+But the problem I want to focus on is one I thought a lot about over the last 
+year: figuring out what to do with my life.
 
 Generally when we look at search problems, we have one criteria to find the 
 "best" for. In life, we care about many things: money, fame, love, happiness, 
