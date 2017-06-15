@@ -2,93 +2,150 @@
 layout: post
 title: "Pathfinding Satisfaction"
 tagline: ""
-date: 2016-10-20 00:00:00
+date: 2017-06-15 00:00:00
 publish: false
 
 ---
 
 I previously talked about [how engineering shaped the way I 
-thought](/blog/engineers-mindset-for-life). I left one concept for later &mdash; 
-methodical searching &mdash; and that later is now.
+thought](/blog/engineers-mindset-for-life). I left one concept out for another 
+post, and a year later, I'm finally getting around to writing about it.
 
-Search is a whole sub realm of computer science. It's a core piece of most 
-technology, even when we don't know it. The obvious would be search engines, 
-locating information you want across the entire internet. Online dating apps, 
-matching your soul mate from within the vast expanse of the dating pool. But 
-even self driving cars partially are relying on search. In deciding how to get 
-somewhere and avoid crashing into obstacles (people), they're finding the most 
-efficient and safest path to take.
+Algorithmic searching is one of the first concepts learned in computer science, 
+and it's widely applied everywhere. Obvious examples are search engines, 
+locating the information you want out of the entire internet. Online dating 
+apps, matching you to your soul mate from the expansive dating pool. But even 
+things you might not expect like self driving cars are partially relying on 
+search. In deciding how to get somewhere and avoid crashing into obstacles 
+(people), they're looking at all possible paths ahead of them and finding the 
+most efficient and safest path forward.
 
-<gif of self driving car>
+{% image /images/pathfinding/self-driving.gif "" %}
 
 Depending on the problem space, you'll want to search differently, but however 
 it's done, it's done according to an algorithm, some structured methodology.
 
 Many of our daily life struggles can also be seen as search problems. Deciding 
-where to eat for dinner. Trying different techniques to reduce the mundanity of 
-a task we're forced to do. All of these have potential to be done better with 
-some structure in our searching.
+where to eat for dinner. Trying different ways to reduce the mundanity of a task 
+we do regularly. All of these have potential to be done better with some 
+structure in our approach.
 
-But the one I want to focus on is the big granddaddy of them all: finding 
-satisfaction within our lives.
+But the problem I want to focus on is the big granddaddy of them all: figuring 
+out what to do with my life.
 
-Generally, when we look at search problems, we have one parameter to optimize, 
-to find the "best" for. In life, we optimize for many things. Money, fame, 
-happiness, etc. It's impossible to have it all: when we increase one, often it 
-comes at the cost of decreasing another. Maybe to become happier you have to 
-change jobs which decreases finances.
+Generally when we look at search problems, we have one criteria to find the 
+"best" for. In life, we care about many things: money, fame, love, happiness, 
+etc. It's impossible to have it all: sometimes the increase of one comes at the 
+cost of another. Perhaps to become happier I have to switch to a job that pays 
+less.
 
-For the sake of simplicity, I'm just going to talk about optimizing one aspect 
-of life, but in reality we'd be thinking like this for several facets at once, 
-making trade-offs between which we want more of at any given moment.
+For the sake of simplicity, I'm just going to talk about searching along one 
+spectrum of my desires. In reality I'm thinking like this for several facets at 
+once, making trade-offs between which I want more at any given moment.
 
-The area I currently care most about for my own life is satisfaction. This could 
-be the subject of a whole other post, but I define life satisfaction as a mix of 
-happiness and 
-[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/).  
-Happiness is transient and fluctuating, but satisfaction is the enduring 
-baseline. This is clearly not a rigorous definition, nor do I scientifically 
-quantify it. It's a hand wavy measurement based on how I feel relative to prior 
-satisfaction levels.
+The area I currently care most about is satisfaction. This could be the subject 
+of a whole other post, but I define it as a combination of happiness and 
+[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/). 
+Happiness by itself is transient and fluctuating, satisfaction is the enduring 
+baseline I fluctuate along. This is not a rigorous definition, just a hand wavy 
+measurement based on how I feel relative to prior satisfaction levels. We can 
+graph it simplistically on an axis of high to low over time.
 
-Graph of hill climbing for one hill
-Graph of hill climbing being non optimal Graph of simulated annealing to get to 
-higher optima 
+{% image /images/pathfinding/satisfaction.png "" %}
 
-Life doesn't quite work like simulated annealing since you can't do several 
-different runs of life. However, the graph is endless and there are many optimas 
-you can go to, and it's possible to try to return to a similar optima. And you 
-don't know what the ultimate optima is, but you can try to get to a higher one 
-than where you're currently at.
+For this to make sense as a search problem, we have to look at a third axis that 
+we actually make decisions on: choice. We consider all the ways we could think 
+and do things differently with our lives to try and increase our satisfaction.
 
-3D graph of time vs life choice vs happiness. 
+{% image /images/pathfinding/3d-satisfaction.png "" %}
 
-Becoming complacent is when you hit a local optima and no longer do anything 
-different that can improve things. Your happiness will likely fade when you're 
-stagnant because of hedonic adaptation (link to prior post), and depending on 
-where you go from there, you may slowly spiral down, or if you find a different 
-mindset (acceptance), you can stay pretty consistently in that local optima.
+But this graph is too complicated to read, and I'm too lazy to make more like 
+it, so we'll just look at it in 2D, with choice affecting satisfaction. Every 
+moment in time there exists another one of these graphs.
 
-However, it is unlikely you'll go much higher from there. If you want to 
-increase the baseline, some form of change has to occur. 
+{% image /images/pathfinding/choice.png "" %}
 
-As we see in simulated annealing, if you think you're already pretty optimal, it 
-wouldn't make any sense to do anything too drastic. You'd want to make small, 
-intentional changes. Maybe try a new experience or meet some new people, perhaps 
-something like Learning Night.  It may feel scary to do this because it takes 
-inertia and initial discomfort to get out of our comfort zones, but you wouldn't 
-get yields otherwise -> small changes in the curve could find a bigger jump.
-It's also important to note that it's impossible to tell what will be on the 
-other side of that hill. If you go into it expecting for satisfaction to 
-increase, or solely with the goal of increasing satisfaction, that's not going 
-to work out well. Make the change because it's something that has interested 
-you. Because why not? Maybe it'll take you climbing hundreds of these hills 
-before you find the big kahuna. 
+We'll say that choices in close proximity to our current location are ones that 
+don't require much friction, ones that we make by default. A simple search 
+algorithm we could apply is hill climbing, which just takes the closest choice 
+that seems to trend upwards until the natural conclusion.
 
-Now, sometimes life throws curveballs at you. Even if you don't want any change, 
-sometimes it's out of your control. Perhaps a death or a breakup. Negative 
-events may bring us down way low, but we don't have to remain there. From 
-simulated annealing, we know that when we're at a low point, we're more willing 
-to take bigger risks. Maybe we reevaluate and overhaul all the things we've done 
-wrong or we find some sort of meaning that puts our lives on a different path -> 
-giant dip, followed by giant jump.
+TODO: Graph of hill climbing for one hill
+
+Applied to our life, this could mean progressing things we're familiar with, 
+doing things that we already know bring us satisfaction, and maintaining the way 
+we think about things. Overall not a bad approach, but it can only get us to a 
+local optimum. Everest could be in the distance and we'd never know since it's 
+out of sight.
+
+{% image /images/pathfinding/everest.png "" %}
+
+I personally am not okay with the local optimum, I'm curious to see if there's 
+more. But how do I decide what choices to make to try for that? It's infeasible 
+to constantly revamp my whole life to try everything else that's out there. And 
+to try for the potential of something better, there's also the risk of something 
+worse, so I don't want too much of that if life already seems satisfactory.
+
+Enter simulated annealing. An algorithm made specifically for scenarios like 
+this, where the options are infinite, and we don't have time to try them all.
+
+Simulated annealing is inspired by the concept of annealing &mdash; superheating 
+metal to make it soft enough to shape. At peak temperature, the metal is very 
+malleable and you can twist and turn it however you like. As it cools over time, 
+it becomes harder to bend, but you should be closer to your vision, and 
+eventually you can only make minute adjustments.
+
+Translated to an algorithm, what we do is hill climb as usual, but if we're not 
+that far along the hill, sometimes we make random leaps to elsewhere. As we get 
+closer to an optimum, we decrease the probability of making random leaps, or 
+make smaller leaps.
+
+TODO: Graph of simulated annealing overcoming local optimum
+
+This does put us at risk of ending up at an even lower local optimum from the 
+random jumps, so in programming we run the algorithm many times and take the 
+best from the batch. It doesn't guarantee the best solution, but 
+probabilistically it's more likely to get it in a set of data that's too large 
+to search completely.
+
+In life, we may not be able to do multiple runs and retries, but the graph is 
+pretty damn long time-wise, and there are many optimums at similar levels. We 
+may not be able to return to exactly the same point we were at before if we drop 
+substantially, but we can apply what we learned that increased satisfaction 
+prior and see if it gets us close.
+
+So how do we apply this algorithm to life? When I find my life pretty optimal, 
+I'm at peace with not making any drastic changes. As the old adage goes, if it 
+ain't broke, don't fix it. I do still make small, intentional changes that 
+introduce aspects of randomness. Maybe learn something new, or meet some new 
+people, or perhaps both through something like [Learning 
+Night](http://learningnight.com/) (shameless plug). Sometimes when I'm too in my 
+comfort zone, thinking about this concept helps me push past the initial 
+discomfort to try something new. Who knows what may result.
+
+{% image /images/pathfinding/small-jump.png "" %}
+
+Now, sometimes life throws curveballs at us. Even if we don't want any change, 
+sometimes it's out of our control. Perhaps a death, a loss of job, or a breakup. 
+Sheryl Sandberg in her book Option B talks about how [three 
+P's](http://www.businessinsider.com/sheryl-sandberg-martin-seligmans-3-ps-helped-me-cope-with-my-husbands-death-2016-5) 
+determine our ability to deal with setbacks: personalization, pervasiveness, 
+permanence. I found in states of adversity, when nothing I did seemed to reduce 
+the sadness, what prevented me from completely losing hope and reduced the 
+permanence was thinking about drastic changes I could attempt. Even if they 
+didn't change my state of being, harnessing the feelings was at least an 
+opportunity to fix things about myself I normally wouldn't make an effort to. In 
+some such moments, indeed changes resulted in me not only getting out of the 
+grief but getting to a even better place.
+
+{% image /images/pathfinding/big-jump.png "" %}
+
+By thinking in terms of methodical searching like this, I find myself in a 
+healthy balance of trying new things while also enjoying my normal state of 
+being when things are good, and when things are not, helping me to ameliorate 
+the situation.
+
+If I keep with this mentality, will I ever reach the global optimum? I don't 
+know. I don't even know if such a thing exists. But I know that even just the 
+process of trying for more in itself has been rewarding.
+
