@@ -3,7 +3,7 @@ layout: post
 title: "Pathfinding Satisfaction"
 tagline: ""
 date: 2017-06-15 00:00:00
-publish: false
+publish: true
 
 ---
 
@@ -45,7 +45,7 @@ once, making trade-offs between which I want more at any given moment.
 
 The area I currently care most about is satisfaction. This could be the subject 
 of a whole other post, but I define it as a combination of happiness and 
-[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/). 
+[meaning](http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/){:target="_blank"}. 
 Happiness by itself is transient and fluctuating, satisfaction is the enduring 
 baseline I fluctuate along. This is not a rigorous definition, just a hand wavy 
 measurement based on how I feel relative to prior satisfaction levels. We can 
@@ -121,10 +121,11 @@ I'm now at peace with not making any drastic changes. As the old adage goes, if
 it ain't broke, don't fix it. However, I do intentionally inject small changes 
 that introduce aspects of randomness. Maybe learn something new, or meet some 
 new people, or perhaps both through something like [Learning 
-Night](http://learningnight.com/) (shameless plug). Things that could 
-potentially open the doors to something more. Sometimes when an opportunity 
-presents itself but I'm feeling too in my comfort zone, thinking about this 
-concept helps me push past the initial discomfort. Who knows what may result.
+Night](http://learningnight.com/){:target="_blank"} (shameless plug). Things 
+that could potentially open the doors to something more. Sometimes when an 
+opportunity presents itself but I'm feeling too in my comfort zone, thinking 
+about this concept helps me push past the initial discomfort. Who knows what may 
+result.
 
 {% image /images/pathfinding/small-jump.png "" %}
 
@@ -132,7 +133,7 @@ But this doesn't only apply when the times are good. Sometimes life throws
 curveballs at us, and a change happens that's out of our control. Perhaps a 
 death, a loss of job, or a breakup.  Sheryl Sandberg in her book Option B talks 
 about how [three 
-P's](http://www.businessinsider.com/sheryl-sandberg-martin-seligmans-3-ps-helped-me-cope-with-my-husbands-death-2016-5) 
+P's](http://www.businessinsider.com/sheryl-sandberg-martin-seligmans-3-ps-helped-me-cope-with-my-husbands-death-2016-5){:target="_blank"} 
 determine our ability to deal with setbacks: personalization, pervasiveness, 
 permanence.
 
