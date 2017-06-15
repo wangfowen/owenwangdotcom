@@ -33,6 +33,10 @@ structure in our approach.
 But the problem I want to focus on is one I thought a lot about over the last 
 year: figuring out what to do with my life.
 
+By thinking in terms of methodical searching for it, I find myself pushed to try 
+new things, while also maintaining acceptance of what's good in my life. And 
+when things get bad, it has helped me to ameliorate the situation.
+
 Generally when we look at search problems, we have one criteria to find the 
 "best" for. In life, we care about many things: money, fame, love, happiness, 
 etc. It's impossible to have it all: sometimes the increase of one comes at the 
@@ -155,10 +159,6 @@ form](http://longform.org/){:target="_blank"} articles, and began my binge of
 communicate](https://www.amazon.com/Nonviolent-Communication-Language-Marshall-Rosenberg/dp/1892005034){:target="_blank"} 
 [feelings 
 better](https://continuingstudies.stanford.edu/courses/professional-and-personal-development/building-interpersonal-skills-an-experiential-workshop/20164_COM-19){:target="_blank"}.
-
-By thinking in terms of methodical searching like this, I find myself pushed to 
-try new things, while also maintaining acceptance of what's good in my life. And 
-when things get bad, it has helped me to ameliorate the situation.
 
 If I keep with this mentality, will I ever reach the global optimum? I don't 
 know. I don't even know if such a thing exists. But I know that even just the 
