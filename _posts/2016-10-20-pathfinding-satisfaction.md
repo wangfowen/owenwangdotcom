@@ -117,13 +117,13 @@ substantially, but we can apply what we learned that increased satisfaction
 prior and see if it gets us close.
 
 So how do we apply this algorithm to life? When I find my life pretty optimal, 
-I'm at peace with not making any drastic changes. As the old adage goes, if it 
-ain't broke, don't fix it. However, I do still intentionally inject small 
-changes that introduce aspects of randomness. Maybe learn something new, or meet 
-some new people, or perhaps both through something like [Learning 
+I'm now at peace with not making any drastic changes. As the old adage goes, if 
+it ain't broke, don't fix it. However, I do intentionally inject small changes 
+that introduce aspects of randomness. Maybe learn something new, or meet some 
+new people, or perhaps both through something like [Learning 
 Night](http://learningnight.com/) (shameless plug). Things that could 
 potentially open the doors to something more. Sometimes when an opportunity 
-presents itself but feeling I'm too in my comfort zone, thinking about this 
+presents itself but I'm feeling too in my comfort zone, thinking about this 
 concept helps me push past the initial discomfort. Who knows what may result.
 
 {% image /images/pathfinding/small-jump.png "" %}
@@ -141,14 +141,14 @@ what prevented me from completely losing hope and reduced the permanence was
 thinking about drastic changes I could attempt. Even if they didn't change my 
 state of being, harnessing the feelings was at least an opportunity to fix 
 things about myself I normally wouldn't make an effort to. In some such moments, 
-indeed changes resulted in me not only getting out of the grief but getting to a 
-even better place.
+indeed changes resulted in me not only getting out of the despair but to an even 
+better place than I started.
 
 {% image /images/pathfinding/big-jump.png "" %}
 
 By thinking in terms of methodical searching like this, I find myself pushed to 
-try new things, while also maintaining what acceptance of what's good in my 
-life. And when things are bad, it has helped me to ameliorate the situation.
+try new things, while also maintaining acceptance of what's good in my life. And 
+when things get bad, it has helped me to ameliorate the situation.
 
 If I keep with this mentality, will I ever reach the global optimum? I don't 
 know. I don't even know if such a thing exists. But I know that even just the 
