@@ -126,10 +126,12 @@ it ain't broke, don't fix it. However, I do intentionally inject small changes
 that introduce aspects of randomness. Maybe learn something new, or meet some 
 new people, or perhaps both through something like [Learning 
 Night](http://learningnight.com/){:target="_blank"} (shameless plug). Things 
-that could potentially open the doors to something more. Sometimes when an 
-opportunity presents itself but I'm feeling too in my comfort zone, thinking 
-about this concept helps me push past the initial discomfort. Who knows what may 
-result.
+that could potentially open the doors to something more.
+
+Sometimes when an opportunity presents itself but I'm feeling too in my comfort 
+zone, like when I don't feel like socializing at an event I'm attending, 
+thinking about this concept helps me push past the initial discomfort. Who knows 
+what may result.
 
 {% image /images/pathfinding/small-jump.png "" %}
 
@@ -150,7 +152,7 @@ myself I normally wouldn't make an effort to.
 {% image /images/pathfinding/big-jump.png "" %}
 
 In some such moments, indeed changes resulted in me not only getting out of the 
-despair but to an even better place than I started. After one bad breakup, I 
+despair but to an even better place than I started. After one hard breakup, I 
 trained for my first ever triathlon, [goal 
 factored](http://sachachua.com/blog/2014/03/reflecting-goals-time/){:target="_blank"} 
 and as a result deleted Facebook from my phone, began reading more [long 
