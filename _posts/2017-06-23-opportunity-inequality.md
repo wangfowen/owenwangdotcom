@@ -58,19 +58,22 @@ But I came to see that capitalism overall does better for pushing the world
 along. The income inequality is what motivates people to try and move up.
 
 As my thoughts on the topic matured, I began to see what I really wanted was for 
-people to not have to worry about basic survival things. For everyone to move up 
-in Maslow's hierarchy of needs. I want people to be able to take risks and have 
-a safety net when they fail. That's basically what I had, and I think that's a 
-big part of the whole discussion on privilege. Those with less privilege don't 
-have the same opportunities I do.
+people to not have to worry about basic survival. For everyone to move up in 
+Maslow's hierarchy of needs. I want people to be able to take risks and not 
+worry about whether or not that'd mean they'd be able to have a place to live if 
+they took it. To have a basic safety net. That's what I had, and I think that's 
+a big part of the whole discussion on privilege. The problem isn't that our 
+incomes are unequal, but that our opportunities are.
 
 I'd like to think I worked hard to get where I am, but I didn't get here alone. 
 My success is built on the shoulders of giants &mdash; my parents for coming to 
 America/Canada, my school for providing me the opportunities, etc. And the 
 reason I'm able to take risks is because I have a safety net, knowing that if I 
-fail, I can still get back up. Even the fact that I have mental space to think 
-about this stuff is because I'm in a good place as a result of everything else 
-having gone well in my life.
+fail, I can still get back up. I can take half a year off to go traveling 
+because I'm confident I still have a job when I'm back, and that even if that 
+doesn't work out, I can stay with my parents or friends until I figure things 
+out again. Even the fact that I have mental space to think about inequality in 
+the world is because I'm in a good place as a result of everything else.
 
 I want the American Dream to actually be a reality for everyone. That if you 
 work hard, you can actually move up.
@@ -97,6 +100,9 @@ ideas, but I don't have many specifics.
   can do is elevate their voices and allow them to solve their own problems 
   better. There's a lot of research that shows community helps people build 
   resilience and overcome their challenges, help people feel less isolated.
+
+If you have recommendations for related readings or know of tech job openings 
+related to any of these, please let me know.
 
 I can understand the argument of the other side saying how expensive it is to 
 give free handouts to everyone, but these are the same free handouts we got, 
