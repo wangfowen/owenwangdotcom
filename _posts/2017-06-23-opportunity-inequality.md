@@ -19,9 +19,21 @@ spot in the shelter that night. Seriously A+ acting on his part, the shame and
 tears in his eyes at having had to resort to this felt so real.
 
 By not having financial stability, even basic survival needs like finding 
-shelter and food occupy ones' brain space.
+shelter and food occupy ones' brain space, there's no other time and energy to 
+think about the future and moving up in life.
 
-While traveling recently, it became more evident than before the difference 
+Another similar scene that got me thinking about this was from Atlanta. Donald 
+Glover's character Earn was looking to make some quick cash from a pawn shop, 
+and his friend Darius told him he could make him way more. In the end it turned 
+out Darius invested that money in a dog that'd be worth $4000 down the line, to 
+which Earn responded:
+
+> Van needed that money. My daughter needed that money. Not in September, but 
+> today. See, I'm poor, Darius. And poor people don't have time for investments 
+> because poor people are too busy trying not to be poor. I need to eat today, 
+> not in September.
+
+While traveling recently, it became more evident than ever the difference 
 between having financial security and not. When we visited third world 
 countries, things we normally take for granted like hot, clean, running water 
 were a luxury. But the contrast wasn't just evident at that scale, even compared 
@@ -60,13 +72,6 @@ fail, I can still get back up. Even the fact that I have mental space to think
 about this stuff is because I'm in a good place as a result of everything else 
 having gone well in my life.
 
-I see the argument of the other side saying how expensive it is to give free 
-handouts to everyone, but these are the same free handouts we got, just from our 
-parents instead of from society. I don't think everything in life should be 
-spoon fed to us, but at least enough of a safety net should be in place for 
-people to be able to try and do the same things I do. For there to be 
-opportunity equality.
-
 I want the American Dream to actually be a reality for everyone. That if you 
 work hard, you can actually move up.
 
@@ -93,3 +98,9 @@ ideas, but I don't have many specifics.
   better. There's a lot of research that shows community helps people build 
   resilience and overcome their challenges, help people feel less isolated.
 
+I can understand the argument of the other side saying how expensive it is to 
+give free handouts to everyone, but these are the same free handouts we got, 
+just from our parents instead of from society. And not everyone is as lucky to 
+have such families. I don't think everything in life should be spoon fed to us, 
+but at least enough of a safety net should be in place for people to be able to 
+try and do the same things I do. For there to be opportunity equality.
