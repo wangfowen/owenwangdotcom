@@ -9,16 +9,12 @@ publish: false
 
 This is a topic that's been floating through my mind lately, and I wanted to 
 form some structure around my world view of it as I begin to think about my next 
-job (I'll be job hunting in a month or so). I had life quite good at Nest, and I 
-still love what they're doing, but for my next career move I'm willing to trade 
-some of the luxuries the job provided to help right what I perceive as a wrong 
-in our society.
+career (I'll be job hunting in a month or so).
 
-I'm also writing this to request from you recommendations for relevant readings 
-or tech job openings. I'm in no way an expert on any of this, my thoughts are 
-just from the limited I've read and conversations with others, and what's formed 
-in my own head. I'd love to hear the thoughts of others that are better 
-informed.
+I'm also writing this to request from you, dear reader, recommendations for 
+relevant readings or tech job openings. My thoughts are just from the limited 
+I've read, conversations with others, and what's formed in my own head. I'd love 
+to hear solutions from others that are better informed.
 
 ##Income Inequality
 
@@ -42,15 +38,16 @@ $4000 down the line, to which Earn responded:
 > not in September.
 
 While I can't relate to either of these events having not experienced anything 
-quite like them myself, they helped me see that without financial stability, 
-basic survival needs like finding food and shelter cause so much strife that 
-it's hard to consider other aspects of life like investing in the future, which 
-I so easily take for granted as a given to be doing.
+quite like them myself, I was left with an unsettled feeling thinking about how 
+without financial stability, basic survival needs like finding food and shelter 
+cause so much strife that it's hard to consider other aspects of life like 
+investing in the future, which I so easily take for granted as a given to be 
+doing.
 
 While traveling recently, it became more evident than ever the difference 
 afforded by my financial state. When we visited third world countries, something 
 as simple as hot, clean, running water was sometimes a luxury. But the contrast 
-wasn't just evident at that scale, even compared to other travelers we met in 
+wasn't just evident at that scale. Even compared to other travelers we met in 
 hostels, we had so many less worries having the finances from a tech salary. 
 Instead of stressing over the series of shared cars required to get to a remote 
 region, we could just splurge on a taxi to get us there. When we stayed in a run 
@@ -59,9 +56,9 @@ we could afford if we wanted to keep the trip going.
 
 In simpler times, I used to think that the world would be a better place if 
 everyone just made the same income. But I came to see that capitalism overall 
-does better for pushing the world along, and wealth disparity is at the heart of 
-capitalism. Income inequality motivates people to make changes in their lives 
-and not remain stagnant.
+does better for allowing society to self correct issues it faces, and wealth 
+disparity is at the heart of capitalism. Income inequality motivates people to 
+make changes in their lives and not remain stagnant.
 
 As my thoughts on the topic matured, I began to see what I really had a problem 
 with was not the income inequality, but the opportunity inequality that 
@@ -94,18 +91,19 @@ problems are life and death, decisions are more consequential and risks aren't
 as easily afforded, so opportunities are sometimes passed over.
 
 I'm a bit of a junkie for self-help material and much of it talks about being 
-positive and having confidence. Yet from talking to some friends from lower 
-income families, I came to see that such advice is meaningless and impossible 
-when you're not in a good state. It's not really something you can fake it til 
-you make it. If so much of your previous experience has pointed at outcomes 
-turning out negatively, you'd be delusional to try and be positive. If one 
-mistake would bring your whole livelihood crashing down, how can you be 
-confident that things will get better? If so much of your well being is outside 
-of your control, how can you feel like anything is possible?
+positive and having confidence, just embracing risks. Yet from talking to some 
+friends from lower income families, I came to see that such advice is impossible 
+to follow when you're not in a good state. It's not really something you can 
+fake it til you make it. If so much of your previous experience has pointed at 
+outcomes turning out negatively, you'd be delusional to bank on positivity 
+changing things. If one mistake would bring your whole livelihood crashing down, 
+how can you be confident that things will get better?  If so much of your well 
+being is outside of your control, how can you feel like anything is possible?
 
-Research about happiness above 70k. The way I interpret that now is because 
-people above that line don't have to worry about life and death, so there's a 
-stability in which their minds can be at rest.
+There's research that shows that making above $75,000 a year doesn't impact 
+happiness, but making more money does make a large difference up til that point. 
+The way I interpret that now is because people below it still have money 
+weighing on their minds, influencing every decision they make.
 
 I was able to focus full time on my education because I didn't have such 
 problems weighing on me, and that led me to further opportunities. I'm able to 
@@ -115,19 +113,23 @@ back. Or even if I can't, I won't die because I have a home I can stay at until
 I figure things out again. __Even the fact that I have mental space in thinking 
 about inequality is because everything else in my life is secure enough.__
 
-And everything is secure enough because I have a safety net. But that safety net 
-doesn't exist for everyone. For some, if they fall, that's it. They're screwed. 
-So they can't take the opportunities in front of them.
+And everything is secure enough because I have a safety net, provided by my 
+friends and family. But that safety net doesn't exist for everyone. For some, if 
+they fall, that's it, it's hard to recover. So they can't take the opportunities 
+in front of them. My belief is society should provide that safety net for 
+everyone, since not everyone has the family to provide it.
 
 ##Solutions
 
 This is the part I'm still very gray about. Most things that help one faction 
 come at the expense of another. I don't think shaming or guilting someone for 
 having life better is productive, but discussions do have to happen that will 
-cause unpleasant feelings. Ideally we'd be able to win-win situations, but I 
-don't have specific solutions myself, just vague murmurs of the concepts.
+cause unpleasant feelings. Ideally we'd be able to arrive at win-win solutions, 
+but I don't have specific solutions myself, just vague murmurs of the concepts.
 
-- Improve mental health so that people can bounce back
+
+To provide a safety net for everyone, we need to:
+- Improve the state of mental health help available
 - Improve the state of health care so that if someone is sick, it doesn't ruin 
   their life. TODO Stat from Option B about $400.
 - Improve access to education so that if everything else is stable, and they 
@@ -137,6 +139,8 @@ don't have specific solutions myself, just vague murmurs of the concepts.
   thing being squandered on some, where they just blow it on drugs. Well, if 
   they do, so be it. At least the opportunity to do otherwise was provided to 
   them.
+
+To equalize the opportunities available for everyone:
 - End systemic discrimination. I'm lucky enough where being pulled over by a cop 
   is just another regular occurrence, where I don't have to fear for my life 
   ending after no wrong doing, which significantly reduces my mental strain. I 
@@ -150,9 +154,9 @@ don't have specific solutions myself, just vague murmurs of the concepts.
 - Provide platforms to fund and create opportunities for people to get started 
   in making a living
 
-These are clearly very very broad problems with a lot of people already working 
-on them. I don't expect myself to contribute to all of them, but I'd like to 
-work on something that's directionally correct.
+These are clearly very very broad ideas with a lot of people already working on 
+them. I don't expect myself to contribute to all of them, but I'd like to work 
+on something that's directionally correct.
 
 I recognize tech isn't necessarily even the right solution for most of these 
 problems, so if I truly wanted to make a change, I may consider changing 
@@ -160,15 +164,14 @@ professions. But currently I still believe tech can help in building tools
 towards these issues, and I'm not yet willing to completely let go of all the 
 comfort and privileges a tech job allows me.
 
-So this is where I need recommendations from you, Please let me know if you know 
+So this is where I need recommendations from you. Please let me know if you know 
 of related readings or tech job openings! What else can be done to help that I 
 didn't list, and what in each of these categories is already being done? Or am I 
 wrong about these being things that may help?
 
 I don't expect fixing opportunity inequality to fix all of the world's problems 
 &mdash; humans are darned good at creating new ones for themselves &mdash; but I 
-would like to think it'd make things fairer at least. The world will never be 
-completely fair, as bad things will continue to happen to good people, but some 
-things are within society's control, so all I can hope for is we at least make 
-those parts fairer. Or at least all I can do is try and contribute to those 
-myself.
+would like to think it'd make things fairer at least. Even though the world
+will never be completely fair, as bad things will continue to happen to good 
+people, I'd like to at least contribute to making it fairer where it's within 
+society's control.
