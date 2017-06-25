@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Opportunity Inequality"
-tagline: ""
+tagline: "My mission statement for the next while"
 date: 2017-06-23 00:00:00
 publish: false
 
@@ -10,12 +10,15 @@ publish: false
 This is a topic that's been floating through my mind lately, and I wanted to 
 form some structure around my world view of it as I begin to think about my next 
 job (I'll be job hunting in a month or so). I had life quite good at Nest, and I 
-still love what they're doing, but for my next career move I want to work 
-towards righting what I perceive as a wrong in the world.
+still love what they're doing, but for my next career move I'm willing to trade 
+some of the luxuries the job provided to help right what I perceive as a wrong 
+in our society.
 
 I'm also writing this to request from you recommendations for relevant readings 
-or tech job openings. I know I'm not the only one that's been thinking about it, 
-I'd like to hear the thoughts of others that are.
+or tech job openings. I'm in no way an expert on any of this, my thoughts are 
+just from the limited I've read and conversations with others, and what's formed 
+in my own head. I'd love to hear the thoughts of others that are better 
+informed.
 
 ##Income Inequality
 
@@ -38,23 +41,21 @@ $4000 down the line, to which Earn responded:
 > because poor people are too busy trying not to be poor. I need to eat today, 
 > not in September.
 
-Without financial stability, basic survival needs like finding food and shelter 
-cause so much strife, it's hard to consider other aspects of life like investing 
-in the future.
+While I can't relate to either of these events having not experienced anything 
+quite like them myself, they helped me see that without financial stability, 
+basic survival needs like finding food and shelter cause so much strife that 
+it's hard to consider other aspects of life like investing in the future, which 
+I so easily take for granted as a given to be doing.
 
 While traveling recently, it became more evident than ever the difference 
-afforded by my financial backing from a tech salary. When we visited third world 
-countries, something as simple as hot, clean, running water which we normally 
-take for granted was a luxury.
-
-But the contrast wasn't just evident at that scale, even compared to other 
-travelers we met in hostels, we had so many less worries having abundant 
-finances. Instead of stressing over the series of shared cars required to get to 
-a remote region, we could just splurge on a taxi to get us there. When we stayed 
-in a run down hostel, it was for the experience and out of choice, not because 
-it was all we could afford if we wanted to keep the trip going.
-
-RESEARCH ABOUT IS THE INCOME GAP ACTUALLY INCREASING?
+afforded by my financial state. When we visited third world countries, something 
+as simple as hot, clean, running water was sometimes a luxury. But the contrast 
+wasn't just evident at that scale, even compared to other travelers we met in 
+hostels, we had so many less worries having the finances from a tech salary. 
+Instead of stressing over the series of shared cars required to get to a remote 
+region, we could just splurge on a taxi to get us there. When we stayed in a run 
+down hostel, it was for the experience and out of choice, not because it was all 
+we could afford if we wanted to keep the trip going.
 
 In simpler times, I used to think that the world would be a better place if 
 everyone just made the same income. But I came to see that capitalism overall 
@@ -66,13 +67,26 @@ As my thoughts on the topic matured, I began to see what I really had a problem
 with was not the income inequality, but the opportunity inequality that 
 seemingly resulted from the gap in income. The idea of the American Dream is 
 nice, where anyone that works hard can move up in the world. But it doesn't 
-apply to everyone currently. Not everyone gets the opportunity to work their 
-hardest because of outside circumstances, and for some, even when they do give 
-it their best shot, they don't get the same opportunities to move up. __I want 
-the American Dream to become something that's possible for everyone__.
+apply to everyone currently. Not everyone gets the opportunities to move up even 
+when they work their hardest, and some can't take the opportunities even if 
+they're there because of other factors. __I want the American Dream to become 
+something that's possible for everyone__.
 
-NOT HAVING OPPORTUNITY TO WORK HARDEST ISN'T QUITE SAME AS NOT TAKING 
-OPPORTUNITIES, THINK ABOUT REWORDING
+##Opportunities Available
+
+Of course not everyone will get the exact same opportunities in life, nor would 
+it make sense to. But in the ideal world, two people with the exact same 
+qualifications doing the exact same job should?
+
+EXAMPLE WHERE THAT'S NOT THE CASE?
+
+STATS ABOUT HOW THERE'S NO ROOM TO MOVE UP IN LIFE
+
+Issue here is being poor you don't get the same kinds of shots to get off the 
+ground.
+
+STATS ABOUT LESS OPPORTUNITIES
+
 ##Opportunities Taken
 
 Everyone has their own problems, and that will never change, but when the 
@@ -93,40 +107,25 @@ Research about happiness above 70k. The way I interpret that now is because
 people above that line don't have to worry about life and death, so there's a 
 stability in which their minds can be at rest.
 
-THIS SECTION ISN'T GREAT. SHOULD TIE BETTER TO EARLIER CONTENT. AND TALK ABOUT 
-HOW I CAN TAKE OPPORTUNITIES AND RISKS BECAUSE I HAVE MENTAL ENERGY.
-I was able to focus full time on my education because I didn't have other 
-problems weighing on me. And having gotten the education, I could try for jobs I 
-wasn't yet qualified for. I'm able to take half a year off from working to 
-travel because I'm confident I can still get a job when I'm back. Or even if I 
-can't, I won't die because I have a home I can stay at until I figure things out 
-again. Even the fact that I can take the risk in expending mental space in 
-thinking about inequality is because everything else in my life is secure 
-enough.
+I was able to focus full time on my education because I didn't have such 
+problems weighing on me, and that led me to further opportunities. I'm able to 
+take half a year off from working to travel because I don't have anyone 
+depending on me for survival, and I'm confident I can still get a job when I'm 
+back. Or even if I can't, I won't die because I have a home I can stay at until 
+I figure things out again. __Even the fact that I have mental space in thinking 
+about inequality is because everything else in my life is secure enough.__
 
-TALK ABOUT HOW I CAN DO ALL THAT BECAUSE I HAVE A SAFETY NET PROVIDED BY 
-PARENTS. THAT SAFETY NET DOESN'T EXIST FOR EVERYONE, AND THAT'S THE WRONG I WANT 
-TO RIGHT.
-But that safety net doesn't exist for everyone. For some, if they fall, that's 
-it. They're screwed. So they can't take the opportunities in front of them.
-
-##Opportunities Available
-
-For some there aren't even the same opportunities laid out for them the way they 
-were by my parents and by my school and the connections that resulted from it. 
-It's easier to make money when you have money. Trump is a self-made man, except 
-for the million dollar loan he got from his dad.
-
-Issue here is being poor you don't get the same kinds of shots to get off the 
-ground.
-
-STATS ABOUT LESS OPPORTUNITIES
+And everything is secure enough because I have a safety net. But that safety net 
+doesn't exist for everyone. For some, if they fall, that's it. They're screwed. 
+So they can't take the opportunities in front of them.
 
 ##Solutions
 
 This is the part I'm still very gray about. Most things that help one faction 
-come at the expense of another. I have general ideas of what can help, but I 
-don't have specific solutions.
+come at the expense of another. I don't think shaming or guilting someone for 
+having life better is productive, but discussions do have to happen that will 
+cause unpleasant feelings. Ideally we'd be able to win-win situations, but I 
+don't have specific solutions myself, just vague murmurs of the concepts.
 
 - Improve mental health so that people can bounce back
 - Improve the state of health care so that if someone is sick, it doesn't ruin 
@@ -153,11 +152,18 @@ don't have specific solutions.
 
 These are clearly very very broad problems with a lot of people already working 
 on them. I don't expect myself to contribute to all of them, but I'd like to 
-work on something that's directionally correct. So this is where I need 
-recommendations from you, Please let me know if you know of related readings or 
-tech job openings! What else can be done to help that I didn't list, and what in 
-each of these categories is already being done? Or am I wrong about these being 
-things that may help?
+work on something that's directionally correct.
+
+I recognize tech isn't necessarily even the right solution for most of these 
+problems, so if I truly wanted to make a change, I may consider changing 
+professions. But currently I still believe tech can help in building tools 
+towards these issues, and I'm not yet willing to completely let go of all the 
+comfort and privileges a tech job allows me.
+
+So this is where I need recommendations from you, Please let me know if you know 
+of related readings or tech job openings! What else can be done to help that I 
+didn't list, and what in each of these categories is already being done? Or am I 
+wrong about these being things that may help?
 
 I don't expect fixing opportunity inequality to fix all of the world's problems 
 &mdash; humans are darned good at creating new ones for themselves &mdash; but I 
