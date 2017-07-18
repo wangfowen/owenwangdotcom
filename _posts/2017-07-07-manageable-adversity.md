@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manageable Adversity"
-tagline: "My mission statement for the next while"
+tagline: "Figuring out my mission statement"
 date: 2017-07-07 00:00:00
 publish: false
 
