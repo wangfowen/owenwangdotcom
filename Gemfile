@@ -1,10 +1,9 @@
 source 'https://rubygems.org'
-ruby "2.1.8"
+ruby "2.5.3"
 
-gem "jekyll", "~> 1.4.3"
+gem "jekyll"
 gem "kramdown"
-gem "liquid", "~> 2.5.3"
-
+gem "liquid"
 gem "therubyracer"
 gem "jekyll-less"
 gem 'libv8'
