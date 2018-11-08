@@ -7,3 +7,4 @@ gem "liquid"
 gem "therubyracer"
 gem "jekyll-less"
 gem 'libv8'
+gem 'rake'
