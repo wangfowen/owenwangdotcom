@@ -16,7 +16,7 @@ what you'd think it means; I'm abandoning this series. To elaborate, I had a
 post on Barcelona and half-written ones on Berlin and Budapest done when I lost 
 the desire to continue. I'll summarize the three below:
 
-##Barcelona##
+## Barcelona
 
 - Drivers are extremely aggressive. As soon as the light turns red, you best be 
 off the street
@@ -32,7 +32,7 @@ regular day was the Eiffel Tower on New Year's Eve. Lots of love going around in
 Spain
 - Flies everywhere. Only place so far in Europe where bugs got annoying
 
-##Berlin##
+## Berlin
 
 - Food is absolutely fantastic, both the local cuisine and international.  
 Particularly the doner kebabs and the beer
@@ -42,7 +42,7 @@ history can learn about it for weeks here
 - One of the best club scenes I've experienced
 - Prices are very reasonable
 
-##Budapest##
+## Budapest
 
 - Cheapest place I've been by far. If we judge by the Big Mac index, a combo was 
 1290ft (about $5)

@@ -20,7 +20,7 @@ answer to a question I've been asked a lot lately: "If you're averaging only two
 hours of class a day while studying abroad, what do you _do_ with all your 
 time?"
 
-##What I _Think_ I Do##
+## What I _Think_ I Do
 
 Despite having practically no class, somehow time just flies by. I still find it 
 hard to believe my exchange is already past the halfway point!
@@ -51,7 +51,7 @@ In reality there are without a doubt hours, if not days, of Facebook and Youtube
 in the equation as well. I wasn't sure how much exactly though, hence why I 
 wanted records.
 
-##The Scientific Method##
+## The Scientific Method
 
 To gain a greater understanding of my growth, I created a short list of 
 questions to answer once I acquired stats:
@@ -97,7 +97,7 @@ interested in hearing the answers to, feel free to [tweet at
 me](https://twitter.com/wang) or contact me through any other form of social 
 media.
 
-##The Nitty Gritty##
+## The Nitty Gritty
 
 For people that are extra bored or interested in this stuff, this last section 
 is for you. I'll go into a bit more detail about how I categorized things.
@@ -111,7 +111,7 @@ cultural about it; it's the same music no matter where in the world you are.
 
 Browsing the internet, errands, and chores I counted as "no goal". Classes and 
 time spent studying for them went into "classes". French class was an exception 
-- I stuck that in "french".
+&ndash; I stuck that in "french".
 
 Since every item was given only one label, I chose the one that seemed the most 
 fitting. Cooking with friends is both socializing and cooking, but I'd be doing 

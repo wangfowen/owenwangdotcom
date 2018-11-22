@@ -21,7 +21,7 @@ I've narrowed my own thought patterns down to three major concepts:
 optimizations, failure modes, and methodical searching. In this post I'll just 
 talk about the first two, as the third is a whole beast of its own.
 
-###Optimizations###
+### Optimizations
 
 There is never a silver bullet that solves every possible problem. Instead you 
 have to choose which problems are the most pressing and optimize for solving 
@@ -48,7 +48,7 @@ quantify as best as I can exactly what I'd give up and what I'd gain in doing
 each activity. When I weigh my options and remind myself that there's not a 
 perfect solution, it makes it much easier to come to terms with my decision.
 
-###Failure Modes###
+### Failure Modes
 
 Whenever we're designing a system, we have to consider what could be potential 
 bottlenecks and points of failure down the line. And if a failure does occur, 
@@ -85,7 +85,7 @@ scenarios. This sometimes appears as if I'm unsupportive and pessimistic, and
 may not have been what they were looking for. I'm still working on figuring out 
 when to turn this off!
 
-###What About You?#
+### What About You?
 
 I'm sure none of the mindsets I've described above are unique to engineering. I 
 suspect many careers would mold us in similar ways, but the vocabulary for 

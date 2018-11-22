@@ -55,7 +55,7 @@ get better at it. So without further ado, here's my guide to friendshipping. If
 you're in a situation to make a new friend, start at step 1. If you want to get 
 closer to an old friend, you may be at step 2 or 3.
 
-##1. Get in the right mindset to converse##
+## 1. Get in the right mindset to converse
 
 Some days you might not like yourself. Some days you can't deal with other 
 people. That's all okay, it happens to the best of us. But in those times it's 
@@ -92,7 +92,7 @@ If you find you're often not in this mindset, don't use it as an excuse to avoid
 meeting new people. Try to get yourself in the mindset. It can take practice. I 
 personally find if I eat and sleep better, I'm more sociable.
 
-##2. Find conversation worth caring about##
+## 2. Find conversation worth caring about
 
 Surprisingly, not everyone shares the exact same interests as me. Conversation 
 doesn't work out when one person talks about something of interest to them, but 
@@ -123,7 +123,7 @@ interested in you. That happens. It sucks, but don't let it stop you from trying
 to connect with other people! __Remember, both sides have to care. As long as 
 you try your hardest to hold up your end, that's the most that you can do__.
 
-##3. Open up##
+## 3. Open up
 
 As I originally hypothesized, I still think this is the most important step. But 
 you can only get to here once you've done the other two and you've already 
@@ -153,7 +153,7 @@ out there. Even though there's always the chance that you could get hurt, you're
 willing to take that risk to connect emotionally with others.
 
 
-##4. Profit!##
+## 4. Profit!
 
 And that's it! Get in the right mindset to begin forming a friendship. Find 
 conversation (interests) that you can both care about to become friends. Then 

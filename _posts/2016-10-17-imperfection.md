@@ -26,12 +26,13 @@ I saw problems with my work, and I even became jaded with traveling, seeing it
 as diminishing returns, talking to the same kinds of people no matter where I
 went.
 
-I couldn't justify the discontentment. How could I feel this way? This is what I 
-had worked so hard to get to. So many other people would have loved to have this 
-kind of life. I felt like I needed to change something somehow. Maybe my 
-location or my profession. I didn't know what, but this couldn't be it, right?
+__I couldn't justify the discontentment__. How could I feel this way? This is 
+what I had worked so hard to get to. So many other people would have loved to 
+have this kind of life. I felt like I needed to change something somehow. Maybe 
+my location or my profession. I didn't know what, but this couldn't be it, 
+right?
 
-##Discontentment links us all
+## Discontentment is human
 
 I talked to and read about other people who seemed to have "made it", and the 
 more people I heard from, the more evident it became that there wasn't really 
@@ -59,7 +60,7 @@ for this &mdash; hedonic adaptation. When something great happens too
   frequently, we adjust our baseline happiness to it, and it no longer feels 
   great.
 
-##Two options to contentment
+## Two options to contentment
 
 So what can we do about this? The obvious solution is to make a change. If we 
 know what we're unhappy about, adjust what we can until we're happy. That's 
@@ -85,7 +86,7 @@ Unfortunately I still don't have a good heuristic for that. It really varies
 case by case, but I think even just seeing that we have two options puts us in a 
 better place than thinking we're confined to one.
 
-##My aftermath
+## My aftermath
 
 What have I chosen to do in my situation? I guess I'm doing a mix of both. I'm 
 accepting that I have it quite good, and it's okay that sometimes it still feels 

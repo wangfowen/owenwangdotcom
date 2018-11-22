@@ -9,23 +9,38 @@ publish: false
 
 Since Ivy wrote about her [goals in 
 leaving](https://medium.com/@ivyxvine/why-im-leaving-san-francisco-ff7b799473ea?fbclid=IwAR27IZejVrP7o3H8bmpCZhgH4YEUaVsCLYQo5_D7bmidPPsPcf-mWmMYTAA){:target="_blank"}, 
-I've been told I need to explain myself as well so here we are.
+I've been told I need to explain myself as well, so here we are.
 The reality for why I'm doing this is because [I got 
 fired](/blog/fired){:target="_blank"}. Or at least that's the direct catalyst. 
-It's only been about a year and a half since I last came back from world 
-travels, I honestly didn't think I'd go at it again so soon.
+It's only been about a year and a half since I came back from a different bout 
+of world travels, and we literally just signed a year lease that cost over 5k to 
+break. Honestly I didn't really plan to leave again so soon.
 
 But this is not an escape from my problems. It's just a matter of timing.
 
-What I mean by a matter of timing is that it just so happens that Ivy was also 
-considering switching jobs when my circumstances changed, making this the 
-closest possible chance where we could both uproot together.
+Ivy was also considering switching jobs when my circumstances changed. This 
+meant we were both untethered work-wise, and since we were already packing for 
+moving in together as well, this would likely be the best opportunity with the 
+least friction for uprooting together while we're under 30.
 
-Why uproot at all? Canadians have this thing called a working holiday visa where 
-there's a list of countries they can work at for up to a year with minimal 
-restrictions. The major requirement is said Canadian has to be under 30, so 
-we're getting closer to that day by day. Minimal restrictions means I'm able to 
-pursue something... different.
+_What makes 30 the magical number?_<br/>
+There's this thing called a working holiday visa that Canadians have (other 
+countries also have it in some form) that allows them to work and live elsewhere 
+while they're under 30 for up to a year. The list of countries for the elsewhere 
+  is [quite 
+  long](https://www.creditwalk.ca/dear-nora-the-ultimate-working-holiday-visa-guide-for-canadians/){:target="_blank"}, 
+  another wonderful perk of being Canadian ([sorry 
+  Americans](https://www.gooverseas.com/blog/americans-guide-working-holiday-visas){:target="_blank"}).
+
+_But why uproot at all? You're already living and working elsewhere aka 
+America!_<br/>
+The visa that allows me to be in America has a couple limitations:
+1. I am tied to the company sponsoring my visa. I'm not allowed to make money in 
+   any other form outside of my full-time job.
+2. I am only allowed to work in the field I studied, which is tech.
+
+I can stay in Canada to avoid these restrictions, but this is a limited time 
+opportunity to do the same with the added bonus of trying living elsewhere.
 
 Cooking has been something that's crawled from being an interest to something 
 taking up at least 1-2 nights of my time real estate per week. I've had the 
