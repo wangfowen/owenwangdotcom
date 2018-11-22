@@ -34,7 +34,7 @@ while they're under 30 for up to a year. The list of countries for the elsewhere
 
 _But why uproot at all? You're already living and working elsewhere aka 
 America!_<br/>
-The visa that allows me to be in America has a couple limitations:
+The TN visa that allows me to be in America has a couple limitations:
 1. I am tied to the company sponsoring my visa. I'm not allowed to make money in 
    any other form outside of my full-time job.
 2. I am only allowed to work in the field I studied, which is tech.
@@ -42,33 +42,47 @@ The visa that allows me to be in America has a couple limitations:
 I can stay in Canada to avoid these restrictions, but this is a limited time 
 opportunity to do the same with the added bonus of trying living elsewhere.
 
+What's appealing about living without these restrictions is I can try some 
+things I wouldn't be able to otherwise. The primary one of these being exploring 
+cooking as a career.
+
 Cooking has been something that's crawled from being an interest to something 
-taking up at least 1-2 nights of my time real estate per week. I've had the 
-inkling of wanting to try it as a career, but I'm unable to with my visa 
-situation in America -- in order to work in the US, I am constrained to tech, 
-and I'm constrained to the company that sponsored my visa.
-TALK MORE ABOUT WHAT INTERESTS ME ABOUT COOKING
-So if I want to pursue cooking any further as a profession, I can't do it from America. The other option is to do it from Canada, but working holiday allows essentially the same freedom with the added benefit of I get to try living in different places.
+taking up at least 1-2 nights of my time real estate per week. TALK MORE ABOUT 
+WHAT INTERESTS ME ABOUT COOKING
+
+With this opportunity I could see if anything in the hospitality industry 
+interests me as a career &mdash; wwoofing, work on a vineyard, work in a 
+kitchen, take cooking classes, if anyone else has any other recommendations, 
+shoot them our way. Or at a minimum, my understanding of the food we consume 
+and/or my cooking should improve, paying dividends down the line.
+
+If the culinary world turns out to not be the right fit for me, then at least it 
+won't be on the back of my mind anymore as an unexplored route. And other things 
+I can try without the restrictions of the TN visa are doing part-time 
+contracting to explore a lifestyle where work isn't everything, and/or try 
+starting my own company.
 
 Last time I went traveling with the intent of immersing myself in other 
 cultures, to learn more about the world. I stayed in each place longer than I 
 would for a vacation, trying to see more than just the typical tourist sights, 
-but still essentially touring. I had gone through [a quarter life 
-crisis](/blog/imperfection){:target="_blank"} and conceived of the idea during 
-it, figured myself out without the traveling, but went anyways because a friend 
-going on a similar adventure catalyzed me to do it.
+but still essentially touring. I had gone through a quarter life crisis and 
+conceived of the idea during it, [figured myself 
+out](/blog/imperfection){:target="_blank"} without the traveling, but went 
+anyways because a friend going on a similar adventure catalyzed me to do it.
 
 This time I'm traveling with the intent of focusing on things I can't here. I 
-intend to do very little touring, mostly trying to work wherever we are.
+intend to do little touring, mostly trying to work wherever we are.
 
 Last time was a pause from regularly scheduled programming. This time regularly 
 scheduled programming will continue as before, but the prime time showing of 
 Silicon Valley will now be replaced with Master Chef.
 
-What do I plan to do with my time?
-Try different areas of the food world -- wwoofing, work on a vineyard, work in a kitchen, take cooking classes, if anyone else has any other recommendations, shoot them our way.
+_What's the timeline?_ <br/>
+As mentioned, ideally I'd be just rooted in one place, but Ivy and I have slightly different goals and hers are more fluid in place. We'll likely have some push and pull of staying longer in a place vs moving onto the next, but with all relationships, you compromise and find something that works for both of you :) 
 
-What's the timeline?
-As mentioned, ideally I'd be just rooted in one place, but Ivy and I have slightly different goals and hers are more fluid in place. We'll likely have some push and pull of staying longer in a place vs moving onto the next, but with all relationships, you compromise and find something that works for both of you :) there's no set timeline, we'll see where the wind takes us, and I'll try to find something that works for me wherever we are
-So far we're planning on getting the New Zealand, Australia, and Japan working holiday visas, and we'll see where things go from there.
+There's no set timeline, we'll see where the wind takes us, and I'll try to find 
+something that works for me wherever we are. So far we're planning on getting 
+the New Zealand, Australia, and Japan working holiday visas, and we'll see where 
+things go from there. Let us know if you'd like to visit us somewhere! We'd love 
+to see all your faces as we'll surely get tired of each other's after.
 
