@@ -94,9 +94,16 @@ bad. I'm accepting the Bay area for what it is. [The best parts of
 a culture are also its
 worst](https://markmanson.net/prove-yourself){:target="_blank"}, so as flawed as
 the tech scene seems, there are many perks that come with it, and I'm 
-appreciating those more now. And traveling the way I did before may feel like 
-diminishing returns, but there are other ways I can experience other places, 
-like living there for longer periods of time to interact more with locals.
+appreciating those more now.
+
+The monoculture means homogeneity in the people that I meet, but having so many 
+like-minded people in one area means I easily meet people I get along with, and 
+the tech scene is able to thrive from such like-minded people coming together to 
+solve problems.
+
+And traveling the way I did before may feel like diminishing returns, but there 
+are other ways I can experience other places, like living there for longer 
+periods of time to interact more with locals.
 
 At the same time I'm making micro-adjustments to test what can further be 
 improved. And I'm still planning to make a drastic change at some point. But now 
