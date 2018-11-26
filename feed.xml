@@ -7,15 +7,15 @@ layout: null
   <channel>
     <title>Not a Blog</title>
     <description>Owen's thoughts on various topics</description>
-    <link>{{ site.url }}</link>
+    <link>http://owenwang.com/blog</link>
     {% for post in site.posts %}
         {% if post.publish %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>{{ post.url | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+          <link>http://owenwang.com{{ post.url}}</link>
+          <guid isPermaLink="true">http://owenwang.com{{ post.url}}</guid>
         </item>
         {% endif %}
     {% endfor %}

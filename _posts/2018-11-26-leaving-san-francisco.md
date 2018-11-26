@@ -12,16 +12,17 @@ leaving](https://medium.com/@ivyxvine/why-im-leaving-san-francisco-ff7b799473ea?
 I've been told I need to explain myself as well, so here we are. I won't be 
 listing any issues I'm finding with San Francisco in this &mdash; don't get me 
 wrong, I'm well aware of the host of them, but I've [already 
-accepted](/blog/imperfection){:target="_blank"} the bad as trade-offs for the 
-good, and I'm still satisfied with life here.
+accepted](/blog/imperfection){:target="_blank"} some of the bad is flip sides of 
+the good, and the rest are complicated issues slowly being changed. Generally 
+I'm still satisfied with life here.
 
 The reality for why I'm doing this is because [I got 
 fired](/blog/fired){:target="_blank"}. At least that's the direct catalyst. It's 
 only been about a year and a half since I came back from a different bout of 
-world travels, and we literally just signed a year lease that cost over 5k to 
-break. I honestly did not plan to leave again so soon.
+world travels, and we literally just signed a year lease a week prior that cost 
+over 5k to break. I honestly did not plan to leave again so soon.
 
-But this is not an escape from my problems. It's just a matter of timing.
+_But this is not an escape from my problems. It's just a matter of timing._
 
 This would likely be the most opportune moment for the two of us to uproot 
 together while we're under 30. Ivy was also considering switching jobs when my 
@@ -73,11 +74,14 @@ socioeconomics, culture, environment, and more of a place and time. Waste and
 climate change are both hugely impacted by how we create and consume it.
 
 With this chance, I could see if anything related to food speaks to me. Given 
-what I've read and learned about life in a kitchen, it's unlikely I'll pivot to 
-working as a chef from this, but I am interested in upping my cooking abilities, 
-gleaning insights on the problems in the industry, and gaining a better 
-understanding of the food we consume. I could see any and all of these paying 
-dividends down the line, whether or not I return to tech.
+what I've learned about [life 
+in](https://www.youtube.com/watch?v=kW140spadx8){:target="_blank"} [a 
+kitchen](https://en.wikipedia.org/wiki/Kitchen_Confidential_(book)){:target="_blank"}, 
+it's unlikely I'll pivot to working as a chef from this, but I am interested in 
+upping my cooking abilities, gleaning insights on the problems in the industry, 
+and gaining a better understanding of the food we put in our body. I could see 
+any and all of these paying dividends down the line, whether or not I return to 
+tech.
 
 Some opportunities I want to explore are wwoofing, working on a vineyard, 
 working in a kitchen, taking cooking classes, working for a catering service, 
