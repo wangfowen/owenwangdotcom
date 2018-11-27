@@ -74,9 +74,10 @@ socioeconomics, culture, environment, and more of a place and time. Waste and
 climate change are both hugely impacted by how we create and consume it.
 
 With this chance, I could see if anything related to food speaks to me. Given 
-what I've learned about [life 
-in](https://www.youtube.com/watch?v=kW140spadx8){:target="_blank"} [a 
-kitchen](https://en.wikipedia.org/wiki/Kitchen_Confidential_(book)){:target="_blank"}, 
+what I've learned about 
+[life](https://www.bonappetit.com/story/line-cook-nycs-fanciest-restaurants){:target="_blank"} 
+[in a](https://www.youtube.com/watch?v=kW140spadx8){:target="_blank"} 
+[kitchen](https://en.wikipedia.org/wiki/Kitchen_Confidential_(book)){:target="_blank"}, 
 it's unlikely I'll pivot to working as a chef from this, but I am interested in 
 upping my cooking abilities, gleaning insights on the problems in the industry, 
 and gaining a better understanding of the food we put in our body. I could see 
