@@ -3,7 +3,7 @@ layout: post
 title: "An Engineer's Mindset For Life"
 tagline: "How I view the world due to my career"
 date: 2016-07-12 00:00:00
-publish: true
+publish: false
 
 ---
 

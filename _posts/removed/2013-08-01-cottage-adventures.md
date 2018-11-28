@@ -3,7 +3,7 @@ layout: post
 title: "Cottage Adventures"
 tagline: "A weekend to remember"
 date: 2013-08-01 00:00:00
-publish: true
+publish: false
 
 ---
 
