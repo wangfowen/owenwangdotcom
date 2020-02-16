@@ -4,7 +4,7 @@ title: "Pathfinding Satisfaction"
 tagline: "Using my degree to brood"
 date: 2017-06-15 00:00:00
 publish: false
-category: blog
+categories: blog
 sitemap: false
 
 ---

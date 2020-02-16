@@ -3,7 +3,7 @@ layout: post
 title: "A Brief Stint with Online Dating"
 date: 2013-08-03 00:00:00
 publish: true
-category: blog
+categories: blog
 
 ---
 

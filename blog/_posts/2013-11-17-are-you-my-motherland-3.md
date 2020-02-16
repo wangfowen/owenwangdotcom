@@ -3,7 +3,7 @@ layout: post
 title: "Copenhagen - Are You My Motherland?"
 date: 2013-11-17 00:00:00
 publish: true
-category: blog
+categories: blog
 ---
 
 _In this [on-going series](/post/are-you-my-motherland) I examine some cities 

@@ -4,7 +4,7 @@ title: "Not Your Typical 'Why I'm Leaving San Francisco' Think Piece"
 tagline: "Part 2 of recent reflections: The Future"
 date: 2018-11-26 00:00:00
 publish: false
-category: blog
+categories: blog
 sitemap: false
 ---
 

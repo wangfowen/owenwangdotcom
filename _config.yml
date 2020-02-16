@@ -1,7 +1,7 @@
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor", "_template.md", "_new_post.rb"]
 name: Ohithere (it's Owen)
 markdown: kramdown
-permalink: /post/:title
+permalink: /:categories/:title
 url: http://owenwang.com
 plugins:
   - jekyll-sitemap

@@ -4,7 +4,7 @@ title: "Grovember - Part 1"
 tagline: "A month of data collection on my life"
 date: 2013-11-21 00:00:00
 publish: true
-category: blog
+categories: blog
 
 ---
 

@@ -4,7 +4,7 @@ title: "Preface - Are You My Motherland?"
 tagline: "A series where I evaluate places I go"
 date: 2013-10-12 00:00:00
 publish: true
-category: blog
+categories: blog
 
 ---
 

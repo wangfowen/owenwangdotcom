@@ -3,7 +3,7 @@ layout: post
 title: "Learning About Learning"
 date: 2014-01-23 00:00:00
 publish: true
-category: blog
+categories: blog
 
 ---
 

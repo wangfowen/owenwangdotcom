@@ -4,7 +4,7 @@ title: "Path of Least Regret"
 tagline: "A mentality for experiencing life"
 date: 2014-08-20 00:00:00
 publish: true
-category: blog
+categories: blog
 ---
 
 I'm a sucker for catchy mottoes: "Work Hard, Play Hard", "Go Big or Go 

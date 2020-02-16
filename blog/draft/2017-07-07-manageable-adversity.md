@@ -4,7 +4,7 @@ title: "Manageable Adversity"
 tagline: "Figuring out my mission statement"
 date: 2017-07-07 00:00:00
 publish: false
-category: blog
+categories: blog
 sitemap: false
 
 ---
