@@ -14,6 +14,6 @@ I used my [homemade vegetable stock](/food/valentines) for both dishes instead o
 
 Tteokbokki turned out pretty authentic tasting but too salty, likely because I used a bit too much gochujang. 
 
-<img class="hero" src="/assets/soontofu.JPG">
+<img class="hero" src="/assets/soontofu.JPG" />
 
 Soon tofu didn't quite taste like what we have in the restaurants. I'm lost on how to improve the flavor since I still have too little understanding of the profiles of Korean dishes. The internet hasn't been too helpful as different recipes online all called for different ingredients. Will have to try at a restaurant again with deeper analysis to see what I'm missing / read more online.

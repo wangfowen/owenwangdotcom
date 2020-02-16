@@ -14,7 +14,7 @@ Since we're now trying to eat plant based, I attempted a fancy Valentine's dinne
 - Main course: air fried marinated tofu with soy ginger glazed veggies on a bed of sweet potato puree. Vegetable stock based sauce on top
 - Palate cleanser: the vegetable stock used for sauce / cooking veggies in
 
-<img class="hero" src="/assets/stuffeddates.JPG">
+<img class="hero" src="/assets/stuffeddates.JPG" />
 
 Overall meal was tasty but imbalanced, there was too much flavor that got a bit overwhelming. Dates + sweet potato puree both very rich. Sauce added strong flavors. Should have had something lighter to cut through the richness.
 
