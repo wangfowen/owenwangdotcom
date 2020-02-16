@@ -23,3 +23,8 @@ fields:
   label: category
   default: food
   hidden: true
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
