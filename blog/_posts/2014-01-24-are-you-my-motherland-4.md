@@ -8,7 +8,7 @@ categories: blog
 
 ---
 
-_In this [series](/post/are-you-my-motherland) I examine some cities I've 
+_In this [series](/blog/are-you-my-motherland) I examine some cities I've 
 visited and what I've experienced to be different about them in the hopes of 
 finding pride in my old homes or discovering a new place to call home._
 
@@ -61,7 +61,7 @@ else tourist attractions there were, and one day was spent strolling through the
 
 Looking at that, I just _toured_ the cities. I didn't actually _travel_ or 
 _live_ them. The extent of what I did to stray off the typical tourist track was 
-[seek out hole-in-wall restaurants](/post/lean-traveling), avoid touristy 
+[seek out hole-in-wall restaurants](/blog/lean-traveling), avoid touristy 
 museums, and go out of my way to talk to other travelers / locals. That makes me 
 more of a hipster tourist than a traveler. I can't righteously declare a place 
 livable after 3 days. Just like how I wouldn't marry a girl after just 3 dates. 

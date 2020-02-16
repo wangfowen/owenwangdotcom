@@ -6,7 +6,7 @@ publish: true
 categories: blog
 ---
 
-_In this [on-going series](/post/are-you-my-motherland) I examine some cities 
+_In this [on-going series](/blog/are-you-my-motherland) I examine some cities 
 I've visited and what I've experienced to be different about them in the hopes 
 of finding pride in my old homes or discovering a new place to call home._
 
