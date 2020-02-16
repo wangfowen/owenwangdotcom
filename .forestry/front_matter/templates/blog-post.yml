@@ -1,4 +1,42 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: post
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: tagline
+  type: text
+  config:
+    required: false
+  label: Tagline
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+  default: now
+- name: publish
+  type: boolean
+  label: Publish
+  default: false
+- name: category
+  type: text
+  config:
+    required: false
+  label: Category
+  hidden: true
+  default: blog
