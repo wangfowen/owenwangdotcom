@@ -5,6 +5,7 @@ tagline: "Part 2 of recent reflections: The Future"
 date: 2018-11-26 00:00:00
 publish: false
 category: blog
+sitemap: false
 ---
 
 Since Ivy wrote about her [reasons and goals in 

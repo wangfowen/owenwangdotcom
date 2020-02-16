@@ -3,3 +3,16 @@ name: Ohithere (it's Owen)
 markdown: kramdown
 permalink: /post/:title
 url: http://owenwang.com
+plugins:
+  - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path:            "travel/*"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "learningnight/*"
+    values:
+      sitemap:         false

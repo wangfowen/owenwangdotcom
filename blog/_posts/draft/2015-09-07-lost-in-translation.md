@@ -4,6 +4,7 @@ title: "Lost In Translation"
 date: 2015-09-07 00:00:00
 publish: false
 category: blog
+sitemap: false
 
 ---
 

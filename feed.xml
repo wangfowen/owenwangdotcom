@@ -9,7 +9,7 @@ layout: null
     <description>Owen's thoughts on various topics</description>
     <link>http://owenwang.com/blog</link>
     {% for post in site.posts %}
-        {% if post.publish %}
+        {% if post.publish and post.categories contains 'blog' %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
