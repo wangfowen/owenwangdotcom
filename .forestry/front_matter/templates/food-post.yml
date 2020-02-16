@@ -28,3 +28,5 @@ fields:
   config:
     maxSize: 250
   label: Image
+pages:
+- food/_posts/2013-08-03-test.md
