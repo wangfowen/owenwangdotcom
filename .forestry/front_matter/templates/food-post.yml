@@ -5,9 +5,13 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: food-post
+  hidden: true
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
@@ -17,3 +21,5 @@ fields:
 - type: text
   name: category
   label: category
+  default: food
+  hidden: true
