@@ -4,11 +4,12 @@ title: "Pathfinding Satisfaction"
 tagline: "Using my degree to brood"
 date: 2017-06-15 00:00:00
 publish: false
+category: blog
 
 ---
 
 I previously talked about [how engineering shaped the way I 
-thought](/blog/engineers-mindset-for-life). I left one concept out for another 
+thought](/post/engineers-mindset-for-life). I left one concept out for another 
 post &mdash; methodical searching, and a year later, I'm finally getting around 
 to writing about it.
 
@@ -65,7 +66,7 @@ out of sight.
 {% image /images/pathfinding/everest.png "" %}
 
 I personally am not okay with the local optimum, I'm curious to see if there's 
-more. But as I'd [previously pondered](/blog/imperfection), how do I find the 
+more. But as I'd [previously pondered](/post/imperfection), how do I find the 
 balance of making changes to try for more with accepting things the way they 
 are?  It's infeasible to constantly revamp my whole life to try everything else 
 that's out there. And to try for the potential of something better, there's also 
@@ -134,7 +135,7 @@ myself I normally wouldn't make an effort to.
 In some such moments, indeed changes resulted in me not only getting out of the 
 despair but to an even better place than I started. After one hard breakup, I 
 trained for my first ever triathlon, [goal 
-factored](http://sachachua.com/blog/2014/03/reflecting-goals-time/){:target="_blank"} 
+factored](http://sachachua.com/post/2014/03/reflecting-goals-time/){:target="_blank"} 
 and as a result deleted Facebook from my phone, began reading more [long 
 form](http://longform.org/){:target="_blank"} articles, and began my binge of 
 [trying to 

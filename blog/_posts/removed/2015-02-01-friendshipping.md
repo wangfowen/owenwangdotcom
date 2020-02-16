@@ -7,7 +7,7 @@ publish: false
 
 ---
 
-As I said in my [previous post](/blog/20-14-hindsight), I spent a lot of time 
+As I said in my [previous post](/post/20-14-hindsight), I spent a lot of time 
 reflecting about improving relationships this past year. It started with this 
 Twitter conversation I eavesdropped upon between my friend Jonathan and someone 
 named Nav:

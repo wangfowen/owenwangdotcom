@@ -4,6 +4,7 @@ title: "Overpaid Syndrome"
 tagline: "How my attitude changed from making money"
 date: 2013-10-18 00:00:00
 publish: true
+category: blog
 
 ---
 

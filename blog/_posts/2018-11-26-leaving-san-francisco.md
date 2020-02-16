@@ -4,7 +4,7 @@ title: "Not Your Typical 'Why I'm Leaving San Francisco' Think Piece"
 tagline: "Part 2 of recent reflections: The Future"
 date: 2018-11-26 00:00:00
 publish: false
-
+category: blog
 ---
 
 Since Ivy wrote about her [reasons and goals in 
@@ -12,12 +12,12 @@ leaving](https://medium.com/@ivyxvine/why-im-leaving-san-francisco-ff7b799473ea?
 I've been told I need to explain myself as well, so here we are. I won't be 
 listing any issues I'm finding with San Francisco in this &mdash; don't get me 
 wrong, I'm well aware of the host of them, but I've [already 
-accepted](/blog/imperfection){:target="_blank"} some of the bad is flip sides of 
+accepted](/post/imperfection){:target="_blank"} some of the bad is flip sides of 
 the good, and the rest are complicated issues slowly being changed. Generally 
 I'm still satisfied with life here.
 
 The reality for why I'm doing this is because [I got 
-fired](/blog/fired){:target="_blank"}. At least that's the direct catalyst. It's 
+fired](/post/fired){:target="_blank"}. At least that's the direct catalyst. It's 
 only been about a year and a half since I came back from a different bout of 
 world travels, and we literally just signed a year lease a week prior that cost 
 over 5k to break. I honestly did not plan to leave again so soon.
@@ -37,7 +37,7 @@ elsewhere while they're under 30 for up to a year in each place. The list of
 elsewheres is [quite 
 long](https://www.creditwalk.ca/dear-nora-the-ultimate-working-holiday-visa-guide-for-canadians/){:target="_blank"}, 
 another wonderful perk of being Canadian ([sorry 
-Americans](https://www.gooverseas.com/blog/americans-guide-working-holiday-visas){:target="_blank"}).
+Americans](https://www.gooverseas.com/post/americans-guide-working-holiday-visas){:target="_blank"}).
 
 __What's the elsewheres you're looking at?__ <br/>
 So far we're applying for the New Zealand, Australia, and Japan visas, and we've 

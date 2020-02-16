@@ -4,6 +4,7 @@ title: "Grovember - Part 1"
 tagline: "A month of data collection on my life"
 date: 2013-11-21 00:00:00
 publish: true
+category: blog
 
 ---
 
@@ -91,7 +92,7 @@ does that have?
 - How accurate is my perception of time spent on tasks?
 
 For now that's all I've got based on the data I'm collecting. [Grovember - Part 
-2](/blog/grovember-2) will come at the end of the month, wherein I do the actual 
+2](/post/grovember-2) will come at the end of the month, wherein I do the actual 
 analysis and provide pretty graphs. If there are any other questions you'd be 
 interested in hearing the answers to, feel free to [tweet at 
 me](https://twitter.com/wang) or contact me through any other form of social 

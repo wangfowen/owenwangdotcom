@@ -4,6 +4,7 @@ title: "Lean Traveling"
 tagline: "Guide to traveling with minimum stress"
 date: 2014-01-21 00:00:00
 publish: true
+category: blog
 
 ---
 
@@ -11,7 +12,7 @@ If an interview ever asked me my biggest weakness, I'd probably walk out on the
 spot. I could rant for days about how awful and pointless that question is for 
 judging candidates. But if I ever really had to give an answer, it'd be that I 
 sometimes suck at paying attention. This manifests in the form of occasional 
-lost belongings and misread / [unread directions](/blog/eurail-episode). (Please 
+lost belongings and misread / [unread directions](/post/eurail-episode). (Please 
 still hire me employers, I'm very tedious when it comes to code I promise).
 
 In order to make up for my carelessness, I try to stay organized with lists and 
@@ -23,7 +24,7 @@ minimum stress and maximal fun.
 __Keep your plans as barebone as possible (minimum viable plan), then iterate on 
 them.__ The extent of my concrete plans are usually when will I get to a place, 
 where will I stay, and when will I leave. Sometimes not even these. It may just 
-be the [overpaid syndrome](/blog/overpaid-syndrome) giving me this mindset, but 
+be the [overpaid syndrome](/post/overpaid-syndrome) giving me this mindset, but 
 I find reservations get in the way.
 
 I'm not saying to not plan things to do. I Tripadvisor places before I go and 

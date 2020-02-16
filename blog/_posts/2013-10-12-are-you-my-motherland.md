@@ -4,6 +4,7 @@ title: "Preface - Are You My Motherland?"
 tagline: "A series where I evaluate places I go"
 date: 2013-10-12 00:00:00
 publish: true
+category: blog
 
 ---
 
@@ -68,6 +69,6 @@ for what they are. Perhaps doing this will help me find pride in somewhere. Or
 
 Below are cities I've written on:
 
-- [Rome](/blog/are-you-my-motherland-2)
-- [Copenhagen](/blog/are-you-my-motherland-3)
+- [Rome](/post/are-you-my-motherland-2)
+- [Copenhagen](/post/are-you-my-motherland-3)
 

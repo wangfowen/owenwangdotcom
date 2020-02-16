@@ -1,5 +1,5 @@
 exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor", "_template.md", "_new_post.rb"]
 name: Ohithere (it's Owen)
 markdown: kramdown
-permalink: /blog/:title
+permalink: /post/:title
 url: http://owenwang.com

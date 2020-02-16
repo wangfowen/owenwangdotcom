@@ -1,195 +1,32 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+title: Post Mortyum
+---
+    <meta name="description" content="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my thoughts on random topics.">
 
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/blog.css">
 
-  <title>Owen's Restaurant Resume</title>
-
-  <meta name="HandheldFriendly" content="true">
-  <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
-  <link rel="Shortcut Icon" href="/assets/icon.ico" />
-  <!--[if lt IE 9]>
-  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-  <![endif]-->
-  <link rel="stylesheet" type="text/css" href="/css/resume.css">
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')</script>
-  <!--<script type="text/javascript" src="/js/jquery.history.js"></script>-->
-    <meta name="description" content="Owen Wang's restaurant resume">
 </head>
-
 <body>
-  <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
-        <![endif]-->
-    <div id="container">
-      <h1><a id="header" class="print" href="http://owenwang.com">FANG (OWEN) WANG</a></h1>
-
-      <div id="contact">
-        <!--<p id="subheader">Full Stack Developer</p>-->
-          <ul class="blockList">
-            <li><a href="tel:+64272467284" target="_blank">027 246 7284</a></li>
-          </ul>
-          <ul class="blockList">
-            <li><a href="mailto:wangfowen@gmail.com">wangfowen@gmail.com</a></li>
-          </ul>
-      </div>
-
-      <h2>KITCHEN EXPERIENCE</h2>
-      <article>
-        <ul class="noBullets">
-          <li><strong>Google Kitchen</strong>
-            <ul>
-              <li>Did a culinary internship in a Google kitchen, preparing lunch and dinner for 600 employees.</li>
-              <li>Made sous vide eggs, prepared large batches of salsa and guacamole, diced vegetables, and broke down roasted chickens.</li>
-              <li>Learned about kitchen and sanitation protocols.</li>
-            </ul>
-          </li>
-          <li><strong>Cooking Night</strong>
-            <ul>
-              <li>Ran weekly events for over a year. Did all the planning, cooking, hosting, and cleaning along with another co-host for groups of 6-12 each time.</li>
-              <li>Founded with the mission of getting more people interested in cooking. Each event we explored a new topic about food and analyzed afterwards what we learned.</li>
-              <li>Learnings from this and other food explorations documented in a <a href="https://postmortyum.tumblr.com" class="print" target="_blank">blog</a>.</li>
-            </ul>
-          </li>
-          <li><strong>Get Low Dumplings</strong>
-            <ul>
-              <li>Helped with both back of house and front of house operations of the pop-up.</li>
-              <li>Worked in a small team to serve over 40 people a 6 course fixed menu.</li>
-            </ul>
-          </li>
-         </ul>
-      </article>
-
-      <h2>EDUCATION</h2>
-      <article>
-        <ul class="noBullets" id="education">
-          <li><strong>Independent Coursework</strong>
-            <ul>
-              <li>Read through <i>Salt, Fat Acid, Heat</i> and <i>The Food Lab</i>, running many hands-on experiments based on knowledge from the books.</li>
-              <li>Watched all the videos for Thomas Keller, Alice Waters, and Gordon Ramsay's <a target="_blank" class="print" href="https://masterclass.com">Masterclass</a>, also doing hands-on experiments to master what I learned.</li>
-            </ul>
-          </li>
-          <li><strong>University of Waterloo</strong>, B.A.Sc., Honors Co-op Computer Engineering, 2010 &ndash; 2015
-            <ul>
-              <li>Dean's Honour List &ndash; awarded for excellent academic standing based on combination of GPA and percentile rank</li>
-            </ul>
-          </li>
-        </ul>
-      </article>
-
-      <h2>OTHER WORK EXPERIENCE</h2>
-      <article>
-        <ul class="noBullets">
-          <li><strong><a href="https://farmsteadapp.com/" class="info" target="_blank">Farmstead</a></strong>, Software Engineer, Aug. 2017 &ndash; Oct. 2018
-            <ul>
-              <li class="targets" id="react">First full-time engineer, working in a high stress startup environment.</li>
-              <li>Creating a grocery operations platform to make high quality food available to everyone.</li>
-            </ul>
-          </li>
-          <li><strong><a href="https://google.com/" class="info" target="_blank">Google</a></strong>, Software Engineer, July 2015 &ndash; Mar. 2017
-            <ul>
-              <li>Worked on the Real Time Services team, where I consistently received "exceeded expectations" on performance reviews.</li>
-            </ul>
-          </li>
-          <li>Info on prior work experience available upon request</li>
-        </ul>
-      </article>
-
-    <script type="text/javascript">
-    $(function() {
-      var $targets = $('.targets'),
-        $body = $('body, html'),
-        $sidebar = $('#sidebar a'),
-        History = window.history,
-        init,
-        linked;
-
-      //don't do anything below if there's no push state
-      if ( !(History && History.pushState) ) {
-        $('.find').addClass('no-link');
-        return false;
-      };
-
-      var back = function() {
-        if (linked) {
-          //unexpected behavior for how push state is working for this
-          if (init) {
-            History.pushState('', '', '/resume');
-          } else {
-            History.back();
-          }
-          linked = false;
-        }
-
-        $targets.removeClass("selected");
-      };
-
-      if(location.hash) {
-        linked = true;
-        init = true;
-        $(location.hash).addClass("selected");
-      } else {
-        linked = false;
-        init = false;
-      }
-
-      //clicking a find link scrolls to the targeted text
-      $('.find').click(function(e) {
-        e.preventDefault();
-
-        History.pushState('', '', $(e.target).attr("href"));
-        linked = true;
-        init = false;
-
-        $targets.removeClass("selected");
-
-        var $target = $(location.hash);
-        $target.addClass("selected");
-        var targetOffset = $target.offset().top - 100;
-        $body.animate({scrollTop: targetOffset}, 400);
-      });
-
-      //clicking sidebar goes back to top
-      $sidebar.click(function(e) {
-        e.preventDefault();
-
-        back();
-
-        $body.animate({scrollTop: 0}, 400);
-        $(e.target).css("opacity", 0)
-      });
-
-      //on scroll, toggle sidebar
-      $(document).scroll(function() {
-        var threshold = document.getElementById("work").getBoundingClientRect();
-
-        if ($sidebar.css("opacity") === '0' && window.scrollY > threshold.top && window.innerWidth > 500) {
-          $sidebar.css("opacity", 1);
-        } else if ($sidebar.css("opacity") === '1' && (window.scrollY < threshold.top || window.innerWidth < 500)) {
-          back();
-
-          $sidebar.css("opacity", 0);
-        }
-      });
-
-    });
-  </script>
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-21006888-1']);
-    _gaq.push(['_setDomainName', 'owenwang.com']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-  </script>
-</body>
-</html>
+<div id="wrapper">
+  <div class="blog">
+    <a class="head-links" href="/">home</a>
+    <div class="header">
+      <h1>Post Mortyum</h1>
+    </div>
+    <ul class="posts">
+      {% for post in site.posts %}
+        {% if post.publish and post.categories contains 'food' %}
+          <a href="{{ post.url }}">
+            <li>
+              <p class="title">{{ post.title }}</p>
+              <p class="tagline">{{ post.tagline }}</p>
+              <p class="date">{{ post.date | date_to_string }}</p>
+            </li>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
