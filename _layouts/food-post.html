@@ -17,14 +17,18 @@ layout: default
 <div id="wrapper">
   <div class="blog">
     <a class="head-links" href="/">home</a>
-    <a class="head-links" href="/blog">blog</a>
+    <a class="head-links" href="/food">food</a>
     <div class="header">
       <h2>{{ page.title }}</h2>
       <p class="meta">{{ page.date | date_to_string }}</p>
     </div>
 
     <div class="post">
-    {{ content }}
+      {% if page.image != nil %}
+      <img class="hero" src="{{ page.image }}">
+      {% endif %}
+
+      {{ content }}
     </div>
 
     <div class="page-nav">

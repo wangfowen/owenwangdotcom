@@ -12,11 +12,14 @@
     float: left;
     margin: 1em 0;
   }
+
+  a:only-child {
+    width: 100%;
+  }
   
   .next {
     text-align: right;
   }
-
 }
 
 #overlay {
@@ -134,13 +137,69 @@
     padding-right: 10px;
   }
 
+  .food-posts {
+    width: inherit;
+    margin-left: -70px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+
+    li {
+      width: 50%;
+      height: 300px;
+      padding: 10px;
+
+      a {
+        height: 100%;
+        width: 100%;
+        padding: 20px 30px;
+        display: block;
+
+        &.with-image {
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
+
+          &:hover, &:active {
+            opacity: 0.5;
+          }
+        }
+
+        &.no-image {
+          background-color: #ccc;
+
+          &:hover, &:active {
+            background-color: #aaa;
+          }
+        }
+      }
+
+      p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 22px;
+        background: #333;
+        color: @offwhite;
+        margin-top: 110px;
+        padding: 5px 10px;
+        text-align: center;
+        opacity: 0.8;
+      }
+    }
+  }
+
   .posts {
     width: inherit;
     margin-left: -70px;
 
     li {
-      padding: 20px 70px;
       width: 100%;
+
+      a {
+        padding: 20px 70px;
+        display: block;
+      }
 
       p {
         display: block;
@@ -238,16 +297,24 @@
   }
 }
 
+.hero {
+  max-height: 300px;
+}
+
 @media only screen and (max-width: 799px) {
   .blog {
     padding: 20px;
     width: 100%;
 
-    .posts {
+    .food-posts, .posts {
       margin-left: 0;
 
       li {
-        padding: 20px;
+        width: 100%;
+
+        a {
+          padding: 20px;
+        }
       }
     }
   }

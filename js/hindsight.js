@@ -141,7 +141,7 @@ $(function() {
           .addClass('gal-el')
           .addClass('video')
           .append($iframe = $('<iframe></iframe>')
-            .attr("src", 'http://www.youtube.com/embed/' + img.video)
+            .attr("src", 'https://www.youtube.com/embed/' + img.video)
             .attr("frameborder", 0)
           )
        );

@@ -2,7 +2,7 @@ exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "ch
 name: Ohithere (it's Owen)
 markdown: kramdown
 permalink: /:categories/:title
-url: http://owenwang.com
+url: https://owenwang.com
 plugins:
   - jekyll-sitemap
 defaults:

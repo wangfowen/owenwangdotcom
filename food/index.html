@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Post Mortyum
+title: Post Mort Yum
 ---
     <meta name="description" content="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my thoughts on random topics.">
 
@@ -13,18 +13,21 @@ title: Post Mortyum
   <div class="blog">
     <a class="head-links" href="/">home</a>
     <div class="header">
-      <h1>Post Mortyum</h1>
+      <h1>Post Mort Yum</h1>
+      <p><a href="https://twitter.com/wang" target="_blank">DM me</a> if you want more details on anything</p>
     </div>
-    <ul class="posts">
+    <ul class="food-posts">
       {% for post in site.posts %}
         {% if post.publish and post.categories contains 'food' %}
-          <a href="{{ post.url }}">
-            <li>
+          <li>
+            {% if post.image != nil %}
+            <a href="{{ post.url }}" class="with-image" style="background-image: url('{{ post.image }}')">
+            {% else %}
+            <a href="{{ post.url }}" class="no-image">
+            {% endif %}
               <p class="title">{{ post.title }}</p>
-              <p class="tagline">{{ post.tagline }}</p>
-              <p class="date">{{ post.date | date_to_string }}</p>
-            </li>
-          </a>
+            </a>
+          </li>
         {% endif %}
       {% endfor %}
     </ul>
