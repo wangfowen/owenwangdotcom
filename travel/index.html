@@ -10,7 +10,7 @@ title: In Place, Of Food
 </head>
 <body>
 <div id="wrapper">
-  <div class="blog">
+  <div class="blog wide">
     <a class="head-links" href="/">home</a>
     <a class="head-links" href="/travel.xml">rss</a>
     <div class="header">
@@ -30,8 +30,10 @@ title: In Place, Of Food
               {% else %}
               <a href="{{ post.url }}" class="no-image">
               {% endif %}
-                <p class="title">Place: {{ post.place }}<br/>
-                Food: {{ post.food }}</p>
+                <div class="image-text-container">
+                  <p>Place: {{ post.place }}<br/>
+                  Food: {{ post.food }}</p>
+                </div>
               </a>
             </li>
           {% endif %}
@@ -46,7 +48,7 @@ title: In Place, Of Food
 <script type="text/javascript">
 $(function () {
   $('.travel-header').click(function () {
-    $(this).next('.travel-posts').toggleClass('show');
+    $(this).next('.travel-posts').slideToggle(1000)
   })
 });
 </script>

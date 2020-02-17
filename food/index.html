@@ -10,12 +10,12 @@ title: Post Mort Yum
 </head>
 <body>
 <div id="wrapper">
-  <div class="blog">
+  <div class="blog wide">
     <a class="head-links" href="/">home</a>
     <a class="head-links" href="/food.xml">rss</a>
     <div class="header">
       <h1>Post Mort Yum</h1>
-      <p><a href="https://twitter.com/wang" target="_blank">DM me</a> if you want more details on anything</p>
+      <p class="meta"><a href="https://twitter.com/wang" target="_blank">DM me</a> if you want more details on anything</p>
     </div>
     <ul class="food-posts">
       {% for post in site.categories.food %}
@@ -26,7 +26,9 @@ title: Post Mort Yum
             {% else %}
             <a href="{{ post.url }}" class="no-image">
             {% endif %}
-              <p class="title">{{ post.title }}</p>
+              <div class="image-text-container">
+                <p>{{ post.title }}</p>
+              </div>
             </a>
           </li>
         {% endif %}

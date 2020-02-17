@@ -115,13 +115,17 @@
   width: 800px;
   padding: 70px 70px 40px;
 
+  &.wide {
+    width: 960px;
+  }
+
   .header {
-    padding: 20px 0 40px 0;
+    padding: 20px 0 30px 0;
     text-align: center;
-    color: @darkertext;
+      color: @darkertext;
 
     h1 {
-      font-size: 50px;
+      font-size: 45px;
     }
 
     h2 {
@@ -130,6 +134,10 @@
 
     .meta {
       margin-top: 10px;
+
+      &.light {
+        color: #555;
+      }
     }
   }
 
@@ -149,27 +157,40 @@
     }
   }
 
+  .image-text-container {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: inherit;
+    background: linear-gradient(to bottom, rgba(33,36,37,0) 0%,rgba(33,36,37,0.7) 50%,rgba(33,36,37,0.84) 100%);
+    background: -moz-linear-gradient(top, rgba(33,36,37,0) 0%, rgba(33,36,37,0.7) 50%, rgba(33,36,37,0.84) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(33,36,37,0)), color-stop(50%, rgba(33,36,37,0.7)), color-stop(100%, rgba(33,36,37,0.84)));
+    background: -webkit-linear-gradient(top, rgba(33,36,37,0) 0%, rgba(33,36,37,0.7) 50%, rgba(33,36,37,0.84) 100%);
+    background: -o-linear-gradient(top, rgba(33,36,37,0) 0%, rgba(33,36,37,0.7) 50%, rgba(33,36,37,0.84) 100%);
+    background: -ms-linear-gradient(top, rgba(33,36,37,0) 0%, rgba(33,36,37,0.7) 50%, rgba(33,36,37,0.84) 100%);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
   .travel-posts {
     width: inherit;
     margin-left: -70px;
+    padding: 20px;
     display: none;
-    flex-wrap: wrap;
-    padding: 5px;
-
-    &.show {
-      display: flex;
-    }
 
     li {
-      width: 50%;
+      width: 49%;
       height: 300px;
-      padding: 10px;
+      padding: 20px;
+      display: inline-block;
 
       a {
+        border-radius: 5px;
         height: 100%;
         width: 100%;
         padding: 20px 30px;
         display: block;
+        position: relative;
 
         &.with-image {
           background-position: center;
@@ -177,7 +198,7 @@
           background-repeat: no-repeat;
 
           &:hover, &:active {
-            opacity: 0.5;
+            opacity: 0.8;
           }
         }
 
@@ -195,12 +216,10 @@
         overflow: hidden;
         text-overflow: ellipsis;
         font-size: 18px;
-        background: #333;
         color: @offwhite;
-        padding: 5px 10px;
+        padding: 30px 20px 20px;
         text-align: left;
         line-height: 30px;
-        opacity: 0.8;
       }
     }
   }
@@ -210,18 +229,20 @@
     margin-left: -70px;
     display: flex;
     flex-wrap: wrap;
-    padding: 5px;
+    padding: 20px;
 
     li {
       width: 50%;
       height: 300px;
-      padding: 10px;
+      padding: 20px;
 
       a {
+        border-radius: 5px;
         height: 100%;
         width: 100%;
         padding: 20px 30px;
         display: block;
+        position: relative;
 
         &.with-image {
           background-position: center;
@@ -229,7 +250,7 @@
           background-repeat: no-repeat;
 
           &:hover, &:active {
-            opacity: 0.5;
+            opacity: 0.8;
           }
         }
 
@@ -247,12 +268,9 @@
         overflow: hidden;
         text-overflow: ellipsis;
         font-size: 22px;
-        background: #333;
         color: @offwhite;
-        margin-top: 110px;
-        padding: 5px 10px;
+        padding: 40px 20px 15px;
         text-align: center;
-        opacity: 0.8;
       }
     }
   }
@@ -370,19 +388,29 @@
 }
 
 .travel-hero {
-  max-height: 500px;
+  margin-top: 20px;
+  width: 600px;
+  max-width: 100%;
 }
 
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 960px) {
   .blog {
     padding: 20px;
     width: 100%;
+
+    &.wide {
+      width: 100%;
+    }
 
     .travel-header {
       margin-left: 10px;
     }
 
-    .travel-posts, .food-posts, .posts {
+    .travel-posts, .food-posts {
+      margin-left: 0;
+    }
+
+    .posts {
       margin-left: 0;
 
       li {
@@ -415,6 +443,19 @@
       margin: 0;
       height: inherit;
       width: inherit;
+    }
+  }
+
+  .blog {
+    .travel-posts, .food-posts {
+      li {
+        width: 100%;
+        padding: 10px;
+
+        a {
+          padding: 20px;
+        }
+      }
     }
   }
 }

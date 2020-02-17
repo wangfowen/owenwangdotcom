@@ -14,12 +14,13 @@ layout: default
     <a class="head-links" href="/travel.xml">rss</a>
 
     <div class="header">
-    </div>
-
-    <div class="post">
       {% if page.image != nil %}
       <img class="travel-hero" src="{{ page.image }}" />
       {% endif %}
+      <p class="meta light">{{ page.date | date: "%b %Y"}}</p>
+    </div>
+
+    <div class="post">
 
       {{ content }}
     </div>
