@@ -9,20 +9,12 @@ sitemap: false
 
 ---
 
-_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it._
+_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
 <br/>
 <br/>
 
-Greetings from a blurry view in Sydney!
-We’ve come to the end of our stay in New Zealand and we’re on a short layover to our next destination: Shanghai. Friends in China, HK, and Vietnam or will come to these places in Q2 hit us up!
 
-As time goes on, our purpose have become more structured, turning into set quarterly and monthly goals. Each quarter we have an overarching goal and every month we choose a topic to learn about. For Q1, Owen wanted to experience farm life and Ivy wanted to experience van life. Ivy made an effort to learn about meditation, the economics of cryptocurrency, and how to be a better negotiator. Owen recipe tested for his cook book, learned about the technical aspects of cryptocurrency, and how to be a not-terrible negotiator (his last used strategy was starting a salary discussion with "I don't care about money").
-
-Negotiation studies paid off as we managed to negotiate Owen's contracting salary up $35/hour! It also failed when Owen blurt out our other offer is for $2000 when the price on the table with the potential buyer for Red Rover was for $5500. 
-
-In Q2, Ivy wants to immerse in Asian work and life culture as well as explore the manufacturing space. Owen wants to see what life as a freelance developer is like, with the freedom to set his own schedule and projects. For April, Ivy will interview westerners who have built successful careers in Asia and Owen will work on his Chinese fluency.
-
-In our last newsletter we talked about our personal reflections from our time in New Zealand. As we head out, we wanted to spend this one talking about our reflections on New Zealand itself.
+We previously talked about [our personal reflections](/blog/vanalysis){:target="_blank"} from the last three months. As we leave the country, we wanted to talk about our reflections on New Zealand itself.
 
 ## Kiwis are very trusting (boy are we going to have culture shock in China)
 
