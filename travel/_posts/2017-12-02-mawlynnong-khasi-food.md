@@ -13,6 +13,7 @@ image: "https://66.media.tumblr.com/f27fbbc83b17aa2ee2ef4ad5615bf2bd/tumblr_p0u3
 Place: Sky View Homestay in Mawlynnong
 
 Mawlynnong is supposedly the cleanest village in all of _____. We’d heard from someone “all of Asia”, someone else “all of India”, but who really knows. The place is very clean indeed however, and the landscapes are all very well maintained.
+
 We were drawn to this homestay by the name and indeed they lived up to it. They have a several story tall tower built that you can walk up and see past the trees from. You can actually see Bangladesh on a clear day in the distance. The tower gets rebuilt every year since it’s made out of bamboo. Quite surprising the structural integrity of such a monolith.
 
 Food: Khasi home cooking
