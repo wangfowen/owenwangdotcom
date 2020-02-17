@@ -2,7 +2,7 @@
 layout: default
 title: In Place, Of Food
 ---
-    <meta name="description" content="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my thoughts on random topics.">
+    <meta name="description" content="Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/blog.css">
@@ -15,6 +15,7 @@ title: In Place, Of Food
     <a class="head-links" href="/travel.xml">rss</a>
     <div class="header">
       <h1>In Place, Of Food</h1>
+      <p class="blog-description">Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.</p>
     </div>
     {% assign countries = site.categories.travel | sort: "date" | reverse | map: "country" | uniq %}
     {% for country in countries %}
@@ -48,7 +49,14 @@ title: In Place, Of Food
 <script type="text/javascript">
 $(function () {
   $('.travel-header').click(function () {
-    $(this).next('.travel-posts').slideToggle(1000)
+    const $travelPost  = $(this).next('.travel-posts')
+    if ($($travelPost).is(":visible")) {
+      $travelPost.slideUp(300)
+      $(this).removeClass('open')
+    } else {
+      $travelPost.slideDown(1000)
+      $(this).addClass('open')
+    }
   })
 });
 </script>

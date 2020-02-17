@@ -6,7 +6,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post Mort Yum</title>
-    <description>Documentation of my journey through cooking, what I learn and try along the way</description>
+    <description>Retrospectives on what went well / could be improved when I try to cook new dishes. Let's learn together!</description>
     <link>https://owenwang.com/food</link>
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'food' %}

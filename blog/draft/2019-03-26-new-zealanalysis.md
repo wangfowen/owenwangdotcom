@@ -9,6 +9,10 @@ sitemap: false
 
 ---
 
+_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it._
+<br/>
+<br/>
+
 Greetings from a blurry view in Sydney!
 We’ve come to the end of our stay in New Zealand and we’re on a short layover to our next destination: Shanghai. Friends in China, HK, and Vietnam or will come to these places in Q2 hit us up!
 

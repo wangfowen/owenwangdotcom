@@ -9,6 +9,10 @@ sitemap: false
 
 ---
 
+_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it._
+<br/>
+<br/>
+
 __Early May__
 
 Owen orders the ring to his friend Tommy’s place and starts discussing a plan with Ivy’s best friends Yifan and Yiti (henceforth Y&Y) for how a proposal would go down. From previous discussions, Owen knew that Ivy's ideal proposal would be private, have a scenic view, her friends would be there, and it'd be a surprise. They were already planning a girls’ trip sans Owen, so that would be an opportune occasion for meeting the requirements.

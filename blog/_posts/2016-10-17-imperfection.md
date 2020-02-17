@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Imperfection"
-tagline: "Looking back on my quarter life crisis"
+tagline: "My quarter life crisis"
 date: 2016-10-17 00:00:00
 publish: true
 categories: blog

@@ -9,6 +9,10 @@ sitemap: false
 
 ---
 
+_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it._
+<br/>
+<br/>
+
 Greetings from Queenstown!
 
 We can’t believe it’s already March, which means our time in New Zealand is almost coming to an end. We spent the last while traveling down from Christchurch passing by beautiful lakes and alpine hikes. We especially enjoyed Wanaka, where we spent a whole week!

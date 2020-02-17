@@ -114,6 +114,7 @@
   margin: 20px auto 0;
   width: 800px;
   padding: 70px 70px 40px;
+  border-radius: 5px;
 
   &.wide {
     width: 960px;
@@ -150,10 +151,30 @@
     margin-top: 20px;
     padding: 10px;
     font-size: 30px;
+    position: relative;
 
     &:hover, &:active {
-      background: #eee;
+      background: #ddd;
       cursor: pointer;
+    }
+
+    &::after {
+      font-size: 12px;
+      top: 40%;
+      position: absolute;
+      right: 10px;
+      content: " ";
+      border: solid @posttext;
+      border-width: 0 3px 3px 0;
+      display: inline-block;
+      padding: 3px;
+      transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+    }
+
+    &.open::after {
+      transform: rotate(-135deg);
+      -webkit-transform: rotate(-135deg);
     }
   }
 
@@ -316,7 +337,7 @@
     }
 
     li:hover, li:active {
-      background: #eee;
+      background: #ddd;
 
       .title {
         color: @darkest;
@@ -384,13 +405,20 @@
 }
 
 .hero {
-  max-height: 300px;
+  max-height: 400px;
 }
 
 .travel-hero {
   margin-top: 20px;
   width: 600px;
   max-width: 100%;
+}
+
+.blog-description {
+  text-align: left;
+  font-style: italic;
+  margin-top: 15px;
+  line-height: 24px;
 }
 
 @media only screen and (max-width: 960px) {
