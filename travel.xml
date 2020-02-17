@@ -3,11 +3,14 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>In Place, Of Food</title>
     <description>Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.</description>
     <link>https://owenwang.com/travel</link>
+    <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'travel' %}
         <item>
