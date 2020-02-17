@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-{% if page.tagline %}
-  <meta name="description" content="{{ page.tagline }}">
-{% else %}
   <meta name="description" content="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my thoughts on random topics.">
-{% endif %}
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/blog.css">
@@ -14,11 +10,10 @@ layout: default
 <div id="wrapper">
   <div class="blog">
     <a class="head-links" href="/">home</a>
-    <a class="head-links" href="/food">food</a>
-    <a class="head-links" href="/food.xml">rss</a>
+    <a class="head-links" href="/travel">travel</a>
+    <a class="head-links" href="/travel.xml">rss</a>
+
     <div class="header">
-      <h2>{{ page.title }}</h2>
-      <p class="meta">{{ page.date | date_to_string }}</p>
     </div>
 
     <div class="post">

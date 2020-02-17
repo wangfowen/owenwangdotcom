@@ -18,8 +18,8 @@ title: Post Mort Yum
       <p><a href="https://twitter.com/wang" target="_blank">DM me</a> if you want more details on anything</p>
     </div>
     <ul class="food-posts">
-      {% for post in site.posts %}
-        {% if post.publish and post.categories contains 'food' %}
+      {% for post in site.categories.food %}
+        {% if post.publish %}
           <li>
             {% if post.image != nil %}
             <a href="{{ post.url }}" class="with-image" style="background-image: url('{{ post.image }}')">

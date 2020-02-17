@@ -8,7 +8,7 @@ plugins:
 defaults:
   -
     scope:
-      path:            "travel/*"
+      path:            "embed/*"
     values:
       sitemap:         false
   -

@@ -17,8 +17,8 @@ title: Not A Blog
       <h1>Not a Blog</h1>
     </div>
     <ul class="posts">
-      {% for post in site.posts %}
-        {% if post.publish and post.categories contains 'blog' %}
+      {% for post in site.categories.blog %}
+        {% if post.publish %}
           <li>
             <a href="{{ post.url }}">
               <p class="title">{{ post.title }}</p>

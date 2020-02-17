@@ -45,7 +45,7 @@ know I'm good to go. If I lost anything else, the trip can still go on at least.
 Whenever I check out of a hostel, I do a more thorough screening with a list 
 roughly like this:
 
-<iframe class="iframe" id="inventory" src="/travel/inventory.html"></iframe>
+<iframe class="iframe" id="inventory" src="/embed/inventory.html"></iframe>
 
 Be sure to keep valuables deep in your bag, and don't put anything of importance 
 in your pants' butt pockets. Pickpockets love it when you do.
@@ -74,7 +74,7 @@ information right. Being stuck somewhere because of a silly mistake is no fun.
 Here's a checklist to make sure you don't mess up. I (or other friends) have had 
 the unfortunate pleasure of getting these things wrong:
 
-<iframe class="iframe" id="tickets" src="/travel/tickets.html"></iframe>
+<iframe class="iframe" id="tickets" src="/embed/tickets.html"></iframe>
 
 __Don't have any single points of failure.__ I use Tripit to aggregate all my 
 hostel and transportation info, but I also have a written copy of my itinerary 

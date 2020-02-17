@@ -1,0 +1,52 @@
+---
+layout: default
+title: In Place, Of Food
+---
+    <meta name="description" content="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my thoughts on random topics.">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/blog.css">
+
+</head>
+<body>
+<div id="wrapper">
+  <div class="blog">
+    <a class="head-links" href="/">home</a>
+    <a class="head-links" href="/travel.xml">rss</a>
+    <div class="header">
+      <h1>In Place, Of Food</h1>
+    </div>
+    {% assign countries = site.categories.travel | sort: "date" | reverse | map: "country" | uniq %}
+    {% for country in countries %}
+    <div>
+      {% assign posts = site.categories.travel | where: "country", country %}
+      <h2 class="travel-header">{{ country }} ({{posts | size}} posts)</h2>
+      <ul class="travel-posts">
+        {% for post in posts %}
+          {% if post.publish %}
+            <li>
+              {% if post.image != nil %}
+              <a href="{{ post.url }}" class="with-image" style="background-image: url('{{ post.image }}')">
+              {% else %}
+              <a href="{{ post.url }}" class="no-image">
+              {% endif %}
+                <p class="title">Place: {{ post.place }}<br/>
+                Food: {{ post.food }}</p>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(function () {
+  $('.travel-header').click(function () {
+    $(this).next('.travel-posts').toggleClass('show');
+  })
+});
+</script>

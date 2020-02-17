@@ -137,6 +137,74 @@
     padding-right: 10px;
   }
 
+  .travel-header {
+    margin-left: -55px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 30px;
+
+    &:hover, &:active {
+      background: #eee;
+      cursor: pointer;
+    }
+  }
+
+  .travel-posts {
+    width: inherit;
+    margin-left: -70px;
+    display: none;
+    flex-wrap: wrap;
+    padding: 5px;
+
+    &.show {
+      display: flex;
+    }
+
+    li {
+      width: 50%;
+      height: 300px;
+      padding: 10px;
+
+      a {
+        height: 100%;
+        width: 100%;
+        padding: 20px 30px;
+        display: block;
+
+        &.with-image {
+          background-position: center;
+          background-size: cover;
+          background-repeat: no-repeat;
+
+          &:hover, &:active {
+            opacity: 0.5;
+          }
+        }
+
+        &.no-image {
+          background-color: #ccc;
+
+          &:hover, &:active {
+            background-color: #aaa;
+          }
+        }
+      }
+
+      p {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 18px;
+        background: #333;
+        color: @offwhite;
+        padding: 5px 10px;
+        text-align: left;
+        line-height: 30px;
+        opacity: 0.8;
+      }
+    }
+  }
+
   .food-posts {
     width: inherit;
     margin-left: -70px;
@@ -306,7 +374,11 @@
     padding: 20px;
     width: 100%;
 
-    .food-posts, .posts {
+    .travel-header {
+      margin-left: 10px;
+    }
+
+    .travel-posts, .food-posts, .posts {
       margin-left: 0;
 
       li {
