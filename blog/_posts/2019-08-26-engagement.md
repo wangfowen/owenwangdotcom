@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "Down on One Tea"
-tagline: "Our Engagement Story"
+tagline: "Our engagement story"
 date: 2019-08-26 00:00:00
-publish: false
+publish: true
 categories: blog
-sitemap: false
 
 ---
 
 _Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
 <br/>
 <br/>
+
+This is the timeline and story of how we got engaged. It's written in third person to capture both sides' points of views as they happened.
 
 __Early May__
 
@@ -33,7 +34,7 @@ Y&Y told Ivy that they have matching white lace dresses that they will wear in C
 
 __July 31__
 
-Ivy got her phone stolen (see the last newsletter), so she would now share Owen’s phone for the remaining weeks leading up to the proposal. This meant sharing the same apps and switching between accounts on IG, WeChat, and often messaging her friends on Owen's Messenger. This made Owen extra nervous about communications and notifications coming in as Ivy was always on his phone. He deleted apps that had any traces (Airbnb, Yahoo Mail) and became very careful with logging out and using incognito mode. Finally, the use case Google thinks people use incognito for — [planning surprises](https://www.youtube.com/watch?v=bu5b_jYWVcQ). 🙄
+Ivy got her phone stolen, so she would now share Owen’s phone for the remaining weeks leading up to the proposal. Traveling together, they were already with each other 24/7. Now this meant they were sharing the same apps and switching between accounts on IG, WeChat, and she often messaged her friends on Owen's Messenger. This made Owen extra nervous about communications and notifications coming in as Ivy was always on his phone. He deleted apps that had any traces (Airbnb, Yahoo Mail) and became very careful with logging out and using incognito mode. Finally, the use case Google thinks people use incognito for — [planning surprises](https://www.youtube.com/watch?v=bu5b_jYWVcQ){:target="_blank"}. 🙄
 
 __August 16__
 
@@ -45,11 +46,13 @@ Yiti messages Ivy that she got her nails done for the vacation and pressures Ivy
 
 __10pm__
 
-Owen meets up with Jamie in Vienna! He explains the plan he’s come up with for the coming few days to Jamie: 
+Owen meets up with Jamie in Vienna! He explains the setup plan to Jamie: 
 
-Ivy always wants to stop by fruit tea stalls when she sees them, so we will set one up along their drive up the coast. The girls will stop by it and it'll be unmanned, so they’ll read the menu while they wait. The menu will contain drinks based on our story, with each item getting progressively more suspect. While they’re reading, Owen will come out of hiding to propose. 
+> Ivy always wants to stop by fruit tea stalls when she sees them, so we will set one up along their drive up the coast. The girls will stop by it and it'll be unmanned, so they’ll read the menu while they wait. The menu will contain drinks based on our story, with each item getting progressively more suspect. While they’re reading, I'll come out of hiding to propose. 
 
-Logistics-wise, we either ask someone to borrow their stall or we try and build one ourselves. The location, the time, how we’ll communicate with the girls, the speech Owen will give, the menu items, and how the interaction will go down are all TBD. Jamie’s response: “That’s not a plan… that’s just an idea!”
+> Logistics-wise, we either ask someone to borrow their stall or we try and build one ourselves. The location, the time, how we’ll communicate with the girls, the speech I'll give, the menu items, and how the interaction will go down are all still TBD. 
+
+Jamie’s response: “That’s not a plan… that’s just an idea!”
 
 __August 17__
 
@@ -77,10 +80,11 @@ __1pm__
 
 O&J find a nice spot where you park along the coast, walk down a short trail, then you have an open view of the ocean. There’s even an abandoned metal structure there that could be transformed into a fruit tea stall. What a crazy random happenstance! The original plan is back on!
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/33fe24a6-9c1e-4bdb-868b-4f31498776dc.gif" />
+<div class="row">
+  <img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/33fe24a6-9c1e-4bdb-868b-4f31498776dc.gif" />
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/8a41f3c0-5415-4ee6-8388-d8861701b182.jpg" />
-
+  <img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/8a41f3c0-5415-4ee6-8388-d8861701b182.jpg" />
+</div>
 
 __3pm__
 
@@ -102,8 +106,8 @@ While Ivy is in the shower, Yiti tells Yifan to act like she really wants to do 
 
 Ivy pays no attention and ruins her nails when she packs. Yiti immediately fixes them. 
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/c6be6cc9-dcfe-4cad-9dbe-0c91a685ad42.png" />
-Yiti's Beauty Salon
+<img height="350" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/c6be6cc9-dcfe-4cad-9dbe-0c91a685ad42.png" />
+<p class="caption">Yiti's Beauty Salon</p>
 
 __12am__
 
@@ -113,9 +117,9 @@ __1:30am__
 
 O&J finish construction! There’s various signs to lead the girls to the stall, a banner for the stall’s name, a sign for the table saying we’ll be right back (the clock hands are where we camped at Burning Man last year), and the drink menu (click for higher quality image).
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/e91ec695-f170-44c4-aa74-a28e5cc81fb9.jpg" />
+<img height="300" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/e91ec695-f170-44c4-aa74-a28e5cc81fb9.jpg" />
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/6f82c207-9953-4618-ba8d-91221d18dc5c.jpg" />
+<img height="200" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/6f82c207-9953-4618-ba8d-91221d18dc5c.jpg" />
 
 <a href="https://i.imgur.com/yH4ykJA.jpg" target="_blank">
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/3c83cce9-e836-4c48-8e4f-41199d9028a5.jpg" />
@@ -148,16 +152,16 @@ Ivy goes down the path only so that she's not left behind. Y&Y then go to the sh
 Thinking that they just wanted to stand in the shade and make her stand in the sun, she skims through the first 2 things on the menu and moves towards the shade too. The first item on the menu has mangos, her favorite, so there was no need to read further.
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/263afd2b-862f-4c72-9162-58c805e88ec2.gif" />
-Yiti sneakily video taping
+<p class="caption">Yiti sneakily video taping</p>
 
 Ivy didn't notice the cameras rolling. Seeing that there was real fruit on the "table", she thought maybe the owners of the stand were off getting more water or fruit.
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/c5fe0279-67dc-4a88-94d9-d1bb50e67ea4.gif" />
-Just as Ivy was walking away Owen comes out with flowers. She looks back at her friends thinking "are you surprised too?"
+<p class="caption">Just as Ivy was walking away Owen comes out with flowers. She looks back at her friends thinking "are you surprised too?"</p>
 
-The rest of the proposal is a blackout for both of us. But rewatching the footage, Ivy interrupted Owen many times during his speech. 
+The rest of the proposal is a blackout for both Owen and Ivy. But rewatching the footage, Ivy interrupted Owen many times during his speech. 
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/42d0ce4b-75ed-44db-a92a-a6344f8759b9.jpg" />
+<img height="600" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/42d0ce4b-75ed-44db-a92a-a6344f8759b9.jpg" />
 
 The first was to throw away the sunglasses in her hand since Owen was holding that instead of her hands.
 
@@ -171,24 +175,23 @@ FINALLY. The ring comes out and Ivy's first reaction was leaning down to inspect
 
 Then whispering an inaudible "Yes". All in all, very graceful and unfiltered.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/297a7413-3eb9-4f56-ad26-482ecc49e3d5.png" />
+<img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/297a7413-3eb9-4f56-ad26-482ecc49e3d5.png" />
 
-Tears only came out after Ivy calmed down from her shock and read the menu fully.
+Tears only came out after Ivy calmed down from her shock and read the menu fully. She loved the reminiscing in it and understood the amount of thought and effort it took to actually surprise a control freak like her.
 
-She loved the reminiscing and understood the amount of thought and effort it took to actually surprise a control freak like her.
+Following, the duo took some photos with the actual view instead of the bush they ended up under, and with the friends who helped make it all happen!
 
-Following, we took some photos with the actual view instead of the bush we ended up under, and with the friends who helped make it all happen!
+The rest of the trip was spent enjoying the company of friends, visiting Krka and Hvar, and learning that Yiti is brutal & scary.
 
-The rest of the trip we spent enjoying the company of our friends, visiting Krka and Hvar, and learning that Yiti is brutal & scary.
+<div class="row">
+<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/35d9ad03-9282-4e53-9bc8-8010077ba3e5.png" />
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/35d9ad03-9282-4e53-9bc8-8010077ba3e5.png" />
+<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/f2b51dfb-2364-4b83-9cb8-bfd83e5bf455.png" />
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/f2b51dfb-2364-4b83-9cb8-bfd83e5bf455.png" />
+<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/7eeb63ea-10eb-445b-8127-3fa36b8d48c4.png" />
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/7eeb63ea-10eb-445b-8127-3fa36b8d48c4.png" />
+<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/bbb116cc-dc0d-4f0c-9e29-38f8a4a13d74.jpg" />
+</div>
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/bbb116cc-dc0d-4f0c-9e29-38f8a4a13d74.jpg" />
+On the flight out of Croatia to Athens, since Owen secretly booked the same ticket separately, they sat apart. It only really hit Ivy that she was engaged when the person next to her spotted her ring and asked her "Where is your husband?"
 
-On the flight out of Croatia to Athens, since Owen secretly booked the same ticket separately, we sat apart. It only really hit Ivy that she was engaged when the person next to her spotted her ring and asked her "Where is your husband?"
-
-We're both extremely grateful for our friends taking so much time out of their lives to help make this occasion special for us, and we're definitely suffering from some friendship withdrawal now.

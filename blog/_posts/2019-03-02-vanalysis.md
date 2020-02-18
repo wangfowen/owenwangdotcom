@@ -3,9 +3,8 @@ layout: post
 title: "A Brief Vanalysis"
 tagline: "Looking back on 3 months of van life"
 date: 2019-03-02 00:00:00
-publish: false
+publish: true
 categories: blog
-sitemap: false
 
 ---
 
