@@ -17,6 +17,28 @@ title: In Place, Of Food
       <h1>In Place, Of Food</h1>
       <p class="blog-description">Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.</p>
     </div>
+    <div>
+      {% assign best = site.categories.travel | where: "featured", true %}
+      <h2 class="travel-header open">Best Of</h2>
+      <ul class="travel-posts best">
+        {% for post in best %}
+          {% if post.publish %}
+            <li>
+              {% if post.image != nil %}
+              <a href="{{ post.url }}" class="with-image" style="background-image: url('{{ post.image }}')">
+              {% else %}
+              <a href="{{ post.url }}" class="no-image">
+              {% endif %}
+                <div class="image-text-container">
+                  <p>Place: {{ post.place }}<br/>
+                  Food: {{ post.food }}</p>
+                </div>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
     {% assign countries = site.categories.travel | sort: "date" | reverse | map: "country" | uniq %}
     {% for country in countries %}
     <div>
@@ -48,6 +70,7 @@ title: In Place, Of Food
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript">
 $(function () {
+  $('.best').show()
   $('.travel-header').click(function () {
     const $travelPost  = $(this).next('.travel-posts')
     if ($($travelPost).is(":visible")) {

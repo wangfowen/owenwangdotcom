@@ -7,12 +7,13 @@ date: 2017-03-28 00:00:00
 publish: true
 categories: travel
 image: "https://66.media.tumblr.com/f8608950e6614f7aa5e15304b18024f5/tumblr_p0t86atpUq1wkhtd7o1_1280.jpg"
+featured: true
 
 ---
 
 Place: Double Decker Living Root Bridges
 
-Tommy already talked extensively about the root bridges in his post so I’ll just summarize: the bridges are made by stretching rubber tree roots from both sides to have them connect and entwine to form the floor. Takes 30+ years to build a bridge.
+We came to Meghalaya specifically to see the living root bridges. The bridges are made by stretching rubber tree roots from both sides to have them connect and entwine to form the floor. Takes 30+ years to build a bridge.
 
 This one is the only double decker one and it was an hour of stairs away from civilization, so it’s still not too touristy, but that’s quickly changing as they’re building real roads to it.
 

@@ -7,6 +7,7 @@ date: 2017-03-13 00:00:00
 publish: true
 categories: travel
 image: "https://66.media.tumblr.com/30431cd2c3bdec6cab4f3c15f74eb7d4/tumblr_p0t7qrEbg91wkhtd7o1_1280.jpg"
+featured: true
 
 ---
 

@@ -12,7 +12,8 @@ image: "https://66.media.tumblr.com/d0f61f0ad422f2177230edfe6aba8493/tumblr_p0u2
 
 Place: Border at Dauki
 
-Mufasa: Look Simba, everything the sea level touches is our kingdom, Bangladesh. Simba: Everything the sea level touches… but what about the mountains in the distance?
+Mufasa: Look Simba, everything the sea level touches is our kingdom, Bangladesh.<br/>
+Simba: Everything the sea level touches… but what about the mountains in the distance?<br/>
 Mufasa: That’s beyond our borders, it’s India. You must never go there!
 
 So yeah, the border is hilariously drawn here and you can easily just walk over to Bangladesh, no border crossing or anything. We wanted to walk as far as we could until we got accosted by customs, but it never happened. We reached an actual street where you could take a bus to the big cities and decided there was no more potential risk and turned back.
