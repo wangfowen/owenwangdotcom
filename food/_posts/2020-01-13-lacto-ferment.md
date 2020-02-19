@@ -4,7 +4,7 @@ title: "Lacto Fermented Mushrooms and Tomatoes"
 date: 2020-01-13 00:00:00
 publish: true
 categories: food
-image: "/assets/ferments.JPG"
+image: "/food/images/ferments.JPG"
 
 ---
 
