@@ -10,15 +10,15 @@ layout: null
     <title>Post Mort Yum</title>
     <description>Retrospectives on what went well / could be improved when I try to cook new dishes. Let's learn together!</description>
     <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
-    <link>https://owenwang.com/food</link>
+    <link>https://www.owenwang.com/food/</link>
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'food' %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>https://owenwang.com{{ post.url}}</link>
-          <guid isPermaLink="true">https://owenwang.com{{ post.url}}</guid>
+          <link>https://www.owenwang.com{{ post.url}}</link>
+          <guid isPermaLink="true">https://www.owenwang.com{{ post.url}}</guid>
         </item>
         {% endif %}
     {% endfor %}

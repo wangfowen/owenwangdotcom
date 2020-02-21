@@ -10,15 +10,15 @@ layout: null
     <title>O Musing Myself</title>
     <description>Hi, I'm Owen Wang! I write about whatever's on my mind, usually life and tech learnings.</description>
     <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
-    <link>https://owenwang.com/blog</link>
+    <link>https://www.owenwang.com/blog/</link>
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'blog' %}
         <item>
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>https://owenwang.com{{ post.url}}</link>
-          <guid isPermaLink="true">https://owenwang.com{{ post.url}}</guid>
+          <link>https://www.owenwang.com{{ post.url}}</link>
+          <guid isPermaLink="true">https://www.owenwang.com{{ post.url}}</guid>
         </item>
         {% endif %}
     {% endfor %}

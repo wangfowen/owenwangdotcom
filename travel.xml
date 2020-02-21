@@ -9,7 +9,7 @@ layout: null
   <channel>
     <title>In Place, Of Food</title>
     <description>Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.</description>
-    <link>https://owenwang.com/travel</link>
+    <link>https://www.owenwang.com/travel/</link>
     <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'travel' %}
@@ -17,8 +17,8 @@ layout: null
           <title>{{ post.title | xml_escape }}</title>
           <description>{{ post.content | xml_escape }}</description>
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>https://owenwang.com{{ post.url}}</link>
-          <guid isPermaLink="true">https://owenwang.com{{ post.url}}</guid>
+          <link>https://www.owenwang.com{{ post.url}}</link>
+          <guid isPermaLink="true">https://www.owenwang.com{{ post.url}}</guid>
         </item>
         {% endif %}
     {% endfor %}
