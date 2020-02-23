@@ -5,6 +5,7 @@ date: 2020-02-22 00:00:00
 publish: true
 categories: food
 image: "/food/images/estonian_cookie_cake.JPG"
+featured: true
 
 ---
 
