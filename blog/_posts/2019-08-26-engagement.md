@@ -14,27 +14,35 @@ _Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&u
 
 This is the timeline and story of how we got engaged. It's written in third person to capture both sides' points of views as they happened.
 
+__Late March__
+
+Ivy and Owen go ring shopping for the first time. They check out a Tiffany's in Sydney. The price tag for the ring Ivy wants literally has Owen shook.
+
 __Early May__
 
-Owen orders the ring to his friend Tommy’s place and starts discussing a plan with Ivy’s best friends Yifan and Yiti (henceforth Y&Y) for how a proposal would go down. From previous discussions, Owen knew that Ivy's ideal proposal would be private, have a scenic view, her friends would be there, and it'd be a surprise. They were already planning a girls’ trip sans Owen, so that would be an opportune occasion for meeting the requirements.
+Owen orders the ring online, where it's half the price (protip). He gets it shipped to his friend Tommy’s place and starts discussing a plan with Ivy’s best friends Yifan and Yiti (henceforth Y&Y) for how a proposal would go down. From previous discussions, Owen knew that Ivy's ideal proposal would be private, have a scenic view, her friends would be there, and it'd be a surprise. They were already planning a girls’ trip to Croatia sans Owen, so that would be an opportune occasion for meeting the requirements.
 
 __May 21__
 
-The ring arrives at Tommy’s place. He excitedly goes to share the news with some friends, but accidentally began to do so in the wrong chat...one with Ivy in it! With quick improvisation he avoided a disaster.
+The ring arrives at Tommy’s place. He excitedly goes to share the news, but accidentally began to do so in the wrong chat...one with Ivy in it! With quick improvisation he avoided a disaster.
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/3d12fe78-50a6-43af-a662-fb7892aa2585.jpg" />
 
 __Late June__
 
-Ivy discovers the group messenger chat between Owen and her best friends, with code names "Joe Wang" and "Joe Zhou" — very indiscreet. Owen had been careful to delete the messages for the most part, but it turns out he forgot a few, which left a bit of incriminating evidence. The only thing Ivy could decipher was that Y&Y offered to leave Croatia earlier so that Ivy could spend time in Croatia with Owen alone.
+Ivy discovers the group messenger chat between Owen and her best friends, with code names "Joe Wang" and "Joe Zhou" — very indiscreet. Owen had been careful to delete the messages, but it turns out he forgot a few, which left a bit of incriminating evidence. The only thing Ivy could decipher was that Y&Y offered to leave Croatia earlier so that Ivy could spend time there with Owen alone.
 
-Frantically brainstorming with his friends, Owen came up with a plausible alibi. He'd never been to Croatia so he wanted to travel there as well and surprise Ivy in the process. He abandoned that plan because his friend Jamie was now visiting him! Ivy seemed to believe this and was thrown off the tracks. She told Owen that she didn't want him to crash her girls trip (he was forgiven for doing so after the proposal). Owen then proceeded to create a Yahoo email for all future communications, something Ivy would be unlikely to ever discover.
+Frantically brainstorming with his friends, Owen came up with a plausible alibi. He'd never been to Croatia so he wanted to go as well and surprise Ivy in the process. He abandoned that plan because his friend Jamie was now visiting him! Ivy seemed to believe this and was thrown off the tracks. She told Owen that she didn't want him to crash her girls trip (he was forgiven for doing so after the proposal). Owen then proceeded to create a Yahoo email for all future communications, something Ivy would be unlikely to ever discover.
 
 Y&Y told Ivy that they have matching white lace dresses that they will wear in Croatia. Ivy decides to get one made while in Vietnam to match them.
 
 __July 31__
 
 Ivy got her phone stolen, so she would now share Owen’s phone for the remaining weeks leading up to the proposal. Traveling together, they were already with each other 24/7. Now this meant they were sharing the same apps and switching between accounts on IG, WeChat, and she often messaged her friends on Owen's Messenger. This made Owen extra nervous about communications and notifications coming in as Ivy was always on his phone. He deleted apps that had any traces (Airbnb, Yahoo Mail) and became very careful with logging out and using incognito mode. Finally, the use case Google thinks people use incognito for — [planning surprises](https://www.youtube.com/watch?v=bu5b_jYWVcQ){:target="_blank"}. 🙄
+
+__August 15__
+
+The day before Owen and Ivy go on their respective trips, Ivy links Owen the flight he should book from Austria to Greece to meet back up with her. She demands he book it on the spot with her watching so he doesn't forget. Not actually needing the flight and not wanting to waste the money, he says "I'll book it when I want! Give me my space!!"
 
 __August 16__
 
@@ -58,13 +66,13 @@ __August 17__
 
 Ivy hangs out by herself in Dubrovnik, binge watching TV.
 
-Owen and Jamie (henceforth O&J) explore the tourist town of Hallstatt, making sure to send Ivy some photos to prove they’re really in Austria. They decide commandeering someone else’s stall would be hard because of language barrier and the logistics around borrowing it while still keeping the occasion private. Building one would also be challenging since the car wouldn't be able to fit something so large in it and disposal would be problematic. They scrap the fruit tea stall idea and start brainstorming alternatives that would still be personal, memorable, yet somewhat derpy (that’s Owen’s style).
+Owen and Jamie (henceforth O&J) explore the tourist town of Hallstatt, making sure to send Ivy some photos to prove they’re really in Austria. They decide commandeering someone else’s stall would be hard because of language barrier and logistics. Building one would also be challenging because fitting it in our car and disposal after would be problematic. They scrap the fruit tea stall idea and start brainstorming alternatives that would still be personal, memorable, yet somewhat derpy (that’s Owen’s style).
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/fd656c32-35c7-4d31-9e38-2f6cd2abb510.png" />
 
 __August 18__
 
-O&J on their speed tour of Austria go to Salzburg. Turns out just about everything is closed on Sundays (amazing work life balance) so they can’t run the errands they had planned to and have trouble even finding fast food to eat. The beer garden is still open and is where everyone seems to be. Good beers were had, then they hopped on an overnight bus to Split, Croatia.
+O&J on their speed tour of Austria go to Salzburg. Turns out just about everything is closed on Sundays (amazing work life balance) so they can’t run the errands they needed to and have trouble even finding fast food to eat. The beer garden is still open and is where everyone seems to be. Good beers were had, then they hopped on an overnight bus to Split, Croatia.
 
 Y&Y show up in Dubrovnik, #familybffretreat begins! At dinner, Ivy goes off about how she wishes Owen would propose already and complained about how she would have to wait until next year once they settle down. She predicts the timing of the proposal based on the time Owen must work to buy the ring. Also, being with Owen 24/7 and sharing a phone, there's no way a surprise could be planned right now.
 
@@ -111,7 +119,7 @@ Ivy pays no attention and ruins her nails when she packs. Yiti immediately fixes
 
 __12am__
 
-Ivy tries to FaceTime Owen but he refuses to pick up, saying he’s too tired. In reality he’s surrounded by arts and crafts and he’s not sure if he could keep his alibi straight about where he’s at / what he did today if they actually talked.
+Ivy tries to FaceTime Owen but he refuses to pick up, saying he’s too tired. In reality he’s surrounded by arts and crafts and he’s not sure if he could keep his alibi straight if they talked about where he’s at / what he did today.
 
 __1:30am__
 
@@ -135,7 +143,7 @@ It's game day! O&J head back to the location to set up. Their makeshift table su
 
 __11am__
 
-The girls start driving from Dubrovnik to Split. Ivy sees that both Y&Y keep texting in a Whatsapp group named "Hello", she questions who that's with and Yiti responds with Chris, a friend in Toronto. 
+The girls start driving from Dubrovnik to Split. Ivy sees that both Y&Y keep texting in a Whatsapp group named "Hello". She questions who that's with and Yiti responds a friend in Toronto. 
 
 Y&Y keep saying how much they want fruit tea and how Yiti would love to support local businesses.
 
