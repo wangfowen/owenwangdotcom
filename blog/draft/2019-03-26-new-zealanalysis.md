@@ -3,9 +3,9 @@ layout: post
 title: "An Extensive New Zealanalysis"
 tagline: "Thoughts on New Zealand as our time there ends"
 date: 2019-03-26 00:00:00
-publish: true
+publish: false
 categories: blog
-sitemap: true
+sitemap: false
 
 ---
 

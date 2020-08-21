@@ -16,11 +16,11 @@ This is the timeline and story of how we got engaged. It's written in third pers
 
 __Late March__
 
-Ivy and Owen go ring shopping for the first time. They check out a Tiffany's in Sydney. The price tag for the ring Ivy wants literally has Owen shook.
+Ivy and Owen check out rings for fun while wandering through Sydney. Ivy finds one she likes at Tiffany's and the price tag has Owen shook.
 
 __Early May__
 
-Owen orders the ring online, where it's half the price (protip). He gets it shipped to his friend Tommy’s place and starts discussing a plan with Ivy’s best friends Yifan and Yiti (henceforth Y&Y) for how a proposal would go down. From previous discussions, Owen knew that Ivy's ideal proposal would be private, have a scenic view, her friends would be there, and it'd be a surprise. They were already planning a girls’ trip to Croatia sans Owen, so that would be an opportune occasion for meeting the requirements.
+Owen orders the ring online, where it's literally half the price (protip). He gets it shipped to his friend Tommy’s place and starts discussing a plan with Ivy’s best friends Yifan and Yiti (henceforth Y&Y) for how a proposal would go down. From previous discussions, Owen knew that Ivy's ideal proposal would be private, have a scenic view, her friends would be there, and it'd be a surprise. They were already planning a girls’ trip to Croatia sans Owen, so that would be an opportune occasion for meeting the requirements.
 
 __May 21__
 
@@ -34,15 +34,13 @@ Ivy discovers the group messenger chat between Owen and her best friends, with c
 
 Frantically brainstorming with his friends, Owen came up with a plausible alibi. He'd never been to Croatia so he wanted to go as well and surprise Ivy in the process. He abandoned that plan because his friend Jamie was now visiting him! Ivy seemed to believe this and was thrown off the tracks. She told Owen that she didn't want him to crash her girls trip (he was forgiven for doing so after the proposal). Owen then proceeded to create a Yahoo email for all future communications, something Ivy would be unlikely to ever discover.
 
-Y&Y told Ivy that they have matching white lace dresses that they will wear in Croatia. Ivy decides to get one made while in Vietnam to match them.
-
 __July 31__
 
-Ivy got her phone stolen, so she would now share Owen’s phone for the remaining weeks leading up to the proposal. Traveling together, they were already with each other 24/7. Now this meant they were sharing the same apps and switching between accounts on IG, WeChat, and she often messaged her friends on Owen's Messenger. This made Owen extra nervous about communications and notifications coming in as Ivy was always on his phone. He deleted apps that had any traces (Airbnb, Yahoo Mail) and became very careful with logging out and using incognito mode. Finally, the use case Google thinks people use incognito for — [planning surprises](https://www.youtube.com/watch?v=bu5b_jYWVcQ){:target="_blank"}. 🙄
+Ivy gets her phone stolen, so she would now share Owen’s phone for the remaining weeks leading up to the proposal. Traveling together, they were already with each other 24/7. Now this meant they were sharing the same apps and switching between accounts, and often for convenience she'd just message her friends through Owen's accounts. This made Owen extra nervous about communications and notifications coming in as Ivy was always on his phone. He deleted apps that had any traces (Airbnb, Yahoo Mail) and became very careful with logging out and using incognito mode. Finally, the use case Google thinks people use incognito for — [planning surprises](https://www.youtube.com/watch?v=bu5b_jYWVcQ){:target="_blank"}. 🙄
 
 __August 15__
 
-The day before Owen and Ivy go on their respective trips, Ivy links Owen the flight he should book from Austria to Greece to meet back up with her. She demands he book it on the spot with her watching so he doesn't forget. Not actually needing the flight and not wanting to waste the money, he says "I'll book it when I want! Give me my space!!"
+The day before Owen and Ivy go their separate ways, Ivy links Owen the flight he should book from Austria to Greece to meet back up with her. She demands he book it on the spot with her watching so he doesn't forget. Not actually needing the flight, at the last step of checkout he says "Stop hovering! Give me my space!!" then runs away and cancels the booking.
 
 __August 16__
 
@@ -201,5 +199,5 @@ The rest of the trip was spent enjoying the company of friends, visiting Krka an
 <img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/bbb116cc-dc0d-4f0c-9e29-38f8a4a13d74.jpg" />
 </div>
 
-On the flight out of Croatia to Athens, since Owen secretly booked the same ticket separately, they sat apart. It only really hit Ivy that she was engaged when the person next to her spotted her ring and asked her "Where is your husband?"
+Since Owen secretly booked the same ticket separately, they sat apart on the flight out of Croatia to Athens. It only really hit Ivy that she was engaged when the person next to her on the flight spotted her ring and asked "Where is your husband?"
 
