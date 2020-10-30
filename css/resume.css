@@ -274,8 +274,4 @@ article ul {
   .selected {
     background-color: #fff;
   }
-
-  #work {
-    page-break-after: always;
-  }
 }
