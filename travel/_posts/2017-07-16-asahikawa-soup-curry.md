@@ -6,7 +6,7 @@ country: "Japan"
 date: 2017-07-16 00:00:00
 publish: true
 categories: travel
-image: "/travel/images/45soupcurry.JPG"
+image: "/travel/images/46soupcurry.JPG"
 ---
 
 Place: Asahikawa
