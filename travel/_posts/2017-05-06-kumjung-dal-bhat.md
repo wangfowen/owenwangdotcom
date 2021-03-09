@@ -1,8 +1,8 @@
 ---
 layout: travel-post
-place: "Lot 10 Food Court"
-food: "Kumjung"
-country: "Dal Bhat"
+place: "Kumjung"
+food: "Dal Bhat"
+country: "Nepal"
 date: 2017-05-06 00:00:00
 publish: true
 categories: travel
