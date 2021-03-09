@@ -7,11 +7,12 @@ date: 2017-05-12 00:00:00
 publish: true
 categories: travel
 image: "/travel/images/42matcha.JPG"
-
 ---
 
 Place: 798 Art District
-Cool district with lots of art installments
+
+Hip area of Beijing with lots of art installments. Worth checking out for a day if you're in the area!
 
 Food: Matcha Ice Cream with Gold Leaf
-Possibly the most asian flavor ever
+
+Possibly the most asian flavor ever. Tastes exactly how you'd expect
