@@ -26,7 +26,7 @@ __May 21__
 
 The ring arrives at Tommy’s place. He excitedly goes to share the news, but accidentally began to do so in the wrong chat...one with Ivy in it! With quick improvisation he avoided a disaster.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/3d12fe78-50a6-43af-a662-fb7892aa2585.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdaa18e96-0944-4b56-bcef-aa9b414ad963_374x600.jpeg" />
 
 __Late June__
 
@@ -66,7 +66,7 @@ Ivy hangs out by herself in Dubrovnik, binge watching TV.
 
 Owen and Jamie (henceforth O&J) explore the tourist town of Hallstatt, making sure to send Ivy some photos to prove they’re really in Austria. They decide commandeering someone else’s stall would be hard because of language barrier and logistics. Building one would also be challenging because fitting it in our car and disposal after would be problematic. They scrap the fruit tea stall idea and start brainstorming alternatives that would still be personal, memorable, yet somewhat derpy (that’s Owen’s style).
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/fd656c32-35c7-4d31-9e38-2f6cd2abb510.png" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F48eb26da-aa86-47db-867f-f556fed46575_749x542.png" />
 
 __August 18__
 
@@ -87,23 +87,23 @@ __1pm__
 O&J find a nice spot where you park along the coast, walk down a short trail, then you have an open view of the ocean. There’s even an abandoned metal structure there that could be transformed into a fruit tea stall. What a crazy random happenstance! The original plan is back on!
 
 <div class="row">
-  <img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/33fe24a6-9c1e-4bdb-868b-4f31498776dc.gif" />
+  <img height="500" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a9a5daf-63f7-47cf-978d-e60dfdc94b19_496x808.gif" />
 
-  <img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/8a41f3c0-5415-4ee6-8388-d8861701b182.jpg" />
+  <img height="500" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F741d479b-2c59-4a83-946f-8f4321494e32_496x808.jpeg" />
 </div>
 
 __3pm__
 
 Ivy and Y&Y explore Dubrovnik and take a million photos on the old town walls. She writes captions around how this trip will have no randos (the boyfriends).
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/ecadd9f5-b8ab-4c9b-8061-036160332170.png" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe85b4955-87cd-43f2-9297-4aca6f02dbb7_414x511.png" />
 
 __5pm__
 
 O&J explore the very local neighborhoods of Split, from stationery stores to hardware stores. People try to talk to them exclusively in Croatian.
 Jamie used a branch to estimate the dimensions of the metal structure and brought it to the stores to measure supplies.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/84c35f9c-843e-48f4-8456-fea7faa8abd6.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feffa4336-3579-4871-a334-d5b19545dcda_300x400.jpeg" />
 
 
 __10pm__
@@ -112,7 +112,7 @@ While Ivy is in the shower, Yiti tells Yifan to act like she really wants to do 
 
 Ivy pays no attention and ruins her nails when she packs. Yiti immediately fixes them. 
 
-<img height="350" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/c6be6cc9-dcfe-4cad-9dbe-0c91a685ad42.png" />
+<img height="350" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72962d6f-53ac-40be-a4eb-0db18492063e_741x525.png" />
 <p class="caption">Yiti's Beauty Salon</p>
 
 __12am__
@@ -123,12 +123,14 @@ __1:30am__
 
 O&J finish construction! There’s various signs to lead the girls to the stall, a banner for the stall’s name, a sign for the table saying we’ll be right back (the clock hands are where we camped at Burning Man last year), and the drink menu (click for higher quality image).
 
-<img height="300" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/e91ec695-f170-44c4-aa74-a28e5cc81fb9.jpg" />
+<div class="row">
+<img height="230" src="/blog/images/wedding/signs-1.png" />
 
-<img height="200" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/6f82c207-9953-4618-ba8d-91221d18dc5c.jpg" />
+<img height="230" src="/blog/images/wedding/signs-2.png" />
+</div>
 
 <a href="https://i.imgur.com/yH4ykJA.jpg" target="_blank">
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/3c83cce9-e836-4c48-8e4f-41199d9028a5.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dbf7134-45ca-4fd1-90b5-f3f05095ec88_533x400.jpeg" />
 </a>
 
 __August 20__
@@ -137,7 +139,7 @@ __8am__
 
 It's game day! O&J head back to the location to set up. Their makeshift table surface idea doesn’t go as planned, but zipties save the day with making everything magically work.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/8a516fc4-83ee-4cd5-af2d-3a7ac394d5d8.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6b94d94-b7d6-4a55-845d-a9521709ca7e_806x605.jpeg" />
 
 __11am__
 
@@ -157,17 +159,17 @@ Ivy goes down the path only so that she's not left behind. Y&Y then go to the sh
 
 Thinking that they just wanted to stand in the shade and make her stand in the sun, she skims through the first 2 things on the menu and moves towards the shade too. The first item on the menu has mangos, her favorite, so there was no need to read further.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/263afd2b-862f-4c72-9162-58c805e88ec2.gif" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Feac0fb4d-ac72-49ab-8963-c0bbeb746950_600x309.gif" />
 <p class="caption">Yiti sneakily video taping</p>
 
 Ivy didn't notice the cameras rolling. Seeing that there was real fruit on the "table", she thought maybe the owners of the stand were off getting more water or fruit.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/c5fe0279-67dc-4a88-94d9-d1bb50e67ea4.gif" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71881e7-b9cb-48a5-b766-5b5b8eedae8e_600x309.gif" />
 <p class="caption">Just as Ivy was walking away Owen comes out with flowers. She looks back at her friends thinking "are you surprised too?"</p>
 
 The rest of the proposal is a blackout for both Owen and Ivy. But rewatching the footage, Ivy interrupted Owen many times during his speech. 
 
-<img height="600" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/42d0ce4b-75ed-44db-a92a-a6344f8759b9.jpg" />
+<img height="600" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0b9408b-81a8-4286-9395-f3197f554471_461x819.jpeg" />
 
 The first was to throw away the sunglasses in her hand since Owen was holding that instead of her hands.
 
@@ -181,7 +183,7 @@ FINALLY. The ring comes out and Ivy's first reaction was leaning down to inspect
 
 Then whispering an inaudible "Yes". All in all, very graceful and unfiltered.
 
-<img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/297a7413-3eb9-4f56-ad26-482ecc49e3d5.png" />
+<img height="500" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50ec2b67-9d85-45b8-9890-dd929b124c15_525x675.png" />
 
 Tears only came out after Ivy calmed down from her shock and read the menu fully. She loved the reminiscing in it and understood the amount of thought and effort it took to actually surprise a control freak like her.
 
@@ -190,13 +192,13 @@ Following, the duo took some photos with the actual view instead of the bush the
 The rest of the trip was spent enjoying the company of friends, visiting Krka and Hvar, and learning that Yiti is brutal & scary.
 
 <div class="row">
-<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/35d9ad03-9282-4e53-9bc8-8010077ba3e5.png" />
+<img height="230" src="/blog/images/wedding/post-1.png" />
 
-<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/f2b51dfb-2364-4b83-9cb8-bfd83e5bf455.png" />
+<img height="230" src="/blog/images/wedding/post-2.png" />
 
-<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/7eeb63ea-10eb-445b-8127-3fa36b8d48c4.png" />
+<img height="230" src="/blog/images/wedding/post-3.png" />
 
-<img height="230" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/bbb116cc-dc0d-4f0c-9e29-38f8a4a13d74.jpg" />
+<img height="230" src="/blog/images/wedding/post-4.png" />
 </div>
 
 Since Owen secretly booked the same ticket separately, they sat apart on the flight out of Croatia to Athens. It only really hit Ivy that she was engaged when the person next to her on the flight spotted her ring and asked "Where is your husband?"

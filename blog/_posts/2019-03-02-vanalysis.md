@@ -18,7 +18,7 @@ As our time in New Zealand comes to an end, we think it’s time to reflect on #
 
 ## #vanlife is the way to go
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/6a4b12f5-0610-434c-946c-cdee7b00ee0a.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ef8b998-ab86-4c19-a743-29649ac7682c_800x600.jpeg" />
 
 If we were to go back in time to the start of our trip, we would definitely still choose Red Rover (our van) as the way to see NZ. The country is very friendly to vehicular camping with many free or low cost campsites pretty much everywhere we go (there is no freedom camping where you can sleep anywhere, you must camp at designated campsites). Buying a van was very affordable, ours was $4.5k USD, and many people we met sold their cars at price while those who rented because they were here for a shorter period paid about the same (e.g. 6 weeks for $4k).
 
@@ -69,13 +69,13 @@ We’d highly recommend others to try collaborating on projects with their loved
 
 Whether it’s on the road or at home, it’s very easy to do our own things together but separately, especially when we came in with separate goals on what we wanted this time to be like. We realized early on that one of the goals should also be to take time to enjoy each other’s presence and value this time together since we won’t always have the opportunity to be with each other to the extent we are able to while van-life-ing. We learned that our relationship deserved, just as much as career and personal goals, to be an intentional priority of ours.
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/e1607d72-409f-45b1-bc9b-d55813b16770.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdc6f721-73bc-47b7-9761-bcf5976069d9_799x600.jpeg" />
 
 # Ourselves
 
 ## Time away from the hustle
 
-<img height="400" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/38e38bd2-179a-4ef1-aeca-d4a350db6ba3.jpg" />
+<img height="400" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafa5ecb8-db14-450f-b61a-ee4f9503fb66_800x1067.jpeg" />
 
 Taking time away from SF has helped us reflect on recent events there. We’ve been listening to a lot of podcasts, reading, and journaling -- there’s not much else to do on long drives / nights without electricity or internet.
 
@@ -97,6 +97,6 @@ When we come to rebuild our lives in a permanent place, we will keep that in min
 
 ## ...But nice things ain't so bad
 
-<img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/6490720c-0392-4762-9147-d4282de8956b.jpg" />
+<img src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Febbd0776-139f-4237-8a8f-8b1397250e9d_800x600.jpeg" />
 
 Despite being able to live with very little and priding ourselves on being able to slum it, this period has also helped us appreciate the comforts and nice things we do have. We miss our regular size kitchens (I still want a big one in my future home), access to good food (good Asian food especially), a space to host people, a hot shower anytime we want it, and even a bathroom without needing to go outside in the middle of the night when it’s cold. This experience has helped us build out a vision on the standard of life that we want, what we can live with, and what we’d like to not have to live without.

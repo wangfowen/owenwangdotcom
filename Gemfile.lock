@@ -85,7 +85,7 @@ DEPENDENCIES
   therubyracer
 
 RUBY VERSION
-   ruby 2.6.2p47
+   ruby 2.6.10p210
 
 BUNDLED WITH
    1.17.3
