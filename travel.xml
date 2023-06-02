@@ -10,7 +10,7 @@ layout: null
     <title>In Place, Of Food</title>
     <description>Food, geography, culture, and history are all so interconnected, we cannot fully experience a place without also understanding their food. Here, one dish and location at a time, we explore a little more.</description>
     <link>https://www.owenwang.com/travel/</link>
-    <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
+    <webfeeds:analytics id="G-BMRNWX7M5C" engine="GoogleAnalytics" />
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'travel' %}
         <item>

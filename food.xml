@@ -9,7 +9,7 @@ layout: null
   <channel>
     <title>Post Mort Yum</title>
     <description>Retrospectives on what went well / could be improved when I try to cook new dishes. Let's learn together!</description>
-    <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
+    <webfeeds:analytics id="G-BMRNWX7M5C" engine="GoogleAnalytics" />
     <link>https://www.owenwang.com/food/</link>
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'food' %}

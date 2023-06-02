@@ -9,7 +9,7 @@ layout: null
   <channel>
     <title>O Musing Myself</title>
     <description>Hi, I'm Owen Wang! I write about whatever's on my mind, usually life and tech learnings.</description>
-    <webfeeds:analytics id="UA-21006888-1" engine="GoogleAnalytics" />
+    <webfeeds:analytics id="G-BMRNWX7M5C" engine="GoogleAnalytics" />
     <link>https://www.owenwang.com/blog/</link>
     {% for post in site.posts %}
         {% if post.publish and post.categories contains 'blog' %}
