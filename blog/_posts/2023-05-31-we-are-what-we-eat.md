@@ -32,9 +32,9 @@ They might not seem like much from an individual perspective, but collectively o
 
 # What We Eat
 
-How do we decrease the footprint of what we eat? The spoiler from Project Drawdown is that we eat plant-rich diets. But what does that mean and how do we go about doing it in a way that doesn’t feel like a huge sacrifice?
+How do we decrease the footprint of what we eat? The spoiler from Project Drawdown was that we eat plant-rich diets. But what does that mean and how do we go about doing it in a way that doesn’t feel like a huge sacrifice?
 
-We’ll start to see, starting with...
+Let's see, starting with...
 
 ## ton for ton
 
@@ -47,6 +47,8 @@ This amount of salad has the same carbon footprint as the amount of chicken besi
 Shifting to a plant-rich diet doesn’t necessarily mean going vegetarian or vegan. It doesn’t have to be all or nothing. In fact, even Project Drawdown’s definition of “plant-rich” includes an average of 57g of red meat a day. Visually, we can see that just by reducing our red meat intake, we’d be making a big difference.
 
 <img height="400px" src="/blog/images/climatarian/salad-portion.png" />
+
+To put some perspective on the impact of this, 14% of global emissions come from our livestock! A couple factors go into it, but to not overwhelm you with too many numbers, just think about all the land we had to convert from forests to grazing land to grow animals, and all the fertilizers and energy needed to make feed just for animals. Why red meat is particularly bad is not just because cows are bigger and therefore need more land and feed, but also because they burp and fart methane, a potent greenhouse gas that has 80x the warming power of carbon dioxide.
 
 If eating entirely plant-based is hard for you, perhaps if you’re at a restaurant torn between the chicken and beef options, choose the chicken. Alternatively, opt to eat plant-based just once or twice a week, or try to fill more of your plate with veggies. The fiber in veggies is healthy in other ways, but that’s a separate story.
 
@@ -86,9 +88,9 @@ So far everything we’ve been focused on is the footprint of what we eat. Now i
 
 …
  
-The answer is almost 40%!! And of that amount, over 40% of it is wasted in _our own homes_. Another 40% is wasted in grocery stores and restaurants. The earlier parts of the supply chain contribute to the smaller remainder.
+The answer is almost 40%! And of that amount, over 40% of it is wasted in _our own homes_. Another 40% is wasted in grocery stores and restaurants. The earlier parts of the supply chain contribute to the smaller remainder.
 
-When food is thrown out, it sits in landfills and releases methane as it rots, a super potent greenhouse gas that has 80x the warming power of carbon dioxide. On top of that, when you account for all the energy, agricultural inputs, and more involved in growing all that food that went to waste, food waste is about 6% of global emissions!
+When food is thrown out, it sits in landfills and releases methane as it rots, which you'll remember is extra bad. On top of that, when you account for all the energy, agricultural inputs, and more involved in growing all that food that went to waste, food waste is about 6% of global emissions.
 
 Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the landfill.
 
@@ -99,7 +101,7 @@ Have you had a bag of spinach sitting in your fridge looking too wilted and unap
 
 A dressing can eat up large amounts and an assortment of different greens, no matter their age, and gives you something fresh and beautiful to put on salads, rice bowls, sandwiches, and more.
 
-Here we have roasted vegetables with a greek goddess dressing made with old spinach and herbs with grated lemon zest.
+Here we have roasted vegetables with a greek goddess dressing made with old spinach, cilantro, mint, and dill, garnished with grated lemon zest.
 
 <img height="400px" src="/blog/images/climatarian/veg.png" />
 
@@ -119,13 +121,13 @@ As for the food waste that you really have no way to deal with, there’s a star
 
 ## lost: bread
 
-And for our final course, we have… milk?
+And for our final course, we've got… milk?
 
 <img height="500px" src="/blog/images/climatarian/carton.png" />
 
 Do you throw out your milk as soon as it’s past the expiration date? It turns out, food doesn’t go bad the minute it crosses the “best before”. Those dates are usually set by manufacturers based on “optimal” consumption, not food safety. Eggs, for example, are usually still edible 3-5 weeks after the date on the carton. 
 
-When you want to evaluate safety, use your senses, not the label. If it doesn’t smell funky, you don’t see mold, and you’ve cooked it to a proper temperature, your food should generally be safe. Yet another reason to eat more plant-rich is that it’s much harder to mess up food safety when it comes to plants!
+When you want to evaluate safety, use your senses, not the label. If it doesn’t smell funky, you don’t see mold, and you’ve cooked it to a proper temperature, your food should generally be safe. Yet another reason to eat more plant-rich is that it’s much harder to mess up food safety when it comes to plants.
 
 The question remains though, what do you do with milk and eggs past their prime? In French, the name for French toast is “pain perdu”, or literally “lost bread”. It’s a decadent way to combine the bread forgotten at the bottom of the drawer, the milk you’re worried about drinking cold, and eggs you don’t want to eat raw anymore (if you ever did that to begin with). 
 
@@ -137,11 +139,11 @@ And if you want another helping of knowledge with your dessert…
 
 <img height="400px" src="/blog/images/climatarian/carton-qr.png" />
 
-And with that, we thank you for dining with us this evening. Your meal comes out to ~3 kg carbon dioxide equivalent of emissions. If you would like to pay online, [Wren](https://www.wren.co/){:target="_blank"} offers a way to offset your carbon footprint. Have a good rest of your night!
+And with that, we thank you for dining with us. Your meal comes out to ~3 kg carbon dioxide equivalent of emissions. If you would like to pay online, [Wren](https://www.wren.co/){:target="_blank"} offers a way to offset your carbon footprint. Have a good rest of your day!
 
 # Acknowledgements
 
-This tasting menu was a real event that we ran as part of a [series](https://www.instagram.com/p/CdXD1A2roep/){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for the next one, let me know!
+This tasting menu was a real event that we ran as part of a [series](https://www.instagram.com/p/CdXD1A2roep/){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for the future ones, let me know.
 
 Many thanks to [Doug](https://touchgrass.notion.site/Founding-Engineer-Streamline-06274451855444ab9f7e25a172ae0fd4){:target="_blank"}, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with his impromptu changes. To [Jamie](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"} for the compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for the vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
 
@@ -149,18 +151,18 @@ And finally, thanks to Jon, my co-conspirator in this and many other cooking adv
 
 # Afterword
 
-If this inspired you to think about how we need to transform our food system, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"} as this is what I’m currently diving into. Given my background, I’m exploring what are the software angles to make change.
+If this inspired you to think about how we need to transform our food system, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"} as this is what I’m currently diving into. I'm exploring where software can be levered to make change in the system.
 
 I’m still early in my journey, but as a starting point, these are some of the biggest areas beyond our own diets that I’m seeing. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
 
 | Area                      | Impact                                                                                                                                                                                                                                                                           | Companies                                                                                                                     |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Cow burps and farts       | 6% of global emissions come from livestock and a large part of that is from the methane in cow farts and burps.                                                                                                                                                                   | [Windfall Bio](https://www.windfall.bio/){:target="_blank"} is converting the methane into soil nutrients. [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions. |
-| Meat alternative proteins | Livestock is actually 14% of global emissions if you count the deforestation, agriculture needed for its feed, and more that’s involved in growing them! As we learned, eating more plant-rich helps, and one hypothesis is that more meat substitutes would make the change easier. | [Umaro](https://www.umarofoods.com/){:target="_blank"} is working with seaweed proteins. [Impossible Foods](https://impossiblefoods.com/){:target="_blank"} and [Beyond Meat](https://www.beyondmeat.com/){:target="_blank"} are ubiquitous at this point.                                                                                       |
+| Cow burps and farts       | Of the 14% of global emissions from livestock, about 6% of it comes the methane of cow farts and burps.                                                                                                                                                                   | [Windfall Bio](https://www.windfall.bio/){:target="_blank"} is converting the methane into soil nutrients. [Alga](https://www.alga.bio/){:target="_blank"} is supplementing cow feed witha algae to reduce the methane. [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions. |
+| Meat alternative proteins | As we learned, eating more plant-rich helps with reducing the emissions from livestock. One hypothesis is that better meat substitutes would make the change easier. | [Umaro](https://www.umarofoods.com/){:target="_blank"} is making substitutes with seaweed proteins. [Prime Roots](https://www.primeroots.com/){:target="_blank"} is doing so with koji. And of course there's [Impossible Foods](https://impossiblefoods.com/){:target="_blank"} and [Beyond Meat](https://www.beyondmeat.com/){:target="_blank"}.                                                                                       |
 | Food waste                | We talked about the residential changes we can make, but we also need change in grocery stores and restaurants to help reduce the 6% of emissions from food waste.                                                                                                                | [Afresh](https://www.afresh.com/){:target="_blank"} helps reduce waste in grocery through better inventory management.  [Apeel](https://www.apeel.com/){:target="_blank"} is making produce last longer.                                                    |
-| Soil health               | Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.                                  | [Yardstick](https://www.useyardstick.com/){:target="_blank"} is enabling soil carbon measurements.                                                                               |
-| Cold chain                | Cooling makes up about 10% of global emissions. The refrigeration needed to transport foods and medical supplies is estimated at 10-20% of that.                                                                                                                                        | [Artyc](https://www.shipartyc.com/){:target="_blank"} is making refrigerant-free cooling containers. [Snofox](https://www.snofox.com/){:target="_blank"} helps with monitoring and increasing efficiency.                              |
-| Ocean shipping            | Though we've made long distance transport very efficient already through shipping containers by boat, it still accounts for 2% of global emissions.                                                                                                                                                                                                                                   | [Nautilus](https://nautiluslabs.com/){:target="_blank"} is improving the efficiency of ships with predictive navigation.                                                                                 |
-| Rice farming              | Flooding rice paddies breeds methane-producing microbes, which accounts for 1% of global emissions                                                                                                                                                                               | I don’t know of any companies in this space, but governments and research communities seem to be developing solutions for this. |
-| Fertilizers               | 1% of global emissions come from the carbon-intensive process of making fertilizers.                                                                                                                                                                                              | [Nitricity](https://www.nitricity.co/){:target="_blank"} is building better reactors to produce fertilizers with lower emissions.                                             |
-| Carbon accounting         | We mentioned that knowing the exact emissions from a specific food product is still hard right now. There are companies that are making it easier to know the emissions in our supply chain.                                                                                            | [Mammoth](https://www.mammothclimate.com/){:target="_blank"} is specifically tackling consumer packaged goods. [Watershed](https://watershed.com/solutions/supply-chain){:target="_blank"} has a product targeting the supply chain.                 |
+| Soil health               | Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.                                  | [Yardstick](https://www.useyardstick.com/){:target="_blank"} is enabling soil carbon measurements. [Agros](https://agrosglobal.com/solutions/){:target="_blank"} is helping farmers switch practices to restore their soils.                                                                              |
+| Cold chain                | Cooling makes up about 10% of global emissions. The refrigeration in the supply chain needed to transport foods and medical supplies is estimated at 10-20% of that.                                                                                                                                        | [Artyc](https://www.shipartyc.com/){:target="_blank"} is making refrigerant-free cooling containers. [Snofox](https://www.snofox.com/){:target="_blank"} helps with monitoring and increasing efficiency.                              |
+| Ocean shipping            | Though we said what we eat matters more than where it came from, traveling further does still mean more emissions. Shipping across continents is comparatively very efficient already through ocean freight, but it still accounts for 2% of global emissions.                                                                                                                                                                                                                                   | [Nautilus](https://nautiluslabs.com/){:target="_blank"} is improving the efficiency of ships with predictive navigation. [Amogy](https://amogy.co/){:target="_blank"} is creating an alternative fuel from ammonia for boats.                                                                                |
+| Rice farming              | Flooding rice paddies breeds methane-producing microbes, which accounts for 1% of global emissions.                                                                                                                                                                               | I don’t know of any companies in this space, but governments and research communities seem to be developing solutions for this. |
+| Fertilizers               | 1% of global emissions come from the carbon-intensive process of making fertilizers.                                                                                                                                                                                              | [Nitricity](https://www.nitricity.co/){:target="_blank"} is building better reactors to produce fertilizers with lower emissions. [Chapul Farms](https://www.chapulfarms.com/solution){:target="_blank"} farms insects and one of their byproducts is a fertilizer replacement.                                           |
+| Carbon accounting         | We mentioned that knowing the exact emissions from a specific food product is still hard right now. Clearer accounting would allow us to know where needs the most change.                                                                                           | [Mammoth](https://www.mammothclimate.com/){:target="_blank"} is specifically tackling consumer packaged goods. [Hectare](https://hectare.farm/){:target="_blank"} is targeting agriculture. [Watershed](https://watershed.com/solutions/supply-chain){:target="_blank"} has a product for the supply chain.                 |
