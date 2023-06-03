@@ -2,67 +2,71 @@
 layout: post
 title: "we are what we eat"
 tagline: "A home cooked climatarian tasting menu"
-date: 2023-05-31 00:00:00
-publish: false
+date: 2023-06-02 00:00:00
+publish: true
 
 ---
-Greetings and welcome to _cheff’s table_ – a dining experience that educates through food. This seating, we’ll be exploring climate change. 
+Greetings and welcome to _cheff’s table_ – a dining experience that educates through food. Your table is ready, if you would kindly follow me please.
 
-Let’s start by taking a look at the candle in front of you. It offers a few hints about what we need to transition our planet to a stable climate.
+This seating, the chef’s specially curated menu will take you on a journey exploring climate change.
 
-<img src="/blog/images/climatarian/candle.png" />
+Let’s start by looking at the candle in front of you. It offers a few hints about what we need to transition our planet to a stable climate.
 
-This candle is a source of warmth. We’ve transitioned from open fire to coal and now to natural gas for heating. This has reduced our emissions but we need to get off burning fossil fuels altogether. Heat pumps have paved the way by being a superior product that’s all electric, we just need to increase the rate of adoption.
+<img height="300px" src="/blog/images/climatarian/candle.png" />
 
-This candle is a source of light. We’ve done pretty well on increasing our energy efficiency by moving from candles to incandescent light to LEDs. As developing countries mature, we expect their energy usage to increase, so with the pie growing, not only do we need our energy to go green, we also need to dramatically increase our efficiency everywhere we use it.
+This candle is a source of warmth. We’ve transitioned from open fire to coal and now to natural gas for heating. Doing so has reduced our emissions, but we need to get off burning fossil fuels altogether. Heat pumps have paved the way by being a superior product that’s all electric, we just need to increase the rate of adoption.
 
-More surprising perhaps, this candle is also a source of sustenance. You see, this candle is made from browned butter with rosemary and garlic infused. To reach a stable climate, we need to transform our entire system of food. For now, start by transforming this candle into a dip for your bread.
+This candle is a source of light. We’ve done pretty well on increasing our energy efficiency by moving from candles to incandescent light to LEDs. As developing countries mature, we expect their energy usage to increase, so with the pie growing, not only do we need our energy to go green, we also need to dramatically increase our efficiency everywhere else we use it.
 
-<img src="/blog/images/climatarian/butter.gif" />
+More surprising perhaps, this candle is a source of sustenance. You see, this candle is made from browned butter with rosemary and garlic infused. To reach a stable climate, we need to transform our entire system of food. For now, start by transforming this candle into a dip for your bread.
 
-Over the course of this meal, we hope to give you culinary symbols to remember two key facets of the transformation we need – decreasing the footprint of what we eat, and decreasing the footprint of what we don’t eat.
+<img height="300px" src="/blog/images/climatarian/butter.gif" />
 
-It turns out that those are some of the most impactful ways that we can combat climate change! The following is a table of solutions from Project Drawdown, a non-profit dedicated to finding the highest leverage climate solutions, sorted by highest impact. Peek the top two.
+Over the course of this meal, we hope to give you culinary symbols to remember two key facets of the transformation we need – __decreasing the footprint of what we eat__, and __decreasing the footprint of what we don’t eat__.
+
+It turns out that those are two of the best means that we have to combat climate change! [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that indexes our highest leverage climate solutions, lists two of our most impactful solutions as reducing food waste and eating plant-rich diets.
 
 <img src="/blog/images/climatarian/drawdown.png" />
 
-They might not seem like much from an individual perspective, but collectively our efforts add up to massive impact.
+They might not seem like much from an individual perspective, but collectively our efforts add up massively.
 
 # What We Eat
 
 How do we decrease the footprint of what we eat? The spoiler from Project Drawdown is that we eat plant-rich diets. But what does that mean and how do we go about doing it in a way that doesn’t feel like a huge sacrifice?
 
-We’ll start to see with our upcoming dishes!
+We’ll start to see, starting with...
 
 ## ton for ton
 
-Our next course is the salad course. Here we have a large bowl of pomegranate and padron pepper salad with a mushroom garum dressing, avocados, and sliced almonds. Beside it we have a medium bowl of pan seared chicken and a tiny bowl of dry brined steak. 
+Our next course, the salad course. For the table, we have a large bowl of pomegranate and padron pepper salad with a mushroom garum dressing, avocados, and sliced almonds. Beside it we have a medium bowl of pan seared chicken and a tiny bowl of dry brined steak. 
 
-<img src="/blog/images/climatarian/salad.png" />
+<img height="400px" src="/blog/images/climatarian/salad.png" />
 
-This amount of salad has the same carbon footprint as the chicken and steak beside it. The salad is only that size because of the avocados, which have larger footprints due to the deforestation and water consumption to grow them. Without them, the salad’s portion would be too much for the meal.
+This amount of salad has the same carbon footprint as the amount of chicken beside it, and the chicken has the same footprint as the steak. The salad is only that “small” because of the avocados, which have larger footprints due to the deforestation and water consumption involved in growing them. Without them, the salad’s portion would be much too big for the meal.
 
-Shifting to a plant-rich diet doesn’t necessarily mean going vegetarian or vegan. It doesn’t have to be all or nothing. Visually, we can see that just by reducing our red meat intake, we’d be making a big difference.
+Shifting to a plant-rich diet doesn’t necessarily mean going vegetarian or vegan. It doesn’t have to be all or nothing. In fact, even Project Drawdown’s definition of “plant-rich” includes an average of 57g of red meat a day. Visually, we can see that just by reducing our red meat intake, we’d be making a big difference.
 
-<img src="/blog/images/climatarian/salad-portion.png" />
+<img height="400px" src="/blog/images/climatarian/salad-portion.png" />
 
-If eating entirely plant-based is hard for you, perhaps if you’re at a restaurant torn between the chicken and beef options, choose the chicken. Alternatively, opt to eat plant-based once or twice a week, or try to fill more of your plate with veggies. The fiber in veggies is healthy in other ways, but that’s a separate story.
+If eating entirely plant-based is hard for you, perhaps if you’re at a restaurant torn between the chicken and beef options, choose the chicken. Alternatively, opt to eat plant-based just once or twice a week, or try to fill more of your plate with veggies. The fiber in veggies is healthy in other ways, but that’s a separate story.
 
 ## seitanic saucery
 
-A common concern with eating more plant-rich is that it’s hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Seitan or gluten rolls, derived from wheat protein rather than soy, can be upwards of 80% protein by calories.
+A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Gluten rolls, also known as seitan, derived from wheat protein rather than soy, can be upwards of 80% protein by calories.
 
-Here we have shallow fried gluten puffs with roasted peanuts, bell peppers, and mangos in a kung pao inspired glaze, garnished with sesame and nutritional yeast.
+Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast.
 
-<img src="/blog/images/climatarian/seitan.png" />
+<img height="400px" src="/blog/images/climatarian/seitan.png" />
 
-Although you’re unlikely to eat your weight in nutritional yeast, it’s a great topping for an additional source of protein. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food! Other great sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
+Although you’re unlikely to eat your weight in nutritional yeast, it’s a tasty topping as well as an additional source of protein. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
+
+If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that don’t like the taste of pea protein powder, there’s now [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
 This next course is shakshuka baked in a puff pastry tart. Each guest gets two tarts – one uses San Marzano tomatoes from Italy and the other tomatoes from nearby Los Gatos in Northern California.
 
-<img src="/blog/images/climatarian/tart.png" />
+<img height="400px" src="/blog/images/climatarian/tart.png" />
 
 Without knowing which is which, try both and decide which you like best. 
 
@@ -70,49 +74,93 @@ Eating local gets a lot of attention, and while it’s true that the farther tha
 
 <img src="/blog/images/climatarian/emissions.png" />
 
-From this graph, can you even pick out the amount from transport? What should be clear from the graph is that per the courses before, what you eat matters more than where it came from.
+Building off of what we learned from the previous courses, __what__ you eat matters more than __where__ it came from. So don’t feel guilty if you liked the San Marzano shakshuka better. But if you couldn’t taste the difference between the two, might as well go for the local one next time!
 
-One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a couple farm’s lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse is 9x worse than one grown in an open field. For now, all we can do is be hand wavy and generalize about categories of food.
+One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a handful of farms’ lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse is 9x worse than one grown in an open field. For now, all we can do is be handwavy and generalize about categories of food. It doesn’t diminish the fact that eating more plant-rich is still the highest leverage change we can make in our diet.
 
 # What We Don't Eat
 
-So far everything we’ve been focused on is the footprint of what we eat. Now it’s time to consider the footprint of what we don’t eat. How much of America’s food do you think goes to waste?
+So far everything we’ve been focused on is the footprint of what we eat. Now it’s time to consider the footprint of what we __don’t__ eat. How much of America’s food do you think goes to waste?
 
-The answer is 30-40%, and of that amount, over 40% of it is wasted in our own homes! Another 40% is wasted in grocery stores and restaurants. Farms and manufacturers contribute to the small remainder.
+…
 
-When food is thrown out, it sits in landfills and releases methane as it rots, a super potent greenhouse gas that has 80x the warming power of carbon dioxide.
+…
+ 
+The answer is almost 40%!! And of that amount, over 40% of it is wasted in _our own homes_. Another 40% is wasted in grocery stores and restaurants. The earlier parts of the supply chain contribute to the smaller remainder.
+
+When food is thrown out, it sits in landfills and releases methane as it rots, a super potent greenhouse gas that has 80x the warming power of carbon dioxide. On top of that, when you account for all the energy, agricultural inputs, and more involved in growing all that food that went to waste, food waste is about 6% of global emissions!
+
+Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the landfill.
+
 
 ## grateful dead
 
-Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the landfill. For example, if you purée old spinach, it will still serve beautifully as part of a salad dressing. To avoid wasting the peels of citrus, you can grate them to add zest.
+Have you had a bag of spinach sitting in your fridge looking too wilted and unappetizing to eat? Or herbs that you bought for one dish that now you don’t know what to do with? One use is to puree them into a salad dressing.
 
-Here we have assorted roasted veg with a greek goddess dressing made with old spinach and herb with grated lemon zest.
+A dressing can eat up large amounts and an assortment of different greens, no matter their age, and gives you something fresh and beautiful to put on salads, rice bowls, sandwiches, and more.
 
-<img src="/blog/images/climatarian/veg.png" />
+Here we have roasted vegetables with a greek goddess dressing made with old spinach and herbs with grated lemon zest.
 
-Some other ways you can find new life for ingredients:
-- Leftover rice can be made into fried rice. In fact, that’s actually encouraged as the way to make fried rice since the moisture content is lower
-- Aside from puree, veggies can be blanched, pickled, or fermented to extend their life
-- Stale bread can be made into croutons, great as a topping for eating more plant-rich salads!
-- Brown bananas can be made into tasty banana bread
-- For the more advanced cooks, veggie and meat scraps can be used to make stock. Great as the basis for many sauces, stews, and more
+<img height="400px" src="/blog/images/climatarian/veg.png" />
+
+Zesting lemons is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to any dish.
+
+Some other ideas to find new life for ingredients are:
+- Turning leftover rice into fried rice. In fact, that’s actually encouraged as the kind of rice to use since the moisture content is lower
+- Blanching or pickling veggies. Along with pureeing, those are other techniques you can add to your repertoire
+- Baking stale bread into croutons. They add a crunchy texture to your plant-rich salads
+- Baking overripe bananas into banana bread
+- Putting veggie and meat scraps into a stock. Just add water! They can store in your fridge for a long time and serve as the basis for many sauces, braises, and stews
+
+For more advanced cooks, we can look to Noma for inspiration. They’re always pushing the boundaries with [new ways](https://www.instagram.com/p/Cs-ilYFomjW/?igshid=MzRlODBiNWFlZA==){:target="_blank"} to love unloved foods and they wrote a comprehensive [book](https://shop.revolutionfermentation.com/products/the-noma-guide-to-fermentation-by-rene-redzepi-david-zilber){:target="_blank"} on fermentation, which not only extends ingredients’ lifetimes, but brings complexity to previously simple flavors.
+
+As for the food waste that you really have no way to deal with, there’s a startup making a new kitchen bin for it. Instead of smelly and liquidy compost that you have to throw out often, [Mill](https://www.mill.com/){:target="_blank"}’s bin dehydrates what you put into it, shrinking it down and removing the stink. The end result can then be used as animal feed.
+
 
 ## lost: bread
 
 And for our final course, we have… milk?
 
-<img src="/blog/images/climatarian/carton.png" />
+<img height="500px" src="/blog/images/climatarian/carton.png" />
 
 Do you throw out your milk as soon as it’s past the expiration date? It turns out, food doesn’t go bad the minute it crosses the “best before”. Those dates are usually set by manufacturers based on “optimal” consumption, not food safety. Eggs, for example, are usually still edible 3-5 weeks after the date on the carton. 
 
 When you want to evaluate safety, use your senses, not the label. If it doesn’t smell funky, you don’t see mold, and you’ve cooked it to a proper temperature, your food should generally be safe. Yet another reason to eat more plant-rich is that it’s much harder to mess up food safety when it comes to plants!
 
-The question remains though, what do you do with milk and eggs past their prime? In French, the name for French toast is “pain perdu”, or literally “lost bread”. It’s a great way to combine the old bread forgotten at the bottom of the drawer, the milk you’re worried about drinking cold, and eggs you don’t want to eat raw anymore (if you ever did that to begin with). 
+The question remains though, what do you do with milk and eggs past their prime? In French, the name for French toast is “pain perdu”, or literally “lost bread”. It’s a decadent way to combine the bread forgotten at the bottom of the drawer, the milk you’re worried about drinking cold, and eggs you don’t want to eat raw anymore (if you ever did that to begin with). 
 
-So for our real final course, we have as dessert a croissant French toast with crème fraiche, fruits, and powdered sugar.
+So for our real final course, we have a croissant French toast with crème fraiche, fresh berries, and powdered sugar.
 
-<img src="/blog/images/climatarian/dessert.png" />
+<img height="400px" src="/blog/images/climatarian/dessert.png" />
 
-Some bonus fun facts:
+And if you want another helping of knowledge with your dessert…
 
-<img src="/blog/images/climatarian/carton-qr.png" />
+<img height="400px" src="/blog/images/climatarian/carton-qr.png" />
+
+And with that, we thank you for dining with us this evening. Your meal comes out to ~3 kg carbon dioxide equivalent of emissions. If you would like to pay online, [Wren](https://www.wren.co/){:target="_blank"} offers a way to offset your carbon footprint. Have a good rest of your night!
+
+# Acknowledgements
+
+This tasting menu was a real event that we ran as part of a [series](https://www.instagram.com/p/CdXD1A2roep/){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for the next one, let me know!
+
+Many thanks to [Doug](https://touchgrass.notion.site/Founding-Engineer-Streamline-06274451855444ab9f7e25a172ae0fd4){:target="_blank"}, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with his impromptu changes. To [Jamie](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"} for the compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for the vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
+
+And finally, thanks to Jon, my co-conspirator in this and many other cooking adventures. Couldn’t have done it without your impressive spreadsheets, sick dining space, and general partnership.
+
+# Afterword
+
+If this inspired you to think about how we need to transform our food system, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"} as this is what I’m currently diving into. Given my background, I’m exploring what are the software angles to make change.
+
+I’m still early in my journey, but as a starting point, these are some of the biggest areas beyond our own diets that I’m seeing. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
+
+| Area                      | Impact                                                                                                                                                                                                                                                                           | Companies                                                                                                                     |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Cow burps and farts       | 6% of global emissions come from livestock and a large part of that is from the methane in cow farts and burps.                                                                                                                                                                   | [Windfall Bio](https://www.windfall.bio/){:target="_blank"} is converting the methane into soil nutrients. [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions. |
+| Meat alternative proteins | Livestock is actually 14% of global emissions if you count the deforestation, agriculture needed for its feed, and more that’s involved in growing them! As we learned, eating more plant-rich helps, and one hypothesis is that more meat substitutes would make the change easier. | [Umaro](https://www.umarofoods.com/){:target="_blank"} is working with seaweed proteins. [Impossible Foods](https://impossiblefoods.com/){:target="_blank"} and [Beyond Meat](https://www.beyondmeat.com/){:target="_blank"} are ubiquitous at this point.                                                                                       |
+| Food waste                | We talked about the residential changes we can make, but we also need change in grocery stores and restaurants to help reduce the 6% of emissions from food waste.                                                                                                                | [Afresh](https://www.afresh.com/){:target="_blank"} helps reduce waste in grocery through better inventory management.  [Apeel](https://www.apeel.com/){:target="_blank"} is making produce last longer.                                                    |
+| Soil health               | Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.                                  | [Yardstick](https://www.useyardstick.com/){:target="_blank"} is enabling soil carbon measurements.                                                                               |
+| Cold chain                | Cooling makes up about 10% of global emissions. The refrigeration needed to transport foods and medical supplies is estimated at 10-20% of that.                                                                                                                                        | [Artyc](https://www.shipartyc.com/){:target="_blank"} is making refrigerant-free cooling containers. [Snofox](https://www.snofox.com/){:target="_blank"} helps with monitoring and increasing efficiency.                              |
+| Ocean shipping            | Though we've made long distance transport very efficient already through shipping containers by boat, it still accounts for 2% of global emissions.                                                                                                                                                                                                                                   | [Nautilus](https://nautiluslabs.com/){:target="_blank"} is improving the efficiency of ships with predictive navigation.                                                                                 |
+| Rice farming              | Flooding rice paddies breeds methane-producing microbes, which accounts for 1% of global emissions                                                                                                                                                                               | I don’t know of any companies in this space, but governments and research communities seem to be developing solutions for this. |
+| Fertilizers               | 1% of global emissions come from the carbon-intensive process of making fertilizers.                                                                                                                                                                                              | [Nitricity](https://www.nitricity.co/){:target="_blank"} is building better reactors to produce fertilizers with lower emissions.                                             |
+| Carbon accounting         | We mentioned that knowing the exact emissions from a specific food product is still hard right now. There are companies that are making it easier to know the emissions in our supply chain.                                                                                            | [Mammoth](https://www.mammothclimate.com/){:target="_blank"} is specifically tackling consumer packaged goods. [Watershed](https://watershed.com/solutions/supply-chain){:target="_blank"} has a product targeting the supply chain.                 |
