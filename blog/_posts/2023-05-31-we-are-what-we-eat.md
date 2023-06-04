@@ -24,7 +24,7 @@ More surprising perhaps, this candle is a source of sustenance. You see, this ca
 
 Over the course of this meal, we hope to give you gastronomic symbols to remember two key facets of the transformation we need – __decreasing the footprint of what we eat__, and __decreasing the footprint of what we don’t eat__.
 
-It turns out that those are two of the best means that we have to combat climate change! [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that indexes climate solutions, lists among our highest leverage solutions "reduced food waste" and "plant-rich diets".
+It turns out that these are two of the best means that we have to combat climate change! [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that indexes climate solutions, lists among our highest leverage solutions "reduced food waste" and "plant-rich diets".
 
 <img src="/blog/images/climatarian/drawdown.png" />
 
@@ -32,7 +32,7 @@ They might not seem like much from an individual perspective, but collectively o
 
 # What We Eat
 
-How do we decrease the footprint of what we eat? The spoiler from Project Drawdown was that we eat plant-rich diets. But what does that mean and how do we go about doing it without feeling like we've made a sacrifice?
+How do we decrease the footprint of what we eat? The spoiler from Project Drawdown was that we eat plant-rich diets. But what does that mean and how do we go about doing it without feeling like a sacrifice?
 
 Let's see, starting with...
 
@@ -44,11 +44,11 @@ Our next course, the salad course. For the table, we have a large bowl of pomegr
 
 The carbon footprint of the salad in front of you matches that of the chicken beside it, which, in turn, is equivalent to the steak. The salad is only that “small” because of the avocados, which have larger footprints due to the deforestation and water consumption involved in their cultivation. Without them, the salad’s portion would be much too big for the meal.
 
-Adopting a plant-rich diet isn't synonymous with a strictly vegetarian or vegan lifestyle. It doesn't need to be an 'all-or-nothing' approach. In fact, even Project Drawdown’s definition of “plant-rich” includes an average of 57g of red meat a day. Visually, we can see that just reducing our red meat intake already makes a big difference.
+Adopting a plant-rich diet isn't synonymous with a strictly vegetarian or vegan lifestyle. It doesn't need to be an 'all-or-nothing' approach. In fact, even Project Drawdown’s definition of “plant-rich” includes an average of 57g of red meat a day. Visually, we can see that just reducing our red meat intake would already make a meaningful difference.
 
 <img height="400px" src="/blog/images/climatarian/salad-portion.png" />
 
-To put some numbers to it, 14% of global emissions come from our livestock, with beef causing 10x the emissions of chicken pound for pound, and chicken 10x some plants! A couple factors go into it – at a high level, just think about all the land we had to convert from forests to grazing land to grow animals, and all the fertilizers and energy needed to make feed just for animals. 
+To put some numbers to it, 14% of global emissions come from our livestock, with beef causing 10x the emissions of chicken pound for pound, and chicken 10x some plants! A couple factors go into it – at a high level, just think about all the land we had to convert from carbon-sinking forests to grazing land to grow animals, and all the carbon-intensive fertilizers and energy needed to make feed just for animals. 
 
 Beef's outsized impact is not merely due to the size of cows necessitating more feed and land, but also because they burp and fart methane, a potent greenhouse gas that has 80x the warming power of carbon dioxide.
 
@@ -56,15 +56,15 @@ If eating entirely plant-based would be hard for you, perhaps if you’re at a r
 
 ## seitanic saucery
 
-A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Gluten rolls, also known as seitan, derived from wheat protein rather than soy, can be upwards of 80% protein by calories.
+A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Gluten rolls, also known as seitan, derived from wheat protein rather than soy, can be upwards of 80% protein by calories. And depending on how you cook them, their texture can be quite meat-like.
 
-Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast.
+Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast. Beside it is a home made mala chili sauce for an optional kick.
 
 <img height="400px" src="/blog/images/climatarian/seitan.png" />
 
 Although you’re unlikely to eat your weight in nutritional yeast, it’s a tasty topping as well as an additional source of protein. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
 
-If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that don’t like the taste of pea protein powder, there’s now [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
+If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that don’t like the taste of pea protein powder, there’s even [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
@@ -80,11 +80,11 @@ Eating local gets a lot of attention, and while it’s true that the farther tha
 
 Building off of what we learned from the previous courses, __what__ you eat matters more than __where__ it came from. So don’t feel guilty if you liked the San Marzano shakshuka better. But if you couldn’t taste the difference between the two, might as well go for the local one next time!
 
-One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a handful of farms’ lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse is 9x worse than one grown in an open field. For now, all we can do is be handwavy and generalize about categories of food. It doesn’t diminish the fact that eating more plant-rich is still the highest leverage change we can make in our diet.
+One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a handful of farms’ lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse is 9x worse than one grown in an open field. For now, all we can do is be handwavy and generalize about categories of food. It doesn’t diminish the fact that eating more plant-rich is the highest leverage change we can make in our diet.
 
 # What We Don't Eat
 
-So far everything we’ve been focused on is the footprint of what we eat. Now it’s time to consider the footprint of what we __don’t__ eat. How much of America’s food do you think goes to waste?
+So far everything we’ve been focused on is the footprint of what we eat. Now it’s time to consider the footprint of what we __don’t__ eat. How much of America’s food do you think gets tossed in the trash?
 
 …
 
@@ -94,7 +94,7 @@ The answer is almost 40%! And of that amount, over 40% of it is wasted in _our o
 
 When food is thrown out, it sits in landfills and releases methane as it rots, which you'll remember is extra bad. On top of that, when you account for all the energy, agricultural inputs, and more involved in growing all that food that went to waste, food waste is about 6% of global emissions.
 
-Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the landfill.
+Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the dump.
 
 
 ## grateful dead
@@ -107,7 +107,7 @@ Here we have roasted vegetables with a greek goddess dressing made with old spin
 
 <img height="400px" src="/blog/images/climatarian/veg.png" />
 
-Zesting lemons is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to any dish.
+Zesting is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to any dish.
 
 Some other ideas to find new life for ingredients are:
 - Turning leftover rice into fried rice. In fact, that’s actually encouraged as the kind of rice to use since the moisture content is lower
@@ -127,7 +127,7 @@ And for our final course, we've got… milk?
 
 <img height="500px" src="/blog/images/climatarian/carton.png" />
 
-Do you throw out your milk as soon as it’s past the expiration date? It turns out, food doesn’t go bad the minute it crosses the “best before”. Those dates are usually set by manufacturers based on “optimal” consumption, not food safety. Eggs, for example, are usually still edible 3-5 weeks after the date on the carton. 
+Do you throw out your milk as soon as it’s past the expiration date? It turns out, food doesn’t go bad the day it crosses the “best before”. Those dates are usually set by manufacturers based on “optimal” consumption, not food safety. Eggs, for example, are usually still edible 3-5 weeks after the date on the carton. 
 
 When you want to evaluate safety, use your senses, not the label. If it doesn’t smell funky, you don’t see mold, and you’ve cooked it to a proper temperature, your food should generally be safe. Yet another reason to eat more plant-rich is that it’s much harder to mess up food safety when it comes to plants.
 
@@ -147,73 +147,56 @@ And with that, we thank you for dining with us. Your meal comes out to ~3 kg car
 
 This tasting menu was a real event that we ran as part of a [series](https://www.instagram.com/p/CdXD1A2roep/){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for future ones, let me know.
 
-If this inspired you to think about how we need to transform our food system, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to make change in the system.
+If this inspired you to think about how we need to transform our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to make change in the system.
 
-I’m still early in my journey, but as a starting point, these are some of the biggest areas beyond our own diets that I’m seeing. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
+I’m still early in my journey, but as a starting point, these are some of the biggest areas beyond our own diets that I’m seeing, and the companies already doing something about it. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
 
-## Carbon accounting
-
-Earlier I mentioned that knowing the exact emissions from a specific food product is still hard right now. Clearer accounting would allow us to know where needs the most change. 
+__Carbon Accounting__: Earlier I mentioned that knowing the exact emissions from a specific food product is still hard right now. Clearer data would allow us to know where needs the most change. 
 
 - [Watershed](https://watershed.com/solutions/supply-chain){:target="_blank"} has a product for supply chain accounting
 - [Mammoth](https://www.mammothclimate.com/){:target="_blank"} is specifically tackling consumer packaged goods
 - [Hectare](https://hectare.farm/){:target="_blank"} is targeting agriculture
 
-As a caveat to the rest of the sections below, because we aren't accounting well yet, all numbers are estimates. Sometimes there are conflicting sources with different numbers and I've taken my best guess. 
+As a caveat to the rest of the sections below, because we aren't accounting well yet, all numbers are estimates. Sometimes there are conflicting numbers from different sources and I've taken my best guess at which to use. 
 
-## Cow burps and farts
-
-Of the 14% of global emissions from livestock, 6% of it comes the methane of cow farts and burps.
+__Cow Burps__: Of the 14% of global emissions from livestock, 6% of it comes the methane of cow farts and burps.
 
 - [Windfall Bio](https://www.windfall.bio/){:target="_blank"} is converting the methane into soil nutrients
 - [Alga](https://www.alga.bio/){:target="_blank"} is supplementing cow feed witha algae to reduce the methane
 - [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions
 
-## Meat alternative proteins 
+__Meat-alternative Proteins__: As we learned, eating more plant-rich helps with reducing the emissions from livestock. One hypothesis is that better meat substitutes would make the change easier.
 
-As we learned, eating more plant-rich helps with reducing the emissions from livestock. One hypothesis is that better meat substitutes would make the change easier.
-
-- [Umaro](https://www.umarofoods.com/){:target="_blank"} is making substitutes with seaweed proteins
-- [Prime Roots](https://www.primeroots.com/){:target="_blank"} is doing so with koji
+- [Umaro](https://www.umarofoods.com/){:target="_blank"} is making bacon and other substitutes with seaweed proteins
+- [Prime Roots](https://www.primeroots.com/){:target="_blank"} is making deli meats with koji
 - And of course there's [Impossible Foods](https://impossiblefoods.com/){:target="_blank"} and [Beyond Meat](https://www.beyondmeat.com/){:target="_blank"}
 
-## Soil health
+__Soil Health__: Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.
 
-Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.
-
-- [Yardstick](https://www.useyardstick.com/){:target="_blank"} is enabling soil carbon measurements
+- [Yardstick](https://www.useyardstick.com/){:target="_blank"} is enabling better soil carbon measurements
 - [Agros](https://agrosglobal.com/solutions/){:target="_blank"} is helping farmers switch practices to restore their soils
 
-## Food waste
-
-We talked about the residential changes we can make, but we also need change in grocery stores and restaurants to help reduce the other 40% of the 6% of emissions from food waste.
+__Food Waste__: We talked about the residential changes we can make, but we also need change in grocery stores and restaurants to help reduce the other 40% of the 6% of emissions from food waste.
 
 - [Afresh](https://www.afresh.com/){:target="_blank"} helps reduce waste in grocery through better inventory management
 - [Apeel](https://www.apeel.com/){:target="_blank"} is making produce last longer
+- [Too Good To Go](https://www.toogoodtogo.com/){:target="_blank"} helps restaurants sell their surplus at the end of the day
 
-## Cold chain
-
-Cooling makes up 10% of global emissions. The refrigeration in the supply chain needed to preserve foods during transportation and storage is estimated at 10-20% of that
+__Cold Chain__: Cooling makes up 10% of global emissions. The refrigeration in the supply chain needed to preserve foods during transportation and storage is estimated at 10-20% of that.
 
 - [Artyc](https://www.shipartyc.com/){:target="_blank"} is making refrigerant-free cooling containers
 - [Snofox](https://www.snofox.com/){:target="_blank"} helps with monitoring and increasing efficiency
 
-## Ocean shipping
-
-Though what we eat matters more than where it came from, traveling further does still mean more emissions. Anything shipped across continents needs ocean freight, which accounts for 2% of global emissions.
+__Ocean Shipping__: Though what we eat matters more than where it came from, traveling further does still mean more emissions. Anything shipped across continents needs ocean freight, which accounts for 2% of global emissions.
 
 - [Nautilus](https://nautiluslabs.com/){:target="_blank"} is improving the efficiency of ships with predictive navigation
 - [Amogy](https://amogy.co/){:target="_blank"} is creating an alternative fuel from ammonia for boats
 
-## Rice farming
-
-Flooding rice paddies breeds methane-producing microbes, which accounts for 1% of global emissions.
+__Rice Farming__: Flooding rice paddies breeds methane-producing microbes, which accounts for 1% of global emissions.
  
-I don’t know of any companies in this space, but governments and research communities seem to be developing solutions for this.
+ - [Green and Seed](https://www.seedfilm.co.kr/en/){:target="_blank"} is developing a system that increases the sustainability of rice farming
 
-## Fertilizers
-
-1% of global emissions come from the carbon-intensive process of making fertilizers.
+__Fertilizers__: 1% of global emissions come from the carbon-intensive process of making fertilizers.
 
 - [Nitricity](https://www.nitricity.co/){:target="_blank"} is building better reactors to produce fertilizers with lower emissions
 - [Chapul Farms](https://www.chapulfarms.com/solution){:target="_blank"} farms insects and one of their byproducts is a fertilizer replacement
