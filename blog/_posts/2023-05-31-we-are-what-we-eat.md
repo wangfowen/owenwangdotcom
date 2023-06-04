@@ -58,13 +58,13 @@ If eating entirely plant-based would be hard for you, perhaps if you’re at a r
 
 A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Gluten rolls, also known as seitan, derived from wheat protein rather than soy, can be upwards of 80% protein by calories. And depending on how you cook them, their texture can be quite meat-like.
 
-Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast. Beside it is a home made mala chili sauce for an optional kick.
+Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast. Accompanying it is a house recipe mala chili crisp for an optional kick.
 
 <img height="400px" src="/blog/images/climatarian/seitan.png" />
 
 Although you’re unlikely to eat your weight in nutritional yeast, it’s a tasty topping as well as an additional source of protein. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
 
-If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that don’t like the taste of pea protein powder, there’s even [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
+If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
@@ -107,7 +107,7 @@ Here we have roasted vegetables with a greek goddess dressing made with old spin
 
 <img height="400px" src="/blog/images/climatarian/veg.png" />
 
-Zesting is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to any dish.
+Zesting is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to a dish.
 
 Some other ideas to find new life for ingredients are:
 - Turning leftover rice into fried rice. In fact, that’s actually encouraged as the kind of rice to use since the moisture content is lower
@@ -149,15 +149,15 @@ This tasting menu was a real event that we ran as part of a [series](https://www
 
 If this inspired you to think about how we need to transform our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to make change in the system.
 
-I’m still early in my journey, but as a starting point, these are some of the biggest areas beyond our own diets that I’m seeing, and the companies already doing something about it. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
+I’m still early in my journey, but as a starting point, the following are some of the biggest areas beyond our own diets that I’m seeing, and the companies already doing something about it. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
 
-__Carbon Accounting__: Earlier I mentioned that knowing the exact emissions from a specific food product is still hard right now. Clearer data would allow us to know where needs the most change. 
+__Carbon Accounting__: Earlier I mentioned that knowing the exact emissions from a specific food product is still hard. Clearer data would allow us to know where needs the most change. 
 
 - [Watershed](https://watershed.com/solutions/supply-chain){:target="_blank"} has a product for supply chain accounting
 - [Mammoth](https://www.mammothclimate.com/){:target="_blank"} is specifically tackling consumer packaged goods
 - [Hectare](https://hectare.farm/){:target="_blank"} is targeting agriculture
 
-As a caveat to the rest of the sections below, because we aren't accounting well yet, all numbers are estimates. Sometimes there are conflicting numbers from different sources and I've taken my best guess at which to use. 
+As a caveat to the rest of the sections below, because we aren't accounting well yet, all numbers are estimates. For some I found conflicting sources and I've taken my best guess at which to use. 
 
 __Cow Burps__: Of the 14% of global emissions from livestock, 6% of it comes the methane of cow farts and burps.
 
@@ -165,7 +165,7 @@ __Cow Burps__: Of the 14% of global emissions from livestock, 6% of it comes the
 - [Alga](https://www.alga.bio/){:target="_blank"} is supplementing cow feed witha algae to reduce the methane
 - [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions
 
-__Meat-alternative Proteins__: As we learned, eating more plant-rich helps with reducing the emissions from livestock. One hypothesis is that better meat substitutes would make the change easier.
+__Alternative Proteins__: For some, the taste of meat is hard to do without. One hypothesis for making plant-rich diets easier is better meat substitutes.
 
 - [Umaro](https://www.umarofoods.com/){:target="_blank"} is making bacon and other substitutes with seaweed proteins
 - [Prime Roots](https://www.primeroots.com/){:target="_blank"} is making deli meats with koji
