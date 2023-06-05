@@ -4,6 +4,8 @@ title: "we are what we eat"
 tagline: "A home cooked climatarian tasting menu"
 date: 2023-06-02 00:00:00
 publish: true
+categories: blog
+sitemap: true
 
 ---
 Greetings and welcome to _cheff’s table_ – a dining experience that educates through food. Your table is ready, if you would kindly follow me please.
@@ -64,7 +66,7 @@ Here we have shallow fried gluten puffs with a kung pao inspired glaze, served w
 
 Although you’re unlikely to eat your weight in nutritional yeast, it’s a tasty topping as well as an additional source of protein. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
 
-If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
+If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
@@ -145,7 +147,7 @@ And with that, we thank you for dining with us. Your meal comes out to ~3 kg car
 
 # Afterword
 
-This tasting menu was a real event that we ran as part of a [series](https://www.instagram.com/p/CdXD1A2roep/){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for future ones, let me know.
+This tasting menu was a real event that we ran as part of a [series](/cheff){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for future ones, let me know.
 
 If this inspired you to think about how we need to transform our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to make change in the system.
 

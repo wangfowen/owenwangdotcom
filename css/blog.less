@@ -303,6 +303,44 @@
     }
   }
 
+  .menu-subheader {
+    text-align: center;
+  }
+
+  .menu-posts {
+    width: inherit;
+    margin-left: -70px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 20px;
+
+    li {
+      padding: 20px;
+
+      a {
+        border-radius: 5px;
+        height: 100%;
+        width: 100%;
+        display: block;
+        position: relative;
+        color: @posttext;
+
+        &:hover {
+          color: @posttext;
+        }
+
+        div {
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          font-size: 18px;
+          text-align: center;
+          margin-top: 10px;
+        }
+      }
+    }
+  }
+
   .posts {
     width: inherit;
     margin-left: -70px;

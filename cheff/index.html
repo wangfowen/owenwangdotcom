@@ -1,0 +1,36 @@
+---
+layout: default
+title: cheff's table
+---
+    <meta name="description" content="Home made tasting menus that educate through food">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/blog.css">
+
+</head>
+<body>
+<div id="wrapper">
+  <div class="blog wide">
+    <a class="head-links" href="/">home</a>
+    <div class="header">
+      <h1>cheff's table</h1>
+      <p class="blog-description menu-subheader">Home made tasting menus that educate through food</p>
+    </div>
+    <ul class="menu-posts">
+      {% for post in site.categories.menu %}
+        {% if post.publish %}
+          <li>
+            {% if post.link %}
+            <a href="{{ post.link }}">
+            {% else %}
+            <a href="{{ post.url }}">
+            {% endif %}
+              <img height="400px" src="{{ post.image }}" />
+              <div>{{ post.title }}</div>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
