@@ -64,9 +64,9 @@ Here we have shallow fried gluten puffs with a kung pao inspired glaze, served w
 
 <img height="400px" src="/blog/images/climatarian/seitan.png" />
 
-Although you’re unlikely to eat your weight in nutritional yeast, it can serve as an additional source of protein, while also being a tasty topping. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
+Although you’re unlikely to eat your weight in nutritional yeast, it can serve as an additional source of protein, while also being a tasty topping. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality protein sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
 
-If these options still leave you skeptical about building muscle mass, check out this [roster](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} of vegan powerlifters. You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
+If these options still leave you skeptical about building muscle mass, did you know that there are world class  [powerlifters](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} that are vegan? You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
@@ -103,7 +103,7 @@ Armed with a few techniques, you can find ways to use ingredients when they’re
 
 Have you had a bag of spinach sitting in your fridge looking too wilted and unappetizing to eat? Or herbs that you bought for one dish that now you don’t know what to do with? One use is to puree them into a salad dressing.
 
-A dressing can eat up large amounts of and an assortment of different greens, no matter their age, and gives you something fresh and beautiful to put on salads, rice bowls, stir fries, sandwiches, and more. Plus, if you make a big batch, you can freeze the dressing in an ice cube tray to make it last even longer and be perfectly portioned for individual meals!
+A dressing can wonderfully incorporate large quantities and varieties of different greens, no matter their age, turning  them into something fresh and vibrant. The end result can be used not only on salads, but also on rice bowls, stir fries, sandwiches, and more. Plus, if you make a big batch, you can freeze the dressing in an ice cube tray to make it last even longer and be perfectly portioned for individual meals!
 
 Here we have roasted vegetables with a greek goddess dressing made with spinach, cilantro, mint, and dill, garnished with grated lemon zest.
 
@@ -149,7 +149,7 @@ And with that, we thank you for dining with us. Your meal comes out to ~3 kg car
 
 This tasting menu was a real event that we ran as part of a [series](/cheff){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for future ones, let me know.
 
-If this inspired you to think about how we need to transform our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to effect change in the system.
+If this inspired you to think about how we need to remodel our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to effect change in the system.
 
 I’m still early in my journey, but as a starting point, the following are some of the biggest areas beyond our own diets that I’m seeing, and the companies already doing something about it. Let me know if there’s a company I should know about, or an area I’m missing or am misinformed about!
 
@@ -192,7 +192,7 @@ __Cold Chain__: Cooling makes up 10% of global emissions. The refrigeration in t
 - [Artyc](https://www.shipartyc.com/){:target="_blank"} is making refrigerant-free cooling containers
 - [Snofox](https://www.snofox.com/){:target="_blank"} helps with monitoring and increasing efficiency
 
-__Ocean Shipping__: Though what we eat matters more than where it came from, traveling further does still mean more emissions. Anything shipped across continents needs ocean freight, which accounts for 2% of global emissions.
+__Ocean Shipping__: Though what we eat matters more than where it came from, traveling further does still mean more emissions. Food shipped across continents often happens by ocean freight, which accounts for 2% of global emissions.
 
 - [Nautilus](https://nautiluslabs.com/){:target="_blank"} is improving the efficiency of ships with predictive navigation
 - [Amogy](https://amogy.co/){:target="_blank"} is creating an alternative fuel from ammonia for boats
@@ -211,6 +211,6 @@ __Fertilizers__: 1% of global emissions come from the carbon-intensive process o
 
 Thank you to [Jamie Wong](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"}, [Lyn Stoler](https://parachuteearth.substack.com/){:target="_blank"}, [Ivy Xu](https://www.linkedin.com/in/xuivy/){:target="_blank"}, Joanna Chen, and Jessie Duan for your edits to this post.
 
-Thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with his impromptu changes. To Jamie for the compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for the vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
+Thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with the impromptu improvements. To Jamie for your compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for your vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
 
-And finally, thanks to Jon, my co-conspirator in this and many other cooking adventures. Couldn’t have done it without your impressive spreadsheets, sick dining space, and general partnership.
+And finally, thanks to [Jon Ng](https://www.instagram.com/jonjon.ig){:target="_blank"}, my co-conspirator in this and many other cooking adventures. Couldn’t have done it without your impressive spreadsheets, sick dining space, and general partnership.
