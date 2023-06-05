@@ -58,7 +58,9 @@ If eating entirely plant-based would be hard for you, perhaps if you’re at a r
 
 ## seitanic saucery
 
-A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Wheat gluten, also known as seitan, can be upwards of 80% protein by calories. And depending on how you cook them, their texture can be remarkably similar to meat. In fact, it's thought to have originated in ancient China as a meat substitute for Buddhists.
+A common concern with eating more plant-rich is that it’d be hard to get sufficient protein, or that you’d just be eating all tofu all the time. But tofu isn’t the only meat-alternative protein option. Wheat gluten, also known as seitan, can be upwards of 80% protein by calories. 
+
+Depending on how you cook them, their texture can be remarkably similar to meat. As a matter of fact, there's a longstanding tradition of using seitan to make mock meats in [Chinese cuisine](https://theplantbasedwok.com/){:target="_blank"} rooted in Buddhism.
 
 Here we have shallow fried gluten puffs with a kung pao inspired glaze, served with roasted peanuts, bell peppers, and mangos, garnished with sesame and nutritional yeast. Accompanying it is a house recipe mala chili crisp for an optional kick.
 
@@ -112,7 +114,7 @@ Here we have roasted vegetables with a greek goddess dressing made with spinach,
 Zesting is a great way to make use of the citrus peels you’d normally just throw out. They can add contrast and brightness to a dish.
 
 Some other ideas to find new life for ingredients are:
-- Turning leftover rice into fried rice. In fact, that’s actually encouraged as the kind of rice to use since the moisture content is lower
+- Turning leftover rice into fried rice. Actually, that’s encouraged as the kind of rice to use since the moisture content is lower
 - Blanching or pickling veggies. Along with pureeing, those are other techniques you can add to your repertoire
 - Baking stale bread into croutons. They add a crunchy texture to your plant-rich salads
 - Baking overripe bananas into banana bread
@@ -209,8 +211,8 @@ __Fertilizers__: 1% of global emissions come from the carbon-intensive process o
 
 # Acknowledgements
 
-Thank you to [Jamie Wong](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"}, [Lyn Stoler](https://parachuteearth.substack.com/){:target="_blank"}, [Ivy Xu](https://www.linkedin.com/in/xuivy/){:target="_blank"}, Joanna Chen, and Jessie Duan for your edits to this post.
+For this post, thank you to [Jamie Wong](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"}, [Lyn Stoler](https://parachuteearth.substack.com/){:target="_blank"}, [Ivy Xu](https://www.linkedin.com/in/xuivy/){:target="_blank"}, [Doug Qian](https://www.linkedin.com/posts/douglas-qian_founding-engineer-streamline-activity-7059633014393225216-eqbP/){:target="_blank"}, Jessie Duan, and Joanna Chen for all your edits!
 
-Thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with the impromptu improvements. To Jamie for your compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for your vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
+For the tasting menu, thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with impromptu improvements. To Jamie for your compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for your vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
 
 And finally, thanks to [Jon Ng](https://www.instagram.com/jonjon.ig){:target="_blank"}, my co-conspirator in this and many other cooking adventures. Couldn’t have done it without your impressive spreadsheets, sick dining space, and general partnership.
