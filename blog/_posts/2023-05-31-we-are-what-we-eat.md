@@ -8,7 +8,7 @@ publish: true
 ---
 Greetings and welcome to _cheff’s table_ – a dining experience that educates through food. Your table is ready, if you would kindly follow me please.
 
-This seating, we'll be embarking on a culinary journey through climate change.
+This seating, we'll be embarking on a culinary journey exploring climate change.
 
 Take a look at the candle in front of you. It offers a few hints about what we need to transition our planet to a stable climate.
 
@@ -16,7 +16,7 @@ Take a look at the candle in front of you. It offers a few hints about what we n
 
 This candle is a source of warmth. We’ve transitioned from open fire to coal and now to natural gas for heating. Doing so has reduced our emissions, but we need to get off burning fossil fuels altogether. Heat pumps have paved the way by being a superior product that’s all electric, we just need to increase the rate of adoption.
 
-This candle is a source of light. We’ve done pretty well on increasing our energy efficiency by moving from candles to incandescent light to LEDs. As developing countries mature, we expect their energy usage to increase, so with the pie growing, not only do we need our energy to go green, we also need to dramatically increase our efficiency everywhere else we use it.
+This candle is a source of light. We’ve done pretty well on increasing our energy efficiency by moving from candles to incandescent light to LEDs. As developing countries mature, we expect their energy usage to increase. So with the pie growing, not only do we need our energy to go green, we also need to dramatically increase our efficiency everywhere else we use it.
 
 More surprising perhaps, this candle is a source of sustenance. You see, this candle is made from rosemary and garlic infused browned butter. To reach a stable climate, we need to transform our entire system of food. For now, start by transforming this candle into a dip for your bread.
 
@@ -24,7 +24,7 @@ More surprising perhaps, this candle is a source of sustenance. You see, this ca
 
 Over the course of this meal, we hope to give you gastronomic symbols to remember two key facets of the transformation we need – __decreasing the footprint of what we eat__, and __decreasing the footprint of what we don’t eat__.
 
-It turns out that these are two of the best means that we have to combat climate change! [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that indexes climate solutions, lists among our highest leverage solutions "reduced food waste" and "plant-rich diets".
+As it happens, these two are amongst our most effective tools to counteract climate change! [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that ranks climate solutions, has "reduced food waste" and "plant-rich diets" at the top of their index. Granted, it doesn't meant we can just do these and we're good. We need to do _everything_ on their list. It just so happens that these are some of the highest leverage.
 
 <img src="/blog/images/climatarian/drawdown.png" />
 
@@ -32,9 +32,9 @@ They might not seem like much from an individual perspective, but collectively o
 
 # What We Eat
 
-How do we decrease the footprint of what we eat? The spoiler from Project Drawdown was that we eat plant-rich diets. But what does that mean and how do we go about doing it without feeling like a sacrifice?
+How do we decrease the footprint of what we eat? The spoiler from Project Drawdown is that we eat plant-rich diets. But what does that mean and how do we go about doing it without it feeling like a sacrifice?
 
-Let's see, starting with...
+Let's see. Starting with...
 
 ## ton for ton
 
@@ -42,7 +42,7 @@ Our next course, the salad course. For the table, we have a large bowl of pomegr
 
 <img height="400px" src="/blog/images/climatarian/salad.png" />
 
-The carbon footprint of the salad in front of you matches that of the chicken beside it, which, in turn, is equivalent to the steak. The salad is only that “small” because of the avocados, which have larger footprints due to the deforestation and water consumption involved in their cultivation. Without them, the salad’s portion would be much too big for the meal.
+The carbon footprint of the salad in front of you matches that of the chicken beside it, which in turn is equivalent to the steak. The salad is only that “small” because of the avocados, which have larger footprints due to the deforestation and water consumption involved in their cultivation. Without them, the salad’s portion would be much too big for the meal.
 
 Adopting a plant-rich diet isn't synonymous with a strictly vegetarian or vegan lifestyle. It doesn't need to be an 'all-or-nothing' approach. In fact, even Project Drawdown’s definition of “plant-rich” includes an average of 57g of red meat a day. Visually, we can see that just reducing our red meat intake would already make a meaningful difference.
 
