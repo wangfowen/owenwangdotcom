@@ -31,11 +31,11 @@ More surprising perhaps, _this candle is a source of sustenance._ You see, this 
 
 Over the course of this meal, we hope to give you gastronomic symbols to remember two key facets of the transformation we need – __decreasing the footprint of what we eat__, and __decreasing the footprint of what we don’t eat__.
 
-As it happens, these two are amongst our most effective tools to counteract climate change. [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that ranks climate solutions, has "reduced food waste" and "plant-rich diets" at the top of _all_ known climate solutions. Granted, this doesn't mean we can just do these and call it a day. We need to do _everything_ on their list. It just so happens that these are some of the highest leverage.
+As it happens, these two are amongst our most effective tools to counteract climate change. [Project Drawdown](https://drawdown.org/){:target="_blank"}, a non-profit that ranks climate solutions, has "reduced food waste" and "plant-rich diets" at the top of _all_ known climate solutions. Granted, this doesn't mean we can just do these and call it a day. We need to do _everything_ on their list. But these are some of the highest leverage.
 
 <img src="/blog/images/climatarian/drawdown.png" />
 
-They might not seem like much from an individual perspective, but collectively our efforts add up massively.
+It can often feel like there's not much that we can do as individuals to combat climate change. Well, __shifting the way we eat is one massive way to do so__. It might not seem like much from an individual perspective, but collectively our efforts add up. And hopefully this meal will help make the shift easier.
 
 # What We Eat
 
