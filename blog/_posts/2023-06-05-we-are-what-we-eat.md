@@ -9,13 +9,13 @@ sitemap: true
 
 ---
 
-_Welcome to [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. This tasting menu was a real event that we ran. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as an attendee for a future one, let me know._
+_This post is based off of our second annual [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be an attendee at a future one, let me know._
 <br/>
 <br/>
 
 Greetings guest! Your table is ready, if you would kindly follow me please.
 
-This seating, we'll be embarking on a culinary journey exploring climate change. Let's get started.
+This seating, we'll be embarking on a culinary journey exploring climate change.
 
 Take a look at the candle in front of you. It offers a few hints about what we need to transition our planet to a stable climate.
 
