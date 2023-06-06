@@ -9,7 +9,7 @@ sitemap: true
 
 ---
 
-_This post is based off of our second annual [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be an attendee at a future one, let me know._
+_This post is based off of our second annual [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. If you live in or pass through the Bay Area and would like to be an attendee at a future one, let me know._
 <br/>
 <br/>
 
@@ -35,7 +35,7 @@ As it happens, these two are amongst our most effective tools to counteract clim
 
 <img src="/blog/images/climatarian/drawdown.png" />
 
-It can often feel like there's not much that we can do as individuals to combat climate change. Well, __shifting the way we eat is one massive way to do so__. It might not seem like much from an individual perspective, but collectively our efforts add up. And hopefully this meal will help make the shift easier.
+It can often feel like there's not much that we can do as individuals to combat climate change. Well, __shifting the way we eat is one massive way to do so__. It might not seem like much from an individual perspective, but collectively our efforts add up. And hopefully this meal will show you how to make the shift easier.
 
 # What We Eat
 
