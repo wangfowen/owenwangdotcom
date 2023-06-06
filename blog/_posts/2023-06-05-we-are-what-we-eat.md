@@ -2,13 +2,18 @@
 layout: post
 title: "we are what we eat"
 tagline: "A home cooked climatarian tasting menu"
-date: 2023-06-02 00:00:00
+date: 2023-06-05 00:00:00
 publish: true
 categories: blog
 sitemap: true
 
 ---
-Greetings and welcome to _cheff’s table_ – a dining experience that educates through food. Your table is ready, if you would kindly follow me please.
+
+_Welcome to [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. This tasting menu was a real event that we ran. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as an attendee for a future one, let me know._
+<br/>
+<br/>
+
+Greetings guest! Your table is ready, if you would kindly follow me please.
 
 This seating, we'll be embarking on a culinary journey exploring climate change. Let's get started.
 
@@ -68,7 +73,7 @@ Here we have shallow fried gluten puffs with a kung pao inspired glaze, served w
 
 Although you’re unlikely to eat your weight in nutritional yeast, it can serve as an additional source of protein, while also being a tasty topping. Nutritional yeast is 70% protein by calories and can [intensely boost](https://youtu.be/GHX3aaLmjMI){:target="_blank"} the deliciousness of your food. Other quality protein sources are lupini beans (55%), tempeh (45%), and certain seaweeds (up to 45%).
 
-If these options still leave you skeptical about building muscle mass, did you know that there are world class  [powerlifters](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} that are vegan? You don’t have to go to their extreme in diet nor exercise, but they do show us what’s possible without meat. For those that use supplements but don’t like the taste of pea protein powder, there’s also [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
+If these options still leave you skeptical about building muscle mass, we can look to world class [vegan powerlifters](https://www.greatveganathletes.com/athletes/sport/powerlifters){:target="_blank"} for what's possible. For those that use supplements but don’t like the taste of pea protein powder, there’s now [animal-free whey protein](https://californiaperformance.co/){:target="_blank"}.
 
 ## but where are you REALLY from?
 
@@ -143,13 +148,17 @@ So for our real final course, we have a croissant French toast with crème fraic
 
 And if you want another helping of knowledge with your dessert…
 
-<img height="400px" src="/blog/images/climatarian/carton-qr.png" />
+<img height="500px" src="/blog/images/climatarian/carton-qr.png" />
 
-And with that, we thank you for dining with us. Your meal comes out to ~3 kg carbon dioxide equivalent of emissions. If you would like to pay online, [Wren](https://www.wren.co/){:target="_blank"} offers a way to offset your carbon footprint. Have a good rest of your day!
+And with that, we thank you for dining with us. Your meal comes out to ~3 kg carbon dioxide equivalent of emissions. If you would like to pay online, [Wren](https://www.wren.co/){:target="_blank"} offers a way to offset your carbon footprint.
+
+As a parting gift, we'd like to present you with a copy of our menu from this meal. We've included a takeaway from each dish to look back on.
+
+<img style="max-height: 650px" src="/blog/images/climatarian/menu.png" />
+
+We hope you've had a wonderful time with us and hope to see you again!
 
 # Afterword
-
-This tasting menu was a real event that we ran as part of a [series](/cheff){:target="_blank"}. We plan to do them roughly once a year. If you live in or pass through the Bay Area and would like to be considered as a guest for future ones, let me know.
 
 If this inspired you to think about how we need to remodel our food infrastructure, let’s [connect](https://www.linkedin.com/in/owenwang/){:target="_blank"}. I'm currently investigating where software can be levered to effect change in the system.
 
@@ -211,8 +220,8 @@ __Fertilizers__: 1% of global emissions come from the carbon-intensive process o
 
 # Acknowledgements
 
-For this post, thank you to [Jamie Wong](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"}, [Lyn Stoler](https://parachuteearth.substack.com/){:target="_blank"}, [Ivy Xu](https://www.linkedin.com/in/xuivy/){:target="_blank"}, [Doug Qian](https://www.linkedin.com/posts/douglas-qian_founding-engineer-streamline-activity-7059633014393225216-eqbP/){:target="_blank"}, Jessie Duan, and Joanna Chen for all your edits!
+For this post, thank you to [Jamie Wong](https://jamie-wong.com/post/carbon-dioxide-removal/){:target="_blank"}, [Lyn Stoler](https://parachuteearth.substack.com/){:target="_blank"}, [Ivy Xu](https://www.linkedin.com/in/xuivy/){:target="_blank"}, [Doug Qian](https://www.linkedin.com/posts/douglas-qian_founding-engineer-streamline-activity-7059633014393225216-eqbP/){:target="_blank"}, [Amer Ameen](http://amer.substack.com){:target="_blank"}, Jessie Duan, Joanna Chen, and Rox Guo for all your edits!
 
-For the tasting menu, thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with impromptu improvements. To Jamie for your compelling storytelling, imaginative carton design, and deep climate knowledge. To Janice for your vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
+For the tasting menu, thanks to Doug, who helped conceive the concepts in a talk we gave at a climate conference and crushed it as back of house with impromptu improvements. To Jamie for your compelling storytelling that shaped the narrative of this, your imaginative carton design, and deep climate knowledge. To Janice for your vibrant front of house energy. To Connie, our thoughtful back of house’s back of house. To our taste testers Wes, Alice, Jessie, Dean, Joanna, and Brian, whose feedback helped shape the final menu into what it was. And our guests Ivy, Romain, Lyn, Chris, Eric, Soraya, Alina, and Helena for an unforgettable evening.
 
 And finally, thanks to [Jon Ng](https://www.instagram.com/jonjon.ig){:target="_blank"}, my co-conspirator in this and many other cooking adventures. Couldn’t have done it without your impressive spreadsheets, sick dining space, and general partnership.
