@@ -9,7 +9,7 @@ sitemap: true
 
 ---
 
-_This post is based off of our second annual [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. If you live in or pass through the Bay Area and would like to be an attendee at a future one, let me know._
+_This post is based off of our second annual [cheff's table](/cheff){:target="_blank"} - a home cooked dining experience that educates through food. If you live in or pass through the Bay Area and would like to attend a future one, let me know._
 <br/>
 <br/>
 
@@ -105,7 +105,6 @@ Why does this matter? Because when food is thrown out, it sits in landfills and 
 
 Armed with a few techniques, you can find ways to use ingredients when they’re past their prime and avoid the dump.
 
-
 ## grateful dead
 
 Have you had a bag of spinach sitting in your fridge looking too wilted and unappetizing to eat? Or herbs that you bought for one dish that now you don’t know what to do with? One use is to puree them into a salad dressing.
@@ -128,7 +127,6 @@ Some other ideas to find new life for ingredients are:
 For more advanced cooks, we can look to Noma for inspiration. They’re always pushing the boundaries with [new ways](https://www.instagram.com/p/Cs-ilYFomjW/?igshid=MzRlODBiNWFlZA==){:target="_blank"} to love unloved foods and they wrote a comprehensive [book](https://shop.revolutionfermentation.com/products/the-noma-guide-to-fermentation-by-rene-redzepi-david-zilber){:target="_blank"} on fermentation, which not only extends ingredients’ lifetimes, but brings complexity to previously simple flavors.
 
 As for the food waste that you really have no way to deal with, there’s a startup making a new kitchen bin for it. Instead of smelly and liquidy compost that you have to throw out often, [Mill](https://www.mill.com/){:target="_blank"}’s bin dehydrates what you put into it, shrinking it down and removing the stink. The end result can then be used as animal feed.
-
 
 ## lost: bread
 
