@@ -89,7 +89,7 @@ Eating local gets a lot of attention, and while it’s true that the farther tha
 
 Building off of what we learned from the previous courses, __what__ you eat matters more than __where__ it came from. So don’t feel guilty if you liked the San Marzano shakshuka better. But if you couldn’t taste the difference between the two, might as well go for the local one next time!
 
-One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a handful of farms’ lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse is 9x worse than one grown in an open field. For now, all we can do is be handwavy and generalize about categories of food. It doesn’t diminish the fact that eating more plant-rich is the highest leverage change we can make in our diet.
+One nuance in this topic is that emissions calculations are very complicated and we do not yet have good tools in place to do them systemically. Most of the data we have are averages across a handful of farms’ lifecycles. The carbon footprint of one farm could be drastically different from that of another, even in the same region. For example, a tomato grown in a greenhouse can be 9x worse than one grown in an open field. For now, all we can do is be handwavy and generalize about categories of food. It doesn’t diminish the fact that eating more plant-rich is the highest leverage change we can make in our diet.
 
 # What We Don't Eat
 
@@ -176,14 +176,14 @@ __Cow Burps__: Of the 14% of global emissions from livestock, 6% of it comes the
 - [Alga](https://www.alga.bio/){:target="_blank"} is supplementing cow feed with algae to reduce the methane
 - [Lasso](https://www.joinlasso.com/){:target="_blank"} helps cattle farmers change practices to decrease emissions
 
-__Alternative Proteins__: For some, the taste of meat is hard to do without. One hypothesis for reducing livestock emissions is to produce better alternatives, whether it's growing meat in labs with less emissions, or creating substitutes that taste meat-like from plant-based ingredients.
+__Alternative Proteins__: For some, the taste of meat is hard to do without. One hypothesis for reducing livestock emissions is to produce better alternatives, whether it's cultivating meat in labs with less emissions, or creating substitutes that taste meat-like from plant-based ingredients.
 
 - [Umaro](https://www.umarofoods.com/){:target="_blank"} is making bacon substitutes with seaweed proteins
 - [Prime Roots](https://www.primeroots.com/){:target="_blank"} is making deli meat substitutes with koji
 - [Upside Foods](https://www.upsidefoods.com/){:target="_blank"} is growing meat directly from animal cells
 - [Formo](https://formo.bio/){:target="_blank"} is producing animal-free dairy
 
-This space seems to have the most competition, with at least 10 other companies I found working in it.
+This space seems to have the most competition, with over 200 companies working in it.
 
 __Soil Health__: Soil is a major sink for the carbon we put into the atmosphere. And yet we’ve severely degraded our soils from farming practices that prioritize short term gains. If we improve soil content by 3%, we could reduce global emissions by 5%.
 
