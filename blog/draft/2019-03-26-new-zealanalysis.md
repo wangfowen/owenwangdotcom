@@ -6,15 +6,13 @@ date: 2019-03-26 00:00:00
 publish: false
 categories: blog
 sitemap: false
-
 ---
 
-_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
+_Welcome to the Newsletter Series. Ivy and I co-write a [periodic newsletter](https://ivyandowen.substack.com/){:target="\_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
 <br/>
 <br/>
 
-
-We previously talked about [our personal reflections](/blog/vanalysis){:target="_blank"} from the last three months. As we leave the country, we wanted to talk about our reflections on New Zealand itself.
+We previously talked about [our personal reflections](/blog/vanalysis){:target="\_blank"} from the last three months. As we leave the country, we wanted to talk about our reflections on New Zealand itself.
 
 ## Kiwis are very trusting
 
@@ -32,12 +30,12 @@ Even many gas stations in NZ let you fill up first and then go to the cashier in
 
 <img height="400" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/8bf3a66c-3903-46bc-b541-b6787b117b92.jpg" />
 
-Not only do grocery stores [label where the food comes from](/blog/takeaways-from-a-workaway){:target="_blank"}, most packaged foods have a health star rating from 0-5 highlighted. This made it very easy to make conscious decisions on what to eat and made it feel extra bad when we chose to indulge on a snack, often prompting us to choose a slightly less unhealthy 1.5 star snack over a 0.5 one (RIP Tim Tams).
+Not only do grocery stores [label where the food comes from](/blog/takeaways-from-a-workaway){:target="\_blank"}, most packaged foods have a health star rating from 0-5 highlighted. This made it very easy to make conscious decisions on what to eat and made it feel extra bad when we chose to indulge on a snack, often prompting us to choose a slightly less unhealthy 1.5 star snack over a 0.5 one (RIP Tim Tams).
 
 Similarly, appliances had a water and energy rating, along with the explanation of the energy and water usage to justify it, so you know exactly how environmental you are with what you use.
- 
+
 Kiwis both in and out of the cities love to have their own garden and be as self sustaining as possible. Many households compost and use it directly for their home garden. There are power switches in all houses for appliances so your stoves, toasters, and TVs are fully off when unused. Dryers are uncommon as most homes use clothing lines instead.
- 
+
 ## Macro Economics of New Zealand
 
 We came in knowing that New Zealand was a first world country with high standard of living, still fairly untouched by mass tourism, and had a big agriculture and viticulture industry. Prices were expensive, but minimum wage was high. We had great respect for Prime Minister Jacinda Arden, who pushed glass ceilings as she gave birth during her term. After the Christchurch shooting and the immediate change in gun laws and support for the Muslim community, we love her even more.
@@ -50,26 +48,25 @@ Although New Zealand on the surface is a first world country with first world co
 
 What this meant for the people we met was they often were not making all that much money beyond the minimum wage. Even though that amount was livable, they weren't able to break the ceiling of ownership of the businesses they worked for. Many people we talked to didn't seem too upset by this though, to them there's nothing to be done about it, it's just how things are.
 
-In terms of government services, New Zealand is amazing - guess the high tax rates do go somewhere. [Playgrounds here](https://www.commonplays.com/playground/){:target="_blank"} are out of this world! The jungle gyms are all fantastically unique and big enough for adults to play on. 
+In terms of government services, New Zealand is amazing - guess the high tax rates do go somewhere. [Playgrounds here](https://www.commonplays.com/playground/){:target="\_blank"} are out of this world! The jungle gyms are all fantastically unique and big enough for adults to play on.
 
 <img height="500" src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/bf72d61d-56b5-4437-97dc-44f0e13a5146.jpg" />
 
 The libraries here really function as community centers. The one in Christchurch that was built after the earthquake has an Audio Visual studio, makerspace with 3D printing/sewing machines/laser cutting, VR studio, video and boardgames, imagination studio for children, and multiple daily events from ESL help to movie making workshops to board game nights. It’s basically the facilities big tech companies offer to employees, but actually available to the entire public!
- 
+
 ## Micro Economics of New Zealand
 
 To get a closer look at the cost of living here, we rigorously tracked our spending data from the beginning. The below are all based on personal data so it reflects people living exactly like us here and not to be extrapolated to the whole NZ population:
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/2988d8a4-1377-4d25-b8f5-c40d2382cf6a.png" />
 
-In total we spent __$16,631.57__ (USD) together across 3 months, which averages out to __$2.77k__ per person per month. Food was by far our largest expense. We did not hold back in how we ate compared to SF. An average meal out cost $14.98/pp while cooking at home from groceries was $4.63/pp (we cooked 66% of the time).
+In total we spent **$16,631.57** (USD) together across 3 months, which averages out to **$2.77k** per person per month. Food was by far our largest expense. We did not hold back in how we ate compared to SF. An average meal out cost $14.98/pp while cooking at home from groceries was $4.63/pp (we cooked 66% of the time).
 
-Our van was the next largest expense -- we were trying to sell during low season and on top of that pre-buy mechanic checks exposed many issues we weren’t aware of, so we ended up selling at a steep discount. We spent __50.5%__ of nights living out of it though! A night spent in our van cost just __$6.97__ per person, averaging the free and paid campsites. If you average in the cost of the van itself as well, it’d be __$24.93__ per person per night.
+Our van was the next largest expense -- we were trying to sell during low season and on top of that pre-buy mechanic checks exposed many issues we weren’t aware of, so we ended up selling at a steep discount. We spent **50.5%** of nights living out of it though! A night spent in our van cost just **$6.97** per person, averaging the free and paid campsites. If you average in the cost of the van itself as well, it’d be **$24.93** per person per night.
 
-How does that compare with other living situations? At the more luxurious end of our stay, an average night in a hotel was __$46.58__ (still cheaper than our SF rent would’ve been). An average Airbnb was __$32.18__. An average hostel was __$21.74__ -- just a bit better than our van life but let’s not kid ourselves, we wouldn’t have lasted 3 months in shared dorms. So even if you sell poorly like us, van life is still very very cost effective here!
+How does that compare with other living situations? At the more luxurious end of our stay, an average night in a hotel was **$46.58** (still cheaper than our SF rent would’ve been). An average Airbnb was **$32.18**. An average hostel was **$21.74** -- just a bit better than our van life but let’s not kid ourselves, we wouldn’t have lasted 3 months in shared dorms. So even if you sell poorly like us, van life is still very very cost effective here!
 
 <img src="https://gallery.mailchimp.com/e9a2a7ba7716f6b270bbe04e5/images/51a712c6-6443-44c4-a2a7-51cc9d77fc17.png" />
-
 
 Of course, not all working holiday goers and van-lifers lived like us. Our friend who we met at Hanna Berry Farm started his trip with only money to buy a car and $2000 USD. His usual meals consist of a can of beans and rice with a splurge on a case of grocery store beer once in a while. He lives in the back of his car with a sleeping bag by hiding out on side streets hoping he wouldn’t get caught on not designated campsites. It wasn’t until he was down to $200 that he decided to stop and pick up a job.
 

@@ -5,18 +5,17 @@ tagline: "Two weeks on a berry farm in New Zealand"
 date: 2019-02-22 00:00:00
 publish: true
 categories: blog
-
 ---
 
-_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
+_Welcome to the Newsletter Series. Ivy and I co-write a [periodic newsletter](https://ivyandowen.substack.com/){:target="\_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
 <br/>
 <br/>
 
-Ivy and I kicked off 2019 with two weeks at [Hanna Berry Farm](https://www.facebook.com/HannaBerryFarm/){:target="_blank"} in New Zealand. We coordinated it through [Workaway](https://www.workaway.info/){:target="_blank"}, a site for finding WWOOFing and other such "cultural exchanges".
+Ivy and I kicked off 2019 with two weeks at [Hanna Berry Farm](https://www.facebook.com/HannaBerryFarm/){:target="\_blank"} in New Zealand. We coordinated it through [Workaway](https://www.workaway.info/){:target="\_blank"}, a site for finding WWOOFing and other such "cultural exchanges".
 
 <img height="400" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41095f9-0926-48c4-a9f9-d73e911f0d73_600x800.jpeg" />
 
-Each day we worked 4 hours/day, 6 days a week in exchange for food and accommodation. Accommodation was a room in the family home. Meals were DIY, with groceries ordered for us based on a wish list. I didn’t like cooking in the outdoor kitchen (heat, flies, animals), so I fulfilled my caloric intake by eating my body weight in bread. We were allowed to eat the bruised fruits at the fruit stall, so Ivy fed herself from there: peaches, apricots, nectarines, plums...all of which I'm allergic to. 
+Each day we worked 4 hours/day, 6 days a week in exchange for food and accommodation. Accommodation was a room in the family home. Meals were DIY, with groceries ordered for us based on a wish list. I didn’t like cooking in the outdoor kitchen (heat, flies, animals), so I fulfilled my caloric intake by eating my body weight in bread. We were allowed to eat the bruised fruits at the fruit stall, so Ivy fed herself from there: peaches, apricots, nectarines, plums...all of which I'm allergic to.
 
 The work was chill, and even meditative. Each day usually consisted of 2 hours of farm related work and 2 hours working the farm’s roadside fruit stall. The stall sold their own farm grown boysenberries, other sourced seasonal fruits, and real-fruit ice cream (which was 95% vanilla ice cream and 5% fruit). They hired high school kids to pick in the mornings, so for us, it was miscellaneous need-to-do tasks of the day. Tasks included: washing punnets (containers), drying punnets, sorting berries for freezing, bagging, and working the vines (pruning, caning, picking).
 

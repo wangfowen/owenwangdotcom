@@ -5,10 +5,9 @@ tagline: "Looking back on 3 months of van life"
 date: 2019-03-02 00:00:00
 publish: true
 categories: blog
-
 ---
 
-_Welcome to the Newsletter Series. [Ivy](http://ivyxu.co/?utm_source=referral&&utm_medium=owenwangdotcom){:target="_blank"} and I co-write a [periodic newsletter](https://mailchi.mp/03e9ab1adc54/ivyowen){:target="_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
+_Welcome to the Newsletter Series. Ivy and I co-write a [periodic newsletter](https://ivyandowen.substack.com/){:target="\_blank"}. This piece is adapted from an edition of it, dated when the newsletter came out._
 <br/>
 <br/>
 
