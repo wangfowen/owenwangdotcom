@@ -8,7 +8,7 @@ categories: blog
 sitemap: true
 ---
 
-_This post is based off of our second annual [cheff's table](/cheff){:target="\_blank"} - a home cooked dining experience that educates through food. If you live in or pass through the Bay Area and would like to attend a future one, let me know._
+_This post is based off of our second annual [cheff's table](https://cheffstable.com/){:target="\_blank"} - a home cooked dining experience that educates through food. If you live in or pass through the Bay Area and would like to attend a future one, let me know._
 <br/>
 <br/>
 
