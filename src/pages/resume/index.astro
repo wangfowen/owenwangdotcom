@@ -33,7 +33,7 @@ const html = (s: string) => s.replace(/<a href="(https?:)/g, '<a target="_blank"
 const title = 'Owen Wang · Resume';
 ---
 
-<Base title={title} description="Owen Wang's resume" section="resume">
+<Base bare title={title} description="Owen Wang's resume">
   <article class="resume">
     <header class="head">
       <div>
@@ -70,10 +70,10 @@ const title = 'Owen Wang · Resume';
               )}
               {(e.roles ?? []).map((role) => (
                 <div class="sub">
-                  <div class="line">
-                    <h4>{role.role}</h4>
-                    {role.dates && <span class="dates">{role.dates}</span>}
-                  </div>
+                  <h4>
+                    {role.role}
+                    {role.dates && <span class="role-dates">{role.dates}</span>}
+                  </h4>
                   {(role.content ?? []).map((b) =>
                     typeof b === 'string' ? <p set:html={html(b)} /> : <ul>{bullets(b.bullets).map((t) => <li set:html={html(t)} />)}</ul>,
                   )}
@@ -89,9 +89,13 @@ const title = 'Owen Wang · Resume';
 </Base>
 
 <style>
+  /* Plain eggshell page like the original resume, not the blue site theme. */
+  :global(body) {
+    background: #f2ede9 url('/assets/bg_eggshell.jpg');
+  }
   .resume {
-    width: 100%;
-    margin: 0;
+    width: min(100% - 2 * var(--gutter), 46rem);
+    margin: clamp(2rem, 6vw, 4rem) auto 4rem;
     font-family: var(--sans);
     font-size: 0.95rem;
     line-height: 1.55;
@@ -121,6 +125,9 @@ const title = 'Owen Wang · Resume';
     display: flex;
     flex-wrap: wrap;
     gap: 0.25rem 1.25rem;
+  }
+  .contact li {
+    margin: 0;
   }
   .contact a {
     color: var(--muted);
@@ -190,9 +197,15 @@ const title = 'Owen Wang · Resume';
     font-variant-numeric: tabular-nums;
   }
   .sub {
-    margin-top: 0.6rem;
-    padding-left: 0.9rem;
-    border-left: 2px solid var(--rule);
+    margin-top: 0.75rem;
+  }
+  /* Role dates sit next to the title so they don't stack under the company's dates. */
+  .role-dates {
+    margin-left: 0.6rem;
+    font-weight: 400;
+    font-size: 0.85rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
   }
   p {
     margin: 0.4rem 0 0;
@@ -201,7 +214,7 @@ const title = 'Owen Wang · Resume';
     margin: 0.35rem 0 0;
     padding-left: 1.1rem;
   }
-  li + li {
+  ul:not(.contact) li + li {
     margin-top: 0.25rem;
   }
   li::marker {
@@ -237,13 +250,23 @@ const title = 'Owen Wang · Resume';
     section {
       margin-top: 1.1rem;
     }
-    .entry,
-    .sub {
+    :global(body) {
+      background: #fff;
+    }
+    /* Let long entries (Odeko) flow across pages; just keep headings with what follows. */
+    .line,
+    h4,
+    h2 {
+      break-after: avoid;
+    }
+    li,
+    p {
       break-inside: avoid;
     }
-    a,
+    .resume :global(a),
     .contact a,
-    .dates {
+    .dates,
+    .role-dates {
       color: #000 !important;
       text-decoration: none;
     }
