@@ -1,6 +1,7 @@
 # Resume content. Rendered by src/pages/resume/index.astro (web + print/PDF).
 # Strings may contain inline HTML (links, <strong>). Items with `hidden: true` are kept for
 # reference but not shown — they were commented out on the old page.
+# Links with class="print" get their URL printed after them in the PDF/print version.
 
 name: OWEN (FANG) WANG
 url: http://owenwang.com
@@ -74,7 +75,7 @@ sections:
           - bullets:
               - Traveling through emerging markets to gain a better understanding of tech around the globe
               - Part time consulted with Udacity (1 year 3 months) working on core features for the Classroom Experience team in Javascript/Go
-              - Part time worked on my own startup, <a href="https://makasu.co/">Makasu</a>
+              - Part time worked on my own startup, <a href="https://makasu.co/" class="print">Makasu</a>
               - Consulted for IdeaFlow (2 months), helping them expand to the hackathon market in China, working in Typescript
               - Consulted for Sempo (4 months), porting the USSD interface (untested Rails) from a partner organization to their Flask app, fully tested. Integrated directly into their blockchain functionality instead of depending on legacy third party APIs
 
@@ -93,7 +94,7 @@ sections:
         dates: Mar. 2017 – July 2017
         content:
           - bullets:
-              - Traveled through East Asia, contributing to some open source in my down time. Made a recipe cards <a href="https://github.com/cloverfoodlab/recipecards">web app</a> for <a href="https://www.cloverfoodlab.com/">Clover Food Lab</a> to end a pain point for the kitchen staff
+              - Traveled through East Asia, contributing to some open source in my down time. Made a recipe cards <a href="https://github.com/cloverfoodlab/recipecards" class="print">web app</a> for <a href="https://www.cloverfoodlab.com/">Clover Food Lab</a> to end a pain point for the kitchen staff
 
       - org: Google/Nest
         href: https://nest.com/
@@ -103,7 +104,7 @@ sections:
           - bullets:
               - Worked on the Real Time Services team, which later merged into a Google team
               - Took the lead on various microservices within the new infrastructure used by Nest Secure and later devices, developing a strong understanding of practices for scaling platforms
-              - Led grassroots efforts to get an <a href="http://nest.tech">engineering blog</a> started to improve engineers' pride and morale
+              - Led grassroots efforts to get an <a href="http://nest.tech" class="print">engineering blog</a> started to improve engineers' pride and morale
 
       - org: Nest
         hidden: true
@@ -166,7 +167,7 @@ sections:
         dates: 2010 – 2015
         content:
           - bullets:
-              - Notable course projects include programming a <a href="http://owenwang.com/graphics">raytracer</a> (C++), a virtual reality game with haptic feedback (C#), and an adaptive simulated annealing algorithm for tuning voice activity detection (Matlab) which won Best Project in the class
+              - Notable course projects include programming a <a href="http://owenwang.com/graphics" class="print">raytracer</a> (C++), a virtual reality game with haptic feedback (C#), and an adaptive simulated annealing algorithm for tuning voice activity detection (Matlab) which won Best Project in the class
               - Dean's Honour List, 2012 – excellent academic standing based on combination of GPA and percentile rank
               - President's Scholarship of Distinction, 2010 – above 95% admission average
               - text: Learned C through writing multiprocessing and multithreading performance comparisons in Operating Systems and a music player in Embedded Microprocessor Systems. Learned Coldfire assembly language through building a calculator in Digital Computers
@@ -174,7 +175,7 @@ sections:
       - org: Independent Coursework
         content:
           - bullets:
-              - Created a <a href="http://owenwang.com/scheem">Scheme-like language</a> in <a href="http://nathansuniversity.com/">Nathan's University</a>'s PL101 course, learning all about parsers, compilers, and interpreters (2012)
+              - Created a <a href="http://owenwang.com/scheem" class="print">Scheme-like language</a> in <a href="http://nathansuniversity.com/">Nathan's University</a>'s PL101 course, learning all about parsers, compilers, and interpreters (2012)
               - Completed the <a href="http://www.ml-class.org/">Machine Learning course</a> from Stanford University Online (2011)
               - text: Took Calculus III and Differential Equations (MA 242 and 341) at North Carolina State University as supplementary courses in high school (2009)
                 hidden: true
@@ -186,39 +187,39 @@ sections:
           - bullets:
               - Run a <a href="https://cheffstable.com/">series</a> of home cooked tasting menus that educate through food
               - The most recent iteration fed 48 people across three seatings of twelve courses. We made close to 600 dishes for it over two days
-              - The 2023 menu taught about food's impact on carbon emissions. I wrote an accompanying <a href="https://www.owenwang.com/blog/we-are-what-we-eat">blog post</a>
+              - The 2023 menu taught about food's impact on carbon emissions. I wrote an accompanying <a href="https://www.owenwang.com/blog/we-are-what-we-eat" class="print">blog post</a>
               - text: Set up the website, tooling for hosts to upload talks, tooling and documentation for getting new branches started easily
                 hidden: true
       - org: Learning Night
         content:
           - bullets:
-              - Founded an <a href="http://learningnight.com">event series</a> akin to casual TED talks for friends to learn from one another
+              - Founded an <a href="http://learningnight.com" class="print">event series</a> akin to casual TED talks for friends to learn from one another
               - Established a playbook for starting new chapters and it grew to have branches in 6 countries, 10 cities
               - text: Set up the website, tooling for hosts to upload talks, tooling and documentation for getting new branches started easily
                 hidden: true
       - org: Clean Plates Cooking
         content:
           - bullets:
-              - Co-created a <a href="https://www.youtube.com/@CleanPlatesCooking">YouTube</a> and <a href="https://www.instagram.com/cleanplatescooking">Instagram</a> cooking channel to teach simple and healthy Asian recipes
+              - Co-created a <a href="https://www.youtube.com/@CleanPlatesCooking" class="print">YouTube</a> and <a href="https://www.instagram.com/cleanplatescooking" class="print">Instagram</a> cooking channel to teach simple and healthy Asian recipes
               - Across all platforms combined reached over 50k followers and 20M views
       - org: TEDxUW
         hidden: true
         content:
           - bullets:
-              - Web Developer – Coded from scratch and co-designed under tight deadlines the 2014 and <a href="http://2012.tedxuw.com/">2012</a> iterations of the website. Includes a content management system built in Rails (2012-2014)
+              - Web Developer – Coded from scratch and co-designed under tight deadlines the 2014 and <a href="http://2012.tedxuw.com/" class="print">2012</a> iterations of the website. Includes a content management system built in Rails (2012-2014)
               - Production Staff – Helped with technical issues and filmed / photographed throughout the day of the event (2011-2012)
       - org: The Intern Project
         hidden: true
         content:
           - bullets:
-              - Co-created the <a href="http://internproject.io">Intern Project</a>, a non-profit to help interns in the Bay Area make the most out of their time
+              - Co-created the <a href="http://internproject.io" class="print">Intern Project</a>, a non-profit to help interns in the Bay Area make the most out of their time
       - org: Misc. Side Coding
         hidden: true
         content:
           - bullets:
               - Hackathons – Partook in (and occasionally won) various events including <a href="http://www.fhacktory.com/">Fhacktory</a>, <a href="http://www.photohackday.org/">Photo Hack Day</a>, <a href="http://www.angelhack.com/">Angel Hack</a>, and <a href="http://www.greylocku.com/">Greylock</a>. Pushed personal boundaries by trying technologies including Harmony Proxy and WebGL
-              - Hacked on various small projects to solve personal problems including <a href="http://poker-stats.herokuapp.com/wang1">tracking poker stats</a>, making flash cards, and <a href="http://butternife.meteor.com">real-time collaborative playlist making</a>
-              - StoryCraft – simple Android word game. Available on the <a href="http://bit.ly/Uox8yH">Google Play Store</a>
+              - Hacked on various small projects to solve personal problems including <a href="http://poker-stats.herokuapp.com/wang1" class="print">tracking poker stats</a>, making flash cards, and <a href="http://butternife.meteor.com" class="print">real-time collaborative playlist making</a>
+              - StoryCraft – simple Android word game. Available on the <a href="http://bit.ly/Uox8yH" class="print">Google Play Store</a>
       - org: Summer Ventures in Science and Mathematics
         hidden: true
         href: http://www.summerventures.org/
@@ -227,7 +228,7 @@ sections:
         content:
           - bullets:
               - Summer camp in which we studied optical engineering and worked hands on with circuitry creating radio, LED, and speaker systems
-              - Researched the properties and applications of plasmonics; led to a <a href="http://bit.ly/PT8ftW">published paper</a>
+              - Researched the properties and applications of plasmonics; led to a <a href="http://bit.ly/PT8ftW" class="print">published paper</a>
               - Practiced photolithography using high powered lasers and silicon wafers
 
   - title: INTERESTS
