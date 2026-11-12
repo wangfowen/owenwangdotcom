@@ -1,0 +1,68 @@
+---
+/**
+ * Standalone checklist page meant to be iframed into a post (see lean-traveling).
+ * It tells the parent page its height so the iframe can size itself.
+ */
+import '../styles/global.css';
+interface Props {
+  id: string;
+  title: string;
+  items: string[];
+}
+const { id, title, items } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>{title}</title>
+  </head>
+  <body data-id={id}>
+    <form id="checklist">
+      {
+        items.map((item) => (
+          <label>
+            <input type="checkbox" />
+            <span>{item}</span>
+          </label>
+        ))
+      }
+    </form>
+    <script is:inline>
+      addEventListener('load', () => {
+        try {
+          parent.resizeIframe(document.getElementById('checklist').scrollHeight, document.body.dataset.id);
+        } catch {}
+      });
+    </script>
+  </body>
+</html>
+
+<style>
+  body {
+    background: transparent;
+    font-family: var(--sans);
+    font-size: 1rem;
+  }
+  label {
+    display: flex;
+    gap: 0.6rem;
+    align-items: baseline;
+    cursor: pointer;
+    line-height: 1.5;
+    padding: 0.15rem 0;
+  }
+  input {
+    accent-color: #23a127;
+  }
+  span {
+    color: #d62728;
+  }
+  input:checked + span {
+    color: #23a127;
+    text-decoration: line-through;
+  }
+</style>

@@ -1,0 +1,316 @@
+@import '@fontsource-variable/newsreader/opsz.css';
+@import '@fontsource-variable/newsreader/opsz-italic.css';
+@import '@fontsource-variable/inter';
+
+:root {
+  --serif: 'Newsreader Variable', Georgia, 'Times New Roman', serif;
+  --sans: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* The original owenwang.com palette: blue page, off-white paper. */
+  --page: #367ca9; /* blue page background */
+  --on-page: #e7eaed; /* text on the blue */
+  --bg: #e7eaed; /* paper: the content sheet */
+  --surface: #f2f4f6; /* raised things on the paper */
+  --heading: #222;
+  --text: #444;
+  --muted: #5f666d;
+  --faint: #8a9198;
+  --rule: #cfd5db;
+  --accent: #367ca9; /* links */
+  --accent-hover: #102632;
+  --accent-soft: #d2e4f1;
+  --darkest: #102632;
+  --shadow: 0 1px 2px rgb(16 38 50 / 0.08), 0 4px 16px rgb(16 38 50 / 0.1);
+
+  --measure: 650px; /* the original blog column width */
+  --wide: 72rem;
+  --gutter: clamp(1rem, 4vw, 2rem);
+  --radius: 5px;
+
+  color-scheme: light;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 1.1875rem;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+img,
+video,
+iframe {
+  max-width: 100%;
+}
+/* Responsive by default — except older post images that carry only a height="…" attribute,
+   which the original site honoured as their display size (see .prose img[height] below). */
+img:not([height]),
+img[width][height] {
+  height: auto;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+a:hover {
+  color: var(--accent-hover);
+  text-decoration-thickness: 2px;
+}
+
+/* The off-white sheet that holds each page's content, on the blue background. */
+.sheet {
+  --sheet-w: calc(var(--measure) + 2 * var(--sheet-pad));
+  --sheet-pad: clamp(1.25rem, 5vw, 3.5rem);
+  width: min(100% - 2 * var(--gutter), var(--sheet-w));
+  margin-inline: auto;
+  padding: var(--sheet-pad);
+  background: var(--bg);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 24px rgb(16 38 50 / 0.25);
+}
+.sheet.wide {
+  --sheet-w: calc(var(--wide) + 2 * var(--sheet-pad));
+}
+.sheet .container,
+.sheet .container.wide {
+  width: 100%;
+}
+.sheet > :first-child > :first-child {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--heading);
+  line-height: 1.2;
+  font-weight: 600;
+  text-wrap: balance;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.container {
+  width: min(100% - 2 * var(--gutter), var(--measure));
+  margin-inline: auto;
+}
+.container.wide {
+  width: min(100% - 2 * var(--gutter), var(--wide));
+}
+
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media print {
+  :root {
+    --page: #fff;
+    --bg: #fff;
+    --text: #000;
+  }
+  .site-header,
+  .site-footer {
+    display: none !important;
+  }
+  .sheet {
+    width: auto;
+    padding: 0;
+    box-shadow: none;
+  }
+}
+
+/* ---------- Long-form prose (blog, food, travel bodies) ---------- */
+.prose > * + * {
+  margin-top: 1.1em;
+}
+.prose p,
+.prose ul,
+.prose ol,
+.prose blockquote {
+  margin-block: 0;
+}
+.prose * + p,
+.prose * + ul,
+.prose * + ol,
+.prose * + blockquote {
+  margin-top: 1.1em;
+}
+.prose h2 {
+  font-size: 1.5rem;
+  margin: 2em 0 0.4em;
+}
+.prose h3 {
+  font-size: 1.2rem;
+  margin: 1.6em 0 0.3em;
+}
+.prose li + li {
+  margin-top: 0.35em;
+}
+.prose blockquote {
+  border-left: 3px solid var(--accent);
+  padding-left: 1em;
+  color: var(--muted);
+  font-style: italic;
+}
+.prose hr {
+  border: 0;
+  border-top: 1px solid var(--rule);
+  margin: 2.5em 0;
+}
+.prose code {
+  font-size: 0.85em;
+  background: var(--accent-soft);
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+.prose pre {
+  font-size: 0.85rem;
+  padding: 1rem;
+  border-radius: var(--radius);
+  overflow-x: auto;
+}
+.prose pre code {
+  background: none;
+  padding: 0;
+}
+.prose img {
+  display: block;
+  margin-inline: auto;
+  max-width: 100%;
+}
+/* height="400" etc. sets the size, as on the original site; never distort if the column is narrower. */
+.prose img[height]:not([width]) {
+  width: auto;
+  object-fit: contain;
+}
+@media (max-width: 40rem) {
+  .prose img[height]:not([width]) {
+    height: auto;
+  }
+}
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+.prose th,
+.prose td {
+  padding: 0.4em 0.6em;
+  border-bottom: 1px solid var(--rule);
+  text-align: left;
+}
+
+/* Figures: produced by <Figure> and by the old {% image %} tag. */
+.prose figure {
+  margin: 2em 0;
+}
+.prose figure img {
+  margin-inline: auto;
+}
+.prose figcaption,
+.prose .caption {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 0.6em;
+}
+.prose figure.full,
+.prose .bleed {
+  width: min(100vw - 2 * var(--gutter), var(--wide));
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Side-by-side images: <Row> and legacy <div class="row">. Images keep their own size
+   (height="…" / width="…"), spread evenly and wrapping, as on the original site. */
+.prose .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  column-gap: 0.75rem;
+}
+.prose .row img {
+  margin: 10px 0;
+}
+.prose .row > figure {
+  flex: 1 1 14rem;
+  margin: 10px 0;
+  min-width: 0;
+}
+
+/* Asides: <Callout> and legacy <div class="box">. */
+.prose .box,
+.prose .callout {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.1em 1.3em;
+  font-size: 0.95em;
+}
+.prose .box .bold,
+.prose .callout-title {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+.prose .bold {
+  font-weight: 600;
+}
+
+/* Responsive 16:9 embeds: <YouTube> and legacy .video. */
+.video {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  margin: 2em 0;
+}
+.video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: var(--radius);
+}
+
+/* Checklist iframes in older posts. */
+.prose iframe.iframe {
+  border: none;
+  width: 100%;
+}

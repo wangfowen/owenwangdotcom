@@ -1,0 +1,18 @@
+---
+/**
+ * A boxed aside for tangents readers can skip.
+ *
+ *   <Callout title="Info on how businesses use WeChat">
+ *     Markdown **works** in here.
+ *   </Callout>
+ */
+interface Props {
+  title?: string;
+}
+const { title } = Astro.props;
+---
+
+<aside class="callout">
+  {title && <p class="callout-title">{title}</p>}
+  <slot />
+</aside>

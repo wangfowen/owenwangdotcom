@@ -1,0 +1,69 @@
+---
+interface Link {
+  href: string;
+  title: string;
+  kicker?: string;
+}
+interface Props {
+  older?: Link;
+  newer?: Link;
+}
+const { older, newer } = Astro.props;
+---
+
+{
+  (older || newer) && (
+    <nav class="post-nav" aria-label="More posts">
+      {older ? (
+        <a class="older" href={older.href}>
+          <span class="eyebrow">← {older.kicker ?? 'Older'}</span>
+          <span class="t">{older.title}</span>
+        </a>
+      ) : (
+        <span />
+      )}
+      {newer && (
+        <a class="newer" href={newer.href}>
+          <span class="eyebrow">{newer.kicker ?? 'Newer'} →</span>
+          <span class="t">{newer.title}</span>
+        </a>
+      )}
+    </nav>
+  )
+}
+
+<style>
+  .post-nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--rule);
+  }
+  a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    text-decoration: none;
+    color: var(--text);
+  }
+  a:hover .t {
+    color: var(--accent);
+  }
+  .newer {
+    text-align: right;
+  }
+  .t {
+    font-size: 1.05rem;
+    line-height: 1.3;
+  }
+  @media (max-width: 30rem) {
+    .post-nav {
+      grid-template-columns: 1fr;
+    }
+    .newer {
+      text-align: left;
+    }
+  }
+</style>

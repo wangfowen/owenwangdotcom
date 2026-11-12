@@ -1,0 +1,22 @@
+---
+import { render } from 'astro:content';
+import Post from '../../layouts/Post.astro';
+import { getPosts, neighbours } from '../../lib/posts';
+import { mdxComponents } from '../../components/mdx';
+
+export async function getStaticPaths() {
+  const posts = await getPosts('food');
+  return posts.map((post) => {
+    const { older, newer } = neighbours(posts, post.id);
+    const link = (p?: typeof post) => p && { href: `/food/${p.id}`, title: p.data.title };
+    return { params: { slug: post.id }, props: { post, older: link(older), newer: link(newer) } };
+  });
+}
+
+const { post, older, newer } = Astro.props;
+const { Content } = await render(post);
+---
+
+<Post section="food" {...post.data} hero={post.data.image} older={older} newer={newer}>
+  <Content components={mdxComponents} />
+</Post>

@@ -1,0 +1,175 @@
+---
+import type { MapPoint } from '../lib/travel';
+
+interface Props {
+  points: MapPoint[];
+  /** Highlight a single stop (post pages). */
+  focus?: string;
+  height?: string;
+}
+const { points, focus, height = 'clamp(18rem, 55vh, 32rem)' } = Astro.props;
+---
+
+<div class="travel-map" data-points={JSON.stringify(points)} data-focus={focus} style={`--map-h: ${height}`}>
+  <noscript><p>The map needs JavaScript.</p></noscript>
+</div>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  type Point = {
+    id: string;
+    n: number;
+    food: string;
+    place: string;
+    city: string;
+    country: string;
+    lat: number;
+    lng: number;
+    thumb: string;
+  };
+
+  const esc = (s: string) =>
+    s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+
+  for (const el of document.querySelectorAll<HTMLElement>('.travel-map')) {
+    const points: Point[] = JSON.parse(el.dataset.points!);
+    const focus = el.dataset.focus;
+    const map = L.map(el, { scrollWheelZoom: false, worldCopyJump: true, zoomSnap: 0.25 });
+    // Free OpenStreetMap tiles (no API key). Muted with a CSS filter below.
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      maxZoom: 18,
+    }).addTo(map);
+
+    // The route, in trip order.
+    L.polyline(
+      points.map((p) => [p.lat, p.lng] as [number, number]),
+      { className: 'route', weight: 2, dashArray: '4 6', interactive: false },
+    ).addTo(map);
+
+    const markers = new Map<string, L.Marker>();
+    for (const p of points) {
+      const icon = L.divIcon({
+        className: 'stop-pin' + (p.id === focus ? ' is-focus' : ''),
+        html: `<span>${p.n}</span>`,
+        iconSize: [26, 26],
+        iconAnchor: [13, 13],
+      });
+      const m = L.marker([p.lat, p.lng], { icon, title: `${p.n}. ${p.food}`, riseOnHover: true, zIndexOffset: p.id === focus ? 1000 : 0 })
+        .addTo(map)
+        .bindPopup(
+          `<a class="stop-popup" href="/travel/${p.id}">
+             <img src="${p.thumb}" alt="" width="120" height="150" loading="lazy" />
+             <span><small>No. ${p.n} · ${esc(p.city)}</small><strong>${esc(p.food)}</strong>${esc(p.place)}</span>
+           </a>`,
+          { closeButton: false, minWidth: 220 },
+        );
+      markers.set(p.id, m);
+    }
+
+    const fitAll = (subset = points) =>
+      map.fitBounds(L.latLngBounds(subset.map((p) => [p.lat, p.lng] as [number, number])), { padding: [30, 30], maxZoom: 9 });
+
+    if (focus && markers.has(focus)) {
+      map.setView(markers.get(focus)!.getLatLng(), 6);
+    } else {
+      fitAll();
+    }
+
+    // Let the page filter the map: dispatch `travel:filter` with { country } (or null for all).
+    document.addEventListener('travel:filter', (e) => {
+      const country = (e as CustomEvent<{ country: string | null }>).detail.country;
+      const subset = country ? points.filter((p) => p.country === country) : points;
+      if (subset.length) fitAll(subset);
+    });
+
+    // /travel/#some-stop opens that stop's popup.
+    const fromHash = () => {
+      const id = decodeURIComponent(location.hash.slice(1));
+      const m = markers.get(id);
+      if (m) {
+        map.setView(m.getLatLng(), 7);
+        m.openPopup();
+      }
+    };
+    if (!focus) {
+      fromHash();
+      addEventListener('hashchange', fromHash);
+    }
+  }
+</script>
+
+<style>
+  .travel-map {
+    height: var(--map-h);
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--rule);
+    background: var(--surface);
+    z-index: 0;
+  }
+  .travel-map :global(.leaflet-tile-pane) {
+    filter: grayscale(0.85) contrast(0.9) brightness(1.05);
+  }
+  .travel-map :global(.route) {
+    stroke: var(--accent);
+    opacity: 0.7;
+  }
+  .travel-map :global(.stop-pin) {
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 2px solid var(--accent);
+    color: var(--accent);
+    font: 600 11px/1 var(--sans);
+    box-shadow: var(--shadow);
+  }
+  .travel-map :global(.stop-pin.is-focus),
+  .travel-map :global(.stop-pin:hover) {
+    background: var(--accent);
+    color: var(--surface);
+  }
+  .travel-map :global(.leaflet-popup-content-wrapper),
+  .travel-map :global(.leaflet-popup-tip) {
+    background: var(--surface);
+    color: var(--text);
+  }
+  .travel-map :global(.leaflet-popup-content) {
+    margin: 10px;
+  }
+  .travel-map :global(.stop-popup) {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+    color: var(--text);
+    font: 13px/1.35 var(--sans);
+  }
+  .travel-map :global(.stop-popup img) {
+    width: 60px;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+  .travel-map :global(.stop-popup span) {
+    display: flex;
+    flex-direction: column;
+  }
+  .travel-map :global(.stop-popup small) {
+    color: var(--muted);
+  }
+  .travel-map :global(.stop-popup strong) {
+    font: 600 16px/1.2 var(--serif);
+    color: var(--accent);
+  }
+  .travel-map :global(.leaflet-control-attribution) {
+    background: color-mix(in srgb, var(--surface) 80%, transparent);
+    color: var(--muted);
+  }
+  .travel-map :global(.leaflet-control-attribution a) {
+    color: var(--muted);
+  }
+</style>

@@ -1,19 +1,26 @@
-Setup:
+# owenwang.com
+
+Astro site, deployed on Netlify (free tier) from `master`.
 
 ```
-rbenv install 
-gem install bundler
-bundle
+npm install
+npm run dev        # http://localhost:4321 — drafts are visible here
+npm run build      # production build into dist/
+npm run preview    # serve dist/
 ```
 
-Run:
+## Writing a post
 
 ```
-jekyll serve -w
+npm run new -- "Title of Post"            # blog (default)
+npm run new -- "Dish Name" food
+npm run new -- "Dish Name" travel
 ```
 
-New post:
+This creates `src/content/<section>/YYYY-MM-DD-slug.mdx` with `draft: true`. Remove `draft` (or set it
+to `false`) to publish. The URL is `/<section>/<slug>`.
 
-```
-ruby _new_post.rb "Title of Post"
-```
+In `.mdx` posts these components work without importing:
+`<Figure>`, `<Row>`, `<Callout>`, `<YouTube>` (see `src/components/`). To add your own, create an
+`.astro` component and register it in `src/components/mdx.ts`. Put a post's images in
+`src/content/<section>/images/` and import them for automatic resizing, or use paths under `public/`.

@@ -1,0 +1,13 @@
+# cheff's table menus, newest first is not required — the page sorts by date.
+- title: "20s dishes made healthy"
+  date: 2022-05-08
+  image: /cheff/images/health.png
+  link: https://www.instagram.com/p/CdXD1A2roep/
+- title: "we are what we eat"
+  date: 2023-05-14
+  image: /cheff/images/climate.png
+  link: /blog/we-are-what-we-eat
+- title: "aquatic"
+  date: 2024-04-28
+  image: /cheff/images/seafood.jpeg
+  link: https://www.instagram.com/p/C6fIOF0PNhY/

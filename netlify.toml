@@ -1,0 +1,47 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# The old Jekyll sitemap lived at /sitemap.xml; Astro writes a sitemap index.
+[[redirects]]
+  from = "/sitemap.xml"
+  to = "/sitemap-index.xml"
+  status = 301
+
+# cheff's table menu entries were link-only stubs; send them where they pointed.
+[[redirects]]
+  from = "/cheff/menu/health"
+  to = "https://www.instagram.com/p/CdXD1A2roep/"
+  status = 301
+[[redirects]]
+  from = "/cheff/menu/climate"
+  to = "/blog/we-are-what-we-eat"
+  status = 301
+[[redirects]]
+  from = "/cheff/menu/seafood"
+  to = "https://www.instagram.com/p/C6fIOF0PNhY/"
+  status = 301
+
+# Drafts and retired posts were accidentally public on the Jekyll site. They now live in
+# src/content with `draft: true` (visible only in `npm run dev`).
+[[redirects]]
+  from = "/travel/drafts/*"
+  to = "/travel/"
+  status = 301
+[[redirects]]
+  from = "/blog/draft/*"
+  to = "/blog/"
+  status = 301
+[[redirects]]
+  from = "/blog/removed/*"
+  to = "/blog/"
+  status = 301
+
+# Posts moved back to drafts.
+[[redirects]]
+  from = "/blog/engagement"
+  to = "/blog/"
+  status = 301

@@ -1,0 +1,167 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base title="CS488 Final Project" description="A description of the objectives I completed for my Computer Graphics course's final project">
+  <article class="container graphics">
+    <h1>Bob-omb Raytracing</h1>
+    
+    <p style="font-style: italic">This is a description of the objectives I completed for my CS 488 Computer Graphics final project. The end goal was to replicate the following image:</p>
+    
+    <img src="/graphics/final-scene.jpg" />
+    
+    <h2>Objective 1: Additional primitives</h2>
+    
+    <img src="/graphics/primitives.png" />
+    
+    <h2>Objective 2: Constructive solid geometry</h2>
+    
+    <div class="smaller">
+    <img src="/graphics/csg.png" />
+    </div>
+    
+    <p>These objects are constructive solid geometry of a cylinder with a sphere. The top row is union, the second is intersection, and the bottom two are differences.</p>
+    
+    <h2>Objective 3: Bob-omb modeled</h2>
+    
+    <img src="/graphics/model.png"/>
+    
+    <p>The models were made using a combination of the primitives with constructive solid geometry.</p>
+    
+    <ul>
+      <li>The eyes are toruses unioned with the main body</li>
+    
+      <li>The beige fuse is a torus with cubes differenced to cut off parts of it</li>
+    
+      <li>The grey blasting cap is a cylinder intersected with a cone, differenced with another cylinder at the top of the cone</li>
+    
+      <li>The wind up key is two cylinders unioned with a cube, with two smaller cylinders differenced inside</li>
+    
+      <li>The feet are toruses differenced with cubes</li>
+    </ul>
+    
+    <h2>Objective 3, 4, 7: Texture mapping, reflection</h2>
+    
+    <p>The other half of objective 3 was modeling the tree seen in the reflection. Since a polygonal mesh of a tree would be too costly, I did it by texture mapping a planar mesh and putting it behind the camera in a way that didn't block the light source / cast shadows. The effect didn't turn out as well as I hoped, so it is not included in my final render.</p>
+    
+    <div class="comparison">
+      <img src="/graphics/texture-back.png" />
+      <img src="/graphics/texture-reflect.png" />
+    </div>
+    
+    <h2>Objective 5: Anti-aliasing</h2>
+    
+    <p>I implemented anti-aliasing with 3x3 regular supersampling (image on the right). The left is the original for comparison.</p>
+    
+    <div class="comparison">
+      <img src="/graphics/nonhier-before.png" />
+      <img src="/graphics/nonhier-aa.png" />
+    </div>
+    
+    <h2>Objective 6: Soft shadows</h2>
+    
+    <p>Soft shadows were done through distributed ray tracing with 36 stochastic rays.</p>
+    
+    <div class="comparison">
+      <img src="/graphics/nonhier-before.png" />
+      <img src="/graphics/nonhier-ss.png" />
+    </div>
+    
+    <h2>Objective 7: Reflection</h2>
+    
+    <div class="comparison">
+      <img src="/graphics/nonhier-before.png" />
+      <img src="/graphics/nonhier-reflect.png" />
+    </div>
+    
+    <h2>Objective 8: Glossy reflection</h2>
+    
+    <p>Glossy reflection was also achieved with distributed ray tracing using 36 rays. The perturbations were randomly distributed along a probability density function.</p>
+    <div class="comparison">
+      <img src="/graphics/nonhier-before.png" />
+      <img src="/graphics/nonhier-gloss.png" />
+    </div>
+    
+    <h2>Objective 10: Final scene</h2>
+    
+    <p>Combining everything, below is my rendering of the scene. Total render time: 5 hours 48 minutes, multithreaded on 4 cores.</p>
+    
+    <img src="/graphics/scene.png" />
+    
+    <h2>Extra Objective: Multi-threading</h2>
+    
+    <img src="/graphics/macho-cows.png" />
+    
+    <p>Since I wasn't able to implement grid partitioning (objective 9), I instead implemented multithreading to accelerate my raytracing. Below is a graph comparing the time it took to render the macho-cows image with anti-aliasing turned on for differing numbers of threads.</p>
+    
+    <div id="graph"></div>
+  </article>
+
+  <script is:inline src="/js/jquery-1.7.2.min.js"></script>
+  <script is:inline src="/graphics/highcharts.js"></script>
+  <script is:inline>
+    $(function () {
+      $('#graph').highcharts({
+          title: {
+              text: 'Render Time vs Number of Threads',
+              x: -20 //center
+          },
+          xAxis: {
+              title: {
+                  text: 'Threads (#)'
+              }
+          },
+          yAxis: {
+              title: {
+                  text: 'Render Time (s)'
+              },
+              min: 0
+          },
+          tooltip: {
+              headerFormat: "",
+              pointFormat: "{point.x} threads: {point.y} s"
+          },
+          series: [{
+              name: 'Render Time',
+              data: [[1, 978], [2, 518], [3, 600], [4, 508], [5, 373], [6, 414], [7, 398], [8, 346]]
+          }]
+      });
+    });
+  </script>
+</Base>
+
+<style>
+  .graphics {
+    margin-top: 0;
+  }
+  .graphics :global(h1) {
+    font-size: clamp(2rem, 5vw, 2.75rem);
+  }
+  .graphics :global(h2) {
+    font-size: 1.4rem;
+    padding-top: 1.5rem;
+  }
+  .graphics :global(img) {
+    display: block;
+    max-width: 80%;
+    margin: 15px auto;
+    border-radius: 6px;
+  }
+  .graphics :global(.comparison) {
+    display: flex;
+    gap: 2%;
+  }
+  .graphics :global(.comparison img) {
+    max-width: 49%;
+    margin: 0;
+  }
+  .graphics :global(.smaller img) {
+    max-width: 40%;
+  }
+  .graphics :global(#graph) {
+    margin-top: 2rem;
+    background: #fff;
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+</style>

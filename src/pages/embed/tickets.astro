@@ -1,0 +1,11 @@
+---
+import Checklist from '../../components/Checklist.astro';
+const items = [
+    "Right day",
+    "Right time, am/pm",
+    "Right direction (to -> from)",
+    "Right place (not something similarly named)",
+];
+---
+
+<Checklist id="tickets" title="Tickets" items={items} />

@@ -1,0 +1,88 @@
+---
+import Base from '../../layouts/Base.astro';
+import PhotoCard from '../../components/PhotoCard.astro';
+import { getPosts, formatDate } from '../../lib/posts';
+import { SECTIONS } from '../../site';
+
+const s = SECTIONS.food;
+const posts = await getPosts('food');
+const best = posts.filter((p) => p.data.featured);
+---
+
+<Base width="wide" title={s.title} description={s.description} section="food" feed={{ title: s.title, href: s.feed }}>
+  <div class="container wide">
+    <header class="page-header">
+      <h1>{s.title}</h1>
+      <p>
+        {s.description}<br />
+        <a href="https://twitter.com/wang" target="_blank" rel="noopener">DM me</a> if you want more details on any of
+        these.
+      </p>
+    </header>
+
+    {
+      best.length > 0 && (
+        <section>
+          <h2 class="eyebrow">Best of</h2>
+          <div class="grid best">
+            {best.map((p) => (
+              <PhotoCard href={`/food/${p.id}`} image={p.data.image} title={p.data.title} large />
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <section>
+      <h2 class="eyebrow">All {posts.length} dishes</h2>
+      <div class="grid">
+        {
+          posts.map((p) => (
+            <PhotoCard
+              href={`/food/${p.id}`}
+              image={p.data.image}
+              title={p.data.title}
+              subtitle={formatDate(p.data.date, { month: 'short', year: 'numeric' })}
+            />
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .page-header {
+    max-width: 40rem;
+    margin: 0 0 3rem;
+  }
+  .page-header h1 {
+    font-size: clamp(2.25rem, 6vw, 3.25rem);
+    letter-spacing: -0.02em;
+    margin: 0 0 0.75rem;
+  }
+  .page-header p {
+    color: var(--muted);
+    margin: 0;
+  }
+  section + section {
+    margin-top: 4rem;
+  }
+  h2 {
+    margin: 0 0 1.25rem;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
+    gap: 2rem 1.25rem;
+  }
+  .grid.best {
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+  }
+  @media (max-width: 30rem) {
+    .grid:not(.best) {
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem 0.75rem;
+    }
+  }
+</style>

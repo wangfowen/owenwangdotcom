@@ -1,0 +1,235 @@
+---
+import { render } from 'astro:content';
+import { Image } from 'astro:assets';
+import Base from '../../layouts/Base.astro';
+import TravelMap from '../../components/TravelMap.astro';
+import { getStops, mapPoints, placeLine, type Stop } from '../../lib/travel';
+import { formatDate } from '../../lib/posts';
+import { mdxComponents } from '../../components/mdx';
+import { SECTIONS } from '../../site';
+
+export async function getStaticPaths() {
+  const stops = await getStops();
+  const points = await mapPoints(stops);
+  return stops.map((stop, i) => ({
+    params: { slug: stop.id },
+    props: { stop, prev: stops[i - 1], next: stops[i + 1], total: stops.length, points },
+  }));
+}
+
+interface Props {
+  stop: Stop;
+  prev?: Stop;
+  next?: Stop;
+  total: number;
+  points: Awaited<ReturnType<typeof mapPoints>>;
+}
+const { stop, prev, next, total, points } = Astro.props;
+const { data } = stop;
+const { Content } = await render(stop);
+const s = SECTIONS.travel;
+const title = `${data.food} · ${data.place}`;
+---
+
+<Base width="wide" title={title} description={`${data.food} at ${data.place}, ${data.city}. ${s.title}.`} section="travel" feed={{ title: s.title, href: s.feed }} image={data.image.src}>
+  <article>
+    <div class="container wide top">
+      <div class="photo">
+        <Image src={data.image} alt={`${data.food} at ${data.place}`} widths={[480, 800, 1200, 1600]} sizes="(min-width: 60rem) 36rem, 100vw" loading="eager" />
+      </div>
+      <header class="intro">
+        <a class="eyebrow back" href="/travel/">{s.title}</a>
+        <p class="stop-no">No. {stop.n} <span>of {total}</span></p>
+        <h1>{data.food}</h1>
+        <p class="where">
+          {data.place}<span>{data.place.toLowerCase() === data.city.toLowerCase() ? '' : ` · ${data.city}`}, {data.country}</span>
+        </p>
+        <p class="meta">
+          <time datetime={data.date.toISOString()}>{formatDate(data.date)}</time>
+          {data.draft && <span class="draft">Draft</span>}
+        </p>
+        <div class="prose">
+          <Content components={mdxComponents} />
+        </div>
+      </header>
+    </div>
+
+    <div class="container wide">
+      <section class="where-map" aria-label="Where this was">
+        <TravelMap points={points} focus={stop.id} height="18rem" />
+      </section>
+
+      <nav class="stops" aria-label="Previous and next stop">
+        {
+          prev ? (
+            <a href={`/travel/${prev.id}`} class="stop prev">
+              <Image src={prev.data.image} alt="" width={160} height={200} />
+              <span>
+                <span class="eyebrow">← Previous stop · No. {prev.n}</span>
+                <strong>{prev.data.food}</strong>
+                <span class="sub">{placeLine(prev.data)}</span>
+              </span>
+            </a>
+          ) : (
+            <span />
+          )
+        }
+        {
+          next && (
+            <a href={`/travel/${next.id}`} class="stop next">
+              <span>
+                <span class="eyebrow">Next stop · No. {next.n} →</span>
+                <strong>{next.data.food}</strong>
+                <span class="sub">{placeLine(next.data)}</span>
+              </span>
+              <Image src={next.data.image} alt="" width={160} height={200} />
+            </a>
+          )
+        }
+      </nav>
+
+    </div>
+  </article>
+</Base>
+
+<style>
+  .top {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: clamp(1.5rem, 4vw, 4rem);
+    align-items: start;
+    margin-top: 0;
+  }
+  .photo {
+    position: sticky;
+    top: 1.5rem;
+  }
+  .photo :global(img) {
+    width: 100%;
+    height: auto;
+    max-height: calc(100vh - 3rem);
+    object-fit: contain;
+    object-position: top;
+    border-radius: var(--radius);
+  }
+  .back {
+    text-decoration: none;
+  }
+  .back:hover {
+    color: var(--accent);
+  }
+  .stop-no {
+    margin: 1.75rem 0 0;
+    font: 600 0.9rem var(--sans);
+    color: var(--accent);
+    letter-spacing: 0.02em;
+  }
+  .stop-no span {
+    color: var(--faint);
+    font-weight: 500;
+  }
+  h1 {
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    letter-spacing: -0.02em;
+    margin: 0.25rem 0 0.4rem;
+  }
+  .where {
+    font-size: 1.3rem;
+    font-style: italic;
+    margin: 0;
+  }
+  .where span {
+    color: var(--muted);
+  }
+  .meta {
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0.5rem 0 2rem;
+  }
+  .draft {
+    margin-left: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  /* The "Place: …" / "Food: …" headings inside each post. */
+  .prose :global(h2) {
+    font: 600 0.75rem var(--sans);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 2rem 0 0.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--rule);
+  }
+  .prose :global(h2:first-child) {
+    margin-top: 0;
+  }
+
+  .where-map {
+    margin-top: 4rem;
+  }
+  .stops {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .stop {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem;
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    background: var(--surface);
+    color: var(--text);
+    text-decoration: none;
+  }
+  .stop.next {
+    justify-content: flex-end;
+    text-align: right;
+  }
+  .stop :global(img) {
+    width: 64px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex: none;
+  }
+  .stop > span {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .stop strong {
+    font-size: 1.15rem;
+    line-height: 1.2;
+  }
+  .stop:hover strong {
+    color: var(--accent);
+  }
+  .sub {
+    font-family: var(--sans);
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  @media (max-width: 52rem) {
+    .top {
+      grid-template-columns: 1fr;
+    }
+    .photo {
+      position: static;
+    }
+    .photo :global(img) {
+      max-height: 75vh;
+    }
+    .stops {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

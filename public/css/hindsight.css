@@ -1,0 +1,131 @@
+/* Legacy styles for the Hindsight collage posts (compiled from LESS). */
+.noscroll {
+  overflow: hidden;
+}
+#collage-container {
+  margin: auto;
+}
+#collage-container .item {
+  width: 32%;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+#collage-container .item .img {
+  width: 100%;
+  height: 100%;
+}
+#collage-container .item .desc {
+  position: absolute;
+  bottom: 0;
+  height: 48px;
+  width: 100%;
+  padding: 10px 15px;
+  margin: 0;
+  color: #FCFDFE;
+  font-size: 12px;
+  background: #222;
+  opacity: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+#overlay #content img,
+#overlay #content .video {
+  margin: 0px auto 20px;
+  display: block;
+  max-width: 100%;
+}
+#overlay #content p {
+  margin: auto;
+}
+#overlay #content .month {
+  font-style: italic;
+}
+@media only screen and (max-width: 599px) {
+  .item {
+    width: 47% !important;
+  }
+  .noscroll {
+    position: fixed;
+  }
+  #overlay #content {
+    height: 100%;
+  }
+  #overlay #content img,
+  #overlay #content .video {
+    margin: 0px auto 10px !important;
+  }
+}
+#overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: auto;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+#overlay #content {
+  margin: auto;
+  padding: 40px 40px 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: block;
+  background: #e7eaed;
+  width: 75%;
+  overflow: auto;
+  font-size: 18px;
+  line-height: 1.7em;
+}
+#overlay #close {
+  top: 0;
+  right: 0;
+  font-size: 40px;
+  line-height: 0.5;
+}
+#overlay #close,
+#overlay .arrow {
+  position: fixed;
+  cursor: pointer;
+  opacity: 0.4;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+#overlay .arrow {
+  font-size: 60px;
+  top: 50%;
+  margin-top: -50px;
+}
+#overlay .arrow#right {
+  right: 0;
+}
+#overlay #close:hover,
+#overlay .arrow:hover {
+  color: #e7eaed;
+}
+@media only screen and (max-width: 599px) {
+  #close {
+    font-size: 26px !important;
+  }
+  .arrow {
+    font-size: 30px !important;
+  }
+  #close,
+  .arrow,
+  #close:hover,
+  .arrow:hover {
+    color: #222 !important;
+  }
+  #overlay #content {
+    padding: 20px 20px 0 !important;
+    margin: 0;
+    height: inherit;
+    width: inherit;
+  }
+}

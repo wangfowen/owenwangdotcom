@@ -1,0 +1,110 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../site';
+
+const links = [
+  { href: '/blog/', title: 'O Musing Myself', blurb: 'Usually life and tech learnings' },
+  { href: 'https://medium.com/the-w-letters', title: 'The W Letters', blurb: 'Letters across distances physical and perceived', external: true },
+  { href: '/travel/', title: 'In Place, Of Food', blurb: 'A travelogue of sorts' },
+];
+---
+
+<Base
+  bare
+  title={SITE.name}
+  description="Hi, I'm Owen Wang! Welcome to my website. Here you'll find my writing on life, tech , food, travel, and other random thoughts"
+  image="/assets/profile.jpg"
+  feed={{ title: 'O Musing Myself', href: '/feed.xml' }}
+>
+  <div class="home">
+    <h1>Hi, I'm Owen Wang</h1>
+    <img class="portrait" src="/assets/profile.jpg" width="581" height="388" alt="Owen Wang" />
+
+    <h2>Writing:</h2>
+    <ul class="links">
+      {
+        links.map((l) => (
+          <li>
+            <a href={l.href} {...(l.external ? { target: '_blank', rel: 'noopener' } : {})}>
+              <span class="title">
+                {l.title}
+                {l.external && <span aria-hidden="true"> ↗</span>}
+              </span>
+              <span class="blurb">{l.blurb}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Base>
+
+<style>
+  .home {
+    width: min(100% - 2 * var(--gutter), 36rem);
+    margin: clamp(2.5rem, 8vw, 4.5rem) auto 4rem;
+    color: var(--on-page);
+    text-align: center;
+    text-shadow: 0 1px 1px rgb(55 97 122 / 0.5);
+  }
+  h1 {
+    color: var(--on-page);
+    font-size: clamp(2.25rem, 6vw, 3.25rem);
+    letter-spacing: -0.02em;
+    margin: 0 0 2rem;
+  }
+  .portrait {
+    display: block;
+    width: 100%;
+    border: clamp(4px, 1.4vw, 8px) solid var(--on-page);
+    box-shadow: 0 0 16px rgb(0 0 0 / 0.75);
+    transition: transform 0.4s ease;
+  }
+  .portrait:hover {
+    transform: rotate(1deg);
+  }
+  h2 {
+    color: var(--on-page);
+    font-size: 1.4rem;
+    font-weight: 500;
+    margin: 2.5rem 0 1rem;
+  }
+  .links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.75rem;
+    text-align: left;
+  }
+  .links a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    padding: 1rem 1.25rem;
+    border-radius: var(--radius);
+    background: var(--darkest);
+    color: var(--on-page);
+    text-decoration: none;
+    text-shadow: none;
+    transition: background 0.2s ease;
+  }
+  .links a:hover {
+    background: var(--heading);
+  }
+  .title {
+    font-size: 1.3rem;
+    font-weight: 600;
+  }
+  .blurb {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .portrait,
+    .links a {
+      transition: none;
+    }
+  }
+</style>

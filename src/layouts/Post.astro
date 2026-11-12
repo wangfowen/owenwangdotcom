@@ -1,0 +1,108 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import Base from './Base.astro';
+import PostNav from '../components/PostNav.astro';
+import { SECTIONS } from '../site';
+import { formatDate } from '../lib/posts';
+import { responsiveWidths } from '../lib/images';
+
+interface Link {
+  href: string;
+  title: string;
+}
+interface Props {
+  section: 'blog' | 'food';
+  title: string;
+  date: Date;
+  tagline?: string;
+  hero?: ImageMetadata;
+  draft?: boolean;
+  older?: Link;
+  newer?: Link;
+}
+const { section, title, date, tagline, hero, draft, older, newer } = Astro.props;
+const s = SECTIONS[section];
+---
+
+<Base
+  title={title}
+  description={tagline}
+  section={section}
+  feed={{ title: s.title, href: s.feed }}
+  image={hero?.src}
+>
+  <slot name="head" slot="head" />
+  <article class="container">
+    <header class="post-header">
+      <a class="eyebrow" href={`/${section}/`}>{s.title}</a>
+      <h1>{title}</h1>
+      {tagline && <p class="tagline">{tagline}</p>}
+      <p class="meta">
+        <time datetime={date.toISOString()}>{formatDate(date)}</time>
+        {draft && <span class="draft">Draft</span>}
+      </p>
+    </header>
+    {
+      hero && (
+        <Image class="hero" src={hero} alt="" widths={responsiveWidths(hero, [480, 720, 1200])} sizes="(min-width: 650px) 650px, 100vw" loading="eager" />
+      )
+    }
+    <!-- "post" is kept for older interactive posts whose scripts measure .post (e.g. grovember.js). -->
+    <div class:list={['prose post', `${section}-body`]}>
+      <slot />
+    </div>
+    <PostNav older={older} newer={newer} />
+  </article>
+</Base>
+
+<style>
+  .post-header {
+    margin: 0 0 2.5rem;
+  }
+  .post-header .eyebrow {
+    text-decoration: none;
+  }
+  .post-header .eyebrow:hover {
+    color: var(--accent);
+  }
+  h1 {
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    letter-spacing: -0.015em;
+    margin: 0.4rem 0 0.5rem;
+  }
+  .tagline {
+    font-size: 1.25rem;
+    color: var(--muted);
+    font-style: italic;
+    margin: 0 0 0.75rem;
+  }
+  .meta {
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin: 0;
+  }
+  .draft {
+    margin-left: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-weight: 600;
+  }
+  /* Food photos were capped at 400px tall on the original site (cover and in-post).
+     Keep the width/height attributes (no layout shift) and letterbox instead of distorting. */
+  .hero,
+  .food-body :global(img) {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain;
+    margin-inline: auto;
+  }
+  .hero {
+    margin-bottom: 2.5rem;
+  }
+</style>

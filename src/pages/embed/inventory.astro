@@ -1,0 +1,13 @@
+---
+import Checklist from '../../components/Checklist.astro';
+const items = [
+    "Electronics (phone, laptop, camera, battery pack) + chargers",
+    "Wallet",
+    "Documents (passport, tickets)",
+    "Toiletries (toothbrush, toothpaste, soap, razor, nail clippers, towel)",
+    "Clothes (shirts, pants, undergarments, jackets, accessories)",
+    "Other supplies (umbrella, lock, garbage bags, first aid kit)",
+];
+---
+
+<Checklist id="inventory" title="Inventory" items={items} />

@@ -1,0 +1,157 @@
+---
+import '../styles/global.css';
+import { SITE } from '../site';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Absolute or root-relative URL for social previews. */
+  image?: string;
+  /** RSS feed to advertise in <head>. */
+  feed?: { title: string; href: string };
+  /** Which nav item to highlight. */
+  section?: 'blog' | 'food' | 'travel' | 'resume';
+  /** No header/footer and no paper sheet: content sits straight on the blue (home page). */
+  bare?: boolean;
+  /** Width of the off-white sheet the page sits on. */
+  width?: 'narrow' | 'wide';
+}
+
+const { title, description, image, feed, section, bare = false, width = 'narrow' } = Astro.props;
+const canonical = new URL(Astro.url.pathname.replace(/\.html$/, ''), SITE.url);
+const ogImage = image ? new URL(image, SITE.url).toString() : undefined;
+
+const nav = [
+  { key: 'blog', label: 'Writing', href: '/blog/' },
+  { key: 'travel', label: 'Travel', href: '/travel/' },
+] as const;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="author" content={SITE.author} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/assets/icon.ico" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {feed && <link rel="alternate" type="application/rss+xml" title={feed.title} href={feed.href} />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonical} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+
+    <slot name="head" />
+
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaId}`}></script>
+    <script is:inline define:vars={{ gaId: SITE.gaId }}>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', gaId);
+    </script>
+  </head>
+  <body>
+    {
+      !bare && (
+        <header class="site-header">
+          <div class="container wide site-header-inner">
+            <a class="site-name" href="/">
+              Owen Wang
+            </a>
+            <nav aria-label="Main">
+              {nav.map((item) => (
+                <a href={item.href} aria-current={section === item.key ? 'page' : undefined}>
+                  {item.label}
+                </a>
+              ))}
+            </nav>
+          </div>
+        </header>
+      )
+    }
+    <main>
+      {
+        bare ? (
+          <slot />
+        ) : (
+          <div class:list={['sheet', { wide: width === 'wide' }]}>
+            <slot />
+          </div>
+        )
+      }
+    </main>
+    {
+      !bare && (
+        <footer class="site-footer">
+          <div class="container wide">
+            <span>© {new Date().getFullYear()} Owen Wang</span>
+            {feed && <a href={feed.href}>RSS</a>}
+          </div>
+        </footer>
+      )
+    }
+  </body>
+</html>
+
+<style>
+  .site-header {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    color: var(--on-page);
+  }
+  .site-header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding-block: 1.25rem;
+  }
+  .site-name {
+    font-weight: 650;
+    color: var(--on-page);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+  }
+  nav {
+    display: flex;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+  }
+  nav a {
+    color: var(--on-page);
+    opacity: 0.8;
+    text-decoration: none;
+  }
+  nav a:hover,
+  nav a[aria-current='page'] {
+    color: var(--on-page);
+    opacity: 1;
+  }
+  nav a[aria-current='page'] {
+    font-weight: 600;
+  }
+  .site-footer {
+    margin-top: 2rem;
+    font-family: var(--sans);
+    font-size: 0.8rem;
+    color: var(--on-page);
+  }
+  .site-footer .container {
+    display: flex;
+    justify-content: space-between;
+    padding-block: 1.5rem 2.5rem;
+  }
+  .site-footer a {
+    color: var(--on-page);
+  }
+</style>
